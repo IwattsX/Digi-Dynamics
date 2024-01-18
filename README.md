@@ -5,4 +5,11 @@ Database system class with
 - Isaac Watts
 
 # TODO
-- [ ] TBD
+- [ ] Decide On Final Project Plan
+
+# Project Ideas
+- Hotel Booking 
+- Shoes Wesbite
+- Airline Flight
+- Steam Game Markets
+- Steam Community Markets
