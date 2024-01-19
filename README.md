@@ -15,6 +15,7 @@ Database system class with
     <th>Name</th>
     <th>DLC</th>
     <th>Microtransations</th>
+    <th>Subsriptions</th>
     <th>Franchise</th>
     <th>Base_price</th>
     <th>Current_Price</th>
@@ -27,6 +28,8 @@ Database system class with
     <th>Release_data</th>
     <th>Top Seller</th>
     <th>ControllerSupport</th>
+    <th>Images</th>
+    <th>Trailers</th>
     <th> *Platform</tr>
     <th> *languages </th>
     <th> *tags </th>
