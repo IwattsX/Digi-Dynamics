@@ -9,7 +9,31 @@ Database system class with
 - [ ] Figure out the schema of steam game market
 
 # Database
-** SCHEMA **
+<b>Schema</b>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>DLC</th>
+    <th>Microtransations</th>
+    <th>Franchise</th>
+    <th>Base_price</th>
+    <th>Current_Price</th>
+    <th>Country</th>
+    <th>Developer </th>
+    <th>Publisher</th>
+    <th>Genre</th>
+    <th>Rating</th>
+    <th>Review</th>
+    <th>Release_data</th>
+    <th>Top Seller</th>
+    <th>ControllerSupport</th>
+    <th> *Platform</tr>
+    <th> *languages </th>
+    <th> *tags </th>
+  </tr>
+</table>
+- Note: Any thing with a * may be an issue
+
 ```
 PrimaryKey: ?
 CompositeKey: ?
