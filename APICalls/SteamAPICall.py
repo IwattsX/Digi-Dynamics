@@ -1,3 +1,7 @@
+# Use a .env file to use this
+# python SteamAPICall.py
+
+# Getting the steam web API : https://steamcommunity.com/dev 
 # Link to API documentation: https://pypi.org/project/python-steam-api/
 # TODO: Figure out how to get API calls inside of a database
 

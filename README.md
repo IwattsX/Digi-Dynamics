@@ -6,6 +6,8 @@ Database system class with
 
 # TODO
 - [x] Decide On Final Project Plan
+- [x] Added a steam web API
+- [ ] Apply steam web API with a database
 - [ ] Figure out the schema of steam game market
 
 # Database
@@ -43,8 +45,4 @@ CompositeKey: ?
 ForeignKey: ?
 ```
 # Project Ideas
-- Hotel Booking 
-- Shoes Wesbite
-- Airline Flight
 - [x] Steam Game Market
-- Steam Community Markets
