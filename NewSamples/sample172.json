@@ -1,0 +1,182 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">WorldMaker</h2><br>WorldMaker is a tool for creative users that allows you to create photorealistic 3D Worlds using drag-and-drop controls. Transfer ideas directly from your head to a 3D World within WorldMaker in seconds. Utilize our streamlined UI and our library of 1400 curated objects to enable you to create 3D worlds quickly and efficiently, with graphics powered by next-gen Unreal Engine 5.<h2 class=\"bb_tag\">Build 3D Worlds</h2><br>Creative iteration of a 3D World has never been easier. Create stunning exterior and interior scenes and adjust every detail of your world\u2014including weather, lighting, character animations and poses\u2014as if you are a god with every object of the world as your palette. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/build.gif?t=1668383201\" /><h2 class=\"bb_tag\">Next Gen Graphics, Customizable Lighting and Weather, 3D Text</h2><br>Leverage latest Unreal Engine 5 graphics in our fully customizable weather and lighting system to quickly and drastically change the mood and feel of your World. Create worlds lit with the sun at any time of day. Don't like the sun's natural color? Then set it to blood red to create a hellish environment, or change it to a verdant green to create the sky of another planet. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/weather.gif?t=1668383201\" /><br><br>Add weather effects like snow, rain, and thunder to your worlds with a single click. Add true volumetric clouds to your worlds that react when hit by the sun's light. Sun too bright? Simply increase the cloud cover slider to make it cloudy. Need god rays in your world? Increase the fog slider. <br><br>Want to light your scene with artificial light bulbs? Simply press L and spawn a customizable light bulb at your mouse cursor. <br><br>Add 3D text to your world by pressing T. Adjust its size, kerning, color and make it <i>glow</i>.<h2 class=\"bb_tag\">Poseable and Animated Characters with Physics Enabled</h2><br>Choose from a selection of 30+ physics enabled characters to add into your world. Give them animations from a selection of 800+ animations covering different situations, and give them custom poses to finely adjust every single joint in their bodies. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/animselect2.gif?t=1668383201\" /><h2 class=\"bb_tag\">Photo Mode</h2><br>Access powerful camera controls in Photo Mode to take pictures of your created Worlds with settings similar to a traditional camera. Adjust FOV, Focus Distance and Background Blur to frame your shot. Use Temperature, Exposure, and Saturation sliders to get the exact look you want with your shot, and <i>instantly </i>render your stills at 1K, 2K, or 4K by pressing the screenshot button.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/photomode.gif?t=1668383201\" /><h2 class=\"bb_tag\">Prebuilt Worlds Included</h2><br>Save, Load, and Share your created Worlds, and access the many prebuilt Worlds included in WorldMaker. Every World you see in the Steam screenshots is included in WorldMaker.<h2 class=\"bb_tag\">Frequently Asked Questions</h2><br>Q: Is Steam Workshop support available?<br>A: Workshop support is coming! Eventually we want people to be able to export their own models into WorldMaker and also to be able to share their Worlds to the Steam Workshop.<br><br>Q: Can I Import custom 3D models and use them in WorldMaker?<br>A: Right now, you're limited to the 1400+ objects that're already included with WorldMaker. Implementing importing custom assets and Steam Workshop support is our top priority right now. Eventually we want people to be able to export their own models into WorldMaker and also to be able to share their Worlds to the Steam Workshop.<br><br>Q: Can I export my WorldMaker worlds to other software or engines?<br>A: No. WorldMaker does not export to other software or engines. The Worlds created in WorldMaker are only able to be viewed and edited in WorldMaker.<br><br>Q: How do I make videos with WorldMaker?<br>A: Camera keyframing and video tools isn\u2019t something we have in WorldMaker just yet, however you can get really good results just by manually moving the camera with WASD + mouse and recording with screen recording software. You can adjust the camera movement speed and add gimbal smoothing to smooth your camera movements when in Photo Mode. An example of this is the WorldMaker Steam trailer, every shot you see in the video is done purely inside WorldMaker using mouse movements + screen recording software!<br><br>Q: Which graphics setting has the most impact on FPS in WorldMaker?<br>A: Temporal Super Resolution. Worldmaker utilizes Temporal Super Resolution, an upscaling technology that renders the game at a lower internal resolution and upscales it to a higher output resolution. Similar to DLSS but without the use of an RT graphics card. Changing this slider to a lower value will massively increase performance, while still maintaining near native image quality. Using TSR will not lower the quality of your photos however, as WorldMaker renders at native or a multiple of native resolution when taking photos.<br><br>Q: What are \u201cfloor\u201d and \u201cwall\u201d objects?<br>A: Floor and wall objects are special objects that when resized maintain their texture tiling, i.e. the textures won\u2019t stretch. This is useful for creating walls and floors for interior scenes, or something like a sidewalk or an asphalt road for exterior scenes.<br><br>Q: Why is the starting platform/floor not resizable? Why can\u2019t I delete it?<br>A: You can, but not directly, search &quot;concrete tile floor&quot; in the search bar, drag and drop it, and resize that into however big you want the starting floor. You can\u2019t delete the starting floor, however you can add a \u201cfloor\u201d object that\u2019s way above the starting floor, and enlarge that, to essentially hide the starting floor with a floor object of your choosing!<br><br>Q: How do I undo and redo?<br>A: Undo and Redo functions with ctrl+z is something that we\u2019re looking to add. Undoing and redoing might look simple, but there are numerous programming challenges that come with creating an undo transaction system. And to implement a robust and powerful version of it, requires a lot of testing. We\u2019re working very hard to implement this however.<br><br>Have any questions or would like to see and share community creations? Join us on the WorldMaker Discord and subreddit linked in WorldMaker's store page sidebar.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/page_bg_generated_v6b.jpg?t=1668383201",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/page.bg.jpg?t=1668383201",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/capsule_231x87.jpg?t=1668383201",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/capsule_184x69.jpg?t=1668383201",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">WorldMaker</h2><br>WorldMaker is a tool for creative users that allows you to create photorealistic 3D Worlds using drag-and-drop controls. Transfer ideas directly from your head to a 3D World within WorldMaker in seconds. Utilize our streamlined UI and our library of 1400 curated objects to enable you to create 3D worlds quickly and efficiently, with graphics powered by next-gen Unreal Engine 5.<h2 class=\"bb_tag\">Build 3D Worlds</h2><br>Creative iteration of a 3D World has never been easier. Create stunning exterior and interior scenes and adjust every detail of your world\u2014including weather, lighting, character animations and poses\u2014as if you are a god with every object of the world as your palette. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/build.gif?t=1668383201\" /><h2 class=\"bb_tag\">Next Gen Graphics, Customizable Lighting and Weather, 3D Text</h2><br>Leverage latest Unreal Engine 5 graphics in our fully customizable weather and lighting system to quickly and drastically change the mood and feel of your World. Create worlds lit with the sun at any time of day. Don't like the sun's natural color? Then set it to blood red to create a hellish environment, or change it to a verdant green to create the sky of another planet. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/weather.gif?t=1668383201\" /><br><br>Add weather effects like snow, rain, and thunder to your worlds with a single click. Add true volumetric clouds to your worlds that react when hit by the sun's light. Sun too bright? Simply increase the cloud cover slider to make it cloudy. Need god rays in your world? Increase the fog slider. <br><br>Want to light your scene with artificial light bulbs? Simply press L and spawn a customizable light bulb at your mouse cursor. <br><br>Add 3D text to your world by pressing T. Adjust its size, kerning, color and make it <i>glow</i>.<h2 class=\"bb_tag\">Poseable and Animated Characters with Physics Enabled</h2><br>Choose from a selection of 30+ physics enabled characters to add into your world. Give them animations from a selection of 800+ animations covering different situations, and give them custom poses to finely adjust every single joint in their bodies. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/animselect2.gif?t=1668383201\" /><h2 class=\"bb_tag\">Photo Mode</h2><br>Access powerful camera controls in Photo Mode to take pictures of your created Worlds with settings similar to a traditional camera. Adjust FOV, Focus Distance and Background Blur to frame your shot. Use Temperature, Exposure, and Saturation sliders to get the exact look you want with your shot, and <i>instantly </i>render your stills at 1K, 2K, or 4K by pressing the screenshot button.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944670/extras/photomode.gif?t=1668383201\" /><h2 class=\"bb_tag\">Prebuilt Worlds Included</h2><br>Save, Load, and Share your created Worlds, and access the many prebuilt Worlds included in WorldMaker. Every World you see in the Steam screenshots is included in WorldMaker.<h2 class=\"bb_tag\">Frequently Asked Questions</h2><br>Q: Is Steam Workshop support available?<br>A: Workshop support is coming! Eventually we want people to be able to export their own models into WorldMaker and also to be able to share their Worlds to the Steam Workshop.<br><br>Q: Can I Import custom 3D models and use them in WorldMaker?<br>A: Right now, you're limited to the 1400+ objects that're already included with WorldMaker. Implementing importing custom assets and Steam Workshop support is our top priority right now. Eventually we want people to be able to export their own models into WorldMaker and also to be able to share their Worlds to the Steam Workshop.<br><br>Q: Can I export my WorldMaker worlds to other software or engines?<br>A: No. WorldMaker does not export to other software or engines. The Worlds created in WorldMaker are only able to be viewed and edited in WorldMaker.<br><br>Q: How do I make videos with WorldMaker?<br>A: Camera keyframing and video tools isn\u2019t something we have in WorldMaker just yet, however you can get really good results just by manually moving the camera with WASD + mouse and recording with screen recording software. You can adjust the camera movement speed and add gimbal smoothing to smooth your camera movements when in Photo Mode. An example of this is the WorldMaker Steam trailer, every shot you see in the video is done purely inside WorldMaker using mouse movements + screen recording software!<br><br>Q: Which graphics setting has the most impact on FPS in WorldMaker?<br>A: Temporal Super Resolution. Worldmaker utilizes Temporal Super Resolution, an upscaling technology that renders the game at a lower internal resolution and upscales it to a higher output resolution. Similar to DLSS but without the use of an RT graphics card. Changing this slider to a lower value will massively increase performance, while still maintaining near native image quality. Using TSR will not lower the quality of your photos however, as WorldMaker renders at native or a multiple of native resolution when taking photos.<br><br>Q: What are \u201cfloor\u201d and \u201cwall\u201d objects?<br>A: Floor and wall objects are special objects that when resized maintain their texture tiling, i.e. the textures won\u2019t stretch. This is useful for creating walls and floors for interior scenes, or something like a sidewalk or an asphalt road for exterior scenes.<br><br>Q: Why is the starting platform/floor not resizable? Why can\u2019t I delete it?<br>A: You can, but not directly, search &quot;concrete tile floor&quot; in the search bar, drag and drop it, and resize that into however big you want the starting floor. You can\u2019t delete the starting floor, however you can add a \u201cfloor\u201d object that\u2019s way above the starting floor, and enlarge that, to essentially hide the starting floor with a floor object of your choosing!<br><br>Q: How do I undo and redo?<br>A: Undo and Redo functions with ctrl+z is something that we\u2019re looking to add. Undoing and redoing might look simple, but there are numerous programming challenges that come with creating an undo transaction system. And to implement a robust and powerful version of it, requires a lot of testing. We\u2019re working very hard to implement this however.<br><br>Have any questions or would like to see and share community creations? Join us on the WorldMaker Discord and subreddit linked in WorldMaker's store page sidebar.",
+    "developers": [
+        "Maker Interactive"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/header.jpg?t=1668383201",
+    "is_free": false,
+    "legal_notice": "WorldMaker, Copyright 2022, Maker Interactive. WorldMaker uses Unreal\u00ae Engine. Unreal\u00ae is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal\u00ae Engine, Copyright 1998 \u2013 2022, Epic Games, Inc. All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256900658,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900658/movie480.mp4?t=1660784203",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900658/movie_max.mp4?t=1660784203"
+            },
+            "name": "Main Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256900658/movie.293x165.jpg?t=1660784203",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900658/movie480_vp9.webm?t=1660784203",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900658/movie_max_vp9.webm?t=1660784203"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256900665,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900665/movie480.mp4?t=1660784209",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900665/movie_max.mp4?t=1660784209"
+            },
+            "name": "Tutorial Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256900665/movie.293x165.jpg?t=1660784209",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900665/movie480_vp9.webm?t=1660784209",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900665/movie_max_vp9.webm?t=1660784209"
+            }
+        }
+    ],
+    "name": "WorldMaker",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "WorldMaker - $9.99",
+                    "packageid": 700761,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy WorldMaker"
+        }
+    ],
+    "packages": [
+        700761
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3 6th Generation<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 35 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5 8th Generation<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 35 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Maker Interactive"
+    ],
+    "recommendations": {
+        "total": 101
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 2, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_473f1c9b85b8e430957906eabec6c35f8d91a87c.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_473f1c9b85b8e430957906eabec6c35f8d91a87c.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_b800d1e937251a2ab51391ecec7a3bb8198648cd.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_b800d1e937251a2ab51391ecec7a3bb8198648cd.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_d3e328ae74f47087ce7ee0f7df565b5687271616.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_d3e328ae74f47087ce7ee0f7df565b5687271616.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_0010b4a57d5f202675520d064b4b384856845a71.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_0010b4a57d5f202675520d064b4b384856845a71.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_34db48028694bd03afa0821b255df26671f217fa.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_34db48028694bd03afa0821b255df26671f217fa.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_d92b5f5cb941f6a5b01df9f58714f006d170f403.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_d92b5f5cb941f6a5b01df9f58714f006d170f403.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_4262cc37637de4726a6fc5cfe7c2dc9c9318acc4.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_4262cc37637de4726a6fc5cfe7c2dc9c9318acc4.600x338.jpg?t=1668383201"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_a9780885dc32f6bf967984b54f74dfd9fc50f261.1920x1080.jpg?t=1668383201",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944670/ss_a9780885dc32f6bf967984b54f74dfd9fc50f261.600x338.jpg?t=1668383201"
+        }
+    ],
+    "short_description": "WorldMaker is a tool for creative users that allows you to create photorealistic 3D Worlds using drag-and-drop controls. Transfer ideas directly from your head to a 3D World in seconds. Utilize our library of 1400 objects to create 3D Worlds quickly, with graphics powered by next-gen Unreal Engine 5",
+    "steam_appid": 1944670,
+    "support_info": {
+        "email": "craftydevelopmentteam@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

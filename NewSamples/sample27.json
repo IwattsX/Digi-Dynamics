@@ -1,0 +1,153 @@
+{
+    "about_the_game": "Built by the Baldwin locomotive works in America in 1899, and entering service in 1900, V499 was the pattern locomotive of the Victorian Railways' V class locomotives, the first 2-8-0 class in Victoria. It's success lead to a further 15 V class locomotives to be built by the Phoenix Foundry in Ballarat, remaining in service from 1900 till 1930. Originally built as Vauclain Compound locomotives, which used the steam twice to propel the locomotive before exhausting out the chimney, the class was reboilered and converted to Simple Expansion locomotives in 1912-13. Later, from 1923, the lass was renumbered between 200 and V215 (several locos were scrapped prior to renumbering). The first to be scrapped was V513 in June 1924, with V499 (now V200) being the last in 1930.<br><br>V499, being the pattern loco, arrived and ran with several differences from the rest of the class. The most prominent was the Baldwin builders plates mounted on the smokeboxes sides and smokebox door; the smokebox door plate being removed when converted to feature the more typical 'dart' arrangement on Victorian Railways locomotives, along with several other changes early in life. It's tender also featured rolled disc wheels, and a 'straight' flare at the top that was typical of Baldwin locomotives. When first introduced to service V499 wore Baldwin Green with gold lining, polished steelwork and brasswork, Russian Iron boiler, and Mineral Brown running boards, roof, and tender top. From around 1903 onwards, the VR changed to Canadian Red with V499 being repainted into this livery at some point after 1905. <br><br>This pack includes three versions of V499 in two liveries, as running between 1900 and 1913. <br><ul class=\"bb_ul\"><li>VR V499 Baldwin Early - painted in Baldwin Green, and fitted with original large headlight, air sanders, Baldwin smokebox door plate and smokebox door 'dogs', and original crosshead lubrication.<br></li><li>VR V499 Baldwin Late - painted in Baldwing Green, fitted with standard VR kerosene headlamp, air sanders and mechanical sanders, 'dart' type smokebox door lock, and modified crosshead lubrication.<br></li><li>VR V499 Canadian Red - painted in Canadian Red,fitted with standard VR kerosene headlamp, air sanders and mechanical sanders, 'dart' type smokebox door lock, and modified crosshead lubrication.<br><br>Features include:<br><br></li><li>3 locomotives and tenders, with three optional levels of weathering (changed via the properties menu), in broad gauge for TRS19<br></li><li>9 pre-made consists, including light engine, goods, and passenger consists for both versions.<br></li><li>Texture swapping with &quot;clean&quot;, &quot;lightly weathered&quot; and &quot;heavy weathered&quot; options, with tailored parameters maps (TRS19)<br></li><li>PBR materials for TRS19, with heightmapped number plates, builders plates, and other details in TRS19!<br></li><li>Lit headlight on 'early' version with animated flame<br></li><li>Scripted headlamp on 'late' and Canadian Red versions to appear unlit with unlit marker lamps, or lit with lit marker maps<br></li><li>Coal boards on the tender move when coal load is low<br></li><li>Full custom interior view, with operational controls, with functional gauge glass valves and try-cock valves<br></li><li>Scripted, animated, reverser and valve gear in exterior and interior views<br></li><li>LOD on all meshes<br></li><li>Scripted exhaust smoke effects, based off regulator and cut-off<br></li><li>Scripted and animated air compressor, with sound and smoke effects<br></li><li>Scripted cylinder drain effects toggled by ALT + D, and based off the steam chest pressure<br></li><li>Other Scripted steam and sound effects including injectors, and blower<br></li><li>Animated screwlink couplers, brake hoses/taps, and safety chains using ACS<br></li><li>Scripted Marker Lamps and Tail discs, with glow lamps (thanks to Bloodnok) - compatible with the VR Set Train Lamps driver command<br></li><li>Animated cab doors, cab windows, cab roof vent, smokebox door, and tender tank filler lid<br></li><li>Cab doors, windows and roof vent can be controlled from inside the cab as well as via the properties window.<br></li><li>Physique based coal load animation in tender, giving realistic deformation as coal is used<br></li><li>Snow mesh, using the snow altitude function in Trainz</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/page_bg_generated_v6b.jpg?t=1653974916",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/page_bg_generated.jpg?t=1653974916",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/capsule_231x87.jpg?t=1653974916",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/capsule_184x69.jpg?t=1653974916",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Built by the Baldwin locomotive works in America in 1899, and entering service in 1900, V499 was the pattern locomotive of the Victorian Railways' V class locomotives, the first 2-8-0 class in Victoria. It's success lead to a further 15 V class locomotives to be built by the Phoenix Foundry in Ballarat, remaining in service from 1900 till 1930. Originally built as Vauclain Compound locomotives, which used the steam twice to propel the locomotive before exhausting out the chimney, the class was reboilered and converted to Simple Expansion locomotives in 1912-13. Later, from 1923, the lass was renumbered between 200 and V215 (several locos were scrapped prior to renumbering). The first to be scrapped was V513 in June 1924, with V499 (now V200) being the last in 1930.<br><br>V499, being the pattern loco, arrived and ran with several differences from the rest of the class. The most prominent was the Baldwin builders plates mounted on the smokeboxes sides and smokebox door; the smokebox door plate being removed when converted to feature the more typical 'dart' arrangement on Victorian Railways locomotives, along with several other changes early in life. It's tender also featured rolled disc wheels, and a 'straight' flare at the top that was typical of Baldwin locomotives. When first introduced to service V499 wore Baldwin Green with gold lining, polished steelwork and brasswork, Russian Iron boiler, and Mineral Brown running boards, roof, and tender top. From around 1903 onwards, the VR changed to Canadian Red with V499 being repainted into this livery at some point after 1905. <br><br>This pack includes three versions of V499 in two liveries, as running between 1900 and 1913. <br><ul class=\"bb_ul\"><li>VR V499 Baldwin Early - painted in Baldwin Green, and fitted with original large headlight, air sanders, Baldwin smokebox door plate and smokebox door 'dogs', and original crosshead lubrication.<br></li><li>VR V499 Baldwin Late - painted in Baldwing Green, fitted with standard VR kerosene headlamp, air sanders and mechanical sanders, 'dart' type smokebox door lock, and modified crosshead lubrication.<br></li><li>VR V499 Canadian Red - painted in Canadian Red,fitted with standard VR kerosene headlamp, air sanders and mechanical sanders, 'dart' type smokebox door lock, and modified crosshead lubrication.<br><br>Features include:<br><br></li><li>3 locomotives and tenders, with three optional levels of weathering (changed via the properties menu), in broad gauge for TRS19<br></li><li>9 pre-made consists, including light engine, goods, and passenger consists for both versions.<br></li><li>Texture swapping with &quot;clean&quot;, &quot;lightly weathered&quot; and &quot;heavy weathered&quot; options, with tailored parameters maps (TRS19)<br></li><li>PBR materials for TRS19, with heightmapped number plates, builders plates, and other details in TRS19!<br></li><li>Lit headlight on 'early' version with animated flame<br></li><li>Scripted headlamp on 'late' and Canadian Red versions to appear unlit with unlit marker lamps, or lit with lit marker maps<br></li><li>Coal boards on the tender move when coal load is low<br></li><li>Full custom interior view, with operational controls, with functional gauge glass valves and try-cock valves<br></li><li>Scripted, animated, reverser and valve gear in exterior and interior views<br></li><li>LOD on all meshes<br></li><li>Scripted exhaust smoke effects, based off regulator and cut-off<br></li><li>Scripted and animated air compressor, with sound and smoke effects<br></li><li>Scripted cylinder drain effects toggled by ALT + D, and based off the steam chest pressure<br></li><li>Other Scripted steam and sound effects including injectors, and blower<br></li><li>Animated screwlink couplers, brake hoses/taps, and safety chains using ACS<br></li><li>Scripted Marker Lamps and Tail discs, with glow lamps (thanks to Bloodnok) - compatible with the VR Set Train Lamps driver command<br></li><li>Animated cab doors, cab windows, cab roof vent, smokebox door, and tender tank filler lid<br></li><li>Cab doors, windows and roof vent can be controlled from inside the cab as well as via the properties window.<br></li><li>Physique based coal load animation in tender, giving realistic deformation as coal is used<br></li><li>Snow mesh, using the snow altitude function in Trainz</li></ul>",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/header.jpg?t=1653974916",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Victorian Railways V499 - Baldwin Built",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Victorian Railways V499 - Baldwin Built - $19.99",
+                    "packageid": 701496,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Victorian Railways V499 - Baldwin Built"
+        }
+    ],
+    "packages": [
+        701496
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_c046f99b55e4ef686674b3e037a567d850845052.1920x1080.jpg?t=1653974916",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_c046f99b55e4ef686674b3e037a567d850845052.600x338.jpg?t=1653974916"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_6e7601f6b0f013dd434297753dca3c9eeace69f5.1920x1080.jpg?t=1653974916",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_6e7601f6b0f013dd434297753dca3c9eeace69f5.600x338.jpg?t=1653974916"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_2d720ddeeab516a1ec1aa0d798656fdd347e732f.1920x1080.jpg?t=1653974916",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_2d720ddeeab516a1ec1aa0d798656fdd347e732f.600x338.jpg?t=1653974916"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_f21dcb9ddfa7b98eef7905aafe9c144137ee40f4.1920x1080.jpg?t=1653974916",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_f21dcb9ddfa7b98eef7905aafe9c144137ee40f4.600x338.jpg?t=1653974916"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_5b0c258c92a294463aff3fd5028c1d2072f99669.1920x1080.jpg?t=1653974916",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946291/ss_5b0c258c92a294463aff3fd5028c1d2072f99669.600x338.jpg?t=1653974916"
+        }
+    ],
+    "short_description": "Victorian Railways V499 2-8-0 Baldwin Compound in Baldwin Green and Canadian Red.",
+    "steam_appid": 1946291,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

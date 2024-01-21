@@ -1,0 +1,132 @@
+{
+    "about_the_game": "<strong>Operation Pill </strong> is a story about a small and bold pill that enters your body and saves it from disease-causing bacteria.<br>Control the flight of a capsule inside a blood vessel and destroy pathogenic bacteria.<br>You have a germicidal gun to attack and an electrostatic shield to defend.<br>Of course, we have red barrels that destroy everything in their path.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/G1-Attack.gif?t=1651514686\" /><br><br><strong>Warning:</strong> An inaccurate shot can kill a neutral cell and weaken the organism.<br>Collect weapons, additional shields and lives.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/G2-MedShieldWeapon-620.gif?t=1651514686\" /><br><br>Go ahead and save it!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/Dead-700.png?t=1651514686\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/page_bg_generated_v6b.jpg?t=1651514686",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/page.bg.jpg?t=1651514686",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/capsule_231x87.jpg?t=1651514686",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/capsule_184x69.jpg?t=1651514686",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Tracked Controller Support",
+            "id": 52
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Operation Pill </strong> is a story about a small and bold pill that enters your body and saves it from disease-causing bacteria.<br>Control the flight of a capsule inside a blood vessel and destroy pathogenic bacteria.<br>You have a germicidal gun to attack and an electrostatic shield to defend.<br>Of course, we have red barrels that destroy everything in their path.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/G1-Attack.gif?t=1651514686\" /><br><br><strong>Warning:</strong> An inaccurate shot can kill a neutral cell and weaken the organism.<br>Collect weapons, additional shields and lives.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/G2-MedShieldWeapon-620.gif?t=1651514686\" /><br><br>Go ahead and save it!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944500/extras/Dead-700.png?t=1651514686\" />",
+    "developers": [
+        "xr407"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/header.jpg?t=1651514686",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256879237,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879237/movie480.mp4?t=1650270260",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879237/movie_max.mp4?t=1650270260"
+            },
+            "name": "Operation Pill",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256879237/movie.293x165.jpg?t=1650270260",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879237/movie480_vp9.webm?t=1650270260",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879237/movie_max_vp9.webm?t=1650270260"
+            }
+        }
+    ],
+    "name": "Operation Pill",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 10 / 64-bit 8.1<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX 8350<br></li><li><strong>Memory:</strong> 4000 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970, AMD Radeon R9 290<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1100 MB available space<br></li><li><strong>VR Support:</strong> OpenXR</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 10 / 64-bit 8.1<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX 8350<br></li><li><strong>Memory:</strong> 8000 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060, AMD Radeon RX 480<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "xr407"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 2, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_3398accc6efac46c74b1d67dd2ba81a2fee359bc.1920x1080.jpg?t=1651514686",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_3398accc6efac46c74b1d67dd2ba81a2fee359bc.600x338.jpg?t=1651514686"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_3f1bedb2f18908cf8a7068328c22ed035ba21df2.1920x1080.jpg?t=1651514686",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_3f1bedb2f18908cf8a7068328c22ed035ba21df2.600x338.jpg?t=1651514686"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_a054d28114e655e12951c1b074f72e3e01d1f2f9.1920x1080.jpg?t=1651514686",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_a054d28114e655e12951c1b074f72e3e01d1f2f9.600x338.jpg?t=1651514686"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_0a8bfafa1811b38275381ef35cb3a71d96085d74.1920x1080.jpg?t=1651514686",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_0a8bfafa1811b38275381ef35cb3a71d96085d74.600x338.jpg?t=1651514686"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_1dcbc792f2a1986735f6fc581b5d19e39a04ae5a.1920x1080.jpg?t=1651514686",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/ss_1dcbc792f2a1986735f6fc581b5d19e39a04ae5a.600x338.jpg?t=1651514686"
+        }
+    ],
+    "short_description": "Operation Pill is the story of a small and brave pill that gets into your body and saves it from pathogenic bacteria. Arm yourself with an electrostatic shield and a germicidal cannon and save your body!",
+    "steam_appid": 1944500,
+    "support_info": {
+        "email": "",
+        "url": "https://steamcommunity.com/groups/xr407"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

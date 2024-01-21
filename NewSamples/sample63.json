@@ -1,0 +1,213 @@
+{
+    "about_the_game": "Grab your speer (which is cooler than a regular spear) and puzzle-platform your way through 125 stages! Throw it into walls to create a platform, flick switches with it, or imbue it with different powers to get past lasers, portals and much more!<br><br>[Speer DX] is the director's cut of the classic [Speer] and features more levels, features and additional layers of polish, making this the ultimate Speer experience!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>Turn your speer into a platform to climb walls!<br></li><li>125 stages filled with puzzles and platforming<br></li><li>Place checkpoints anywhere in the level and reload instantly<br></li><li>Stuck on a level? Skip it and come back later!<br></li><li>Optional slow motion feature to help with tricky platforming sections<br></li><li>Speedrun mode: Beat the game as fast as you can!</li></ul><h2 class=\"bb_tag\">Praise for the Original Game</h2><br><i>&quot;[SPEER] from @ohsat_games is pure puzzle platforming perfection!&quot;</i><br>-Pursuing Pixels<br><br><i>&quot;Dude I love Speer so much!&quot;</i><br>-Kevin Cole, developer of Haque<br><br><i>&quot;A stylish retro puzzle platformer with some great level design and speer hurling gameplay that\u2019s well worth taking a stab at.&quot;</i><br>-KJ Robertson, Alpha Beta Gamer<br><br><i>&quot;[...]Speer delivers some very clever puzzles. Speer [is] a game that\u2019s often challenging but rarely frustrating. That\u2019s a balance few games get right.&quot;</i><br>-Matthew Codd, Shindig",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Beat World 1",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/394902503b3eff7e56168f10fa0b6aab25e0071b.jpg"
+            },
+            {
+                "name": "Beat World 2",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/a25e703781733bec17f8ed9fe8bb71be0b42e35d.jpg"
+            },
+            {
+                "name": "Beat World 3",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/d63203fbb0a7ce6842486830ebd429a326b84693.jpg"
+            },
+            {
+                "name": "Beat World 4",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/ef1865704dfbb9237e22da159e1e2d26fb886405.jpg"
+            },
+            {
+                "name": "Beat World 5",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/ccac079301d92be38982bb6a9ac80608f4d22bf3.jpg"
+            },
+            {
+                "name": "Beat the Game",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/276426e63ae39ac14186efc84e314b204d40a5ed.jpg"
+            },
+            {
+                "name": "Casual Collector",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/ad96fabbf96149563a7968763858b5484e5e15e8.jpg"
+            },
+            {
+                "name": "Halfway There",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/03e854d6991f5259c7d953e355d965381843203c.jpg"
+            },
+            {
+                "name": "Full Collection",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/2b6f2883371feeeaa489b378c7886db70ffd481e.jpg"
+            },
+            {
+                "name": "Time Lord",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945800/24f2b91b3830cafaabdf9955f97383b81311edf0.jpg"
+            }
+        ],
+        "total": 16
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/page_bg_generated_v6b.jpg?t=1654344651",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/page.bg.jpg?t=1654344651",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/capsule_231x87.jpg?t=1654344651",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/capsule_184x69.jpg?t=1654344651",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Grab your speer (which is cooler than a regular spear) and puzzle-platform your way through 125 stages! Throw it into walls to create a platform, flick switches with it, or imbue it with different powers to get past lasers, portals and much more!<br><br>[Speer DX] is the director's cut of the classic [Speer] and features more levels, features and additional layers of polish, making this the ultimate Speer experience!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>Turn your speer into a platform to climb walls!<br></li><li>125 stages filled with puzzles and platforming<br></li><li>Place checkpoints anywhere in the level and reload instantly<br></li><li>Stuck on a level? Skip it and come back later!<br></li><li>Optional slow motion feature to help with tricky platforming sections<br></li><li>Speedrun mode: Beat the game as fast as you can!</li></ul><h2 class=\"bb_tag\">Praise for the Original Game</h2><br><i>&quot;[SPEER] from @ohsat_games is pure puzzle platforming perfection!&quot;</i><br>-Pursuing Pixels<br><br><i>&quot;Dude I love Speer so much!&quot;</i><br>-Kevin Cole, developer of Haque<br><br><i>&quot;A stylish retro puzzle platformer with some great level design and speer hurling gameplay that\u2019s well worth taking a stab at.&quot;</i><br>-KJ Robertson, Alpha Beta Gamer<br><br><i>&quot;[...]Speer delivers some very clever puzzles. Speer [is] a game that\u2019s often challenging but rarely frustrating. That\u2019s a balance few games get right.&quot;</i><br>-Matthew Codd, Shindig",
+    "developers": [
+        "Ohsat Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/header.jpg?t=1654344651",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256885847,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256885847/movie480.mp4?t=1652119205",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256885847/movie_max.mp4?t=1652119205"
+            },
+            "name": "Release Date Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256885847/movie.293x165.jpg?t=1652119205",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256885847/movie480_vp9.webm?t=1652119205",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256885847/movie_max_vp9.webm?t=1652119205"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256879960,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879960/movie480.mp4?t=1648585792",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879960/movie_max.mp4?t=1648585792"
+            },
+            "name": "[Speer DX] in 25 Seconds",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256879960/movie.293x165.jpg?t=1648585792",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879960/movie480_vp9.webm?t=1648585792",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879960/movie_max_vp9.webm?t=1648585792"
+            }
+        }
+    ],
+    "name": "[Speer DX]",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "[Speer DX] - $4.99",
+                    "packageid": 701283,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy [Speer DX]"
+        }
+    ],
+    "packages": [
+        701283
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL Support required<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Ohsat Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 3, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_3d90050e9edb718d5333ae74d38ece7ec8f61747.1920x1080.jpg?t=1654344651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_3d90050e9edb718d5333ae74d38ece7ec8f61747.600x338.jpg?t=1654344651"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_f5c7bf9fe86925d721fd96e84ca03a97ccdc25e9.1920x1080.jpg?t=1654344651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_f5c7bf9fe86925d721fd96e84ca03a97ccdc25e9.600x338.jpg?t=1654344651"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_4295dde61e1ee757968aa04c1fcc4e666044520d.1920x1080.jpg?t=1654344651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_4295dde61e1ee757968aa04c1fcc4e666044520d.600x338.jpg?t=1654344651"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_128f01c5c8b3c4b79548a8650b3903b18afaff7d.1920x1080.jpg?t=1654344651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_128f01c5c8b3c4b79548a8650b3903b18afaff7d.600x338.jpg?t=1654344651"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_4ab68ea8f7329920a1ce768d7127fe5cadcd897e.1920x1080.jpg?t=1654344651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945800/ss_4ab68ea8f7329920a1ce768d7127fe5cadcd897e.600x338.jpg?t=1654344651"
+        }
+    ],
+    "short_description": "Throw your speer, use it as a platform, and puzzle-platform your way through 125 stages in this director's cut version of the classic [Speer]!",
+    "steam_appid": 1945800,
+    "support_info": {
+        "email": "support@ohsat.com",
+        "url": "https://www.ohsat.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.ohsat.com/game/speer-dx/"
+}

@@ -1,0 +1,152 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/add_to_wishlist.gif?t=1689117884\" /><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FhXvZaMR4xM\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/Steam-Discord-Banner2.gif?t=1689117884\" /></a><br>Adamstown is a peaceful city builder with elements of a puzzle. Players place city parts that depict blocks, offices, roads, and parks. Each new tile placed, expand the board for new tiles to be placed. For players looking for a casual, easy pick-up game, Adamstown offers easy modes that allow players to focus on peaceful and relaxing city building. At the same time, Adamstown also offers more challenging modes for those who are looking for complex puzzles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/banner_gameplay.png?t=1689117884\" /><br><br>In Adamstown, players start with a stack of tiles. One after the other player has to place it on an available connector sticking out of the board sides. Placing tiles forms groups of blocks, offices, roads, and parks. Players score points for strategic placements and creating large groups. On higher difficulty levels connectors will have different colors and the player will have to match the tile platform color he has on to the color of the connector he wants to place his tile on to.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/clip_2.gif?t=1689117884\" /><br><br>Some tiles include quests that will require connecting a specific amount of objects. As a reward in addition to score points additional tiles will be added to the tile stack, so resolving the quest is mandatory to continuously expand the city.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/banner_features.png?t=1689117884\" /><br><br><ul class=\"bb_ul\"><li>Mix of strategy and puzzle mechanics<br></li><li>Highscores and leaderboards<br></li><li>Different difficulty levels<br></li><li>Unlockable game modes</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/clip_1.gif?t=1689117884\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/page_bg_generated_v6b.jpg?t=1689117884",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/page_bg_generated.jpg?t=1689117884",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/capsule_231x87.jpg?t=1689117884",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/capsule_184x69.jpg?t=1689117884",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/add_to_wishlist.gif?t=1689117884\" /><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FhXvZaMR4xM\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/Steam-Discord-Banner2.gif?t=1689117884\" /></a><br>Adamstown is a peaceful city builder with elements of a puzzle. Players place city parts that depict blocks, offices, roads, and parks. Each new tile placed, expand the board for new tiles to be placed. For players looking for a casual, easy pick-up game, Adamstown offers easy modes that allow players to focus on peaceful and relaxing city building. At the same time, Adamstown also offers more challenging modes for those who are looking for complex puzzles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/banner_gameplay.png?t=1689117884\" /><br><br>In Adamstown, players start with a stack of tiles. One after the other player has to place it on an available connector sticking out of the board sides. Placing tiles forms groups of blocks, offices, roads, and parks. Players score points for strategic placements and creating large groups. On higher difficulty levels connectors will have different colors and the player will have to match the tile platform color he has on to the color of the connector he wants to place his tile on to.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/clip_2.gif?t=1689117884\" /><br><br>Some tiles include quests that will require connecting a specific amount of objects. As a reward in addition to score points additional tiles will be added to the tile stack, so resolving the quest is mandatory to continuously expand the city.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/banner_features.png?t=1689117884\" /><br><br><ul class=\"bb_ul\"><li>Mix of strategy and puzzle mechanics<br></li><li>Highscores and leaderboards<br></li><li>Different difficulty levels<br></li><li>Unlockable game modes</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945860/extras/clip_1.gif?t=1689117884\" />",
+    "developers": [
+        "Maciej Pacuszka"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/header.jpg?t=1689117884",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 3,0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 3,0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256938971,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938971/movie480.mp4?t=1680357262",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938971/movie_max.mp4?t=1680357262"
+            },
+            "name": "Adamstown Trailer 3",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938971/movie.293x165.jpg?t=1680357262",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938971/movie480_vp9.webm?t=1680357262",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938971/movie_max_vp9.webm?t=1680357262"
+            }
+        }
+    ],
+    "name": "Adamstown",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP SP3 / Vista / 7 / 10<br></li><li><strong>Processor:</strong> 3,0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Maciej Pacuszka"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_6ebc38a8693a5431b426451ed34acdf7a37dac7e.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_6ebc38a8693a5431b426451ed34acdf7a37dac7e.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_4a494b42fa9ffe2ef643dafbc1bf5e87fc40d382.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_4a494b42fa9ffe2ef643dafbc1bf5e87fc40d382.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_6e69f874683f71285a89c745db8409fae5eb162c.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_6e69f874683f71285a89c745db8409fae5eb162c.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_089a508cfa39107de1ce2e62dfd7ed625727c20a.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_089a508cfa39107de1ce2e62dfd7ed625727c20a.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_08a8457a7eee47fabde56e1a5932ce267c6b4762.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_08a8457a7eee47fabde56e1a5932ce267c6b4762.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_9c1b5aa69681c6409c1e45c76394f616fa20fcdf.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_9c1b5aa69681c6409c1e45c76394f616fa20fcdf.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_a9e7ddb259cacc7e97e724e27158d742cfeee118.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_a9e7ddb259cacc7e97e724e27158d742cfeee118.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_a26f2fe86e47b66a64ee2dd391b47c5b1ec52e8b.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_a26f2fe86e47b66a64ee2dd391b47c5b1ec52e8b.600x338.jpg?t=1689117884"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_866f2ab2f6944e88ccab018941c0df376cfdd08a.1920x1080.jpg?t=1689117884",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945860/ss_866f2ab2f6944e88ccab018941c0df376cfdd08a.600x338.jpg?t=1689117884"
+        }
+    ],
+    "short_description": "Adamstown is a &quot;Dorf-like&quot;, casual, peaceful city builder with elements of a puzzle. Players place city parts that depict housing blocks, offices, roads, and parks. Build your dream city but pay attention to the connection tiles.",
+    "steam_appid": 1945860,
+    "support_info": {
+        "email": "pacuszka.maciej@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Polish, Russian, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

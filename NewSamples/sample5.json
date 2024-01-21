@@ -1,0 +1,182 @@
+{
+    "about_the_game": "<strong>Attention! In order to use this texture pack, you need a video card with at least 3GB of video memory!</strong><br><br>This high-resolution texture pack will improve your War Thunder gaming experience without degrading FPS!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/page_bg_generated_v6b.jpg?t=1705099706",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/page_bg_generated.jpg?t=1705099706",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/capsule_231x87.jpg?t=1705099706",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/capsule_184x69.jpg?t=1705099706",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Remote Play on Phone",
+            "id": 41
+        },
+        {
+            "description": "Remote Play on Tablet",
+            "id": 42
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h1>Note!</h1><p><strong>This product cannot be purchased for PlayStation\u00ae or Xbox accounts!</strong><br><br><strong>This DLC will only be granted to the Steam account that was used to make the purchase. If you have some issues, please <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsupport.gaijin.net%2Fhc%2Fen-us\" target=\"_blank\" rel=\" noopener\"  >contact our support</a> (login on the website and use the &quot;Submit a request&quot; button at the top).</strong></p><br><h1>About the Game</h1><strong>Attention! In order to use this texture pack, you need a video card with at least 3GB of video memory!</strong><br><br>This high-resolution texture pack will improve your War Thunder gaming experience without degrading FPS!",
+    "developers": [
+        "Gaijin Entertainment"
+    ],
+    "fullgame": {
+        "appid": "236390",
+        "name": "War Thunder"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/header.jpg?t=1705099706",
+    "is_free": true,
+    "legal_notice": "\u00a9 2011\u20142024 Gaijin Games Kft. All trademarks, logos and brand names are the property of their respective owners.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Most modern 64bit Linux distributions, SteamOS<br>\t</li><li><strong>Processor:</strong> Dual-Core 2.4 GHz<br>\t</li><li><strong>Memory:</strong> 4 GB RAM<br>\t</li><li><strong>Graphics:</strong> NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.<br>\t</li><li><strong>Hard Drive:</strong> 17 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04 64bit<br>\t</li><li><strong>Processor:</strong> Intel Core i7<br>\t</li><li><strong>Memory:</strong> 16 GB RAM<br>\t</li><li><strong>Graphics:</strong> NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 560) with latest proprietary drivers (not older than 6 months) with Vulkan support.<br>\t</li><li><strong>Hard Drive:</strong> 35 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Catalina v.10.15 or newer<br>\t</li><li><strong>Processor:</strong> Intel Core i5 (Xeon processors not supported)<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Graphics:</strong> Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support<br>\t</li><li><strong>Hard Drive:</strong> 17 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS Big Sur v. 10.16 or newer<br>\t</li><li><strong>Processor:</strong> Intel Core i7 (Xeon processors not supported)<br>\t</li><li><strong>Memory:</strong> 8 GB RAM<br>\t</li><li><strong>Graphics:</strong> Radeon Vega II or higher with Metal support.<br>\t</li><li><strong>Hard Drive:</strong> 35 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>"
+    },
+    "name": "War Thunder - Environment High-res Texture Pack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br>\t</li><li><strong>Processor:</strong> Dual-Core 2.2 GHz<br>\t</li><li><strong>Memory:</strong> 4GB (Windows Vista/7/8/10)<br>\t</li><li><strong>Graphics:</strong> Intel HD Graphics 5100 / AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p<br>\t</li><li><strong>Hard Drive:</strong> 17 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64bit)<br>\t</li><li><strong>Processor:</strong> Intel Core i5 or Ryzen 5 3600 or better<br>\t</li><li><strong>Memory:</strong> 16 GB RAM<br>\t</li><li><strong>Graphics:</strong> Nvidia GeForce 1060 and higher, Radeon RX 560 and higher<br>\t</li><li><strong>Hard Drive:</strong> 35 GB HD space<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 24, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_f634beb4df78ba3d0eb0a6d2b66415db2160b1d8.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_f634beb4df78ba3d0eb0a6d2b66415db2160b1d8.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_32d7ecacb5054bd7a907e7a60d25583cb39a546e.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_32d7ecacb5054bd7a907e7a60d25583cb39a546e.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_f653619431c5a1b0ad4b9acf318ebb202af7e05f.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_f653619431c5a1b0ad4b9acf318ebb202af7e05f.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_8586b177505daada03cf4009130749226c9b5c73.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_8586b177505daada03cf4009130749226c9b5c73.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_634d4b93730ad3b38c0d8dc5951cf4290bb6a297.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_634d4b93730ad3b38c0d8dc5951cf4290bb6a297.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_c374544d52b3c3dd5683d3c7ea9758f68d8fef1c.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_c374544d52b3c3dd5683d3c7ea9758f68d8fef1c.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_4da444ec6402a4e2310322ec32241ec550ba1ba0.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_4da444ec6402a4e2310322ec32241ec550ba1ba0.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_576bbde2cbf15d08b707d8bfb2e0ae143015d410.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_576bbde2cbf15d08b707d8bfb2e0ae143015d410.600x338.jpg?t=1705099706"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_237d73bdccc6fdcf18d5741f3fdbb79358f918e9.1920x1080.jpg?t=1705099706",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945930/ss_237d73bdccc6fdcf18d5741f3fdbb79358f918e9.600x338.jpg?t=1705099706"
+        }
+    ],
+    "short_description": "This high-resolution texture pack will improve your War Thunder gaming experience without degrading FPS!",
+    "steam_appid": 1945930,
+    "support_info": {
+        "email": "https://support.gaijin.net/",
+        "url": "https://support.gaijin.net/"
+    },
+    "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Czech<strong>*</strong>, Turkish<strong>*</strong>, Portuguese - Portugal, Korean, Portuguese - Brazil, Hungarian, Ukrainian, Traditional Chinese, Romanian<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://warthunder.com/"
+}

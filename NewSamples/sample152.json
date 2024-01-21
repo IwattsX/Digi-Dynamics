@@ -1,0 +1,139 @@
+{
+    "about_the_game": "This item is included in the &quot;Potion Permit -  Christmas Bundle&quot;.<br />\r\n<br />\r\nCustomise your room with: <br />\r\n\u2022 Santa Sled",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/page_bg_generated_v6b.jpg?t=1702027448",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/page_bg_generated.jpg?t=1702027448",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/capsule_231x87.jpg?t=1702027448",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/capsule_184x69.jpg?t=1702027448",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This item is included in the &quot;Potion Permit -  Christmas Bundle&quot;.<br />\r\n<br />\r\nCustomise your room with: <br />\r\n\u2022 Santa Sled",
+    "developers": [
+        "MassHive Media"
+    ],
+    "fullgame": {
+        "appid": "1337760",
+        "name": "Potion Permit"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/header.jpg?t=1702027448",
+    "is_free": false,
+    "legal_notice": "\u00a9\ufe0f MassHive Media 2021. Licensed to and published by PQube Ltd.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Sierra: 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.4 GHz<br></li><li><strong>Graphics:</strong> Intel HD Graphics 5000</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Sierra: 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.4 GHz<br></li><li><strong>Graphics:</strong> Intel HD Graphics 5000</li></ul>"
+    },
+    "name": "Potion Permit - Santa Sled",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Santa Sled - $0.99",
+                    "packageid": 700665,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Potion Permit - Santa Sled"
+        }
+    ],
+    "packages": [
+        700665
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-2100 or AMD Phenom II X4 965<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 250, 1 GB or AMD Radeon R7 240, 2 GB</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-2100 or AMD Phenom II X4 965<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 250, 1 GB or AMD Radeon R7 240, 2 GB</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "PQube"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/ss_dd3bcaffc9eb39f84444e084b6d1da3b77b4f94b.1920x1080.jpg?t=1702027448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944408/ss_dd3bcaffc9eb39f84444e084b6d1da3b77b4f94b.600x338.jpg?t=1702027448"
+        }
+    ],
+    "short_description": "Customise your room with: \u2022 Santa Sled",
+    "steam_appid": 1944408,
+    "support_info": {
+        "email": "support@pqube.co.uk",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://pqube.co.uk/potion-permit/"
+}

@@ -1,0 +1,195 @@
+{
+    "about_the_game": "Auto Crusher: Bumper Cars is a car destruction racing game inspired by the bumper car rides from amusement arcades and carnivals.<br />\r\nIn this game players will feel the excitement of crashing into other vehicles, coupled with the use of several power ups and upgrades that make this game a fast paced thrilling ride for glory!<br />\r\n<br />\r\nCollect Coins and badges to upgrade and improve the performance of your combat vehicle. Explore all the fun that this game has to offer in the many arenas of the fantasy world you immerse yourself into.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "ROOKIE",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945710/28f6571f4473a413baae916ffc3e599ab715134f.jpg"
+            },
+            {
+                "name": "PRO PLAYER",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945710/5d362266683b3c09875b4ae75665031413527c38.jpg"
+            },
+            {
+                "name": "VETERAN",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1945710/4c21a1a5f730d983f78ad179f127c8a7996a9af6.jpg"
+            }
+        ],
+        "total": 3
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/page_bg_generated_v6b.jpg?t=1678443338",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/page.bg.jpg?t=1678443338",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/capsule_231x87.jpg?t=1678443338",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/capsule_184x69.jpg?t=1678443338",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "LAN PvP",
+            "id": 47
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Auto Crusher: Bumper Cars is a car destruction racing game inspired by the bumper car rides from amusement arcades and carnivals.<br />\r\nIn this game players will feel the excitement of crashing into other vehicles, coupled with the use of several power ups and upgrades that make this game a fast paced thrilling ride for glory!<br />\r\n<br />\r\nCollect Coins and badges to upgrade and improve the performance of your combat vehicle. Explore all the fun that this game has to offer in the many arenas of the fantasy world you immerse yourself into.",
+    "developers": [
+        "CRX Entertainment"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/header.jpg?t=1678443338",
+    "is_free": false,
+    "legal_notice": "(c) 2022 by Favour Toys Studios",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256896144,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256896144/movie480.mp4?t=1660719637",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256896144/movie_max.mp4?t=1660719637"
+            },
+            "name": "Autocrusher Bumper Cars Gameplay Demo",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256896144/movie.293x165.jpg?t=1660719637",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256896144/movie480_vp9.webm?t=1660719637",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256896144/movie_max_vp9.webm?t=1660719637"
+            }
+        }
+    ],
+    "name": "Autocrusher: Bumper Cars",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Autocrusher: Bumper Cars - $3.99",
+                    "packageid": 701253,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Autocrusher: Bumper Cars"
+        }
+    ],
+    "packages": [
+        701253
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB Memory, ATI HD5650 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Favour Toys Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_b8ba70213291b5f95167b3802ba6b2e3099c3fcb.1920x1080.jpg?t=1678443338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_b8ba70213291b5f95167b3802ba6b2e3099c3fcb.600x338.jpg?t=1678443338"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_a47c546a757c146805bcc4fc95e2d1c9a7a8185c.1920x1080.jpg?t=1678443338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_a47c546a757c146805bcc4fc95e2d1c9a7a8185c.600x338.jpg?t=1678443338"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_7b79b6890fbf773d504bf5e12e74201208da4a46.1920x1080.jpg?t=1678443338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_7b79b6890fbf773d504bf5e12e74201208da4a46.600x338.jpg?t=1678443338"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_08ffb4aff85c664a4ccd367af8151a5ef1ccb057.1920x1080.jpg?t=1678443338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_08ffb4aff85c664a4ccd367af8151a5ef1ccb057.600x338.jpg?t=1678443338"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_387162af1126ae11bf2718ccaae4a894d3bc182e.1920x1080.jpg?t=1678443338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945710/ss_387162af1126ae11bf2718ccaae4a894d3bc182e.600x338.jpg?t=1678443338"
+        }
+    ],
+    "short_description": "Auto Crusher: Bumper Cars is a car destruction racing game inspired by the bumper car rides from amusement arcades and carnivals. In this game players will feel the excitement of crashing into other vehicles, coupled with the use of several power ups and upgrades , making this game a race for glory!",
+    "steam_appid": 1945710,
+    "support_info": {
+        "email": "info@crx-entertainment.nl",
+        "url": "http://www.crx-entertainment.nl/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://www.crx-entertainment.nl/"
+}

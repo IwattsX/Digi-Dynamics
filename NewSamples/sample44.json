@@ -1,0 +1,86 @@
+{
+    "about_the_game": "This DLC contains artbook for the game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/page_bg_generated_v6b.jpg?t=1649791468",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/page_bg_generated.jpg?t=1649791468",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/capsule_231x87.jpg?t=1649791468",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/capsule_184x69.jpg?t=1649791468",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This DLC contains artbook for the game.",
+    "developers": [
+        "Salamandra88"
+    ],
+    "fullgame": {
+        "appid": "612110",
+        "name": "Sweet fantasy"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/header.jpg?t=1649791468",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> PDF</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> PDF</li></ul>"
+    },
+    "mac_requirements": [],
+    "name": "Sweet Fantasy - Artbook",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> PDF</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft\u00ae Windows 7, 8, 10, 11<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> PDF</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "7DOTS",
+        "Phoenix_co"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 12, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/ss_447a42f2f331d184a95f1ce162bb93278007a53d.1920x1080.jpg?t=1649791468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945620/ss_447a42f2f331d184a95f1ce162bb93278007a53d.600x338.jpg?t=1649791468"
+        }
+    ],
+    "short_description": "Artbook.",
+    "steam_appid": 1945620,
+    "support_info": {
+        "email": "barsunduk13@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": null
+}

@@ -1,0 +1,233 @@
+{
+    "about_the_game": "We came to this world to claim it for the benefit of our kind. However, we were not the first ones to do so. The Riftbreaker: Metal Terror allows you to explore the previously unknown regions of Galatea 37, which bore witness to cataclysmic events thousands of years ago. This World Expansion introduces new gameplay mechanics and dozens of new items and technologies. Use them to your advantage to survive against an ancient threat.<h2 class=\"bb_tag\">About The Expansion:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_fighting.gif?t=1685363612\" /><br>Metal Terror is the first World Expansion for The Riftbreaker, introducing an entirely new part of the Story Campaign, playing out in a previously unexplored biome. A unique astronomical event takes place during Ashley\u2019s Riftbreaking mission. Its aftermath reveals that Galatea 37 was hiding a dark secret the whole time. Driven by your scientific curiosity, explore the previously hidden corners of the planet. Study the new ecosystem. Find useful resources and adapt your technology to make use of them. Face new enemies, both natural and unnatural.<h2 class=\"bb_tag\">Features:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_exploration.gif?t=1685363612\" /><br><ul class=\"bb_ul\"><li>Discover a new branch of the Story Campaign, that will take you on a journey into the unknown.<br></li><li>Establish an Outpost in a brand-new area of the planet - if you dare.<br></li><li>Scan, analyze, and catalog the unique fauna and flora of the new biome.<br></li><li>Face several new enemy species, each posing a different kind of challenge.<br></li><li>Research new additions to the technology tree, utilizing the curiosities you discover in the new biome: buildings, weapons, and equipment.<br></li><li>Solve the mystery that remained hidden for millennia.</li></ul><h2 class=\"bb_tag\">Contents of this Expansion:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_building.gif?t=1685363612\" /><br>The Story portion of this Expansion is integrated with the Main Campaign from the base edition of The Riftbreaker. The new branch and the contents of the expansion will unlock as you progress through the game. If you have previously completed The Riftbreaker Story Campaign, you can continue your adventure where you left off. The additional part of the Story will unlock immediately, giving you the option to explore the new part of the world.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/page_bg_generated_v6b.jpg?t=1685363612",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/page_bg_generated.jpg?t=1685363612",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/capsule_231x87.jpg?t=1685363612",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/capsule_184x69.jpg?t=1685363612",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        },
+        {
+            "description": "Remote Play on TV",
+            "id": 43
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "We came to this world to claim it for the benefit of our kind. However, we were not the first ones to do so. The Riftbreaker: Metal Terror allows you to explore the previously unknown regions of Galatea 37, which bore witness to cataclysmic events thousands of years ago. This World Expansion introduces new gameplay mechanics and dozens of new items and technologies. Use them to your advantage to survive against an ancient threat.<h2 class=\"bb_tag\">About The Expansion:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_fighting.gif?t=1685363612\" /><br>Metal Terror is the first World Expansion for The Riftbreaker, introducing an entirely new part of the Story Campaign, playing out in a previously unexplored biome. A unique astronomical event takes place during Ashley\u2019s Riftbreaking mission. Its aftermath reveals that Galatea 37 was hiding a dark secret the whole time. Driven by your scientific curiosity, explore the previously hidden corners of the planet. Study the new ecosystem. Find useful resources and adapt your technology to make use of them. Face new enemies, both natural and unnatural.<h2 class=\"bb_tag\">Features:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_exploration.gif?t=1685363612\" /><br><ul class=\"bb_ul\"><li>Discover a new branch of the Story Campaign, that will take you on a journey into the unknown.<br></li><li>Establish an Outpost in a brand-new area of the planet - if you dare.<br></li><li>Scan, analyze, and catalog the unique fauna and flora of the new biome.<br></li><li>Face several new enemy species, each posing a different kind of challenge.<br></li><li>Research new additions to the technology tree, utilizing the curiosities you discover in the new biome: buildings, weapons, and equipment.<br></li><li>Solve the mystery that remained hidden for millennia.</li></ul><h2 class=\"bb_tag\">Contents of this Expansion:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945600/extras/metal_terror_building.gif?t=1685363612\" /><br>The Story portion of this Expansion is integrated with the Main Campaign from the base edition of The Riftbreaker. The new branch and the contents of the expansion will unlock as you progress through the game. If you have previously completed The Riftbreaker Story Campaign, you can continue your adventure where you left off. The additional part of the Story will unlock immediately, giving you the option to explore the new part of the world.",
+    "developers": [
+        "EXOR Studios"
+    ],
+    "fullgame": {
+        "appid": "780310",
+        "name": "The Riftbreaker"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/header.jpg?t=1685363612",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256896902,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256896902/movie480.mp4?t=1658160142",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256896902/movie_max.mp4?t=1658160142"
+            },
+            "name": "The Riftbreaker: Metal Terror Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256896902/movie.293x165.jpg?t=1658160142",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256896902/movie480_vp9.webm?t=1658160142",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256896902/movie_max_vp9.webm?t=1658160142"
+            }
+        }
+    ],
+    "name": "The Riftbreaker: Metal Terror",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Riftbreaker - Metal Terror - <span class=\"discount_original_price\">$9.99</span> $5.99",
+                    "packageid": 701206,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-40% ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy The Riftbreaker: Metal Terror"
+        }
+    ],
+    "packages": [
+        701206
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8.1<br></li><li><strong>Processor:</strong> Intel i5 gen 2 or AMD Bulldozer {4 cores)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 2GB or AMD R7 265 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br></li><li><strong>Additional Notes:</strong> Windows 7 is not supported</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 gen 2 or AMD Ryzen<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia RTX 2080 6GB or AMD Radeon 6800<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br></li><li><strong>Additional Notes:</strong> Windows 7 is not supported</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 40,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 999,
+        "initial_formatted": "$9.99"
+    },
+    "publishers": [
+        "EXOR Studios",
+        "Surefire.Games"
+    ],
+    "recommendations": {
+        "total": 229
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 18, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_fb3995ea7273ceb1e8a04995661a4defa81e5ba5.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_fb3995ea7273ceb1e8a04995661a4defa81e5ba5.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ae737d813773410df413015d84e7ae0584ea0e10.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ae737d813773410df413015d84e7ae0584ea0e10.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_dbd189cb683c5855050ee81e67b080c0fe13ea76.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_dbd189cb683c5855050ee81e67b080c0fe13ea76.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_dd34ac51ea705fb1938a47136e81fc9b6889b0bf.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_dd34ac51ea705fb1938a47136e81fc9b6889b0bf.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_69e93dc4deb47bcb402e7540342243326d751045.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_69e93dc4deb47bcb402e7540342243326d751045.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ad45352d77e3df25b9aaa71878184584e2c038c4.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ad45352d77e3df25b9aaa71878184584e2c038c4.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_bc444e79ce3d8a681f22b72ce099f52807230554.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_bc444e79ce3d8a681f22b72ce099f52807230554.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_e4d5d24603a8d2b17e53241ae83d46ed3a28f05d.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_e4d5d24603a8d2b17e53241ae83d46ed3a28f05d.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_e5b8d8804f787093fafe8428dd4f2b74bf14bd16.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_e5b8d8804f787093fafe8428dd4f2b74bf14bd16.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_edab34bddc5764be4d586962d12185833745e569.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_edab34bddc5764be4d586962d12185833745e569.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_9f847b2a6ecde32dac9118f804b9d6e64d67f2bf.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_9f847b2a6ecde32dac9118f804b9d6e64d67f2bf.600x338.jpg?t=1685363612"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ea64fbde5dda2f31913348a8bd75a6b8104b516e.1920x1080.jpg?t=1685363612",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945600/ss_ea64fbde5dda2f31913348a8bd75a6b8104b516e.600x338.jpg?t=1685363612"
+        }
+    ],
+    "short_description": "Explore an entirely new area of Galatea 37 in this Story Campaign expansion for The Riftbreaker. Catalog new species. Craft new and unique weapons. Fight hordes of aliens unlike anything you've seen before.",
+    "steam_appid": 1945600,
+    "support_info": {
+        "email": "support@exorstudios.com",
+        "url": "http://www.riftbreaker.com"
+    },
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://www.riftbreaker.com/"
+}

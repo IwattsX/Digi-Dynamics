@@ -1,0 +1,110 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">The game</h2><i>It Came From Within</i> is a short first-person psychological horror walking simulator which can be completed in 30 minutes.<br><br>Set in the mid-1970s, life in the Faraday luxury apartment complex was perfect. That is, until something crawled up the kitchen sink drain. Now it is your reponsibility. <br><br>Take care of it. Give it food and entertainment. Watch it grow. Make decisions that will shape how it will grow up. And whatever you do, keep it inside. Do not let it out. For God's sake, never EVER let it out.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mature themes : A short, disturbing story about trauma and parenthood<br></li><li>Choices matter : More than 30 different endings possible<br></li><li>Low risk gameplay : no enemies putting the player in danger, just a tense and heavy atmosphere</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/page_bg_generated_v6b.jpg?t=1667223729",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/page_bg_generated.jpg?t=1667223729",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/capsule_231x87.jpg?t=1667223729",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/capsule_184x69.jpg?t=1667223729",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Implied violence towards a child-like creature."
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">The game</h2><i>It Came From Within</i> is a short first-person psychological horror walking simulator which can be completed in 30 minutes.<br><br>Set in the mid-1970s, life in the Faraday luxury apartment complex was perfect. That is, until something crawled up the kitchen sink drain. Now it is your reponsibility. <br><br>Take care of it. Give it food and entertainment. Watch it grow. Make decisions that will shape how it will grow up. And whatever you do, keep it inside. Do not let it out. For God's sake, never EVER let it out.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mature themes : A short, disturbing story about trauma and parenthood<br></li><li>Choices matter : More than 30 different endings possible<br></li><li>Low risk gameplay : no enemies putting the player in danger, just a tense and heavy atmosphere</li></ul>",
+    "developers": [
+        "Somewhat Software"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/header.jpg?t=1667223729",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256879269,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879269/movie480.mp4?t=1648311335",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879269/movie_max.mp4?t=1648311335"
+            },
+            "name": "It Came From Within - Teaser Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256879269/movie.293x165.jpg?t=1648311335",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879269/movie480_vp9.webm?t=1648311335",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879269/movie_max_vp9.webm?t=1648311335"
+            }
+        }
+    ],
+    "name": "It Came From Within",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Processor:</strong> SSE2 Instruction Set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> At Least GeForce 8xxx, Radeon X2400 or Intel G45<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Onboard Sound Card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Somewhat Software"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_96ec3d3130924ad390c1155ab46f476c23e90d5a.1920x1080.jpg?t=1667223729",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_96ec3d3130924ad390c1155ab46f476c23e90d5a.600x338.jpg?t=1667223729"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_e5d1f60e0927d2c76c741f3cbe3f03770bc26b18.1920x1080.jpg?t=1667223729",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_e5d1f60e0927d2c76c741f3cbe3f03770bc26b18.600x338.jpg?t=1667223729"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_44c9fc76b9c4f8c3243764a980a14310ffe8e63d.1920x1080.jpg?t=1667223729",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_44c9fc76b9c4f8c3243764a980a14310ffe8e63d.600x338.jpg?t=1667223729"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_9df281e877828e48ab67c341eadd6cde2b0d5d09.1920x1080.jpg?t=1667223729",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_9df281e877828e48ab67c341eadd6cde2b0d5d09.600x338.jpg?t=1667223729"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_e5007d02e06f43e2032b4df285745046a0966598.1920x1080.jpg?t=1667223729",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944740/ss_e5007d02e06f43e2032b4df285745046a0966598.600x338.jpg?t=1667223729"
+        }
+    ],
+    "short_description": "Something crawled up the kitchen sink drain. Now it is your responsibility. Make choices that will affect its growth in this short disturbing first-person psychological horror walking simulator.",
+    "steam_appid": 1944740,
+    "support_info": {
+        "email": "contact@somewhatsoftware.com",
+        "url": "https://www.somewhatsoftware.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.somewhatsoftware.com/"
+}

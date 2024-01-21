@@ -1,0 +1,188 @@
+{
+    "about_the_game": "This route starts in the west, from the Canadian Rocky Mountains Beavermouth to Ottertail route's eastern end, and runs through to the south of Castle Junction.<br />\r\n<br />\r\nThe famous U spiral tunnels lead you through the Continental Divide, Lake Louise, Eldon Siding onto Castle Junction siding and industries.<br />\r\n<br />\r\nEach segment/route brings you closer to Calgary.<br />\r\n<br />\r\nMountain and Glacier lovers alike will be amazed by steep challenging grades through spiral tunnels along wild running creeks in a pristine breathtaking high altitude mountain environment.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/page_bg_generated_v6b.jpg?t=1653976279",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/page_bg_generated.jpg?t=1653976279",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/capsule_231x87.jpg?t=1653976279",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/capsule_184x69.jpg?t=1653976279",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This route starts in the west, from the Canadian Rocky Mountains Beavermouth to Ottertail route's eastern end, and runs through to the south of Castle Junction.<br />\r\n<br />\r\nThe famous U spiral tunnels lead you through the Continental Divide, Lake Louise, Eldon Siding onto Castle Junction siding and industries.<br />\r\n<br />\r\nEach segment/route brings you closer to Calgary.<br />\r\n<br />\r\nMountain and Glacier lovers alike will be amazed by steep challenging grades through spiral tunnels along wild running creeks in a pristine breathtaking high altitude mountain environment.",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/header.jpg?t=1653976279",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Canadian Rocky Mountains Ottertail to Castle Jct",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Canadian Rocky Mountains Ottertail to Castle Jct - $39.99",
+                    "packageid": 701508,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 3999
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Canadian Rocky Mountains Ottertail to Castle Jct"
+        }
+    ],
+    "packages": [
+        701508
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 3999,
+        "final_formatted": "$39.99",
+        "initial": 3999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8b952978cddcf38449eac857116ae5d2bec1210e.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8b952978cddcf38449eac857116ae5d2bec1210e.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_053df86c7e46c19a267a725365c8033ddf428fca.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_053df86c7e46c19a267a725365c8033ddf428fca.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_78a0f95d1e8b2411bd9b6877d1adbd21da66c557.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_78a0f95d1e8b2411bd9b6877d1adbd21da66c557.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_a527e1437162dd382a680247333c4b2437e8e72d.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_a527e1437162dd382a680247333c4b2437e8e72d.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_c7197cad379aa581e8570b9d2252818c85f60de5.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_c7197cad379aa581e8570b9d2252818c85f60de5.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_a0bd79a26321e0dab4a2028f4ce32ee79286e78c.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_a0bd79a26321e0dab4a2028f4ce32ee79286e78c.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_2cfb4a4f7cf8521a058541b0660f2cc9a1c76bb7.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_2cfb4a4f7cf8521a058541b0660f2cc9a1c76bb7.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8ec8391dd8bc7236a337ea03b8dc5b489afe9a3e.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8ec8391dd8bc7236a337ea03b8dc5b489afe9a3e.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_cdfe5209c51b4c9f7be2bae354860a907fdef8c0.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_cdfe5209c51b4c9f7be2bae354860a907fdef8c0.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8a1ef533fbeab7697d8afa85c1aa3df084950019.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_8a1ef533fbeab7697d8afa85c1aa3df084950019.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_3bacf5891907f1468bf4690bb426a14dc74ceb80.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_3bacf5891907f1468bf4690bb426a14dc74ceb80.600x338.jpg?t=1653976279"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_f69ce695fd5b674bf6e2c7631256a2343eef5d88.1920x1080.jpg?t=1653976279",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946295/ss_f69ce695fd5b674bf6e2c7631256a2343eef5d88.600x338.jpg?t=1653976279"
+        }
+    ],
+    "short_description": "Drive the picturesque Ottertail to Castle Junction section of the Canadian Rocky Mountains railway, travelling through the famouse U spiral tunnels!",
+    "steam_appid": 1946295,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

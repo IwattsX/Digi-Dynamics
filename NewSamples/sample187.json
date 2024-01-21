@@ -1,0 +1,162 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944130/extras/logo.png?t=1676862776\" />.<br>BrainAccelerator is a multiplayer TPS.<br>Customize your inventory uniquely and strategize to win.<h2 class=\"bb_tag\">Utilize your Bullet Time and strategically pack your enemies!!! </h2>In BrainAccelerator, when a threat approaches a player, all players on the map enter Bullet Time.<br>Dodge bullets and blasts, and run around the battlefield as you wish.<h2 class=\"bb_tag\">Defeat the Champion! </h2>Players are free to enter battles at will.<br>When you become a champion, your kill points, damage, score, and survival time will be added up and you will be registered in the ranking!<br>Aim for the top ranking!<br><br>For more information, plans, and announcements about the game's development, join our Discord now!<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FJVG7S5nnEr\" target=\"_blank\" rel=\" noopener\"  >Discord is here! </a>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/page_bg_generated_v6b.jpg?t=1676862776",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/page.bg.jpg?t=1676862776",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/capsule_231x87.jpg?t=1676862776",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/capsule_184x69.jpg?t=1676862776",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944130/extras/logo.png?t=1676862776\" />.<br>BrainAccelerator is a multiplayer TPS.<br>Customize your inventory uniquely and strategize to win.<h2 class=\"bb_tag\">Utilize your Bullet Time and strategically pack your enemies!!! </h2>In BrainAccelerator, when a threat approaches a player, all players on the map enter Bullet Time.<br>Dodge bullets and blasts, and run around the battlefield as you wish.<h2 class=\"bb_tag\">Defeat the Champion! </h2>Players are free to enter battles at will.<br>When you become a champion, your kill points, damage, score, and survival time will be added up and you will be registered in the ranking!<br>Aim for the top ranking!<br><br>For more information, plans, and announcements about the game's development, join our Discord now!<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FJVG7S5nnEr\" target=\"_blank\" rel=\" noopener\"  >Discord is here! </a>",
+    "developers": [
+        "ASTERIOS Co., Ltd."
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/header.jpg?t=1676862776",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256929720,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256929720/movie480.mp4?t=1675945685",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256929720/movie_max.mp4?t=1675945685"
+            },
+            "name": "pv",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256929720/movie.293x165.jpg?t=1675945685",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256929720/movie480_vp9.webm?t=1675945685",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256929720/movie_max_vp9.webm?t=1675945685"
+            }
+        }
+    ],
+    "name": "BrainAccelerator",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "BrainAccelerator - $12.99",
+                    "packageid": 700524,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1299
+                }
+            ],
+            "title": "Buy BrainAccelerator"
+        }
+    ],
+    "packages": [
+        700524
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 - 64bit<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 - 64bit<br></li><li><strong>Processor:</strong> Intel Core i7</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1299,
+        "final_formatted": "$12.99",
+        "initial": 1299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "ASTERIOS Co., Ltd."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_0be18af4d3cc3bd1d9c5fd1c8f3ec3d28a8927cf.1920x1080.jpg?t=1676862776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_0be18af4d3cc3bd1d9c5fd1c8f3ec3d28a8927cf.600x338.jpg?t=1676862776"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_72a1651ebccc6ca633bc9e102e491adca3858fa6.1920x1080.jpg?t=1676862776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_72a1651ebccc6ca633bc9e102e491adca3858fa6.600x338.jpg?t=1676862776"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_bbfb319d3dfdeb1b15836dd974a6c49ba66341c0.1920x1080.jpg?t=1676862776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_bbfb319d3dfdeb1b15836dd974a6c49ba66341c0.600x338.jpg?t=1676862776"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_20686c3d8a2179e758b9de6d7122cf2dc097021e.1920x1080.jpg?t=1676862776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_20686c3d8a2179e758b9de6d7122cf2dc097021e.600x338.jpg?t=1676862776"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_a1b155da6f987653da7b8b0de350ce6c0bc76582.1920x1080.jpg?t=1676862776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944130/ss_a1b155da6f987653da7b8b0de350ce6c0bc76582.600x338.jpg?t=1676862776"
+        }
+    ],
+    "short_description": "The TPS game BrainAccelerator offers multiplayer, bullet-time action.",
+    "steam_appid": 1944130,
+    "support_info": {
+        "email": "support@asterios.biz",
+        "url": "https://br-ac.com/"
+    },
+    "supported_languages": "English, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://br-ac.com/"
+}

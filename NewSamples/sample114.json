@@ -1,0 +1,94 @@
+{
+    "about_the_game": "Complete soundtrack with 6 tracks composed &amp; produced by Hatus Quemuel<h2 class=\"bb_tag\">Tracks:</h2>01 - EvoluShip<br>02 - Network Consciousness A<br>03 - Network Consciousness B<br>04 - Network Consciousness C<br>05 - Network Consciousness D<br>06 - Network Consciousness E",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/page_bg_generated_v6b.jpg?t=1669140441",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/page_bg_generated.jpg?t=1669140441",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/capsule_231x87.jpg?t=1669140441",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/capsule_184x69.jpg?t=1669140441",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Complete soundtrack with 6 tracks composed &amp; produced by Hatus Quemuel<h2 class=\"bb_tag\">Tracks:</h2>01 - EvoluShip<br>02 - Network Consciousness A<br>03 - Network Consciousness B<br>04 - Network Consciousness C<br>05 - Network Consciousness D<br>06 - Network Consciousness E",
+    "developers": [
+        "Hatus Quemuel"
+    ],
+    "fullgame": {
+        "appid": "1937180",
+        "name": "EvoluShip"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/header.jpg?t=1669140441",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "EvoluShip Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "EvoluShip Soundtrack - $4.99",
+                    "packageid": 700869,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy EvoluShip Soundtrack"
+        }
+    ],
+    "packages": [
+        700869
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "JOZGames"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 22, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/ss_fb2649ce235c6a7a90918527c2390c5c7dff0e7d.1920x1080.jpg?t=1669140441",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/ss_fb2649ce235c6a7a90918527c2390c5c7dff0e7d.600x338.jpg?t=1669140441"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/ss_d7e1510bc317268f56b18b33c43b97db308bcc5d.1920x1080.jpg?t=1669140441",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944950/ss_d7e1510bc317268f56b18b33c43b97db308bcc5d.600x338.jpg?t=1669140441"
+        }
+    ],
+    "short_description": "Complete soundtrack with 6 tracks composed &amp; produced by Hatus Quemuel",
+    "steam_appid": 1944950,
+    "support_info": {
+        "email": "joz.gamer@bol.com.br",
+        "url": "https://www.facebook.com/jozgames"
+    },
+    "type": "music",
+    "website": null
+}

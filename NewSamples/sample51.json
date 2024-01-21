@@ -1,0 +1,203 @@
+{
+    "about_the_game": "The Payday Gang gets contacted with an offer. Gemma McShay offers a new and lucrative opportunity in Texas. Her first shipment to the crew contains new outfits, letting the heisters fit in as they head southbound to Texas.<br><br>The Southbound Tailor Pack is also included in the <a href=\"https://store.steampowered.com/app/1947900/PAYDAY_2_Midland_Bundle\" target=\"_blank\" rel=\"\"  >Midland Bundle</a>. <i>Please note that if this DLC is purchased separately, the bundle will become unavailable for purchase.</i><br><br>The Following is included in Southbound Tailor Pack:<br>2 Outfits with variations<br>4 Gloves<br>2 Masks with variations<br><br>New outfits<br>The following outfits are included in Southbound Tailor Pack:<br><ul class=\"bb_ul\">Trailblazer\tWith variations<ul class=\"bb_ul\"><li>Modern<br></li><li>Classic<br></li><li>Denim<br></li><li>Rogue</li></ul></ul><ul class=\"bb_ul\">Rough RiderWith variations<ul class=\"bb_ul\"><li>Prestige<br></li><li>Woodland<br></li><li>Midnight<br></li><li>Chill</li></ul></ul>Masks<br>The following masks are included in Southbound Tailor Pack:<br><i>Each variation is a separate mask in the inventory</i><br><ul class=\"bb_ul\">Baseball Cap\tWith variations<ul class=\"bb_ul\"><li>Blood Money<br></li><li>Don't Mess With Texas<br></li><li>Speedway</li></ul></ul><ul class=\"bb_ul\">Cowboy Hat\tWith variations<ul class=\"bb_ul\"><li>Lone Star<br></li><li>Open Plain<br></li><li>El Capitan<br></li><li>Triggerman</li></ul></ul>Gloves<br>The following gloves are included in Southbound Tailor Pack:<br><ul class=\"bb_ul\"><li>Untamed<br></li><li>True Grit<br></li><li>Bandido<br></li><li>Rodeo Star</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/page_bg_generated_v6b.jpg?t=1653033904",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/page.bg.jpg?t=1653033904",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/capsule_231x87.jpg?t=1653033904",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/capsule_184x69.jpg?t=1653033904",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play on TV",
+            "id": 43
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "The Payday Gang gets contacted with an offer. Gemma McShay offers a new and lucrative opportunity in Texas. Her first shipment to the crew contains new outfits, letting the heisters fit in as they head southbound to Texas.<br><br>The Southbound Tailor Pack is also included in the <a href=\"https://store.steampowered.com/app/1947900/PAYDAY_2_Midland_Bundle\" target=\"_blank\" rel=\"\"  >Midland Bundle</a>. <i>Please note that if this DLC is purchased separately, the bundle will become unavailable for purchase.</i><br><br>The Following is included in Southbound Tailor Pack:<br>2 Outfits with variations<br>4 Gloves<br>2 Masks with variations<br><br>New outfits<br>The following outfits are included in Southbound Tailor Pack:<br><ul class=\"bb_ul\">Trailblazer\tWith variations<ul class=\"bb_ul\"><li>Modern<br></li><li>Classic<br></li><li>Denim<br></li><li>Rogue</li></ul></ul><ul class=\"bb_ul\">Rough RiderWith variations<ul class=\"bb_ul\"><li>Prestige<br></li><li>Woodland<br></li><li>Midnight<br></li><li>Chill</li></ul></ul>Masks<br>The following masks are included in Southbound Tailor Pack:<br><i>Each variation is a separate mask in the inventory</i><br><ul class=\"bb_ul\">Baseball Cap\tWith variations<ul class=\"bb_ul\"><li>Blood Money<br></li><li>Don't Mess With Texas<br></li><li>Speedway</li></ul></ul><ul class=\"bb_ul\">Cowboy Hat\tWith variations<ul class=\"bb_ul\"><li>Lone Star<br></li><li>Open Plain<br></li><li>El Capitan<br></li><li>Triggerman</li></ul></ul>Gloves<br>The following gloves are included in Southbound Tailor Pack:<br><ul class=\"bb_ul\"><li>Untamed<br></li><li>True Grit<br></li><li>Bandido<br></li><li>Rodeo Star</li></ul>",
+    "developers": [
+        "OVERKILL - a Starbreeze Studio."
+    ],
+    "fullgame": {
+        "appid": "218620",
+        "name": "PAYDAY 2"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/header.jpg?t=1653033904",
+    "is_free": false,
+    "legal_notice": "\"PAYDAY 2 \u00ae\u201d and \"OVERKILL A STARBREEZE STUDIO\u00ae\" are registered trademarks of New Starbreeze Publishing AB  and/or its affiliated companies in the United States and other countries.<br />\r\nAll other trademarks are properties of their respective owners. All rights reserved.  <br />\r\n<br />\r\n\u00a92020 New Starbreeze Publishing AB  <br />\r\nALL RIGHTS RESERVED",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256883002,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883002/movie480.mp4?t=1650467246",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883002/movie_max.mp4?t=1650467246"
+            },
+            "name": "PAYDAY 2: Southbound Tailor Pack Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256883002/movie.293x165.jpg?t=1650467246",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883002/movie480_vp9.webm?t=1650467246",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883002/movie_max_vp9.webm?t=1650467246"
+            }
+        }
+    ],
+    "name": "PAYDAY 2: Southbound Tailor Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "PAYDAY 2: Southbound Tailor Pack - $2.99",
+                    "packageid": 701238,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy PAYDAY 2: Southbound Tailor Pack"
+        }
+    ],
+    "packages": [
+        701238
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows 7<br>\t</li><li><strong>Processor:</strong>2 GHz Intel Dual Core Processor<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia &amp; AMD (512MB VRAM)<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Storage:</strong>83 GB available space<br>\t</li><li><strong>Sound:</strong>DirectX 9.0c compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 10<br>\t</li><li><strong>Processor:</strong>2.3 GHz Intel Quad Core Processor<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia &amp; AMD (1GB VRAM)<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Storage:</strong>83 GB available space<br>\t</li><li><strong>Sound:</strong>DirectX 9.0c compatible</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Starbreeze Publishing AB"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 20, 2022"
+    },
+    "required_age": "18",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_ee8c21d1a58313d4d91a466ec7cc5166a68f5fc2.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_ee8c21d1a58313d4d91a466ec7cc5166a68f5fc2.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_98883a6fd2eb703df934d026e11579f2a96cb1ad.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_98883a6fd2eb703df934d026e11579f2a96cb1ad.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_3db58f6e3b53839eb73615d2fba96e4235c7f61b.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_3db58f6e3b53839eb73615d2fba96e4235c7f61b.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_6c42ad47fdb2b8651ac0fa22d7bc8648b51a2222.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_6c42ad47fdb2b8651ac0fa22d7bc8648b51a2222.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_7cdb55990243736730457d07bcf22990a74855c3.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_7cdb55990243736730457d07bcf22990a74855c3.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_47ed6af8f297a3376d82e4c979cd398cf566a1bc.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_47ed6af8f297a3376d82e4c979cd398cf566a1bc.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_fcdca01fa9f299b26ca9e5922a38d145a15f8f42.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_fcdca01fa9f299b26ca9e5922a38d145a15f8f42.600x338.jpg?t=1653033904"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_54883f8aae82854f6bda13e7c57bae7a351919cb.1920x1080.jpg?t=1653033904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945680/ss_54883f8aae82854f6bda13e7c57bae7a351919cb.600x338.jpg?t=1653033904"
+        }
+    ],
+    "short_description": "The crew heads southbound for Texas, donned in new outfits and ready for action.",
+    "steam_appid": 1945680,
+    "support_info": {
+        "email": "info@overkillsoftware.com",
+        "url": "http://steamcommunity.com/app/218620/discussions/14/"
+    },
+    "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain, Dutch, Russian, Japanese, Simplified Chinese, Spanish - Latin America, Korean<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://www.paydaythegame.com/"
+}

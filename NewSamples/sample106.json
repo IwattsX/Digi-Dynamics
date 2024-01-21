@@ -1,0 +1,146 @@
+{
+    "about_the_game": "Bad cops take on a variety of scenarios. Solo or Co-op mission assignments with your other players. Team-based competitive FPS mode. Save hostages, stop heists and get promoted to the become the Chief of Police. Or will your behaviour earn you a reputation as the infamous Bad Cop?<br />\r\n<br />\r\nUpon completing each mission you will be judged on your performance. You can complete an assignment perfectly and earn &quot;Good Cop&quot; XP by using non-lethal arrest techniques on the criminals and by ensuring innocent bystanders are kept away from danger and unharmed. Likewise you can earn &quot;Bad Cop&quot; XP by completing assignments in a less-than perfect fashion (for example for unnecessary killing of criminals, harming innocent people or causing unwarranted property damage).<br />\r\n<br />\r\nBefore each mission begins you will be given a briefing. These briefings will contain some of the information you need to plan your raid. However, some scenarios will lack crucial information due to their nature that they are happening fast and the information simply is not known at the time of the distress call. You will have to use your own initiative and police training to conduct the operation in a professional manner.<br />\r\n<br />\r\nThe Good Cop/Bad Cop XP system will effect the future assignments you receive.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/page_bg_generated_v6b.jpg?t=1650678426",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/page_bg_generated.jpg?t=1650678426",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/capsule_231x87.jpg?t=1650678426",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/capsule_184x69.jpg?t=1650678426",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Steam Turn Notifications",
+            "id": 32
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Bad cops take on a variety of scenarios. Solo or Co-op mission assignments with your other players. Team-based competitive FPS mode. Save hostages, stop heists and get promoted to the become the Chief of Police. Or will your behaviour earn you a reputation as the infamous Bad Cop?<br />\r\n<br />\r\nUpon completing each mission you will be judged on your performance. You can complete an assignment perfectly and earn &quot;Good Cop&quot; XP by using non-lethal arrest techniques on the criminals and by ensuring innocent bystanders are kept away from danger and unharmed. Likewise you can earn &quot;Bad Cop&quot; XP by completing assignments in a less-than perfect fashion (for example for unnecessary killing of criminals, harming innocent people or causing unwarranted property damage).<br />\r\n<br />\r\nBefore each mission begins you will be given a briefing. These briefings will contain some of the information you need to plan your raid. However, some scenarios will lack crucial information due to their nature that they are happening fast and the information simply is not known at the time of the distress call. You will have to use your own initiative and police training to conduct the operation in a professional manner.<br />\r\n<br />\r\nThe Good Cop/Bad Cop XP system will effect the future assignments you receive.",
+    "developers": [
+        "MegaCorp"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/header.jpg?t=1650678426",
+    "is_free": false,
+    "legal_notice": "\u00a9 MegaCorp 2022",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Bad Cops",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Quad core CPU<br></li><li><strong>Graphics:</strong> 512MB  VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "MegaCorp"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": "17",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_9ac530bd0776fc2f2d5b597753a44acd476844be.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_9ac530bd0776fc2f2d5b597753a44acd476844be.600x338.jpg?t=1650678426"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_6650635fce513f5b5a7f3fa076139388173356c1.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_6650635fce513f5b5a7f3fa076139388173356c1.600x338.jpg?t=1650678426"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_2a427f0bac7dab8a70c18b3df8a5441823d1bef6.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_2a427f0bac7dab8a70c18b3df8a5441823d1bef6.600x338.jpg?t=1650678426"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_6c32c728274fe2971c122614acb5ba6ee4dbe575.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_6c32c728274fe2971c122614acb5ba6ee4dbe575.600x338.jpg?t=1650678426"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_8a401e185cb3618a4e0a39ffc173a791c39f08e7.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_8a401e185cb3618a4e0a39ffc173a791c39f08e7.600x338.jpg?t=1650678426"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_b3b84ed1ec464040f72618e894f7cd978c91e3b4.1920x1080.jpg?t=1650678426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944870/ss_b3b84ed1ec464040f72618e894f7cd978c91e3b4.600x338.jpg?t=1650678426"
+        }
+    ],
+    "short_description": "A tactical SWAT simulator to be played solo or with friends/other Steam players. Are you a good cop or a bad cop?",
+    "steam_appid": 1944870,
+    "support_info": {
+        "email": "megacorp.arts@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

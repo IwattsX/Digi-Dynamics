@@ -1,0 +1,178 @@
+{
+    "about_the_game": "Somewhere in Canada, in the city of Longview, offers a challenging industrial park that will challenge the train crews critical thinking skills to navigate and properly spot the freight cars.<br />\r\n<br />\r\nIndustrial Switching is an industrial themed route servicing 15 industries. The track is owned and maintained by Canadian Nation which services the industries 2-3 times a week. The primary power used during the switching is a single locomotive. The area is setup in a way, and without carefully planning your moves, can result having your engine at the other end of your train, so be prepared to exercise your critical thinking skills.<br />\r\n<br />\r\n<br />\r\n<br />\r\nSpecial Features:<br />\r\nThis DLC includes custom achievements that can be obtained. To view the achievements, go to System Menu &gt; Achievements.<br />\r\n<br />\r\n<br />\r\nDeveloped by Hiawathamr Trainz Add-ons",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/page_bg_generated_v6b.jpg?t=1653972545",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/page_bg_generated.jpg?t=1653972545",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/capsule_231x87.jpg?t=1653972545",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/capsule_184x69.jpg?t=1653972545",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Somewhere in Canada, in the city of Longview, offers a challenging industrial park that will challenge the train crews critical thinking skills to navigate and properly spot the freight cars.<br />\r\n<br />\r\nIndustrial Switching is an industrial themed route servicing 15 industries. The track is owned and maintained by Canadian Nation which services the industries 2-3 times a week. The primary power used during the switching is a single locomotive. The area is setup in a way, and without carefully planning your moves, can result having your engine at the other end of your train, so be prepared to exercise your critical thinking skills.<br />\r\n<br />\r\n<br />\r\n<br />\r\nSpecial Features:<br />\r\nThis DLC includes custom achievements that can be obtained. To view the achievements, go to System Menu &gt; Achievements.<br />\r\n<br />\r\n<br />\r\nDeveloped by Hiawathamr Trainz Add-ons",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/header.jpg?t=1653972545",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Industrial Switching",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Industrial Switching - $9.99",
+                    "packageid": 700548,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Industrial Switching"
+        }
+    ],
+    "packages": [
+        700548
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_b7b00db4be84365db6e0b3309ba023d9c1d080a3.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_b7b00db4be84365db6e0b3309ba023d9c1d080a3.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_6bb5540322e786ae742716828d6c7a818d6f4488.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_6bb5540322e786ae742716828d6c7a818d6f4488.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_819b23eee1743a5a71451a61657c973babf5202c.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_819b23eee1743a5a71451a61657c973babf5202c.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_bc9071d4b7a5678002f6c3be67c28dc9a643b643.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_bc9071d4b7a5678002f6c3be67c28dc9a643b643.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_9672b0c06c351ea8ceebcf81e51048bba725fccb.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_9672b0c06c351ea8ceebcf81e51048bba725fccb.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_15ccad6aef963e48f70481293f26940cb93c2d79.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_15ccad6aef963e48f70481293f26940cb93c2d79.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_ebdb03b753c5db84c2278675dcda6268cdce2013.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_ebdb03b753c5db84c2278675dcda6268cdce2013.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_73d6933f3014d995f2f31a0c37bd48509b368afe.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_73d6933f3014d995f2f31a0c37bd48509b368afe.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_6f32bbdd43394784b367c88c786807924158c26b.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_6f32bbdd43394784b367c88c786807924158c26b.600x338.jpg?t=1653972545"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_de00840a8cbc6b3706f1b25658b1da7d3ee22ddc.1920x1080.jpg?t=1653972545",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944165/ss_de00840a8cbc6b3706f1b25658b1da7d3ee22ddc.600x338.jpg?t=1653972545"
+        }
+    ],
+    "short_description": "Somewhere in Canada, in the city of Longview, offers a challenging industrial park that will challenge the train crews critical thinking skills to navigate and properly spot the freight cars. Industrial Switching is an industrial themed route servicing 15 industries.",
+    "steam_appid": 1944165,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

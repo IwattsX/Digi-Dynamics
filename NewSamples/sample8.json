@@ -1,0 +1,173 @@
+{
+    "about_the_game": "You must Bite ALL of the people to make them into Vampires.<br />\r\n<br />\r\nCollect ALL Bitecoins.<br />\r\n<br />\r\nUse Speed Boost to traverse quickly across the Map.<br />\r\n<br />\r\nTransform into Goth Vamp.<br />\r\n<br />\r\nUse a Powerball to stun victims.<br />\r\n<br />\r\nDrive a Hearse in a race against time.<br />\r\n<br />\r\nFly as a Bat over the City to new heights.<br />\r\n<br />\r\nIf You are out in the Sunlight too long, You will catch on fire.<br />\r\n<br />\r\nBiting People restores some of Your Health.<br />\r\n<br />\r\n* This game has Permadeath, so, If You Die or Quit, You have to start over from the beginning. *",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/page_bg_generated_v6b.jpg?t=1698971136",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/page.bg.jpg?t=1698971136",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/capsule_231x87.jpg?t=1698971136",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/capsule_184x69.jpg?t=1698971136",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "You must Bite ALL of the people to make them into Vampires.<br />\r\n<br />\r\nCollect ALL Bitecoins.<br />\r\n<br />\r\nUse Speed Boost to traverse quickly across the Map.<br />\r\n<br />\r\nTransform into Goth Vamp.<br />\r\n<br />\r\nUse a Powerball to stun victims.<br />\r\n<br />\r\nDrive a Hearse in a race against time.<br />\r\n<br />\r\nFly as a Bat over the City to new heights.<br />\r\n<br />\r\nIf You are out in the Sunlight too long, You will catch on fire.<br />\r\n<br />\r\nBiting People restores some of Your Health.<br />\r\n<br />\r\n* This game has Permadeath, so, If You Die or Quit, You have to start over from the beginning. *",
+    "developers": [
+        "Archor Wright"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/header.jpg?t=1698971136",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256878973,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878973/movie480.mp4?t=1648095121",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878973/movie_max.mp4?t=1648095121"
+            },
+            "name": "Epic Vampire - Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256878973/movie.293x165.jpg?t=1648095121",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878973/movie480_vp9.webm?t=1648095121",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878973/movie_max_vp9.webm?t=1648095121"
+            }
+        }
+    ],
+    "name": "Epic Vampire",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Epic Vampire - <span class=\"discount_original_price\">$0.99</span> $0.69",
+                    "packageid": 701345,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-30% ",
+                    "price_in_cents_with_discount": 69
+                }
+            ],
+            "title": "Buy Epic Vampire"
+        }
+    ],
+    "packages": [
+        701345
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 30,
+        "final": 69,
+        "final_formatted": "$0.69",
+        "initial": 99,
+        "initial_formatted": "$0.99"
+    },
+    "publishers": [
+        "Archor Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 6, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_6b915641eee955c4c26b8d5ad7a01efe3c213d92.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_6b915641eee955c4c26b8d5ad7a01efe3c213d92.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_014adde2f99878d434858dc658847d799cfd01dd.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_014adde2f99878d434858dc658847d799cfd01dd.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_9e5283c5df258238dfde9282bccb067062d13997.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_9e5283c5df258238dfde9282bccb067062d13997.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_acaec1621ed1f63db8a89af2bfba222540e0144f.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_acaec1621ed1f63db8a89af2bfba222540e0144f.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_0f1b69da851f56c0afd4236f9e351629c0ef15ae.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_0f1b69da851f56c0afd4236f9e351629c0ef15ae.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_8420a2eef6469e32c90cce999b94a28b8ddd3bc6.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_8420a2eef6469e32c90cce999b94a28b8ddd3bc6.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_440b12005a23fbd896333d09d37b20f531f9add2.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_440b12005a23fbd896333d09d37b20f531f9add2.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_d108c02b0747d51251e5ff381b88b07b0f8307e5.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_d108c02b0747d51251e5ff381b88b07b0f8307e5.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_34ea81280d2b5ce04014296d09f2a4289174c608.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_34ea81280d2b5ce04014296d09f2a4289174c608.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_8d8da84e0b6a42e9810c78746accad8c5aefc54c.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_8d8da84e0b6a42e9810c78746accad8c5aefc54c.600x338.jpg?t=1698971136"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_6836b76a9438171fe644c97e136f95402ab794e4.1920x1080.jpg?t=1698971136",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945970/ss_6836b76a9438171fe644c97e136f95402ab794e4.600x338.jpg?t=1698971136"
+        }
+    ],
+    "short_description": "You must Bite ALL of the people to make them into Vampires. Collect ALL Bitecoins. Use Speed Boost, Transform, and Powerball. Drive a Hearse and Fly as a Bat. * This game has Permadeath, so, If You Die or Quit, You have to start over from the beginning. *",
+    "steam_appid": 1945970,
+    "support_info": {
+        "email": "archor@archor.com",
+        "url": "http://store.steampowered.com/search/?publisher=Archor%20Games"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://store.steampowered.com/search/?publisher=Archor%20Games"
+}

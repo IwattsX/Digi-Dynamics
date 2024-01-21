@@ -1,0 +1,142 @@
+{
+    "about_the_game": "Just a Ball: Jumping in the Space is a platform game with a simple mechanic inspired by jump king but don't let the name fool you, this is no ordinary little ball...<br />\r\nFollow our friend, get to know her story and how she got there! Lose your sanity jumping through dozens and dozens of cosmos (Be careful not to fall!) and most importantly: Enjoy the journey, because life is short.<br />\r\n<br />\r\nIn this game the challenge is to climb the highest possible by the space to beat it, remember to be careful so you dont fall and lose your progress. Here you will find 40 different levels with new mechanics along the game. It is worth mentioning the story points, pay attention in the details about the game so you can understand a little bit more about our main character.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/page_bg_generated_v6b.jpg?t=1650141518",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/page_bg_generated.jpg?t=1650141518",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/capsule_231x87.jpg?t=1650141518",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/capsule_184x69.jpg?t=1650141518",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Just a Ball: Jumping in the Space is a platform game with a simple mechanic inspired by jump king but don't let the name fool you, this is no ordinary little ball...<br />\r\nFollow our friend, get to know her story and how she got there! Lose your sanity jumping through dozens and dozens of cosmos (Be careful not to fall!) and most importantly: Enjoy the journey, because life is short.<br />\r\n<br />\r\nIn this game the challenge is to climb the highest possible by the space to beat it, remember to be careful so you dont fall and lose your progress. Here you will find 40 different levels with new mechanics along the game. It is worth mentioning the story points, pay attention in the details about the game so you can understand a little bit more about our main character.",
+    "developers": [
+        "Vilson J Santos"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/header.jpg?t=1650141518",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256880551,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256880551/movie480.mp4?t=1648913754",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256880551/movie_max.mp4?t=1648913754"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256880551/movie.293x165.jpg?t=1648913754",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256880551/movie480_vp9.webm?t=1648913754",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256880551/movie_max_vp9.webm?t=1648913754"
+            }
+        }
+    ],
+    "name": "Just a ball: Jumping in the space",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Just a ball: jumping in the space - $3.99",
+                    "packageid": 701484,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Just a ball: Jumping in the space"
+        }
+    ],
+    "packages": [
+        701484
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Intel Pentium 4 equivalent or faster processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Boreal Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 16, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_4302e4ce4fa76996c93c65e8787831b7307de61f.1920x1080.jpg?t=1650141518",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_4302e4ce4fa76996c93c65e8787831b7307de61f.600x338.jpg?t=1650141518"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_e5a8f355b7d6dc93884a77f16be16c5a13063142.1920x1080.jpg?t=1650141518",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_e5a8f355b7d6dc93884a77f16be16c5a13063142.600x338.jpg?t=1650141518"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_9a65911d50e241563470898360f84bdb6d2a0a9d.1920x1080.jpg?t=1650141518",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_9a65911d50e241563470898360f84bdb6d2a0a9d.600x338.jpg?t=1650141518"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_9aeabf016a1e52e92d84bc351f85d8d9f504ffb9.1920x1080.jpg?t=1650141518",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_9aeabf016a1e52e92d84bc351f85d8d9f504ffb9.600x338.jpg?t=1650141518"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_6880646d36a49df84d082ec78105342343e6fe16.1920x1080.jpg?t=1650141518",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946260/ss_6880646d36a49df84d082ec78105342343e6fe16.600x338.jpg?t=1650141518"
+        }
+    ],
+    "short_description": "Just a Ball: Jumping in the Space is a platform game with a simple mechanic inspired by jump king but don't let the name fool you, this is no ordinary little ball... Follow our friend, get to know her story and how she got there!",
+    "steam_appid": 1946260,
+    "support_info": {
+        "email": "borealgamesstudio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

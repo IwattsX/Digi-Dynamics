@@ -1,0 +1,167 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/2.png?t=1695998867\" /><br>Live fast, die ridiculously! The big brawl has begun, and you are invited to unleash chaos in the most thrilling battle arena ever seen through the eyes of goblins. Welcome to Goblin Gladiators, where danger lurks in every corner, fearsome foes await, and a deadly fog draws near. Will your pack of cunning goblin fighters rise to the top and claim victory in this heart-pounding spectacle? It's time to find out! <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_intro_store_page.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/1.png?t=1695998867\" /><br>Choose from three distinct character types - Sagittarius the archer, Secutor the warrior, and Dimachaerus the assassin. Each goblin possesses their own set of unique skills and abilities to match your play style. Level up and customize your warriors to dominate the arena! Every swing of your blade or crackle of arcane power can change the tide of battle - it's all up to you, you cunning Goblin!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/intro_store_page.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/4.png?t=1695998867\" /><br>The battle arena is fraught with peril as you face off against other teams of goblin gladiators and the intervention of hordes of nibblers and mythical opponents that can throw off your winning streak at any moment. Join forces with friends and challenge rival gobbo gladiators in exhilarating multiplayer battles. Only the smartest and most agile goblins will emerge victorious.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_nibberboomer_store.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/3.png?t=1695998867\" /><br>In Goblin Gladiators, death is just the beginning of the fun. You can equip devestating death effects that give you immediate revenge on your enemies. Even when your goblins fall, you still get to make a real impact on the gameplay. Choose to aid or sabotage other players, or return as a charging nibbler boomer, seeking revenge on your adversaries. The choices are limitless!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_death_anim_store.gif?t=1695998867\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/page_bg_generated_v6b.jpg?t=1695998867",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/page.bg.jpg?t=1695998867",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/capsule_231x87.jpg?t=1695998867",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/capsule_184x69.jpg?t=1695998867",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/2.png?t=1695998867\" /><br>Live fast, die ridiculously! The big brawl has begun, and you are invited to unleash chaos in the most thrilling battle arena ever seen through the eyes of goblins. Welcome to Goblin Gladiators, where danger lurks in every corner, fearsome foes await, and a deadly fog draws near. Will your pack of cunning goblin fighters rise to the top and claim victory in this heart-pounding spectacle? It's time to find out! <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_intro_store_page.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/1.png?t=1695998867\" /><br>Choose from three distinct character types - Sagittarius the archer, Secutor the warrior, and Dimachaerus the assassin. Each goblin possesses their own set of unique skills and abilities to match your play style. Level up and customize your warriors to dominate the arena! Every swing of your blade or crackle of arcane power can change the tide of battle - it's all up to you, you cunning Goblin!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/intro_store_page.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/4.png?t=1695998867\" /><br>The battle arena is fraught with peril as you face off against other teams of goblin gladiators and the intervention of hordes of nibblers and mythical opponents that can throw off your winning streak at any moment. Join forces with friends and challenge rival gobbo gladiators in exhilarating multiplayer battles. Only the smartest and most agile goblins will emerge victorious.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_nibberboomer_store.gif?t=1695998867\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/3.png?t=1695998867\" /><br>In Goblin Gladiators, death is just the beginning of the fun. You can equip devestating death effects that give you immediate revenge on your enemies. Even when your goblins fall, you still get to make a real impact on the gameplay. Choose to aid or sabotage other players, or return as a charging nibbler boomer, seeking revenge on your adversaries. The choices are limitless!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944710/extras/goblins_death_anim_store.gif?t=1695998867\" />",
+    "developers": [
+        "Runes Studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/header.jpg?t=1695998867",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256961483,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961483/movie480.mp4?t=1690989457",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961483/movie_max.mp4?t=1690989457"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256961483/movie.293x165.jpg?t=1690989457",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961483/movie480_vp9.webm?t=1690989457",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961483/movie_max_vp9.webm?t=1690989457"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256961488,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961488/movie480.mp4?t=1690989462",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961488/movie_max.mp4?t=1690989462"
+            },
+            "name": "Lore Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256961488/movie.293x165.jpg?t=1690989462",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961488/movie480_vp9.webm?t=1690989462",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961488/movie_max_vp9.webm?t=1690989462"
+            }
+        }
+    ],
+    "name": "Goblin Gladiators",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 and above<br></li><li><strong>Processor:</strong> Dual Core 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 750, GTX 660<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Quad-core 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 970, GTX 1060<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Jetpack Collective"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 23, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_82fb6f9514878d8b3d2038f2449afd80c46a02fa.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_82fb6f9514878d8b3d2038f2449afd80c46a02fa.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2a446499acc85b989e846d3f843bf47289cb78a6.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2a446499acc85b989e846d3f843bf47289cb78a6.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2543a21151487f7a6d25efb41e5a03a73a6c979f.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2543a21151487f7a6d25efb41e5a03a73a6c979f.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_cfba36e8cdd892eba3afaabd3c3e13ae4db33545.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_cfba36e8cdd892eba3afaabd3c3e13ae4db33545.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_aebecd4223ec4925745f57f8405599d18e0437af.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_aebecd4223ec4925745f57f8405599d18e0437af.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_5b2e5f376633ea321f1e13a0578ab7a83e9309d9.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_5b2e5f376633ea321f1e13a0578ab7a83e9309d9.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_e11d3de4f5f3fa455c34d13633eb74dfd2de8780.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_e11d3de4f5f3fa455c34d13633eb74dfd2de8780.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_8f1ee999f6d012122bbd9cd2db950bba68a7c804.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_8f1ee999f6d012122bbd9cd2db950bba68a7c804.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2ce014340d67a3d9740a6f14a21cad3ba25717a3.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_2ce014340d67a3d9740a6f14a21cad3ba25717a3.600x338.jpg?t=1695998867"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_825ac4593a136437956d601aa8a3f493ec6d84bd.1920x1080.jpg?t=1695998867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944710/ss_825ac4593a136437956d601aa8a3f493ec6d84bd.600x338.jpg?t=1695998867"
+        }
+    ],
+    "short_description": "Live fast, die ridiculously! The big brawl has begun, and you are invited to unleash chaos in the most thrilling battle arena ever seen through the eyes of goblins. Will your pack of cunning goblin fighters rise to the top and claim victory in this heart-pounding spectacle?",
+    "steam_appid": 1944710,
+    "support_info": {
+        "email": "support@runes-studio.com",
+        "url": "http://www.jetpackcollective.games/goblingladiators"
+    },
+    "supported_languages": "English, French<strong>*</strong>, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "http://www.jetpackcollective.games/goblingladiators"
+}

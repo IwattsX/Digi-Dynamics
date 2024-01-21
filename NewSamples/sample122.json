@@ -1,0 +1,56 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/page_bg_generated_v6b.jpg?t=1647972512",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/page_bg_generated.jpg?t=1647972512",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/capsule_231x87.jpg?t=1647972512",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/capsule_184x69.jpg?t=1647972512",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/header.jpg?t=1647972512",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Vector Assault 2 Playtest",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 22, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/ss_99aaef67bdfc654b743f1ff0f21550ef6c1e1afa.1920x1080.jpg?t=1647972512",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945040/ss_99aaef67bdfc654b743f1ff0f21550ef6c1e1afa.600x338.jpg?t=1647972512"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 1945040,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

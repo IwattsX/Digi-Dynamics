@@ -1,0 +1,143 @@
+{
+    "about_the_game": "K-Pop and Rock Band Manager is a management game where you are the manager of a new Band and your aim is to make your Band Famous and get 1000 popularity points, make one million dollars, and have several status symbols like a branded fashion item and/or an apartment. A new star is born! ANM Entertainment wants to release a new 4-member Band. You have to choose the trainees who you think are ready to make their debut to the public and make a new history. How you manage the band will determine their future.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/page_bg_generated_v6b.jpg?t=1684145798",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/page.bg.jpg?t=1684145798",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/capsule_231x87.jpg?t=1684145798",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/capsule_184x69.jpg?t=1684145798",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "K-Pop and Rock Band Manager is a management game where you are the manager of a new Band and your aim is to make your Band Famous and get 1000 popularity points, make one million dollars, and have several status symbols like a branded fashion item and/or an apartment. A new star is born! ANM Entertainment wants to release a new 4-member Band. You have to choose the trainees who you think are ready to make their debut to the public and make a new history. How you manage the band will determine their future.",
+    "developers": [
+        "CRX Entertainment Pte Ltd."
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/header.jpg?t=1684145798",
+    "is_free": false,
+    "legal_notice": "(c) 2023 by Favour Toys Studios B.V.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256884609,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256884609/movie480.mp4?t=1655883392",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256884609/movie_max.mp4?t=1655883392"
+            },
+            "name": "K-Pop & Rock Band Manager Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256884609/movie.293x165.jpg?t=1655883392",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256884609/movie480_vp9.webm?t=1655883392",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256884609/movie_max_vp9.webm?t=1655883392"
+            }
+        }
+    ],
+    "name": "K-Pop & Rock Band Manager",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "K-Pop & Rock Band Manager - $3.99",
+                    "packageid": 701259,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy K-Pop & Rock Band Manager"
+        }
+    ],
+    "packages": [
+        701259
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB Memory, ATI HD5650 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Favour Toys Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_ba2e3886cf67a0ea119ef44769a594242af56968.1920x1080.jpg?t=1684145798",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_ba2e3886cf67a0ea119ef44769a594242af56968.600x338.jpg?t=1684145798"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_8632f37fc6ef1d5f23a78e99e662e254472def7f.1920x1080.jpg?t=1684145798",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_8632f37fc6ef1d5f23a78e99e662e254472def7f.600x338.jpg?t=1684145798"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_f1355cbb9ec7b83add6a532230365ee0e3d7d20d.1920x1080.jpg?t=1684145798",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_f1355cbb9ec7b83add6a532230365ee0e3d7d20d.600x338.jpg?t=1684145798"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_3f7fd7274a1d2a2cfaa5b0cbb6f8120fea1ec2f2.1920x1080.jpg?t=1684145798",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_3f7fd7274a1d2a2cfaa5b0cbb6f8120fea1ec2f2.600x338.jpg?t=1684145798"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_29e39911000cdff31d6db95fb644d933bd6fcd6d.1920x1080.jpg?t=1684145798",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945730/ss_29e39911000cdff31d6db95fb644d933bd6fcd6d.600x338.jpg?t=1684145798"
+        }
+    ],
+    "short_description": "A new star is born! Favour Toys B.V. Entertainment wants to release a new 4-member Band. You have to choose the trainees who you think are ready to make their debut to the public and make a new history. How you manage the band will determine their future.",
+    "steam_appid": 1945730,
+    "support_info": {
+        "email": "info@crxentertainment.com",
+        "url": "http://www.crxentertainment.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://www.crxentertainment.com"
+}

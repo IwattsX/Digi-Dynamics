@@ -1,0 +1,216 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Pathfinder 2 RPG - Pathfinder Secrets of Magic</h2> Discover the untold potential of magic! <i>Secrets of Magic</i> , the newest hardcover rulebook for the Pathfinder Roleplaying Game! <i>Secrets of Magic</i> brings the popular magus and summoner classes into Pathfinder Second Edition, unlocking heroes who combine magical might with martial prowess and offering command of a powerful magical companion creature. The lavishly illustrated, rulebook contains hundreds of new spells with potent offerings for all spellcasting character classes, magic items for any player character, and lore detailing the fundamental structure and theories of magic. A special section within the volume--the <i>Book of Unlimited Magic</i> --presents new methods of spellcasting, with elementalism, geomancy, shadow magic, rune magic, and even pervasive magic to give every place and creature in your game a magical spin!<br><i>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and features the following additions:</i> <br><ul class=\"bb_ul\"><li> An Entire Section on the Essentials of Magic, adding depth to the history and workings of spellcasting<br></li><li> Two new classes: Magus and Summoner, both which offer a new take on the Spellcaster<br></li><li> 18 New Magical Backgrounds<br></li><li> New Archetypes with associated Feats<br></li><li> A New Companion Type (for the Summoner) with new features and ties to the player\u2019s character, the Eidolon<br></li><li> Dozens of new spells for all 4 spellcasting traditions<br></li><li> New focus spells and rituals, as well<br></li><li> New magic items, magic item types, and rules on the creation of magic<br></li><li> Plus new optional rules and approaches to magic for those looking to add more flavor, mystery, or excitement to their campaign<br></li><li> All the images and handouts from the book</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/page_bg_generated_v6b.jpg?t=1649164821",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/page_bg_generated.jpg?t=1649164821",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/capsule_231x87.jpg?t=1649164821",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/capsule_184x69.jpg?t=1649164821",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Pathfinder 2 RPG - Pathfinder Secrets of Magic</h2> Discover the untold potential of magic! <i>Secrets of Magic</i> , the newest hardcover rulebook for the Pathfinder Roleplaying Game! <i>Secrets of Magic</i> brings the popular magus and summoner classes into Pathfinder Second Edition, unlocking heroes who combine magical might with martial prowess and offering command of a powerful magical companion creature. The lavishly illustrated, rulebook contains hundreds of new spells with potent offerings for all spellcasting character classes, magic items for any player character, and lore detailing the fundamental structure and theories of magic. A special section within the volume--the <i>Book of Unlimited Magic</i> --presents new methods of spellcasting, with elementalism, geomancy, shadow magic, rune magic, and even pervasive magic to give every place and creature in your game a magical spin!<br><i>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and features the following additions:</i> <br><ul class=\"bb_ul\"><li> An Entire Section on the Essentials of Magic, adding depth to the history and workings of spellcasting<br></li><li> Two new classes: Magus and Summoner, both which offer a new take on the Spellcaster<br></li><li> 18 New Magical Backgrounds<br></li><li> New Archetypes with associated Feats<br></li><li> A New Companion Type (for the Summoner) with new features and ties to the player\u2019s character, the Eidolon<br></li><li> Dozens of new spells for all 4 spellcasting traditions<br></li><li> New focus spells and rituals, as well<br></li><li> New magic items, magic item types, and rules on the creation of magic<br></li><li> Plus new optional rules and approaches to magic for those looking to add more flavor, mystery, or excitement to their campaign<br></li><li> All the images and handouts from the book</li></ul>",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/header.jpg?t=1649164821",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2022. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz processor or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 compatible video adapter<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>"
+    },
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Secrets of Magic",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Secrets of Magic - $49.99",
+                    "packageid": 700842,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Secrets of Magic"
+        }
+    ],
+    "packages": [
+        700842
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 2.0 GHz or higher processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 5, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_13de15d107445786f037b7bf3c7d4f330ef03b50.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_13de15d107445786f037b7bf3c7d4f330ef03b50.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_8024fe5dd2c442d82d23f4d0b059ddb201992054.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_8024fe5dd2c442d82d23f4d0b059ddb201992054.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_486b6d0ab6a2feaf8070a1ce8babec92d91130d6.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_486b6d0ab6a2feaf8070a1ce8babec92d91130d6.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_e4e44e684f806953a7e7d3540fd131e55e98e504.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_e4e44e684f806953a7e7d3540fd131e55e98e504.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_0d44c87b83eb9d603d5ddd8d98fa9e15cdded0ec.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_0d44c87b83eb9d603d5ddd8d98fa9e15cdded0ec.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_519aa5be9503f14304f82480918dce94378f2418.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_519aa5be9503f14304f82480918dce94378f2418.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_45289937a061f638fe386e61de3ad0eba47f7944.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_45289937a061f638fe386e61de3ad0eba47f7944.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_13de15d107445786f037b7bf3c7d4f330ef03b50.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_13de15d107445786f037b7bf3c7d4f330ef03b50.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_8024fe5dd2c442d82d23f4d0b059ddb201992054.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_8024fe5dd2c442d82d23f4d0b059ddb201992054.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_486b6d0ab6a2feaf8070a1ce8babec92d91130d6.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_486b6d0ab6a2feaf8070a1ce8babec92d91130d6.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_519aa5be9503f14304f82480918dce94378f2418.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_519aa5be9503f14304f82480918dce94378f2418.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_45289937a061f638fe386e61de3ad0eba47f7944.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_45289937a061f638fe386e61de3ad0eba47f7944.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_e4e44e684f806953a7e7d3540fd131e55e98e504.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_e4e44e684f806953a7e7d3540fd131e55e98e504.600x338.jpg?t=1649164821"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_0d44c87b83eb9d603d5ddd8d98fa9e15cdded0ec.1920x1080.jpg?t=1649164821",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944890/ss_0d44c87b83eb9d603d5ddd8d98fa9e15cdded0ec.600x338.jpg?t=1649164821"
+        }
+    ],
+    "short_description": "Pathfinder 2 RPG - Pathfinder Secrets of Magic Discover the untold potential of magic! Secrets of Magic , the newest hardcover rulebook for the Pathfinder Roleplaying Game! Secrets of Magic brings the popular magus and summoner classes into Pathfinder Second Edition, unlocking heroes who combine magical might with martial prowess and...",
+    "steam_appid": 1944890,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "www.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://www.fantasygrounds.com"
+}

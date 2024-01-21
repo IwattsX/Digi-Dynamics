@@ -1,0 +1,183 @@
+{
+    "about_the_game": "Lafond regional railway is a rail line that runs 32.7 kilometres (20.3 mile) of track in the semi- prairie area in Canada. The route offers not just open farm fields, but also offers a scenic line to Clearwater. Clark City has a small staging yard for the area, and is the doorway for the rest of the line.<br />\r\n<br />\r\nThe line was once owned and operated by a shortline railway. The towns of Clearwater and Fox purchased the line that ran through the what is known today as neighbourhoods and removed the tracks to build homes and roadways.<br />\r\n<br />\r\nThe line just southeast of the wye was ripped up by CN as the industries in Lost River where shipping by truck when the shortline was bought, and there was no longer needed to keep it maintained.<br />\r\n<br />\r\nAlthough all of the lines east of Clark City sees an end at each of the towns, the area still sees half a dozen of local freights servicing the industries within the region each week.<br />\r\n<br />\r\nThe route maybe small, but offers large possible operations.<br />\r\n<br />\r\nSpecial Features:<br />\r\nThis DLC includes custom achievements that can be obtained. To view the achievements, to go System Menu &gt; Achievements.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/page_bg_generated_v6b.jpg?t=1653974351",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/page_bg_generated.jpg?t=1653974351",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/capsule_231x87.jpg?t=1653974351",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/capsule_184x69.jpg?t=1653974351",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Lafond regional railway is a rail line that runs 32.7 kilometres (20.3 mile) of track in the semi- prairie area in Canada. The route offers not just open farm fields, but also offers a scenic line to Clearwater. Clark City has a small staging yard for the area, and is the doorway for the rest of the line.<br />\r\n<br />\r\nThe line was once owned and operated by a shortline railway. The towns of Clearwater and Fox purchased the line that ran through the what is known today as neighbourhoods and removed the tracks to build homes and roadways.<br />\r\n<br />\r\nThe line just southeast of the wye was ripped up by CN as the industries in Lost River where shipping by truck when the shortline was bought, and there was no longer needed to keep it maintained.<br />\r\n<br />\r\nAlthough all of the lines east of Clark City sees an end at each of the towns, the area still sees half a dozen of local freights servicing the industries within the region each week.<br />\r\n<br />\r\nThe route maybe small, but offers large possible operations.<br />\r\n<br />\r\nSpecial Features:<br />\r\nThis DLC includes custom achievements that can be obtained. To view the achievements, to go System Menu &gt; Achievements.",
+    "developers": [
+        "Hiawathamr"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/header.jpg?t=1653974351",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Lafond Regional Railway",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Lafond Regional Railway - $14.99",
+                    "packageid": 701106,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Lafond Regional Railway"
+        }
+    ],
+    "packages": [
+        701106
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_81369befd09f60cb4715f14526a6f7ddd6a50e59.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_81369befd09f60cb4715f14526a6f7ddd6a50e59.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_ccf2a6d681e1d4fda3d5c75a87931a8833a006e5.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_ccf2a6d681e1d4fda3d5c75a87931a8833a006e5.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_29c519879f46d7173b13db43e31ea4cc19d8e498.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_29c519879f46d7173b13db43e31ea4cc19d8e498.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_af9dedc4653ee4e2b5e5f81bf914149cb905c85e.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_af9dedc4653ee4e2b5e5f81bf914149cb905c85e.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_2d8b8f5f1acfff7a1a6ad7aa5bf63ae8314c4042.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_2d8b8f5f1acfff7a1a6ad7aa5bf63ae8314c4042.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_bc76b402175a302973e22d01a2f6ab7c51f8bad1.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_bc76b402175a302973e22d01a2f6ab7c51f8bad1.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_58da1727218645af5f52db8ef1eca89c376116c2.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_58da1727218645af5f52db8ef1eca89c376116c2.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_864fe6fdf04b864ae2eb87f0e96c7045373ffbd4.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_864fe6fdf04b864ae2eb87f0e96c7045373ffbd4.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_70c86d85e87762fe17d23799e88f4028825b945e.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_70c86d85e87762fe17d23799e88f4028825b945e.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_3a15a3815fe2a38e1a7725029f87ff75d784085f.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_3a15a3815fe2a38e1a7725029f87ff75d784085f.600x338.jpg?t=1653974351"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_c8e1b3da7abef98e0a9f96236c969f24ec2f5640.1920x1080.jpg?t=1653974351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945336/ss_c8e1b3da7abef98e0a9f96236c969f24ec2f5640.600x338.jpg?t=1653974351"
+        }
+    ],
+    "short_description": "Lafond regional railway is a 20 mile railway in the semi- prairie area in Canada. The route offers open farm fields, and a scenic line to Clearwater, and makes extensive use of TurfFX and other new features.",
+    "steam_appid": 1945336,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

@@ -1,0 +1,141 @@
+{
+    "about_the_game": "<strong>goblinAmerica</strong> is a fast-moded gun-style game set in a low-level gunkjuiced America. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944040/extras/wizard_shooting_2.gif?t=1705028544\" /><br><br>You are a solar goblin. The details aren't important right now. The Yellow Sun needs you to protect the U.S. presidents by becoming each of them at their moment of greatest endangerment or embarrassment. You need to set history right by equipping a gun and then firing it at the agents of Bedlam. The Verminstar wants to return all of solar existence to the teeming swamp of Bedlam. Again, you don't need to worry about that right now. If you do your job very quickly you will get precious medals.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944040/extras/raid.gif?t=1705028544\" /><br><br><strong>Change the goblin universe.</strong> Play as goblin Presidents across 10 non-secret levels (and some secret levels to boot). Multiple routes, paths, and twisty little passageways snake through every single one. Rewrite the course of goblin history and alter the goblin future. Fend off assassins, avoid presidential scandals, or just push back on an uncaring world. goblinAmerica asks: What if Presidents were able to defend themselves?<br><br><strong>Rip back the walls.</strong> The faster you go, the further you\u2019ll get. Use occult movement technology and your little goblin leggies to find secret areas and shortcuts. Earn shinier and more precious metals for beating your previous times. Use those medals to enter forbidden places. Find your way behind the walls. Trespass, intrude, delight.<br><br><strong>Carve a path.</strong> 12 different discoverable weapons. A robust inventory system. Put a harpoon gun in your hand. Equip total confidence in your thought slot. Put bigger feet on your feet. Never stop dreaming.<br><br><strong>Shine a light.</strong> Go underground. Steal from mummified corpses of old rebels. Chat up the locals. Bypass the goat-headed seal. Slip out from the Yellow Sun\u2019s watchful eye. Study presolar history. Start to put the pieces together. You were made to be a weapon. What kind of weapon will you be?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/page_bg_generated_v6b.jpg?t=1705028544",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/page.bg.jpg?t=1705028544",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/capsule_231x87.jpg?t=1705028544",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/capsule_184x69.jpg?t=1705028544",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "The game contains stylized and cartoonish gun violence and occasional swear words."
+    },
+    "demos": [
+        {
+            "appid": 2616730,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<strong>goblinAmerica</strong> is a fast-moded gun-style game set in a low-level gunkjuiced America. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944040/extras/wizard_shooting_2.gif?t=1705028544\" /><br><br>You are a solar goblin. The details aren't important right now. The Yellow Sun needs you to protect the U.S. presidents by becoming each of them at their moment of greatest endangerment or embarrassment. You need to set history right by equipping a gun and then firing it at the agents of Bedlam. The Verminstar wants to return all of solar existence to the teeming swamp of Bedlam. Again, you don't need to worry about that right now. If you do your job very quickly you will get precious medals.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1944040/extras/raid.gif?t=1705028544\" /><br><br><strong>Change the goblin universe.</strong> Play as goblin Presidents across 10 non-secret levels (and some secret levels to boot). Multiple routes, paths, and twisty little passageways snake through every single one. Rewrite the course of goblin history and alter the goblin future. Fend off assassins, avoid presidential scandals, or just push back on an uncaring world. goblinAmerica asks: What if Presidents were able to defend themselves?<br><br><strong>Rip back the walls.</strong> The faster you go, the further you\u2019ll get. Use occult movement technology and your little goblin leggies to find secret areas and shortcuts. Earn shinier and more precious metals for beating your previous times. Use those medals to enter forbidden places. Find your way behind the walls. Trespass, intrude, delight.<br><br><strong>Carve a path.</strong> 12 different discoverable weapons. A robust inventory system. Put a harpoon gun in your hand. Equip total confidence in your thought slot. Put bigger feet on your feet. Never stop dreaming.<br><br><strong>Shine a light.</strong> Go underground. Steal from mummified corpses of old rebels. Chat up the locals. Bypass the goat-headed seal. Slip out from the Yellow Sun\u2019s watchful eye. Study presolar history. Start to put the pieces together. You were made to be a weapon. What kind of weapon will you be?",
+    "developers": [
+        "Gil Lawson"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/header.jpg?t=1705028544",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256944894,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944894/movie480.mp4?t=1683090746",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944894/movie_max.mp4?t=1683090746"
+            },
+            "name": "SNF Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256944894/movie.293x165.jpg?t=1683090746",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944894/movie480_vp9.webm?t=1683090746",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944894/movie_max_vp9.webm?t=1683090746"
+            }
+        }
+    ],
+    "name": "goblinAmerica",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD, 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1070<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Gil Lawson"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_abc9be88511615a62a174881c5747ce30d544b2e.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_abc9be88511615a62a174881c5747ce30d544b2e.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_eff7f035a58ee3fef34957dbbdac3821f6ed5818.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_eff7f035a58ee3fef34957dbbdac3821f6ed5818.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_35d1ecdcb3d528551828dca959cd270181a73cf0.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_35d1ecdcb3d528551828dca959cd270181a73cf0.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_044580d99dfa9e61bc6503518d968ff29b3d387f.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_044580d99dfa9e61bc6503518d968ff29b3d387f.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_08c8bec82c9f529e1f56537b26d24b2296cba169.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_08c8bec82c9f529e1f56537b26d24b2296cba169.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_3b96204764366c78c089e22b6199cfbc63989ac4.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_3b96204764366c78c089e22b6199cfbc63989ac4.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_772c9fc346d9d2f7091c2298c17235e727b5d51f.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_772c9fc346d9d2f7091c2298c17235e727b5d51f.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_6493fab052d158ed902e976cd9e040109ae0fa73.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_6493fab052d158ed902e976cd9e040109ae0fa73.600x338.jpg?t=1705028544"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_ee9118ebf4e6486a797830901cc0fa2ef274486e.1920x1080.jpg?t=1705028544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944040/ss_ee9118ebf4e6486a797830901cc0fa2ef274486e.600x338.jpg?t=1705028544"
+        }
+    ],
+    "short_description": "A fast-moded gun-style game set in a low-level gunkjuiced America. Possess the goblin presidents, earn the Yellow Sun's beautiful medals, and dig into the vast darkness under the surface of the earth.",
+    "steam_appid": 1944040,
+    "support_info": {
+        "email": "goblinGoblinAmericaAmerica@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

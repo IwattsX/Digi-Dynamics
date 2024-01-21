@@ -1,0 +1,188 @@
+{
+    "about_the_game": "In November 2007, Freightliner announced Project Genesis (unrelated to GE's Genesis series built for Amtrak), a procurement plan for 30 freight locomotives from General Electric (GE). The locomotives ordered were intended to match older types in terms of haulage capacity whilst at the same time being more fuel-efficient. The project was a collaborative effort between Freightliner and GE, with input from drivers on the cab design. 3DZUG developed this modern British locomotive for TRS with the latest PBR techology. <br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- BR Class 70 Colas Rail<br />\r\n- Running Numbers<br />\r\n- Realistic model and textures<br />\r\n- Realistic drivers cabin<br />\r\n- Functional windows and sunblend<br />\r\n- Readable script for implementing features to your models<br />\r\n- Wipers<br />\r\n- Cabin displays<br />\r\n- Custom engine and sound",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/page_bg_generated_v6b.jpg?t=1653975931",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/page_bg_generated.jpg?t=1653975931",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/capsule_231x87.jpg?t=1653975931",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/capsule_184x69.jpg?t=1653975931",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "In November 2007, Freightliner announced Project Genesis (unrelated to GE's Genesis series built for Amtrak), a procurement plan for 30 freight locomotives from General Electric (GE). The locomotives ordered were intended to match older types in terms of haulage capacity whilst at the same time being more fuel-efficient. The project was a collaborative effort between Freightliner and GE, with input from drivers on the cab design. 3DZUG developed this modern British locomotive for TRS with the latest PBR techology. <br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- BR Class 70 Colas Rail<br />\r\n- Running Numbers<br />\r\n- Realistic model and textures<br />\r\n- Realistic drivers cabin<br />\r\n- Functional windows and sunblend<br />\r\n- Readable script for implementing features to your models<br />\r\n- Wipers<br />\r\n- Cabin displays<br />\r\n- Custom engine and sound",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/header.jpg?t=1653975931",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - British Rail Class 70 - Colas Rail",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - British Rail Class 70 - Colas Rail - $9.99",
+                    "packageid": 701091,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - British Rail Class 70 - Colas Rail"
+        }
+    ],
+    "packages": [
+        701091
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_f246721382fe754a4bc0a0a2cebe9698a3f0f327.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_f246721382fe754a4bc0a0a2cebe9698a3f0f327.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_7d6ebe7d65695a30eb7dd1d479e27c479138ac3f.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_7d6ebe7d65695a30eb7dd1d479e27c479138ac3f.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_deedeeade195252dc0d5b3adfce584f35f21be2b.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_deedeeade195252dc0d5b3adfce584f35f21be2b.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_5ee82fddd9ef6a5d1b8dfad71c48ce18ee22a708.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_5ee82fddd9ef6a5d1b8dfad71c48ce18ee22a708.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_c4e4067031da5dd0e26c81cce5c301398e5f5833.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_c4e4067031da5dd0e26c81cce5c301398e5f5833.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_4a8114c6b69e054b7f2838ce63e8c099dcff1b4e.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_4a8114c6b69e054b7f2838ce63e8c099dcff1b4e.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_3729d4f696afb2ad1da9193245692282c7cbb22b.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_3729d4f696afb2ad1da9193245692282c7cbb22b.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_21390c8fde14b56209e15b5eee9e73260c6cb0b3.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_21390c8fde14b56209e15b5eee9e73260c6cb0b3.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_825c4f56529ec273e32cbb13be1195d61cc0631d.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_825c4f56529ec273e32cbb13be1195d61cc0631d.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_2142fa661be02de3af1fc49cffa970c7934fa41d.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_2142fa661be02de3af1fc49cffa970c7934fa41d.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_53bb7d1926ad3e2d2ed7c3a590594f7e9b061c75.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_53bb7d1926ad3e2d2ed7c3a590594f7e9b061c75.600x338.jpg?t=1653975931"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_d2d3f293f5f617f590e60c98d30b820d98fbfec1.1920x1080.jpg?t=1653975931",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945331/ss_d2d3f293f5f617f590e60c98d30b820d98fbfec1.600x338.jpg?t=1653975931"
+        }
+    ],
+    "short_description": "Drive the highly detailed, modern British GE Class 70 in Colas Rail livery in Trainz. Developed by 3DZUG for TRS19 using the latest PBR technologies, and many custom features!",
+    "steam_appid": 1945331,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

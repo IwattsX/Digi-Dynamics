@@ -1,0 +1,192 @@
+{
+    "about_the_game": "The game was inspired by The book \u300aDer Weg zur finanziellen Freiheit\u300b by Bodo Schaefer.<br><strong>brief introduction\uff1a</strong><br>You're a 23-year-old college student who just graduated and is going to work in a first-tier city, facing the bitterness in the workplace, working overworked, the feelings of vacancies, family concerns, think of a mid-life crisis, 35, couldn't help but anxious, you want to have the freedom of life, have the time to experience life, to see the sunrise and sunset the aurora, the stars give the family a safe life, Protect the people you love. But frustrated that time is passing fast, that youth is being swallowed up in the big city, and that life shows no signs of progressing, you're on the road to financial freedom. I hope this is a movie where the smart people have learned something at the end of the game, gained a lot, simulated choices, and made their lives better.<br><br>This game is developed by SingheWang using UE4, independent game developers have limited time and energy, welcome everyone to exchange some constructive suggestions, hope to meet interesting you.<br><strong>Twitter\uff1asinghewang</strong><br><br><br>You will plan your leisure time through your schedule. You can use your leisure time to relax, develop interests, pursue intimate relationships, learn expertise in various fields, or take a part-time job as a slash youth:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Schedule_en.gif?t=1661181789\" /><br><br>Sometimes you need to make some choices, and different choices have different consequences:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Choice_en.gif?t=1661181789\" /><br><br>You can invest and consume in the market, and different investments have different risks. You can change your job or house in the market, and each change will cost you money and time, depending on how you choose. You can also select a destination in the market to travel to, learn a skill, take up a hobby, or fall in love, and add them to your schedule when unlocked. You can view the items you have purchased through the warehouse panel, and you can sell some assets:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Market_en.gif?t=1661181789\" /><br><br>You can look at the timelines to see the cumulative time, and you can look at the financial details to see the current financial situation and make some decisions based on that. The goal of the game is financial freedom, and it is divided into five stages, with prompts for each achievement:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/UI_en.gif?t=1661181789\" /><br><br>The game has added options to view the save, set the sound, language and resolution of the music, and view the current achievements:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Setting_en.gif?t=1661181789\" /><br><br>In addition, open a company, competition speech and more content is under development!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/page_bg_generated_v6b.jpg?t=1661181789",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/page.bg.jpg?t=1661181789",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/capsule_231x87.jpg?t=1661181789",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/capsule_184x69.jpg?t=1661181789",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2105970,
+            "description": ""
+        }
+    ],
+    "detailed_description": "The game was inspired by The book \u300aDer Weg zur finanziellen Freiheit\u300b by Bodo Schaefer.<br><strong>brief introduction\uff1a</strong><br>You're a 23-year-old college student who just graduated and is going to work in a first-tier city, facing the bitterness in the workplace, working overworked, the feelings of vacancies, family concerns, think of a mid-life crisis, 35, couldn't help but anxious, you want to have the freedom of life, have the time to experience life, to see the sunrise and sunset the aurora, the stars give the family a safe life, Protect the people you love. But frustrated that time is passing fast, that youth is being swallowed up in the big city, and that life shows no signs of progressing, you're on the road to financial freedom. I hope this is a movie where the smart people have learned something at the end of the game, gained a lot, simulated choices, and made their lives better.<br><br>This game is developed by SingheWang using UE4, independent game developers have limited time and energy, welcome everyone to exchange some constructive suggestions, hope to meet interesting you.<br><strong>Twitter\uff1asinghewang</strong><br><br><br>You will plan your leisure time through your schedule. You can use your leisure time to relax, develop interests, pursue intimate relationships, learn expertise in various fields, or take a part-time job as a slash youth:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Schedule_en.gif?t=1661181789\" /><br><br>Sometimes you need to make some choices, and different choices have different consequences:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Choice_en.gif?t=1661181789\" /><br><br>You can invest and consume in the market, and different investments have different risks. You can change your job or house in the market, and each change will cost you money and time, depending on how you choose. You can also select a destination in the market to travel to, learn a skill, take up a hobby, or fall in love, and add them to your schedule when unlocked. You can view the items you have purchased through the warehouse panel, and you can sell some assets:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Market_en.gif?t=1661181789\" /><br><br>You can look at the timelines to see the cumulative time, and you can look at the financial details to see the current financial situation and make some decisions based on that. The goal of the game is financial freedom, and it is divided into five stages, with prompts for each achievement:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/UI_en.gif?t=1661181789\" /><br><br>The game has added options to view the save, set the sound, language and resolution of the music, and view the current achievements:<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1945880/extras/Setting_en.gif?t=1661181789\" /><br><br>In addition, open a company, competition speech and more content is under development!",
+    "developers": [
+        "SingheWang"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/header.jpg?t=1661181789",
+    "is_free": false,
+    "legal_notice": "All acts of infringement are prohibited",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256897328,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256897328/movie480.mp4?t=1658581773",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256897328/movie_max.mp4?t=1658581773"
+            },
+            "name": "Demo_en",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256897328/movie.293x165.jpg?t=1658581773",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256897328/movie480_vp9.webm?t=1658581773",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256897328/movie_max_vp9.webm?t=1658581773"
+            }
+        }
+    ],
+    "name": "Financial freedom for the few",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Few - $9.99",
+                    "packageid": 701318,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Financial freedom for the few"
+        }
+    ],
+    "packages": [
+        701318
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7,8,10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SingheWang"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 19, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_0e2fc65e08f480bde50f5abab534138914adcc78.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_0e2fc65e08f480bde50f5abab534138914adcc78.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_0e36b8ab95d2c0d3fca2d0fb3fee05b346c4ac4f.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_0e36b8ab95d2c0d3fca2d0fb3fee05b346c4ac4f.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_b319e41355527b66b35ffbad2547dbe885ac282b.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_b319e41355527b66b35ffbad2547dbe885ac282b.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_e291b91529d1adc3d64881ec83923a1949783e1c.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_e291b91529d1adc3d64881ec83923a1949783e1c.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_40e43f4cdb37b2f1e35339c89c12ded414518d03.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_40e43f4cdb37b2f1e35339c89c12ded414518d03.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_e69d3e08bd48de458dac0f19de72e0a1508d81fe.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_e69d3e08bd48de458dac0f19de72e0a1508d81fe.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_852cd3ea68499bbc67a0e23619b734cc00509aad.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_852cd3ea68499bbc67a0e23619b734cc00509aad.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_7712e2655175681ae258397b5e9b17c47d64600a.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_7712e2655175681ae258397b5e9b17c47d64600a.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_84801d0e8efee3ecfb0d4a393cb66fcc10f53aa6.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_84801d0e8efee3ecfb0d4a393cb66fcc10f53aa6.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_822eaf4a29fcff7ca6ddabf4246ecd70b0c8ddbc.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_822eaf4a29fcff7ca6ddabf4246ecd70b0c8ddbc.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_3afa28cae8eeb6f0e376f15bc0becf5f288c8c13.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_3afa28cae8eeb6f0e376f15bc0becf5f288c8c13.600x338.jpg?t=1661181789"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_a219f102f072481ff7a2fb6ee8da4e08678ba004.1920x1080.jpg?t=1661181789",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945880/ss_a219f102f072481ff7a2fb6ee8da4e08678ba004.600x338.jpg?t=1661181789"
+        }
+    ],
+    "short_description": "The simulator of the Road to financial freedom, players will start as a college graduate entering the society, through work, investment, passive income and other ways to improve financial, family and physical and mental health, to achieve financial freedom. Help him push the wheels of his fate.",
+    "steam_appid": 1945880,
+    "support_info": {
+        "email": "qicaihongsi@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

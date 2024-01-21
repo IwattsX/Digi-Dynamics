@@ -1,0 +1,90 @@
+{
+    "about_the_game": "Sit back and enjoy the official soundtrack of Arise: A simple story, complete with all 18 original tracks from the game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/page_bg_generated_v6b.jpg?t=1655105695",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/page.bg.jpg?t=1655105695",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/capsule_231x87.jpg?t=1655105695",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/capsule_184x69.jpg?t=1655105695",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Sit back and enjoy the official soundtrack of Arise: A simple story, complete with all 18 original tracks from the game.",
+    "developers": [
+        "Piccolo Studio"
+    ],
+    "fullgame": {
+        "appid": "866140",
+        "name": "Arise: A Simple Story"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/header.jpg?t=1655105695",
+    "is_free": false,
+    "legal_notice": "2022 Untold Tales S.A. and Piccolo Studio S.L. Arise: A Simple Story logo, the Untold Tales logo and Piccolo Studio logo are trademarks of Untold Tales S.A. and/or Piccolo Studio S.L. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Arise: A Simple Story - Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Arise: A Simple Story Soundtrack - $3.99",
+                    "packageid": 701372,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Arise: A Simple Story - Soundtrack"
+        }
+    ],
+    "packages": [
+        701372
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 29, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/ss_b8871307e882a25b82c2446582abceed99150197.1920x1080.jpg?t=1655105695",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1946040/ss_b8871307e882a25b82c2446582abceed99150197.600x338.jpg?t=1655105695"
+        }
+    ],
+    "short_description": "Sit back and enjoy the official soundtrack of Arise: A simple story, complete with all 18 original tracks from the game.",
+    "steam_appid": 1946040,
+    "support_info": {
+        "email": "info@piccolo-studio.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

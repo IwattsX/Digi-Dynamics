@@ -1,0 +1,158 @@
+{
+    "about_the_game": "The C&amp;O railroad like many other railroads were buying the Mikado type locomotives and many improvements were made to the design. By the mid 1920s the C&amp;O decided that its motive power was becoming outdated and started acquiring new 2-8-2s. Between 1924 and 1926 it bought 150 new Mikados from ALCO. The first class they purchased were fifty Class K-2, delivered in 1924 and carried road numbers 1160 through 1209.<br><br>The Class K2 had 63 diameter drivers, 28 x 30 cylinders, had a 200 psi boiler pressure and exerted 63,467 pounds. The Class K-2 firebox was 287 square feet. The evaporative heating surface was 4,160 square feet and with the superheater the combined heating surface was 5,333 square feet.<br><br>Comes with:<br><ul class=\"bb_ul\"><li>Custom E/Spec<br></li><li>Custom Cab<br></li><li>Crew Figures<br></li><li>Animated Air Hoses<br></li><li>Animated Bell<br></li><li>PBR Textures</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/page_bg_generated_v6b.jpg?t=1653974836",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/page_bg_generated.jpg?t=1653974836",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/capsule_231x87.jpg?t=1653974836",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/capsule_184x69.jpg?t=1653974836",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The C&amp;O railroad like many other railroads were buying the Mikado type locomotives and many improvements were made to the design. By the mid 1920s the C&amp;O decided that its motive power was becoming outdated and started acquiring new 2-8-2s. Between 1924 and 1926 it bought 150 new Mikados from ALCO. The first class they purchased were fifty Class K-2, delivered in 1924 and carried road numbers 1160 through 1209.<br><br>The Class K2 had 63 diameter drivers, 28 x 30 cylinders, had a 200 psi boiler pressure and exerted 63,467 pounds. The Class K-2 firebox was 287 square feet. The evaporative heating surface was 4,160 square feet and with the superheater the combined heating surface was 5,333 square feet.<br><br>Comes with:<br><ul class=\"bb_ul\"><li>Custom E/Spec<br></li><li>Custom Cab<br></li><li>Crew Figures<br></li><li>Animated Air Hoses<br></li><li>Animated Bell<br></li><li>PBR Textures</li></ul>",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/header.jpg?t=1653974836",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Chesapeake & Ohio K2 2-8-2",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Chesapeake & Ohio K2 2-8-2 - $14.99",
+                    "packageid": 701184,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Chesapeake & Ohio K2 2-8-2"
+        }
+    ],
+    "packages": [
+        701184
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_875321066da510dfea16553803951bd4a828114b.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_875321066da510dfea16553803951bd4a828114b.600x338.jpg?t=1653974836"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_647604dc40db4ac2e430db980a8f2da50217b92f.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_647604dc40db4ac2e430db980a8f2da50217b92f.600x338.jpg?t=1653974836"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_414a751ce21539a97ff15cd8f43cf3cebf7f8f3e.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_414a751ce21539a97ff15cd8f43cf3cebf7f8f3e.600x338.jpg?t=1653974836"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_79fd223826e2c6fed2cb20150e6b649d9474bb84.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_79fd223826e2c6fed2cb20150e6b649d9474bb84.600x338.jpg?t=1653974836"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_ae742410c78c29ca1051f7e00251aad507380724.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_ae742410c78c29ca1051f7e00251aad507380724.600x338.jpg?t=1653974836"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_53d27bddd3c3aa77f2ae2fc2db8993986a98e146.1920x1080.jpg?t=1653974836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945534/ss_53d27bddd3c3aa77f2ae2fc2db8993986a98e146.600x338.jpg?t=1653974836"
+        }
+    ],
+    "short_description": "The Class K2 had 63 diameter drivers, 28 x 30 cylinders, had a 200 psi boiler pressure and exerted 63,467 pounds. The Class K-2 firebox was 287 square feet. The evaporative heating surface was 4,160 square feet and with the superheater the combined heating surface was 5,333 square feet.",
+    "steam_appid": 1945534,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

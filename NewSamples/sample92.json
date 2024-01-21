@@ -1,0 +1,188 @@
+{
+    "about_the_game": "Leadville Subdivision is a connection track between two main lines which are owned and operated by UP and BNSF. The subdivision is mostly single track until Dayton, where the track remains doubled until the city of Leadville \u2013 home of BNSF\u2019s rail yard and the end of the subdivision. <br />\r\n<br />\r\nBoth railways have trackage rights on the Leadville Sub for exchanging rail cars at each yard, or serving their customers on the line. Under agreement between UP and BNSF railways, Port Eagle is also served by both railways to ensure trains keep moving. <br />\r\n<br />\r\nEnjoy the scenery of the Midwest.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/page_bg_generated_v6b.jpg?t=1653974300",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/page_bg_generated.jpg?t=1653974300",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/capsule_231x87.jpg?t=1653974300",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/capsule_184x69.jpg?t=1653974300",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Leadville Subdivision is a connection track between two main lines which are owned and operated by UP and BNSF. The subdivision is mostly single track until Dayton, where the track remains doubled until the city of Leadville \u2013 home of BNSF\u2019s rail yard and the end of the subdivision. <br />\r\n<br />\r\nBoth railways have trackage rights on the Leadville Sub for exchanging rail cars at each yard, or serving their customers on the line. Under agreement between UP and BNSF railways, Port Eagle is also served by both railways to ensure trains keep moving. <br />\r\n<br />\r\nEnjoy the scenery of the Midwest.",
+    "developers": [
+        "N3V Games"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/header.jpg?t=1653974300",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - Lone Pine Branch",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - Lone Pine Branch - $14.99",
+                    "packageid": 701103,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - Lone Pine Branch"
+        }
+    ],
+    "packages": [
+        701103
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_61174447b457b2fbebd08151bbdc7c78439f90e2.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_61174447b457b2fbebd08151bbdc7c78439f90e2.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_c431d0688197a9c908d336651bee21467e6b7910.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_c431d0688197a9c908d336651bee21467e6b7910.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_bcbf6ee3e7673c04f2ef2b500ad2881a8a957315.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_bcbf6ee3e7673c04f2ef2b500ad2881a8a957315.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_1cfbf74d0b7ce0b86161d98410d03f84d7edec86.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_1cfbf74d0b7ce0b86161d98410d03f84d7edec86.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_f890c11d00035075cebf3f9f966d4c1d5f9e5157.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_f890c11d00035075cebf3f9f966d4c1d5f9e5157.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_0a565963c84a4a913162707fbe8137fcb6b09417.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_0a565963c84a4a913162707fbe8137fcb6b09417.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_2366013c5abf3407309cad1e3c1e531b61725d72.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_2366013c5abf3407309cad1e3c1e531b61725d72.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_620be9d887b55a32f8879274e764b6775bec1caf.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_620be9d887b55a32f8879274e764b6775bec1caf.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_2a8bdaed82e711d865740a36a3a631bc4486b19b.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_2a8bdaed82e711d865740a36a3a631bc4486b19b.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_bac916d476fa822c37d0502fce9a5bfb2dfdc305.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_bac916d476fa822c37d0502fce9a5bfb2dfdc305.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_8198cd695dece2209f6c9daa3e1373d53cb90057.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_8198cd695dece2209f6c9daa3e1373d53cb90057.600x338.jpg?t=1653974300"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_38ba50694aa23b282848f9fc44cd6d02073bd317.1920x1080.jpg?t=1653974300",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945335/ss_38ba50694aa23b282848f9fc44cd6d02073bd317.600x338.jpg?t=1653974300"
+        }
+    ],
+    "short_description": "A rural and largely single track connection between UP and BNSF owned main lines.",
+    "steam_appid": 1945335,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

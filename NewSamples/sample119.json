@@ -1,0 +1,108 @@
+{
+    "about_the_game": "And this is the story of \u00abthe ducksuckers\u00bb, A small time band that achieved a huge success in 1998 but failed to replicate their own success since. Eventually after not being able to release a second album, band officially broke up, and the death of a lead guitarist Cindy KawlFlower didn\u2019t help matters. And that is how Milan Joy, Rusty KawlFlower and Ashley Miguel split up, But one day, Milan decides that there's still some spark left in him...<br />\r\n<br />\r\nThe Ducksuckers is a Kinetic Comedy Visual Novel about music, battling inner demons and the inability to let go. Taking about 40-60 minutes to read it's a short and sweet read, with some dramatic elements.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/page_bg_generated_v6b.jpg?t=1665318822",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/page.bg.jpg?t=1665318822",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/capsule_231x87.jpg?t=1665318822",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/capsule_184x69.jpg?t=1665318822",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Profanity is used quite frequently, as well as conversations about sexual situations "
+    },
+    "detailed_description": "And this is the story of \u00abthe ducksuckers\u00bb, A small time band that achieved a huge success in 1998 but failed to replicate their own success since. Eventually after not being able to release a second album, band officially broke up, and the death of a lead guitarist Cindy KawlFlower didn\u2019t help matters. And that is how Milan Joy, Rusty KawlFlower and Ashley Miguel split up, But one day, Milan decides that there's still some spark left in him...<br />\r\n<br />\r\nThe Ducksuckers is a Kinetic Comedy Visual Novel about music, battling inner demons and the inability to let go. Taking about 40-60 minutes to read it's a short and sweet read, with some dramatic elements.",
+    "developers": [
+        "Haruko Games"
+    ],
+    "genres": [
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/header.jpg?t=1665318822",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256878869,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878869/movie480.mp4?t=1648159758",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878869/movie_max.mp4?t=1648159758"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256878869/movie.293x165.jpg?t=1648159758",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878869/movie480_vp9.webm?t=1648159758",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878869/movie_max_vp9.webm?t=1648159758"
+            }
+        }
+    ],
+    "name": "The Ducksuckers",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 250 MB MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Haruko Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 9, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_fb1eb5241af701ede2066cc7a47b4f557331003d.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_fb1eb5241af701ede2066cc7a47b4f557331003d.600x338.jpg?t=1665318822"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_bf0529e0b6a02b42987e0e4926eaa3004300bfaa.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_bf0529e0b6a02b42987e0e4926eaa3004300bfaa.600x338.jpg?t=1665318822"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_54325b427f2f248273b92abc26b07228e9c7f255.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_54325b427f2f248273b92abc26b07228e9c7f255.600x338.jpg?t=1665318822"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_5b47cdf655f7e5245ef952eac406cf48dc82d2e2.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_5b47cdf655f7e5245ef952eac406cf48dc82d2e2.600x338.jpg?t=1665318822"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_0947f3dfe345915ec2d0121c56d775b5a24b50ea.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_0947f3dfe345915ec2d0121c56d775b5a24b50ea.600x338.jpg?t=1665318822"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_ba389305c3be6aaf6caecb12a651aedc3c0de99a.1920x1080.jpg?t=1665318822",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945000/ss_ba389305c3be6aaf6caecb12a651aedc3c0de99a.600x338.jpg?t=1665318822"
+        }
+    ],
+    "short_description": "The Ducksuckers is a Kinetic Comedy Visual Novel about music, battling inner demons and the inability to let go. Taking about 40-60 minutes to read it's a short and sweet read, with some dramatic elements.",
+    "steam_appid": 1945000,
+    "support_info": {
+        "email": "xespressoplease@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

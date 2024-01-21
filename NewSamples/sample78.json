@@ -1,0 +1,188 @@
+{
+    "about_the_game": "Manufactured from 1988 until 1989 at the &quot;VEB Waggonbau Goerlitz&quot; factory in Germany, these doubledecker cars were and still are used for regional passanger transport in Poland, altough many(if not all) were modernised.They are 26,8m in length, sit on Gorlitz VI bogeys with disk brakes, have a top speed of 120km/h and are present in other countries also, such as Romania,Czech Republic and Germany.<br />\r\n<br />\r\nPack includes:<br />\r\n<br />\r\n*1 modernised doubledecker car with photorealistic textures<br />\r\n<br />\r\n*Full PBR textures<br />\r\n<br />\r\n*3 different kinds of train-end signs<br />\r\n<br />\r\n*Brakeshoe option (does not affect the braking sequence, only for visual effect)<br />\r\n<br />\r\n*Animated couplers &amp; air hoses and sounds<br />\r\n<br />\r\n*3 levels of buffer contact sounds<br />\r\n<br />\r\n*Up to 6 levels of LOD<br />\r\n<br />\r\n*Doors that open/close via Properties tab or when loading/unloading passangers plus sounds<br />\r\n<br />\r\n*Disable Physics option<br />\r\n<br />\r\n*Custom bogeysounds<br />\r\n<br />\r\n*Custom realistic full interior(lower deck, middle and upper deck)<br />\r\n<br />\r\n*Interior &amp; exterior nightmode<br />\r\n<br />\r\n*Editable destination boards with text fields for train name/number,departure station,destination station,via station",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/page_bg_generated_v6b.jpg?t=1653973871",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/page_bg_generated.jpg?t=1653973871",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/capsule_231x87.jpg?t=1653973871",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/capsule_184x69.jpg?t=1653973871",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Manufactured from 1988 until 1989 at the &quot;VEB Waggonbau Goerlitz&quot; factory in Germany, these doubledecker cars were and still are used for regional passanger transport in Poland, altough many(if not all) were modernised.They are 26,8m in length, sit on Gorlitz VI bogeys with disk brakes, have a top speed of 120km/h and are present in other countries also, such as Romania,Czech Republic and Germany.<br />\r\n<br />\r\nPack includes:<br />\r\n<br />\r\n*1 modernised doubledecker car with photorealistic textures<br />\r\n<br />\r\n*Full PBR textures<br />\r\n<br />\r\n*3 different kinds of train-end signs<br />\r\n<br />\r\n*Brakeshoe option (does not affect the braking sequence, only for visual effect)<br />\r\n<br />\r\n*Animated couplers &amp; air hoses and sounds<br />\r\n<br />\r\n*3 levels of buffer contact sounds<br />\r\n<br />\r\n*Up to 6 levels of LOD<br />\r\n<br />\r\n*Doors that open/close via Properties tab or when loading/unloading passangers plus sounds<br />\r\n<br />\r\n*Disable Physics option<br />\r\n<br />\r\n*Custom bogeysounds<br />\r\n<br />\r\n*Custom realistic full interior(lower deck, middle and upper deck)<br />\r\n<br />\r\n*Interior &amp; exterior nightmode<br />\r\n<br />\r\n*Editable destination boards with text fields for train name/number,departure station,destination station,via station",
+    "developers": [
+        "i29tsro"
+    ],
+    "fullgame": {
+        "appid": "1904160",
+        "name": "Trainz Plus"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/header.jpg?t=1653973871",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "name": "Trainz Plus DLC - PolRegio B16mnopux 035",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz Plus DLC - PolRegio B16mnopux 035 - $5.99",
+                    "packageid": 701048,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy Trainz Plus DLC - PolRegio B16mnopux 035"
+        }
+    ],
+    "packages": [
+        701048
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_00ab3c687275aef5efe364447ddd4be3c9f81751.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_00ab3c687275aef5efe364447ddd4be3c9f81751.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_27f9916f0906fb5085d4495542ab32cb423964c4.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_27f9916f0906fb5085d4495542ab32cb423964c4.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_67d9c70758cfd2a40c1c188e7c3aea0d8aae140a.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_67d9c70758cfd2a40c1c188e7c3aea0d8aae140a.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_e29ffcfaa6eab7f3489cee7d5d58f0529dfa1c92.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_e29ffcfaa6eab7f3489cee7d5d58f0529dfa1c92.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_e76d16f14df53bd104824034aa0a1a4c13a710f6.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_e76d16f14df53bd104824034aa0a1a4c13a710f6.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_9cd42d25fc28277caab481ff4936acf2d1a232f2.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_9cd42d25fc28277caab481ff4936acf2d1a232f2.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_7e0ce1f1d929b7a0ca43c2eadabd5f3b025c237a.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_7e0ce1f1d929b7a0ca43c2eadabd5f3b025c237a.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_4ca01c4e9069870b2ade3835b99d1686579dd9d7.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_4ca01c4e9069870b2ade3835b99d1686579dd9d7.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_d507bfb2aaa9f1b74fcf1b10b957dca9cd4a8b0a.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_d507bfb2aaa9f1b74fcf1b10b957dca9cd4a8b0a.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_985fc661ed718b82c5fe23613fc8cb91a9ec9959.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_985fc661ed718b82c5fe23613fc8cb91a9ec9959.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_6d555914910613ea029ae49b1441963804fdab0c.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_6d555914910613ea029ae49b1441963804fdab0c.600x338.jpg?t=1653973871"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_235bda08b47d103e4d38a8750940c08177ef64ea.1920x1080.jpg?t=1653973871",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1945290/ss_235bda08b47d103e4d38a8750940c08177ef64ea.600x338.jpg?t=1653973871"
+        }
+    ],
+    "short_description": "Used for regional passenger trains in Poland, Romania, Czech Republic, and Germany this passenger coach features photorealistic textures, fully PBR textures, and many different options.",
+    "steam_appid": 1945290,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

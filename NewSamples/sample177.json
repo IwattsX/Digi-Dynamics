@@ -1,0 +1,117 @@
+{
+    "about_the_game": "Experience immersive and virtual sound works as you move around freely, listening from a selection of more than fifteen pieces from different sound artists.<br><br><strong>D\u00e9j\u00e0-vu</strong> is an online diffusion platform of immersive and virtual sound works. Created from the 3D digitization of Sporobole\u2019s outdoor space, it recalls the familiar structure of the center. The platform offers the public the possibility to live or relive an experience originally conceived for the sound window, an outdoor linear device of 16 speakers integrated into Sporobole\u2019s building facade. It also showcases works produced especially for this environment, which becomes, here, a creation support in itself. By placing freedom of movement at the heart of the passerby\u2019s experience, <strong>D\u00e9j\u00e0-vu</strong> aims at widening the notions of space of creation and diffusion while highlighting the sound works created at Sporobole and making them accessible from anywhere.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/page_bg_generated_v6b.jpg?t=1649879281",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/page.bg.jpg?t=1649879281",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/capsule_231x87.jpg?t=1649879281",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/capsule_184x69.jpg?t=1649879281",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Experience immersive and virtual sound works as you move around freely, listening from a selection of more than fifteen pieces from different sound artists.<br><br><strong>D\u00e9j\u00e0-vu</strong> is an online diffusion platform of immersive and virtual sound works. Created from the 3D digitization of Sporobole\u2019s outdoor space, it recalls the familiar structure of the center. The platform offers the public the possibility to live or relive an experience originally conceived for the sound window, an outdoor linear device of 16 speakers integrated into Sporobole\u2019s building facade. It also showcases works produced especially for this environment, which becomes, here, a creation support in itself. By placing freedom of movement at the heart of the passerby\u2019s experience, <strong>D\u00e9j\u00e0-vu</strong> aims at widening the notions of space of creation and diffusion while highlighting the sound works created at Sporobole and making them accessible from anywhere.",
+    "developers": [
+        "Sporobole"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/header.jpg?t=1649879281",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256878814,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878814/movie480.mp4?t=1648669999",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878814/movie_max.mp4?t=1648669999"
+            },
+            "name": "D\u00e9j\u00e0-vu Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256878814/movie.293x165.jpg?t=1648669999",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256878814/movie480_vp9.webm?t=1648669999",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256878814/movie_max_vp9.webm?t=1648669999"
+            }
+        }
+    ],
+    "name": "D\u00e9j\u00e0-vu",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i7-8700K or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1080 or AMD Radeon RX Vega 64<br></li><li><strong>Storage:</strong> 26 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Sporobole"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 13, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_77e9d2e30c77443bdff18290408c1de152575fc5.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_77e9d2e30c77443bdff18290408c1de152575fc5.600x338.jpg?t=1649879281"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_cc411d5864bbf6362e96d640305ef812ffa64fe4.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_cc411d5864bbf6362e96d640305ef812ffa64fe4.600x338.jpg?t=1649879281"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_737e8ec52212515491977b8027dc846c896154bf.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_737e8ec52212515491977b8027dc846c896154bf.600x338.jpg?t=1649879281"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_972dbc5ae5280722212480be28ecb568b2c8b9ba.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_972dbc5ae5280722212480be28ecb568b2c8b9ba.600x338.jpg?t=1649879281"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_79ee5981d78f3bd1d65de8a929d30ed70b6010f3.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_79ee5981d78f3bd1d65de8a929d30ed70b6010f3.600x338.jpg?t=1649879281"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_108cfd86f4dcbc1653d9c23249a97cf1c9b3be6c.1920x1080.jpg?t=1649879281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1944750/ss_108cfd86f4dcbc1653d9c23249a97cf1c9b3be6c.600x338.jpg?t=1649879281"
+        }
+    ],
+    "short_description": "D\u00e9j\u00e0-vu is an online diffusion platform of immersive and virtual sound works offering the possibility to live or relive an experience originally conceived for the sound window, an outdoor linear device of 16 speakers integrated into Sporobole\u2019s building facade.",
+    "steam_appid": 1944750,
+    "support_info": {
+        "email": "guillaume@hub01.org",
+        "url": ""
+    },
+    "supported_languages": "English, French",
+    "type": "game",
+    "website": null
+}
