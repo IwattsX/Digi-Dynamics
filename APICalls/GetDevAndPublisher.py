@@ -33,8 +33,8 @@ for app in app_list:
         publisher = game_info.get('publishers', [])
         i += 1
 
-        with open(f"Samples/sample{i}.json", "w") as outfile: 
-            json.dump(game_info, outfile)
+        with open(f"NewSamples/sample{i}.json", "w") as outfile: 
+            json.dump(game_info, outfile, sort_keys=True, indent=4)
         
         print("----------------")
         # print(f"Game: {game_info['name']}")
