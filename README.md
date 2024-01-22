@@ -10,6 +10,14 @@ Database system class with
 - [ ] Apply steam web API with a database
 - [ ] Figure out the schema of steam game market
 
+# Types from steam web API
+<ul>
+  <li>Game</li>
+  <li>Music</li>
+  <li>Demo</li>
+  <li>DLC</li>
+</ul>
+
 # Database
 <b>Schema</b>
 <table>
