@@ -24,20 +24,23 @@ for app in app_list:
     # Step 4: Get detailed information about a specific game
     app_details_url = f'http://store.steampowered.com/api/appdetails?appids={appid}&key={api_key}'
     details_response = requests.get(app_details_url)
-    details_data = details_response.json()
 
-    # Extract developer and publisher information
-    if details_data.get(str(appid)) and details_data[str(appid)]['success']:
-        game_info = details_data[str(appid)]['data']
-        developer = game_info.get('developers', [])
-        publisher = game_info.get('publishers', [])
-        i += 1
+    if details_response.status_code == 200:
+        details_data = details_response.json()
 
-        with open(f"NewSamples/sample{i}.json", "w") as outfile: 
-            json.dump(game_info, outfile, sort_keys=True, indent=4)
-        
-        print("----------------")
-        # print(f"Game: {game_info['name']}")
-        print(f"Developer(s): {', '.join(developer)}".encode('utf-8'))
-        print(f"Publisher(s): {', '.join(publisher)}".encode('utf-8'))
-        print("\n")
+        # Extract developer and publisher information
+        if details_data.get(str(appid)) and details_data[str(appid)]['success']:
+            game_info = details_data[str(appid)]['data']
+            developer = game_info.get('developers', [])
+            publisher = game_info.get('publishers', [])
+            i += 1
+
+            with open(f"Games/game{i}.json", "w") as outfile: 
+                json.dump(game_info, outfile, sort_keys=True, indent=4)
+            
+            print("----------------")
+            print(i)
+            print(f"Game: {game_info['name'].encode('utf-8')}")
+            print(f"Developer(s): {', '.join(developer)}".encode('utf-8'))
+            print(f"Publisher(s): {', '.join(publisher)}".encode('utf-8'))
+            print("\n")
