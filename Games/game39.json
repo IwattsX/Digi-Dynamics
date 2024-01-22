@@ -1,0 +1,131 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650510/extras/CompanionBanner_Optional.png?t=1705010001\" /><br>Search for hidden characters with unusual behaviours in a hand-drawn, interactive world set in Aotearoa. Check inside the mail boxes, watch out for sharks and go to the gum boot festival.<br><br>Hints will be provided when you have trouble finding these sneaky characters and look through your Kooky log to know a bit about the character you found.<br><br>------/ Game Features /------<br>- Gameplay length = ~1 hr<br>- 9 hand-drawn areas<br>- 100+ targets to find<br>- 2 color modes: normal and night mode<br>- 9 Achievements",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/page_bg_generated_v6b.jpg?t=1705010001",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/page_bg_generated.jpg?t=1705010001",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/capsule_231x87.jpg?t=1705010001",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/capsule_184x69.jpg?t=1705010001",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2768460,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h1>Check out my other new game</h1><p><a href=\"https://store.steampowered.com/app/2746760\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2746760</a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650510/extras/CompanionBanner_Optional.png?t=1705010001\" /><br>Search for hidden characters with unusual behaviours in a hand-drawn, interactive world set in Aotearoa. Check inside the mail boxes, watch out for sharks and go to the gum boot festival.<br><br>Hints will be provided when you have trouble finding these sneaky characters and look through your Kooky log to know a bit about the character you found.<br><br>------/ Game Features /------<br>- Gameplay length = ~1 hr<br>- 9 hand-drawn areas<br>- 100+ targets to find<br>- 2 color modes: normal and night mode<br>- 9 Achievements",
+    "developers": [
+        "Roshan Nowshad"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/header.jpg?t=1705010001",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Catalina 10.15 and above<br></li><li><strong>Processor:</strong> 2.4 GHz Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Mouse is essential to get the best experience.</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975713,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975713/movie480.mp4?t=1697684183",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975713/movie_max.mp4?t=1697684183"
+            },
+            "name": "Game Teasor",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975713/movie.293x165.jpg?t=1697684183",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975713/movie480_vp9.webm?t=1697684183",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975713/movie_max_vp9.webm?t=1697684183"
+            }
+        }
+    ],
+    "name": "It's Kooky - Land of Aotearoa",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>VR Support:</strong> Not Supported<br></li><li><strong>Additional Notes:</strong> 1080p, 16:9 screen ratio recommended. Mouse is essential to get the best experience.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Roshan Nowshad"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q3 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_bc4c4cd4692289d5ef038a304265a6f2a40a7e5e.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_bc4c4cd4692289d5ef038a304265a6f2a40a7e5e.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_894fb46f8a288c5dff9097db1eca0a42ac13fe72.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_894fb46f8a288c5dff9097db1eca0a42ac13fe72.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_e1387610d4ae75ba6d7390b84e1d6f2e2d6a5b80.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_e1387610d4ae75ba6d7390b84e1d6f2e2d6a5b80.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_0f66c5d6b092dc6edc733fec5eadfdc9cacbeaa8.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_0f66c5d6b092dc6edc733fec5eadfdc9cacbeaa8.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_13ce09dda0a9a21fc3919c2eab691c252f266d8a.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_13ce09dda0a9a21fc3919c2eab691c252f266d8a.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_386609bb84ffb0ef352e83abaec765e1d75e004f.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_386609bb84ffb0ef352e83abaec765e1d75e004f.600x338.jpg?t=1705010001"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_e795c36fb4314a133906a3f8c7c06267b87dbdbb.1920x1080.jpg?t=1705010001",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650510/ss_e795c36fb4314a133906a3f8c7c06267b87dbdbb.600x338.jpg?t=1705010001"
+        }
+    ],
+    "short_description": "Welcome to another kooky game! This time, you will explore the lands of Aotearoa and discover all the hidden quirky elements throughout the game which is full of challenges, histories and, most importantly, fun!",
+    "steam_appid": 2650510,
+    "support_info": {
+        "email": "developer.whoopee@gmail.com",
+        "url": "https://twitter.com/whoopee_nz"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong>, Malay<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

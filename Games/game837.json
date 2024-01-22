@@ -1,0 +1,114 @@
+{
+    "about_the_game": "B\u00f6rd killer is a game about killing b\u00f6rds. Equipped with only a shotgun, you must defeat hordes of these creatures. The game contains 6 levels and some upgrades to kill b\u00f6rds to your hearts content!",
+    "achievements": {
+        "total": 0
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/page_bg_generated_v6b.jpg?t=1704990635",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/page_bg_generated.jpg?t=1704990635",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/capsule_231x87.jpg?t=1704990635",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/capsule_184x69.jpg?t=1704990635",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "B\u00f6rd killer is a game about killing b\u00f6rds. Equipped with only a shotgun, you must defeat hordes of these creatures. The game contains 6 levels and some upgrades to kill b\u00f6rds to your hearts content!",
+    "developers": [
+        "nibblenibble123"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/header.jpg?t=1704990635",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 and above<br></li><li><strong>Processor:</strong> 1.7 GHz Processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8 or higher, ATI X1600 or higher, Intel HD 3000 or higher<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256955130,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955130/movie480.mp4?t=1688219739",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955130/movie_max.mp4?t=1688219739"
+            },
+            "name": "B\u00f6rd Killer Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955130/movie.293x165.jpg?t=1688219739",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955130/movie480_vp9.webm?t=1688219739",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955130/movie_max_vp9.webm?t=1688219739"
+            }
+        }
+    ],
+    "name": "B\u00f6rd Killer",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows\u00ae 7 (32/64-bit)<br></li><li><strong>Processor:</strong> 1.7 GHz Processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "nibblenibble123"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_a441e2f187f947625d8e8c28d578e8192ec18775.1920x1080.jpg?t=1704990635",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_a441e2f187f947625d8e8c28d578e8192ec18775.600x338.jpg?t=1704990635"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_80c8b56065093525321a59578220720e0143df9b.1920x1080.jpg?t=1704990635",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_80c8b56065093525321a59578220720e0143df9b.600x338.jpg?t=1704990635"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_3a830b5083ae04657cf6d29689368434ef496741.1920x1080.jpg?t=1704990635",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_3a830b5083ae04657cf6d29689368434ef496741.600x338.jpg?t=1704990635"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_5d01c6ee8f6ccf0eef549b525a1cce5bd107beb4.1920x1080.jpg?t=1704990635",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_5d01c6ee8f6ccf0eef549b525a1cce5bd107beb4.600x338.jpg?t=1704990635"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_420655306414cfabbd9168607db6e89891119bcc.1920x1080.jpg?t=1704990635",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370660/ss_420655306414cfabbd9168607db6e89891119bcc.600x338.jpg?t=1704990635"
+        }
+    ],
+    "short_description": "This game is an arena shooter where you have a gun, and you must fend off hordes of b\u00f6rds.",
+    "steam_appid": 2370660,
+    "support_info": {
+        "email": "helperbord@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

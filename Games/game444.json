@@ -1,0 +1,167 @@
+{
+    "about_the_game": "Welcome to Gun vs. Zombies, the ultimate showdown between firepower and the undead! Brace yourself for an intense, physics-driven experience where your trusty gun becomes more than just a tool\u2014it's your lifeline against waves of hungry zombies.<br />\r\n<br />\r\nIn Gun vs. Zombies, you're in control of a unique weapon that's not just about aiming and firing. This isn't your typical shooter; the gun's physics play a crucial role in your strategy. Every shot you take applies forces to the gun, causing it to move dynamically. Your skill in managing this movement while taking down hordes of zombies will determine your survival.<br />\r\n<br />\r\nYour mission is clear: defend the precious brain located on the stage. Waves of relentless zombies are relentlessly advancing, driven by an insatiable hunger. It's up to your sharpshooting skills and mastery of the gun's physics to keep them at bay and prevent them from reaching their ultimate goal.<br />\r\n<br />\r\nCompete against other players and showcase your skills on the global leaderboard! In Gun vs. Zombies, it's not just about surviving the zombie onslaught\u2014it's about proving your mastery. Climb the ranks by showcasing your prowess in eliminating the undead.<br />\r\n<br />\r\nAre you ready to experience the adrenaline rush of controlling a weapon that challenges traditional shooting mechanics? Get ready to immerse yourself in Gun vs. Zombies, where precision, strategy, and the laws of physics collide in a battle for survival!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First Blood",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/72068a5d13a8a87ed136598d9577786a770dbe68.jpg"
+            },
+            {
+                "name": "Zombie Splat Novice",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/72350cda4a69b704d8dd629311f698d62918229c.jpg"
+            },
+            {
+                "name": "Zombie Annihilator",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/34a84878755b0c23b184aa21de1b7ccfb2967c2d.jpg"
+            },
+            {
+                "name": "Zombie Zapper",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/3ed7f4d2201ae6efba8c90ede12a68b99452c99b.jpg"
+            },
+            {
+                "name": "Zombie Connoisseur",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/260d5da8a071cc3897a942d45fe100e279ea8692.jpg"
+            },
+            {
+                "name": "Zombie Slayer Extraordinaire",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/b210d2174cd4276fec43f21d3c4e725f06e21953.jpg"
+            },
+            {
+                "name": "Zombie Overlord",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/2a7abb048a10f4323b8181b9a4fef50c64f3179d.jpg"
+            },
+            {
+                "name": "Zomboss Supreme",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/c1327f927cd22f4443bd04a95061f1d592446fae.jpg"
+            },
+            {
+                "name": "Zombie Whisperer Deluxe",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/e4fa1bfb93b337ab945aab78001d765369deed0b.jpg"
+            },
+            {
+                "name": "Zombie Apocalypse MVP",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2734750/919ecc6ad78b340fec95fd386e2dd1c34b9c54d6.jpg"
+            }
+        ],
+        "total": 24
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/page_bg_generated_v6b.jpg?t=1705086089",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/page.bg.jpg?t=1705086089",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/capsule_231x87.jpg?t=1705086089",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/capsule_184x69.jpg?t=1705086089",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to Gun vs. Zombies, the ultimate showdown between firepower and the undead! Brace yourself for an intense, physics-driven experience where your trusty gun becomes more than just a tool\u2014it's your lifeline against waves of hungry zombies.<br />\r\n<br />\r\nIn Gun vs. Zombies, you're in control of a unique weapon that's not just about aiming and firing. This isn't your typical shooter; the gun's physics play a crucial role in your strategy. Every shot you take applies forces to the gun, causing it to move dynamically. Your skill in managing this movement while taking down hordes of zombies will determine your survival.<br />\r\n<br />\r\nYour mission is clear: defend the precious brain located on the stage. Waves of relentless zombies are relentlessly advancing, driven by an insatiable hunger. It's up to your sharpshooting skills and mastery of the gun's physics to keep them at bay and prevent them from reaching their ultimate goal.<br />\r\n<br />\r\nCompete against other players and showcase your skills on the global leaderboard! In Gun vs. Zombies, it's not just about surviving the zombie onslaught\u2014it's about proving your mastery. Climb the ranks by showcasing your prowess in eliminating the undead.<br />\r\n<br />\r\nAre you ready to experience the adrenaline rush of controlling a weapon that challenges traditional shooting mechanics? Get ready to immerse yourself in Gun vs. Zombies, where precision, strategy, and the laws of physics collide in a battle for survival!",
+    "developers": [
+        "IonForce Studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/header.jpg?t=1705086089",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989680,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989680/movie480.mp4?t=1703674717",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989680/movie_max.mp4?t=1703674717"
+            },
+            "name": "Gun vs. Zombies Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989680/movie.293x165.jpg?t=1703674717",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989680/movie480_vp9.webm?t=1703674717",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989680/movie_max_vp9.webm?t=1703674717"
+            }
+        }
+    ],
+    "name": "Gun vs. Zombies",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 11<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 11<br></li><li><strong>Processor:</strong> Intel Core2 Duo E4500 (2 * 2200) or equivalent, AMD Athlon 64 X2 4200+ (2 * 2200) or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "IonForce Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 12, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_8158c54e9bdfacaf913aa4b623fe5c5ac7f886f3.1920x1080.jpg?t=1705086089",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_8158c54e9bdfacaf913aa4b623fe5c5ac7f886f3.600x338.jpg?t=1705086089"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_bd094effebbf7424f534b29246ec604b9af825c5.1920x1080.jpg?t=1705086089",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_bd094effebbf7424f534b29246ec604b9af825c5.600x338.jpg?t=1705086089"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_beaafa9f2a8bebd13ecfadcbf1f57e146cebc902.1920x1080.jpg?t=1705086089",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_beaafa9f2a8bebd13ecfadcbf1f57e146cebc902.600x338.jpg?t=1705086089"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_df4764ce58fd54b6207209f36ebe8c78547586a2.1920x1080.jpg?t=1705086089",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_df4764ce58fd54b6207209f36ebe8c78547586a2.600x338.jpg?t=1705086089"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_e791e83e03a75d37f17bff8d6e03bb4fea465905.1920x1080.jpg?t=1705086089",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734750/ss_e791e83e03a75d37f17bff8d6e03bb4fea465905.600x338.jpg?t=1705086089"
+        }
+    ],
+    "short_description": "Gun vs. Zombies is a thrilling showdown where precision meets undead mayhem. Take control of a dynamic gun affected by physics as you fend off waves of zombies hungry for a brain feast. Compete against others on the global leaderboard by showcasing your shooting skills.",
+    "steam_appid": 2734750,
+    "support_info": {
+        "email": "",
+        "url": "ionforcestudio.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

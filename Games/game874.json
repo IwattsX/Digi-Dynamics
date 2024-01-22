@@ -1,0 +1,174 @@
+{
+    "about_the_game": "Jump into the action with the Core Collection, featuring  some of the finest modern-day video game pinball creations from the pinball masters at Zen Studios. <br />\r\n<br />\r\nTables In This Pack<br />\r\n<br />\r\nPasha<br />\r\nExplore the fabulous world of ancient Persian legends, where a new adventure awaits beyond every sand dune.<br />\r\n<br />\r\nRome<br />\r\nLead the Empire into the golden age! Protect the land from archaic dangers and lead your legion to glorious triumph over all your enemies!<br />\r\n<br />\r\nBiolab<br />\r\nCaution, Biohazard! Rescue creatures and unravel the mystery of the missing cookies in the Mad Scientist's high-tech genetic laboratory!<br />\r\n<br />\r\nSecrets of the deep<br />\r\nBeneath the waves lies a mysterious and beautiful world filled with strange creatures and priceless ancient artifacts!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/page_bg_generated_v6b.jpg?t=1686927684",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/page_bg_generated.jpg?t=1686927684",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/capsule_231x87.jpg?t=1686927684",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/capsule_184x69.jpg?t=1686927684",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Jump into the action with the Core Collection, featuring  some of the finest modern-day video game pinball creations from the pinball masters at Zen Studios. <br />\r\n<br />\r\nTables In This Pack<br />\r\n<br />\r\nPasha<br />\r\nExplore the fabulous world of ancient Persian legends, where a new adventure awaits beyond every sand dune.<br />\r\n<br />\r\nRome<br />\r\nLead the Empire into the golden age! Protect the land from archaic dangers and lead your legion to glorious triumph over all your enemies!<br />\r\n<br />\r\nBiolab<br />\r\nCaution, Biohazard! Rescue creatures and unravel the mystery of the missing cookies in the Mad Scientist's high-tech genetic laboratory!<br />\r\n<br />\r\nSecrets of the deep<br />\r\nBeneath the waves lies a mysterious and beautiful world filled with strange creatures and priceless ancient artifacts!",
+    "developers": [
+        "Zen Studios"
+    ],
+    "fullgame": {
+        "appid": "2328760",
+        "name": "Pinball FX"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/header.jpg?t=1686927684",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Pinball FX - Core Collection",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Pinball FX - Core Collection - $9.99",
+                    "packageid": 852201,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Pinball FX - Core Collection"
+        }
+    ],
+    "packages": [
+        852201
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz / Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz<br></li><li><strong>Graphics:</strong> Nvidia GTX 960 or AMD R9 380<br></li><li><strong>Storage:</strong> 16 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_649c934e745e4cd27f0d02b694c96cd6ffb99433.1920x1080.jpg?t=1686927684",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_649c934e745e4cd27f0d02b694c96cd6ffb99433.600x338.jpg?t=1686927684"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_3d6dba7e656d7c4b3d6b999a6cd3311b0ac3b88c.1920x1080.jpg?t=1686927684",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_3d6dba7e656d7c4b3d6b999a6cd3311b0ac3b88c.600x338.jpg?t=1686927684"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_85ae78fcae4592fab5a16153259aa38d1459ffbb.1920x1080.jpg?t=1686927684",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_85ae78fcae4592fab5a16153259aa38d1459ffbb.600x338.jpg?t=1686927684"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_8d22fd2efee0ae0436cb3bc0bf19a505cecbe130.1920x1080.jpg?t=1686927684",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_8d22fd2efee0ae0436cb3bc0bf19a505cecbe130.600x338.jpg?t=1686927684"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_cd448c5931d193b1234d0e9e9609b2dc62258e35.1920x1080.jpg?t=1686927684",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370402/ss_cd448c5931d193b1234d0e9e9609b2dc62258e35.600x338.jpg?t=1686927684"
+        }
+    ],
+    "short_description": "Core Collection, a package of four beautifully crafted pinball tables featuring Secrets of the Deep, Biolab, Rome and Pasha.",
+    "steam_appid": 2370402,
+    "support_info": {
+        "email": "support@zenstudios.com",
+        "url": "https://zenstudios.freshdesk.com/support/home"
+    },
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": null
+}

@@ -1,0 +1,114 @@
+{
+    "about_the_game": "A retro touch to spice up your look in Sclash. Wear a mask and carry a weapon with a low resolution!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/page_bg_generated_v6b.jpg?t=1699881645",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/page_bg_generated.jpg?t=1699881645",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/capsule_231x87.jpg?t=1699881645",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/capsule_184x69.jpg?t=1699881645",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A retro touch to spice up your look in Sclash. Wear a mask and carry a weapon with a low resolution!",
+    "developers": [
+        "Bevel bakery"
+    ],
+    "fullgame": {
+        "appid": "1284130",
+        "name": "Sclash"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/header.jpg?t=1699881645",
+    "is_free": true,
+    "legal_notice": "All rights reserved to them. Do not try to <i>reproduce</i>, <i>sell illegal copies</i>, <i>pirate </i>or <i>steal game design ideas</i>.<br><i>Monetization </i>of fan content such as <i>fanarts</i>, <i>let's plays</i> and any other type of creative <i>content referencing the game</i>, its developers and its commercial image is authorized, but please credit and link one of the game's online presence instances.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Sclash - PIXELS",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Just For Games",
+        "Abiding Bridge"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/ss_754eb2b578cd831176f869a6880a462d5b345959.1920x1080.jpg?t=1699881645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/ss_754eb2b578cd831176f869a6880a462d5b345959.600x338.jpg?t=1699881645"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/ss_a41575d6a5c04932f777ca81d1681d9fb472258f.1920x1080.jpg?t=1699881645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635600/ss_a41575d6a5c04932f777ca81d1681d9fb472258f.600x338.jpg?t=1699881645"
+        }
+    ],
+    "short_description": "A retro touch to spice up your look in Sclash. Wear a mask and carry a weapon with a low resolution! Includes a new weapon &amp; a new mask, directly unlocked.",
+    "steam_appid": 2635600,
+    "support_info": {
+        "email": "sclashthegame@gmail.com",
+        "url": "http://sclashthegame.com/en"
+    },
+    "supported_languages": "English, French, Russian, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Japanese",
+    "type": "dlc",
+    "website": null
+}

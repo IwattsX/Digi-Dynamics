@@ -1,0 +1,47 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/page_bg_generated_v6b.jpg?t=1685021837",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/page_bg_generated.jpg?t=1685021837",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/capsule_231x87.jpg?t=1685021837",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/capsule_184x69.jpg?t=1685021837",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/header.jpg?t=1685021837",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "The Texas Chain Saw Massacre Playtest",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/ss_b1644739c1944755f7ce8946e1fe81fe003e5a5d.1920x1080.jpg?t=1685021837",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370850/ss_b1644739c1944755f7ce8946e1fe81fe003e5a5d.600x338.jpg?t=1685021837"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2370850,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

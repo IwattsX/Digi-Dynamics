@@ -1,0 +1,145 @@
+{
+    "about_the_game": "Keita, a brave emperor penguin, lost its way during the migration and would start an extraordinary adventure on the ice alone.<br />\r\nThe blue sky, snow-white ground, enlargeable snowballs, interesting levels, unexpected endings and various level clearance methods will all get you immersed. Just control Keita to start your journey.<br />\r\n1. Tired of noisy and polluted environment, you will find long-lost freshness and tranquility in the game.<br />\r\n2. You will pass the level with an enlargeable snowball. The size of the snowball is adjustable, and so is the way to pass the level, which will get you a long-lost satisfaction.<br />\r\n3. The game level is designed full of mystery, and the following levels are difficult to pass in a single shot, so you need to keep trying.<br />\r\n4. After clearing the level, you will deeply feel the greatness in such an otherwise small game.<br />\r\n5. The game is educationally meaningful, and it\u2019s also suitable for children.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/page_bg_generated_v6b.jpg?t=1699003055",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/page_bg_generated.jpg?t=1699003055",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/capsule_231x87.jpg?t=1699003055",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/capsule_184x69.jpg?t=1699003055",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Keita, a brave emperor penguin, lost its way during the migration and would start an extraordinary adventure on the ice alone.<br />\r\nThe blue sky, snow-white ground, enlargeable snowballs, interesting levels, unexpected endings and various level clearance methods will all get you immersed. Just control Keita to start your journey.<br />\r\n1. Tired of noisy and polluted environment, you will find long-lost freshness and tranquility in the game.<br />\r\n2. You will pass the level with an enlargeable snowball. The size of the snowball is adjustable, and so is the way to pass the level, which will get you a long-lost satisfaction.<br />\r\n3. The game level is designed full of mystery, and the following levels are difficult to pass in a single shot, so you need to keep trying.<br />\r\n4. After clearing the level, you will deeply feel the greatness in such an otherwise small game.<br />\r\n5. The game is educationally meaningful, and it\u2019s also suitable for children.",
+    "developers": [
+        "African boy Keita studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/header.jpg?t=1699003055",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932598,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932598/movie480.mp4?t=1677624127",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932598/movie_max.mp4?t=1677624127"
+            },
+            "name": "The Emperor Penguin Keita",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932598/movie.293x165.jpg?t=1677624127",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932598/movie480_vp9.webm?t=1677624127",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932598/movie_max_vp9.webm?t=1677624127"
+            }
+        }
+    ],
+    "name": "The Emperor Penguin Keita",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Emperor Penguin Keita - $1.99",
+                    "packageid": 838871,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy The Emperor Penguin Keita"
+        }
+    ],
+    "packages": [
+        838871
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> win7,win8,win10,win11<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel integrated graphics card<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> 64-bit operating system required</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "African boy Keita studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_61920da363bb875b3194161d70e5a4776ccad8a5.1920x1080.jpg?t=1699003055",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_61920da363bb875b3194161d70e5a4776ccad8a5.600x338.jpg?t=1699003055"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_b87d63c3abfd4ef4c932977c08fd5849dcbe607c.1920x1080.jpg?t=1699003055",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_b87d63c3abfd4ef4c932977c08fd5849dcbe607c.600x338.jpg?t=1699003055"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_63a93bdd4b0dfa354980d10b644344b2646038ae.1920x1080.jpg?t=1699003055",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_63a93bdd4b0dfa354980d10b644344b2646038ae.600x338.jpg?t=1699003055"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_02f0868105d9c9dd57f83e582e2d1586d0be9599.1920x1080.jpg?t=1699003055",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_02f0868105d9c9dd57f83e582e2d1586d0be9599.600x338.jpg?t=1699003055"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_49746bb6caea6f75dd6ce431bc8dde171de71ea6.1920x1080.jpg?t=1699003055",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335580/ss_49746bb6caea6f75dd6ce431bc8dde171de71ea6.600x338.jpg?t=1699003055"
+        }
+    ],
+    "short_description": "Keita, a brave emperor penguin, lost its way during the migration and would start an extraordinary adventure on the ice alone.",
+    "steam_appid": 2335580,
+    "support_info": {
+        "email": "feixiang12356200@163.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese, French, German, Spanish - Spain, Traditional Chinese, Portuguese - Portugal, Korean, Japanese, Italian, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech, Polish, Thai, Swedish, Romanian, Finnish, Dutch, Portuguese - Brazil, Spanish - Latin America, Vietnamese",
+    "type": "game",
+    "website": null
+}

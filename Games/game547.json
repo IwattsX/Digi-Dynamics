@@ -1,0 +1,91 @@
+{
+    "about_the_game": "Cook Fest is a combination of strategic planning, restaurant management, tower defense, and chaotic kitchen action. It creates some fresh gameplay in the market and extremely fun roguelite experiences unlike any other.<h2 class=\"bb_tag\"><strong>You are free to design your festival spaces!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337600/extras/Placing_Tables.gif?t=1677723205\" /><br><ul class=\"bb_ul\"><li><strong>Creatively make your own maze layout</strong><br></li><li><strong>Customers will always find the shortest route to each checkpoints</strong></li></ul><h2 class=\"bb_tag\"><strong>Cook dishes based on recipes &amp; ingredients you've unlocked!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337600/extras/Frying_Omelette.gif?t=1677723205\" /><br><ul class=\"bb_ul\"><li><strong>Unlocks new ingredients, recipes, customers and other contents as you progress</strong><br></li><li><strong>Be aware of customers allergic, dislikes &amp; loves</strong></li></ul><h2 class=\"bb_tag\"><strong>Combines &amp; upgrades!</strong></h2><ul class=\"bb_ul\"><li><strong>You can combine ingredients &amp; appliances to make a new food/ingredients tables</strong><br></li><li><strong>Upgrades your utilities to automate things</strong><br></li><li><strong>Upgrades your serving tables to improve foods that you serves</strong></li></ul><h2 class=\"bb_tag\"><strong>Choose your strategy on each run!</strong></h2><ul class=\"bb_ul\"><li><strong>Randomly generated basic map layouts and unexpected elements of Roguelite</strong><br></li><li><strong>You will get random ingredients, appliances &amp; utilities on each day</strong></li></ul><br><br><strong><u>[We are working hard to implement multiplayer system]</u></strong><br>Team up with your fellow chefs in chaotic kitchen co-op actions!<br><br><br><i><strong>How many days can you survive and maintain good ratings of your festival?</strong></i>",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337600/capsule_231x87.jpg?t=1677723205",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337600/capsule_184x69.jpg?t=1677723205",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Cook Fest is a combination of strategic planning, restaurant management, tower defense, and chaotic kitchen action. It creates some fresh gameplay in the market and extremely fun roguelite experiences unlike any other.<h2 class=\"bb_tag\"><strong>You are free to design your festival spaces!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337600/extras/Placing_Tables.gif?t=1677723205\" /><br><ul class=\"bb_ul\"><li><strong>Creatively make your own maze layout</strong><br></li><li><strong>Customers will always find the shortest route to each checkpoints</strong></li></ul><h2 class=\"bb_tag\"><strong>Cook dishes based on recipes &amp; ingredients you've unlocked!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337600/extras/Frying_Omelette.gif?t=1677723205\" /><br><ul class=\"bb_ul\"><li><strong>Unlocks new ingredients, recipes, customers and other contents as you progress</strong><br></li><li><strong>Be aware of customers allergic, dislikes &amp; loves</strong></li></ul><h2 class=\"bb_tag\"><strong>Combines &amp; upgrades!</strong></h2><ul class=\"bb_ul\"><li><strong>You can combine ingredients &amp; appliances to make a new food/ingredients tables</strong><br></li><li><strong>Upgrades your utilities to automate things</strong><br></li><li><strong>Upgrades your serving tables to improve foods that you serves</strong></li></ul><h2 class=\"bb_tag\"><strong>Choose your strategy on each run!</strong></h2><ul class=\"bb_ul\"><li><strong>Randomly generated basic map layouts and unexpected elements of Roguelite</strong><br></li><li><strong>You will get random ingredients, appliances &amp; utilities on each day</strong></li></ul><br><br><strong><u>[We are working hard to implement multiplayer system]</u></strong><br>Team up with your fellow chefs in chaotic kitchen co-op actions!<br><br><br><i><strong>How many days can you survive and maintain good ratings of your festival?</strong></i>",
+    "developers": [
+        "Sigma Indie"
+    ],
+    "fullgame": {
+        "appid": "2235210",
+        "name": "Cook Fest"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337600/header.jpg?t=1677723205",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Cook Fest Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (64-bit)<br></li><li><strong>Processor:</strong> Quad Core I5 or AMD equivalent<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 530 or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Sigma Indie"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 1, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Create and design your own complex maze by strategizing your festival spaces! Cook and serve dishes to satisfy your customers. Level up to unlock to new ingredients and recipes. With unexpected roguelite elements and fast-paced gameplay, you can play solo or in chaotic co-op with your fellow chef!",
+    "steam_appid": 2337600,
+    "support_info": {
+        "email": "support@sigmaindie.com",
+        "url": "https://sigmaindie.com/#contact"
+    },
+    "type": "demo",
+    "website": "https://sigmaindie.com/#games"
+}

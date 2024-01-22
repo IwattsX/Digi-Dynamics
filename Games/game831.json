@@ -1,0 +1,137 @@
+{
+    "about_the_game": "<strong>A side scroller action RPG set in an epic fantasy world where Rynn Draken, a barbarian woman raised in the wild is pushed by her mother stories about her father, decides to look for his final resting place and travels to the free lands of Bel'heim. <br><br>But others are also after the burial ground of Raeldor Draken, someone wants to destroy all trace of his memory, but some unknown power want her to succeed.</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/a.gif?t=1695908316\" /><br><strong>She will face unknown evils, the might of the empire and any kind of savage beast and outlaws only armed with her father's old sword and her willpower. She will meet unusual allies through her travels through the Bel'heir mountains and beyond any civilized person would dare to go.</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/b.gif?t=1695908316\" /><br><strong>Features:</strong><br><i>-Three act storyline about the mystery that surrounds Raeldor Draken a legendary dragon hunter.<br>-Lots of sidequests and places to explore and discover!<br>-Travel the world and visit snowy mountains, deep forests, blasted lands, ancient cities and more!<br>-Pixel art 90s pc game style with thousands of frames of animation.<br>-Awesome fm style music done by composer Chris Jay.<br>-Unlock alternate skins and costumes.<br>-Experience and leveling system and an aptitude tree where you can tweak your gameplay.<br>-Face many kinds of enemies, from imperial soldiers and wild beast to undead creatures and dragons.<br>-Unlock new powers within Rynn\u2019s soul to fight and to traverse the terrain.</i><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/44.png?t=1695908316\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/page_bg_generated_v6b.jpg?t=1695908316",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/page_bg_generated.jpg?t=1695908316",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/capsule_231x87.jpg?t=1695908316",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/capsule_184x69.jpg?t=1695908316",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2391470,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<strong>A side scroller action RPG set in an epic fantasy world where Rynn Draken, a barbarian woman raised in the wild is pushed by her mother stories about her father, decides to look for his final resting place and travels to the free lands of Bel'heim. <br><br>But others are also after the burial ground of Raeldor Draken, someone wants to destroy all trace of his memory, but some unknown power want her to succeed.</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/a.gif?t=1695908316\" /><br><strong>She will face unknown evils, the might of the empire and any kind of savage beast and outlaws only armed with her father's old sword and her willpower. She will meet unusual allies through her travels through the Bel'heir mountains and beyond any civilized person would dare to go.</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/b.gif?t=1695908316\" /><br><strong>Features:</strong><br><i>-Three act storyline about the mystery that surrounds Raeldor Draken a legendary dragon hunter.<br>-Lots of sidequests and places to explore and discover!<br>-Travel the world and visit snowy mountains, deep forests, blasted lands, ancient cities and more!<br>-Pixel art 90s pc game style with thousands of frames of animation.<br>-Awesome fm style music done by composer Chris Jay.<br>-Unlock alternate skins and costumes.<br>-Experience and leveling system and an aptitude tree where you can tweak your gameplay.<br>-Face many kinds of enemies, from imperial soldiers and wild beast to undead creatures and dragons.<br>-Unlock new powers within Rynn\u2019s soul to fight and to traverse the terrain.</i><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370560/extras/44.png?t=1695908316\" />",
+    "developers": [
+        "RD Productions"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/header.jpg?t=1695908316",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256951440,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951440/movie480.mp4?t=1686154849",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951440/movie_max.mp4?t=1686154849"
+            },
+            "name": "Draken's Shrine Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256951440/movie.293x165.jpg?t=1686154849",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951440/movie480_vp9.webm?t=1686154849",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951440/movie_max_vp9.webm?t=1686154849"
+            }
+        }
+    ],
+    "name": "Draken's Shrine",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 1.2ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 mb Video Memory<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> AMD High Definition</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 1.2ghz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 512 mb Video Memory<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> AMD High Definition</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Shady Corner Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_76e7e49074fd0818e7c2d3f3600e6c8192f91ffa.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_76e7e49074fd0818e7c2d3f3600e6c8192f91ffa.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_7d214ad7b97649e818cd067b2e7222d88b66755a.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_7d214ad7b97649e818cd067b2e7222d88b66755a.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_5e39411a85e2751425236f2b6c3a5cd909936327.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_5e39411a85e2751425236f2b6c3a5cd909936327.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_8410eaf057f5fed9a81dbeb8e2e4b1910894a0fe.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_8410eaf057f5fed9a81dbeb8e2e4b1910894a0fe.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_46a22fc8a1fc29b39469a060278f7cafd93419f4.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_46a22fc8a1fc29b39469a060278f7cafd93419f4.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_586d0c5ed9e00b090ba80d601663f552822678cb.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_586d0c5ed9e00b090ba80d601663f552822678cb.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_0386eead102d2f725d04e8d53bc9a4f933d46f1d.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_0386eead102d2f725d04e8d53bc9a4f933d46f1d.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_d6a244702486e58a5bd9b615554cbab9be5bfb8c.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_d6a244702486e58a5bd9b615554cbab9be5bfb8c.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_9536ebf83316cf4dd1c58695e086a3e961a679b7.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_9536ebf83316cf4dd1c58695e086a3e961a679b7.600x338.jpg?t=1695908316"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_136f1d337c9c39a1541368ab468e4c2de4b172da.1920x1080.jpg?t=1695908316",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370560/ss_136f1d337c9c39a1541368ab468e4c2de4b172da.600x338.jpg?t=1695908316"
+        }
+    ],
+    "short_description": "A metroidvania action platformer set in an epic fantasy world where a barbarian woman raised in the wild, pushed by her mother stories about her father decides to look for his final resting place.",
+    "steam_appid": 2370560,
+    "support_info": {
+        "email": "ross@evmproductions.com",
+        "url": "https://twitter.com/RareDoggu"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://twitter.com/RareDoggu"
+}

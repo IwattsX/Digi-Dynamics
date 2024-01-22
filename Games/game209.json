@@ -1,0 +1,103 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/page_bg_generated_v6b.jpg?t=1696926321",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/page_bg_generated.jpg?t=1696926321",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/capsule_231x87.jpg?t=1696926321",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/capsule_184x69.jpg?t=1696926321",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "This game contains scenes of gore, blood and psychological horror. There is also partial nudity and corpses. Demo does not contain spiders however final product will. "
+    },
+    "detailed_description": "",
+    "developers": [
+        "Curtis Hawes"
+    ],
+    "fullgame": {
+        "appid": "2243700",
+        "name": "Isle of Leil"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/header.jpg?t=1696926321",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Isle of Leil Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Adversity Interactive"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_e9862718bf41ec0f1306ae6a0f26bdaecfe33007.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_e9862718bf41ec0f1306ae6a0f26bdaecfe33007.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_5698b0134a3239d9536947698976877a6d1b5984.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_5698b0134a3239d9536947698976877a6d1b5984.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_a5fdb9b0025656b52d11359d84b3427afb19ffd7.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_a5fdb9b0025656b52d11359d84b3427afb19ffd7.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_66584d87e815417a0d146f0f47db41db75e3cd24.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_66584d87e815417a0d146f0f47db41db75e3cd24.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_3bf41bed5720d911c3749713573f86926aae7077.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_3bf41bed5720d911c3749713573f86926aae7077.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_4e180453447f271c68318a2ae486e025e95ca7d6.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_4e180453447f271c68318a2ae486e025e95ca7d6.600x338.jpg?t=1696926321"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_635810d8340c594dbbe898ba061879709783b109.1920x1080.jpg?t=1696926321",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636620/ss_635810d8340c594dbbe898ba061879709783b109.600x338.jpg?t=1696926321"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2636620,
+    "support_info": {
+        "email": "adversityinteractive@hotmail.com",
+        "url": "https://www.adversityinteractive.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://www.adversityinteractive.com/"
+}

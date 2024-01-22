@@ -1,0 +1,92 @@
+{
+    "about_the_game": "Field Tactics is a Turn-Based Tactical War Simulator inspired by ancient warfare. Set up your formations, utilise a variety of tactics and lead your army to victory.<br><br>Your goal is to either capture the enemy Commander or annihilate the rest of their army.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/formations_and_terrain.gif?t=1700522364\" /><h2 class=\"bb_tag\">Match Types</h2><ul class=\"bb_ul\"><li><strong>Online Casual:</strong> Play without risking your reputation, it is the perfect arena to test new and innovative strategies against worthy opponents.<br><br></li><li><strong>Online Ranked:</strong> Test your mettle and etch your name into the annals of history. Use every strategy in your arsenal to come one step closer to becoming a Grand Commander.<br><br></li><li><strong>Local:</strong> An opportunity to play away from the prying eyes of your enemies. Formulate new and exciting plans, or perhaps just a friendly contest between members of your inner circle.<br><br></li><li><strong>AI:</strong> Experiment without giving anything away to those whose eyes watch like a hawk. Or use it to keep your mind sharp while members of your inner circle are otherwise occupied.</li></ul><h2 class=\"bb_tag\">Pieces</h2><ul class=\"bb_ul\"><li><strong>Foot Soldier:</strong> The most common piece on the battlefield, they are hard workers who can and will give their all for victory.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/fs_gif.gif?t=1700522364\" /><br><br></li><li><strong>Archer:</strong> A vital piece in the army, they watch over the front lines and prey on those that would dare to step too close.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/ar_gif.gif?t=1700522364\" /><br><br></li><li><strong>Chariot:</strong> They have the potential to be the most devastating weapon. Once they get going, they can't be stopped and will mow down everything in their path.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/cht_gif.gif?t=1700522364\" /><br><br></li><li><strong>Lieutenant:</strong> The most loyal subordinates to the Commander, they are best at controlling the flow of the battle and creating sparks that can turn into a great blaze.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/lt_gif.gif?t=1700522364\" /><br><br></li><li><strong>Commander:</strong> The Commander can fly across the battlefield, turning the tide at any given moment. But be careful, as diving too deep could land them in the enemy's trap.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/cdr_gif.gif?t=1700522364\" /></li></ul>",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336770/capsule_231x87.jpg?t=1700522364",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336770/capsule_184x69.jpg?t=1700522364",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Field Tactics is a Turn-Based Tactical War Simulator inspired by ancient warfare. Set up your formations, utilise a variety of tactics and lead your army to victory.<br><br>Your goal is to either capture the enemy Commander or annihilate the rest of their army.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/formations_and_terrain.gif?t=1700522364\" /><h2 class=\"bb_tag\">Match Types</h2><ul class=\"bb_ul\"><li><strong>Online Casual:</strong> Play without risking your reputation, it is the perfect arena to test new and innovative strategies against worthy opponents.<br><br></li><li><strong>Online Ranked:</strong> Test your mettle and etch your name into the annals of history. Use every strategy in your arsenal to come one step closer to becoming a Grand Commander.<br><br></li><li><strong>Local:</strong> An opportunity to play away from the prying eyes of your enemies. Formulate new and exciting plans, or perhaps just a friendly contest between members of your inner circle.<br><br></li><li><strong>AI:</strong> Experiment without giving anything away to those whose eyes watch like a hawk. Or use it to keep your mind sharp while members of your inner circle are otherwise occupied.</li></ul><h2 class=\"bb_tag\">Pieces</h2><ul class=\"bb_ul\"><li><strong>Foot Soldier:</strong> The most common piece on the battlefield, they are hard workers who can and will give their all for victory.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/fs_gif.gif?t=1700522364\" /><br><br></li><li><strong>Archer:</strong> A vital piece in the army, they watch over the front lines and prey on those that would dare to step too close.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/ar_gif.gif?t=1700522364\" /><br><br></li><li><strong>Chariot:</strong> They have the potential to be the most devastating weapon. Once they get going, they can't be stopped and will mow down everything in their path.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/cht_gif.gif?t=1700522364\" /><br><br></li><li><strong>Lieutenant:</strong> The most loyal subordinates to the Commander, they are best at controlling the flow of the battle and creating sparks that can turn into a great blaze.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/lt_gif.gif?t=1700522364\" /><br><br></li><li><strong>Commander:</strong> The Commander can fly across the battlefield, turning the tide at any given moment. But be careful, as diving too deep could land them in the enemy's trap.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336770/extras/cdr_gif.gif?t=1700522364\" /></li></ul>",
+    "developers": [
+        "R3 Games"
+    ],
+    "fullgame": {
+        "appid": "2204570",
+        "name": "Field Tactics"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336770/header.jpg?t=1700522364",
+    "is_free": true,
+    "legal_notice": "2022 R3 Games",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X v10.7<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Field Tactics Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae HD Graphics 3000</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "R3 Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "short_description": "Field Tactics is a Turn-Based Tactical War Simulator inspired by ancient warfare. Set up your formations, utilise a variety of tactics and lead your army to victory.",
+    "steam_appid": 2336770,
+    "support_info": {
+        "email": "services.r3games@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese",
+    "type": "demo",
+    "website": null
+}

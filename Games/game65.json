@@ -1,0 +1,191 @@
+{
+    "about_the_game": "The three main Kingdoms of Avarice, Veratos, and Lucerna are<br />\r\nlocked in conflict.<br />\r\nGaining the controlling majority of power and resources will<br />\r\ndetermine the fate of each kingdom.<br />\r\n<br />\r\nViolet is adopted into Royalty from a young age.<br />\r\nIt is unclear why...<br />\r\nShe must discover who she truly is - while navigating the world.<br />\r\n<br />\r\n<br />\r\n<br />\r\nover 300 monsters<br />\r\nNumerous Side Quests<br />\r\nAbundance of Treasure<br />\r\nVeteran Experience System<br />\r\nover 30 hours of play",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/page_bg_generated_v6b.jpg?t=1699884132",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/page.bg.jpg?t=1699884132",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/capsule_231x87.jpg?t=1699884132",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/capsule_184x69.jpg?t=1699884132",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The three main Kingdoms of Avarice, Veratos, and Lucerna are<br />\r\nlocked in conflict.<br />\r\nGaining the controlling majority of power and resources will<br />\r\ndetermine the fate of each kingdom.<br />\r\n<br />\r\nViolet is adopted into Royalty from a young age.<br />\r\nIt is unclear why...<br />\r\nShe must discover who she truly is - while navigating the world.<br />\r\n<br />\r\n<br />\r\n<br />\r\nover 300 monsters<br />\r\nNumerous Side Quests<br />\r\nAbundance of Treasure<br />\r\nVeteran Experience System<br />\r\nover 30 hours of play",
+    "developers": [
+        "Wolfs Moon Studios"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/header.jpg?t=1699884132",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978802,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978802/movie480.mp4?t=1698842615",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978802/movie_max.mp4?t=1698842615"
+            },
+            "name": "Violet Kingdom Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978802/movie.293x165.jpg?t=1698842615",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978802/movie480_vp9.webm?t=1698842615",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978802/movie_max_vp9.webm?t=1698842615"
+            }
+        }
+    ],
+    "name": "Violet Kingdom",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Violet Kingdom - $19.99",
+                    "packageid": 949862,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Violet Kingdom"
+        }
+    ],
+    "packages": [
+        949862
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> WindowsR 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> intelCore2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Directx 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Wolfs Moon Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_01f94755780a327faded7923e103c8d4537abca2.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_01f94755780a327faded7923e103c8d4537abca2.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_3cc2d608e0c726257b3bc48e73491a59101f9cff.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_3cc2d608e0c726257b3bc48e73491a59101f9cff.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_09c9a3c25d36d06bc5647e72882a2a99fc22644a.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_09c9a3c25d36d06bc5647e72882a2a99fc22644a.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_e82086db7cf451f5eb99f29ea8b7589842d94b3c.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_e82086db7cf451f5eb99f29ea8b7589842d94b3c.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_91b99451083499e653a17f672161c3c1975b8111.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_91b99451083499e653a17f672161c3c1975b8111.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_976df10c48bd12357f2a481dc55612f54fdc5dbc.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_976df10c48bd12357f2a481dc55612f54fdc5dbc.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_998d049bd454d09e66227ae3db9dd87c090771d0.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_998d049bd454d09e66227ae3db9dd87c090771d0.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_d2392b7ea1ccb6096dfd9cf4bd18663ab6e5478f.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_d2392b7ea1ccb6096dfd9cf4bd18663ab6e5478f.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_9581f4c36edf359d823b4b1903b10b78adf41d5a.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_9581f4c36edf359d823b4b1903b10b78adf41d5a.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_b2adb8a1ff16a386d3d6348e7f6ccb25e136980d.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_b2adb8a1ff16a386d3d6348e7f6ccb25e136980d.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_0341186fb3d08d511676e10f8fba3f6dd4649e48.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_0341186fb3d08d511676e10f8fba3f6dd4649e48.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_b5c02cb8243e7d19915ce3da47b77b7e4d4ede20.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_b5c02cb8243e7d19915ce3da47b77b7e4d4ede20.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_40e8914df42ca20c384f27a330dd339724f0fb93.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_40e8914df42ca20c384f27a330dd339724f0fb93.600x338.jpg?t=1699884132"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_365942cd8c9e0d752873aa42bc2c80aceaf147e4.1920x1080.jpg?t=1699884132",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650010/ss_365942cd8c9e0d752873aa42bc2c80aceaf147e4.600x338.jpg?t=1699884132"
+        }
+    ],
+    "short_description": "A single player RPG adventure",
+    "steam_appid": 2650010,
+    "support_info": {
+        "email": "wolfsmoongames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

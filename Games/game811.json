@@ -1,0 +1,93 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Welcome to our unique &amp; original Day trading game!</h2>============================<br><strong>Don't be fooled by its game title! </strong>This simulator focuses on BUY/SELL practice with real market data. The player is given 50K game dollars to trade big stocks such as GOOG, AMZN, TSLA, can exercise endlessly without financial risks, also learn to manage emotions such as panic, greed, fear while trading stocks! See if you beat the market or else?<br>============================<br>This game VS. other famous simulators:<br>1. Focusing on BUY/SELL sensitivity training. SIMPLICITY is the key point of this game. NO NEED to memorize hundreds buttons and indicators. <br>2. Just launch and play it offline, no registration, no membership. The whole game is self-contained, with built-in 20 PlayPacks, each PlayPack has 5 stocks day trading session. <strong>(NOTE: demo version only has 1 PlayPack)</strong><br>3. Scores and candlestick charts saved locally and can be reviewed offline.<strong> (NOTE: demo version doesn't have this function)</strong><br>============================<br>This game is simple but<strong> NOT EASY!</strong><br>You pin, pan, drag, zoom in/out candle-stick charts just do what a real day trader does. With the flowing in of the market price bars, you can really feel the market moving and pushing!<br>============================ <br>Bonus feature: player can download and import most recent market data PlayPack from our website for FREE.<br><strong>NOTE: demo version doesn't have this feature.</strong>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/page_bg_generated_v6b.jpg?t=1681618338",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/page_bg_generated.jpg?t=1681618338",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/capsule_231x87.jpg?t=1681618338",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/capsule_184x69.jpg?t=1681618338",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Welcome to our unique &amp; original Day trading game!</h2>============================<br><strong>Don't be fooled by its game title! </strong>This simulator focuses on BUY/SELL practice with real market data. The player is given 50K game dollars to trade big stocks such as GOOG, AMZN, TSLA, can exercise endlessly without financial risks, also learn to manage emotions such as panic, greed, fear while trading stocks! See if you beat the market or else?<br>============================<br>This game VS. other famous simulators:<br>1. Focusing on BUY/SELL sensitivity training. SIMPLICITY is the key point of this game. NO NEED to memorize hundreds buttons and indicators. <br>2. Just launch and play it offline, no registration, no membership. The whole game is self-contained, with built-in 20 PlayPacks, each PlayPack has 5 stocks day trading session. <strong>(NOTE: demo version only has 1 PlayPack)</strong><br>3. Scores and candlestick charts saved locally and can be reviewed offline.<strong> (NOTE: demo version doesn't have this function)</strong><br>============================<br>This game is simple but<strong> NOT EASY!</strong><br>You pin, pan, drag, zoom in/out candle-stick charts just do what a real day trader does. With the flowing in of the market price bars, you can really feel the market moving and pushing!<br>============================ <br>Bonus feature: player can download and import most recent market data PlayPack from our website for FREE.<br><strong>NOTE: demo version doesn't have this feature.</strong>",
+    "developers": [
+        "Aristotle Is Not Always Right"
+    ],
+    "fullgame": {
+        "appid": "2313870",
+        "name": "PLATO'S DISCIPLE ON WALL STREET (WITH 20 PLAYPACKS)"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/header.jpg?t=1681618338",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "PLATO'S DISCIPLE ON WALL STREET (WITH 20 PLAYPACKS) Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (22H2)<br></li><li><strong>Processor:</strong> Intel Core i5 or compatibles<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Player can play the full game by mouse only</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i7 or compatibles<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Ideally Mouse + Keyboard will be more efficient as a day trader</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Aristotle Is Not Always Right"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 5, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_362242c6d220f8f98b04f8d624bbff4b993ed168.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_362242c6d220f8f98b04f8d624bbff4b993ed168.600x338.jpg?t=1681618338"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_8e111d71236ce86bd525134fc54567f95a6f95bf.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_8e111d71236ce86bd525134fc54567f95a6f95bf.600x338.jpg?t=1681618338"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_1092995f29418ab6217ff6cfcc91122eba7ff907.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_1092995f29418ab6217ff6cfcc91122eba7ff907.600x338.jpg?t=1681618338"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_bf1dcb9d2efa571164a240dd960738668fa4de9f.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_bf1dcb9d2efa571164a240dd960738668fa4de9f.600x338.jpg?t=1681618338"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_95f42b4a6411962cc7bd4b84b1102e51a21e00a5.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_95f42b4a6411962cc7bd4b84b1102e51a21e00a5.600x338.jpg?t=1681618338"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_ff93d004207ef6fd142c414142352df7419d2c04.1920x1080.jpg?t=1681618338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371250/ss_ff93d004207ef6fd142c414142352df7419d2c04.600x338.jpg?t=1681618338"
+        }
+    ],
+    "short_description": "Day trading game! Brutally Fun &amp; Simple but NOT EASY! No logins, no memberships, no YouTubers, no discords, no pundits, no coaching, no mentors, just BUY/SELL, just you vs the Market, nobody else, no excuses! see if you can beat the market or not...",
+    "steam_appid": 2371250,
+    "support_info": {
+        "email": "geek2eipiadd1@gmail.com",
+        "url": "https://aristotleisnotalwaysright.com/About-This"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://aristotleisnotalwaysright.com"
+}

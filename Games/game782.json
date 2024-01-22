@@ -1,0 +1,207 @@
+{
+    "about_the_game": "<strong>Omnigon</strong> is a humourous adventure, where you have the power to <strong>shapeshift</strong> the objects around you.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam00.gif?t=1700099852\" /><br><br>You shall infiltrate and ingress into the deepest depths of an enemy facility to steal their <strong>precious secrets</strong> and <strong>mighty hats</strong>, avoiding or punching to death the adversaries who stand in your way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam01.gif?t=1700099852\" /><br><br><strong>Hats</strong> are findable, which will grant cool and new abilities. Forming a <strong>tower of hats</strong> can allow you to reap the rewards of every ability, but understandably makes it difficult to pass through areas with low ceilings.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam02.gif?t=1700099852\" />",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Beginneth Omnigon",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/64f7b640b965e50eb974e6a4c1e5357567e0e76b.jpg"
+            },
+            {
+                "name": "Blademastermaster's Blessing",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/4ecf26579ac2f816420b47512db75780085474be.jpg"
+            },
+            {
+                "name": "Endeth Omnigon",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/b138c1e84145fccf56f5bc845ff340dc1836f313.jpg"
+            },
+            {
+                "name": "Dishonourable victory",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/c8f589babb0751baddd9996cf7331a7df3d01e96.jpg"
+            },
+            {
+                "name": "Self-control",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/5fc11f76bc5fd58e5426b1626b0016a31c578fbd.jpg"
+            },
+            {
+                "name": "Posthaste",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/06ce34718f90bce190ddb5fb99f33de884d24475.jpg"
+            },
+            {
+                "name": "Pacifism",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/a5133db58fd4df7df717d8b449168abe398f37dc.jpg"
+            },
+            {
+                "name": "Greater Pacifism",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/bd2950558e2d8b1ebba0274bf1a650719d2d2593.jpg"
+            },
+            {
+                "name": "Ignorer of Springs",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/1133c651e9b803c7756238810b445e384efee9ec.jpg"
+            },
+            {
+                "name": "Twice a Day",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371710/fadb2fc22961471f904c28eefd333e7d173f5285.jpg"
+            }
+        ],
+        "total": 19
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/page_bg_generated_v6b.jpg?t=1700099852",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/page_bg_generated.jpg?t=1700099852",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/capsule_231x87.jpg?t=1700099852",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/capsule_184x69.jpg?t=1700099852",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2399280,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<strong>Omnigon</strong> is a humourous adventure, where you have the power to <strong>shapeshift</strong> the objects around you.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam00.gif?t=1700099852\" /><br><br>You shall infiltrate and ingress into the deepest depths of an enemy facility to steal their <strong>precious secrets</strong> and <strong>mighty hats</strong>, avoiding or punching to death the adversaries who stand in your way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam01.gif?t=1700099852\" /><br><br><strong>Hats</strong> are findable, which will grant cool and new abilities. Forming a <strong>tower of hats</strong> can allow you to reap the rewards of every ability, but understandably makes it difficult to pass through areas with low ceilings.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371710/extras/OG_Steam02.gif?t=1700099852\" />",
+    "developers": [
+        "Yokcos"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/header.jpg?t=1700099852",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256974383,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974383/movie480.mp4?t=1697569519",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974383/movie_max.mp4?t=1697569519"
+            },
+            "name": "Ultimate Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256974383/movie.293x165.jpg?t=1697569519",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974383/movie480_vp9.webm?t=1697569519",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974383/movie_max_vp9.webm?t=1697569519"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256962384,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962384/movie480.mp4?t=1691451539",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962384/movie_max.mp4?t=1691451539"
+            },
+            "name": "Animated Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256962384/movie.293x165.jpg?t=1691451539",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962384/movie480_vp9.webm?t=1691451539",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962384/movie_max_vp9.webm?t=1691451539"
+            }
+        }
+    ],
+    "name": "Omnigon",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Omnigon - $4.99",
+                    "packageid": 852669,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Omnigon"
+        }
+    ],
+    "packages": [
+        852669
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Yes<br></li><li><strong>Memory:</strong> 50 MB RAM<br></li><li><strong>Graphics:</strong> Indeed<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> It's not an intense game, you'll probably be fine</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Yokcos"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_f625ccdf4609bd28ba839c7fdd20b8d75ec636ff.1920x1080.jpg?t=1700099852",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_f625ccdf4609bd28ba839c7fdd20b8d75ec636ff.600x338.jpg?t=1700099852"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_3ece9d4650c2da05cf24a35432b8fb2a12fd593e.1920x1080.jpg?t=1700099852",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_3ece9d4650c2da05cf24a35432b8fb2a12fd593e.600x338.jpg?t=1700099852"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_decbbe907e6fcf95b67c120111616ced65326da5.1920x1080.jpg?t=1700099852",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_decbbe907e6fcf95b67c120111616ced65326da5.600x338.jpg?t=1700099852"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_0a9c1d6f9e99ac2074b48f1aec260aff0222f509.1920x1080.jpg?t=1700099852",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_0a9c1d6f9e99ac2074b48f1aec260aff0222f509.600x338.jpg?t=1700099852"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_61fbea6447ba63685ebf113a9a39cac1152404ab.1920x1080.jpg?t=1700099852",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371710/ss_61fbea6447ba63685ebf113a9a39cac1152404ab.600x338.jpg?t=1700099852"
+        }
+    ],
+    "short_description": "A humourous little adventure where you have the power to shapeshift other objects and wear a great big stack of hats",
+    "steam_appid": 2371710,
+    "support_info": {
+        "email": "",
+        "url": "http://steamcommunity.com/app/2371710"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

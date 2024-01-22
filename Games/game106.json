@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Embark on a fantastical journey beyond reality with <strong>House of Jigsaw: Fantasy DLC</strong>. This expansion introduces a captivating new dimension to the main game, immersing you in enchanting realms filled with mythical creatures and epic art. Can you solve the Fantasy jigsaws in the shortest amount of time? Show your results on the community page.<br><br>Traverse through a variety of imaginative worlds, each offering its own set of magical puzzles. From ancient elven cities to dragon-guarded lairs, wit and creativity will be your greatest assets.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649620/extras/Features-english.png?t=1701870498\" /><br><br><ul class=\"bb_ul\"><li>Explore the world beyond reality<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/page_bg_generated_v6b.jpg?t=1701870498",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/page.bg.jpg?t=1701870498",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/capsule_231x87.jpg?t=1701870498",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/capsule_184x69.jpg?t=1701870498",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on a fantastical journey beyond reality with <strong>House of Jigsaw: Fantasy DLC</strong>. This expansion introduces a captivating new dimension to the main game, immersing you in enchanting realms filled with mythical creatures and epic art. Can you solve the Fantasy jigsaws in the shortest amount of time? Show your results on the community page.<br><br>Traverse through a variety of imaginative worlds, each offering its own set of magical puzzles. From ancient elven cities to dragon-guarded lairs, wit and creativity will be your greatest assets.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649620/extras/Features-english.png?t=1701870498\" /><br><br><ul class=\"bb_ul\"><li>Explore the world beyond reality<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "developers": [
+        "Graphium Studio"
+    ],
+    "fullgame": {
+        "appid": "2607920",
+        "name": "House of Jigsaw: Happy puzzling, Happy home"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/header.jpg?t=1701870498",
+    "is_free": false,
+    "legal_notice": "\u00a9Denda Games 2023<br />\r\n\u00a9Graphium Studio 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "House of Jigsaw: Fantasy",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "House of Jigsaw: Fantasy - $2.99",
+                    "packageid": 949740,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy House of Jigsaw: Fantasy"
+        }
+    ],
+    "packages": [
+        949740
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Denda Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 6, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_e4426db5a31ed5e8941c3999e727d094270f9cd2.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_e4426db5a31ed5e8941c3999e727d094270f9cd2.600x338.jpg?t=1701870498"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_20f921cd0edacaf95aa25fc990a0c3376e36f6ba.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_20f921cd0edacaf95aa25fc990a0c3376e36f6ba.600x338.jpg?t=1701870498"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_4ae5d07633b5c8028761890814cf28966adb5486.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_4ae5d07633b5c8028761890814cf28966adb5486.600x338.jpg?t=1701870498"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_c300e9083eb2957be5aba27de5bf2d0914c83314.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_c300e9083eb2957be5aba27de5bf2d0914c83314.600x338.jpg?t=1701870498"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_f3f61c058e81baa57c50f8e9fb82cc97169f6379.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_f3f61c058e81baa57c50f8e9fb82cc97169f6379.600x338.jpg?t=1701870498"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_bbd52d78f4f4dd1023af652a48ef1214c5c589e1.1920x1080.jpg?t=1701870498",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649620/ss_bbd52d78f4f4dd1023af652a48ef1214c5c589e1.600x338.jpg?t=1701870498"
+        }
+    ],
+    "short_description": "Traverse through a variety of imaginative worlds, each offering its own set of magical Fantasy puzzles.",
+    "steam_appid": 2649620,
+    "support_info": {
+        "email": "helpdesk@denda.com",
+        "url": "https://www.denda.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://denda-corporate.com/"
+}

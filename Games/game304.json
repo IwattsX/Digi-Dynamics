@@ -1,0 +1,206 @@
+{
+    "about_the_game": "Join an exciting journey through a variety of biomes, each with its own unique theme and environment. From lush tropical forests to mysterious ruins, amazing adventures and mysteries await you that will not leave you indifferent.<br />\r\n<br />\r\nExplore an open world full of beautiful views and locations, and enjoy a relaxing atmosphere while immersing yourself in unique challenges that will challenge your imagination and logical thinking.<br />\r\n<br />\r\nWhat awaits you in the game:<br />\r\n-36 main and 20 additional puzzles in 6 different zones, united by the main mechanics, but at the same time unique and interesting.<br />\r\n-An open world where you can go anywhere and also unravel the mysteries and secrets hidden in it<br />\r\n-Puzzles with unusual mechanics, involving the environment, the world, around you, and another puzzles <br />\r\n-Atmospheric soundtrack that will immerse you into the world of the game<br />\r\n-Themed locations, from the desert and ancient buildings to Asian gardens<br />\r\n-Explore every corner of this world, because every little thing matters<br />\r\n-Enjoy beautiful stylized graphics that will surround you with a relaxing and pleasant environment.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Horse",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/82a61d733524aa1e16ece2754c7e640b98e608df.jpg"
+            },
+            {
+                "name": "Elephant",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/4699df6f9d3ce5c1ec10f45622e49f5972d6783f.jpg"
+            },
+            {
+                "name": "Bull",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/fa6f3de3a1fe0c6a46ffefb9fd093d5f5c8b9659.jpg"
+            },
+            {
+                "name": "Octopus",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/b6d456e915f6a86e2030b29ad0e5c6568f86be73.jpg"
+            },
+            {
+                "name": "Tiger",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/962316b311fa638b27ae6f8ac7acd30c0948b822.jpg"
+            },
+            {
+                "name": "Seagull",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/e7d97029557e8db9eb2e1cf97fc28a5e951be925.jpg"
+            },
+            {
+                "name": "Owl",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/9d940a8ee1f32057b81275d64f62d84e61c3e4e5.jpg"
+            },
+            {
+                "name": "Stars",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2740350/e0a7d238e3e454bbced55bc1423c267c4797db29.jpg"
+            }
+        ],
+        "total": 8
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/page_bg_generated_v6b.jpg?t=1704993549",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/page_bg_generated.jpg?t=1704993549",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/capsule_231x87.jpg?t=1704993549",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/capsule_184x69.jpg?t=1704993549",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Join an exciting journey through a variety of biomes, each with its own unique theme and environment. From lush tropical forests to mysterious ruins, amazing adventures and mysteries await you that will not leave you indifferent.<br />\r\n<br />\r\nExplore an open world full of beautiful views and locations, and enjoy a relaxing atmosphere while immersing yourself in unique challenges that will challenge your imagination and logical thinking.<br />\r\n<br />\r\nWhat awaits you in the game:<br />\r\n-36 main and 20 additional puzzles in 6 different zones, united by the main mechanics, but at the same time unique and interesting.<br />\r\n-An open world where you can go anywhere and also unravel the mysteries and secrets hidden in it<br />\r\n-Puzzles with unusual mechanics, involving the environment, the world, around you, and another puzzles <br />\r\n-Atmospheric soundtrack that will immerse you into the world of the game<br />\r\n-Themed locations, from the desert and ancient buildings to Asian gardens<br />\r\n-Explore every corner of this world, because every little thing matters<br />\r\n-Enjoy beautiful stylized graphics that will surround you with a relaxing and pleasant environment.",
+    "developers": [
+        "SVGames"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/header.jpg?t=1704993549",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256991482,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991482/movie480.mp4?t=1703907864",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991482/movie_max.mp4?t=1703907864"
+            },
+            "name": "Announce trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256991482/movie.293x165.jpg?t=1703907864",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991482/movie480_vp9.webm?t=1703907864",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991482/movie_max_vp9.webm?t=1703907864"
+            }
+        }
+    ],
+    "name": "Syllogism",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Syllogism - $6.99",
+                    "packageid": 981977,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 699
+                }
+            ],
+            "title": "Buy Syllogism"
+        }
+    ],
+    "packages": [
+        981977
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 10 or later<br></li><li><strong>Processor:</strong> Intel Core i3 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5670<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 11<br></li><li><strong>Processor:</strong> Intel Core i5 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon R7 240<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 699,
+        "final_formatted": "$6.99",
+        "initial": 699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SVGames"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 11, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_2942a40cec8432ed3e151fb21436beed23df514f.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_2942a40cec8432ed3e151fb21436beed23df514f.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_8fe9c9fa8d6d4bb525f6b62d76383d7936a7f36a.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_8fe9c9fa8d6d4bb525f6b62d76383d7936a7f36a.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_0a2c67ea74dd7bef1fe010bab4719a3ea8f3e538.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_0a2c67ea74dd7bef1fe010bab4719a3ea8f3e538.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_339b3cb3a50acf7eefb2a29a4df79735467c6ad8.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_339b3cb3a50acf7eefb2a29a4df79735467c6ad8.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_2ad7f5c6b52d2601a4295560fd178af27c7ebd67.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_2ad7f5c6b52d2601a4295560fd178af27c7ebd67.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_b976a4eacb0693ff608aa2d98ef1b23a6fe4ccbc.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_b976a4eacb0693ff608aa2d98ef1b23a6fe4ccbc.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_9b1ca940e1dd759b9ab2558d26a5e4490a8ceb32.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_9b1ca940e1dd759b9ab2558d26a5e4490a8ceb32.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_0b25b2a6706d52229a51bccee23440902de5b5d8.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_0b25b2a6706d52229a51bccee23440902de5b5d8.600x338.jpg?t=1704993549"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_7647dbed057ca97492cd7b8085ffed2e47f8c497.1920x1080.jpg?t=1704993549",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740350/ss_7647dbed057ca97492cd7b8085ffed2e47f8c497.600x338.jpg?t=1704993549"
+        }
+    ],
+    "short_description": "Explore an open world full of beautiful views and locations, and enjoy a relaxing atmosphere while immersing yourself in unique challenges that will challenge your imagination and logical thinking.",
+    "steam_appid": 2740350,
+    "support_info": {
+        "email": "chibisi84@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

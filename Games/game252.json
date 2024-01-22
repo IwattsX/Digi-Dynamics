@@ -1,0 +1,99 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Globexplore Drone simulator</h2><h2 class=\"bb_tag\">Make Sure You Check the Terms Of Use</h2><h2 class=\"bb_tag\">For Detailed Manual and Support, Click Here.</h2><h2 class=\"bb_tag\">Features</h2><br>1. experience the freedom of flying an FPV drone on Google Earth. 1. runs on a laptop PC: you can freely fly your FPV drone using Google's Photorealistic 3D API, which provides three-dimensional representations of cities and landscapes around the world. <br><br>2. lightweight operation on notebook PCs: Runs smoothly on high-end desktop PCs as well as notebook PCs.<br><br>3. customizable operating sensitivity: The rate of operating sensitivity can be adjusted.<br><br>4. adjustable camera angle: the camera angle of the FPV drone can be freely set.<br><br>5. invite to a dedicated Discord server for feedback and improvement. Please help us create a better simulator by actively exchanging ideas!<h2 class=\"bb_tag\">Cautions</h2><br>1. insufficient testing and debugging: Currently, the simulator is not fully tested and debugged. However, since we do not know when the free Google API will end, we have decided to release it early so that everyone can enjoy it while it is available.<br><br>2. possibility of API unavailability: If there is a change in the way the API is provided due to Google's policy, there is a possibility that the map may not be available. Please understand this before downloading. 3.<br><br>3. advanced drone operation skills required: This simulator requires advanced skills to operate FPV in acro mode. Beginners are advised to use this simulator after sufficient practice and knowledge.<h2 class=\"bb_tag\">Operation Methods</h2><h2 class=\"bb_tag\">Function\tkeyboard</h2><h2 class=\"bb_tag\">Open Menu\tesc</h2><h2 class=\"bb_tag\">Reset Drone\tr</h2><h2 class=\"bb_tag\">Return to Home\th</h2><h2 class=\"bb_tag\">Open Setting\ts</h2>We will continue to update this simulator based on your feedback.<h2 class=\"bb_tag\">24 May 2023 Hajime</h2><h2 class=\"bb_tag\">Update history</h2><br>2023-05-26 Added menu screen, disabled full-screen display, added EXIT button, etc.<br><br>2023-05-29 Added move function, English support, other fixes, etc.<br><br>2023-06-06  UI changes, initial screen changes, English support, etc.<h2 class=\"bb_tag\">2023-06-07 Ability to Save Stick Settings</h2><br>2023-08-23 Added application icon Added logo display on the game screen. Added specification that the mouse cursor hides in 2 seconds. Partially fixed the problem of being buried in the ground when moving the Map. Added throttle boost function up to 20 times. Added a new setting the maximum and minimum input value.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/page_bg_generated_v6b.jpg?t=1702960956",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/page.bg.jpg?t=1702960956",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/capsule_231x87.jpg?t=1702960956",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/capsule_184x69.jpg?t=1702960956",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Globexplore Drone simulator</h2><h2 class=\"bb_tag\">Make Sure You Check the Terms Of Use</h2><h2 class=\"bb_tag\">For Detailed Manual and Support, Click Here.</h2><h2 class=\"bb_tag\">Features</h2><br>1. experience the freedom of flying an FPV drone on Google Earth. 1. runs on a laptop PC: you can freely fly your FPV drone using Google's Photorealistic 3D API, which provides three-dimensional representations of cities and landscapes around the world. <br><br>2. lightweight operation on notebook PCs: Runs smoothly on high-end desktop PCs as well as notebook PCs.<br><br>3. customizable operating sensitivity: The rate of operating sensitivity can be adjusted.<br><br>4. adjustable camera angle: the camera angle of the FPV drone can be freely set.<br><br>5. invite to a dedicated Discord server for feedback and improvement. Please help us create a better simulator by actively exchanging ideas!<h2 class=\"bb_tag\">Cautions</h2><br>1. insufficient testing and debugging: Currently, the simulator is not fully tested and debugged. However, since we do not know when the free Google API will end, we have decided to release it early so that everyone can enjoy it while it is available.<br><br>2. possibility of API unavailability: If there is a change in the way the API is provided due to Google's policy, there is a possibility that the map may not be available. Please understand this before downloading. 3.<br><br>3. advanced drone operation skills required: This simulator requires advanced skills to operate FPV in acro mode. Beginners are advised to use this simulator after sufficient practice and knowledge.<h2 class=\"bb_tag\">Operation Methods</h2><h2 class=\"bb_tag\">Function\tkeyboard</h2><h2 class=\"bb_tag\">Open Menu\tesc</h2><h2 class=\"bb_tag\">Reset Drone\tr</h2><h2 class=\"bb_tag\">Return to Home\th</h2><h2 class=\"bb_tag\">Open Setting\ts</h2>We will continue to update this simulator based on your feedback.<h2 class=\"bb_tag\">24 May 2023 Hajime</h2><h2 class=\"bb_tag\">Update history</h2><br>2023-05-26 Added menu screen, disabled full-screen display, added EXIT button, etc.<br><br>2023-05-29 Added move function, English support, other fixes, etc.<br><br>2023-06-06  UI changes, initial screen changes, English support, etc.<h2 class=\"bb_tag\">2023-06-07 Ability to Save Stick Settings</h2><br>2023-08-23 Added application icon Added logo display on the game screen. Added specification that the mouse cursor hides in 2 seconds. Partially fixed the problem of being buried in the ground when moving the Map. Added throttle boost function up to 20 times. Added a new setting the maximum and minimum input value.",
+    "developers": [
+        "ozora"
+    ],
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/header.jpg?t=1702960956",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> <br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> <br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+    },
+    "name": "GlobeXplore",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows11<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "ozora"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_bc45379ce9b81a4c438a712afd723f7912b3ce15.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_bc45379ce9b81a4c438a712afd723f7912b3ce15.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_83f83ffa93925bc0a910141a3f8422caf5ec0275.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_83f83ffa93925bc0a910141a3f8422caf5ec0275.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_c25a683f5d218d21021e9f53d4af3c5e5d634da6.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_c25a683f5d218d21021e9f53d4af3c5e5d634da6.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_41f9e0fb2675bc24d5956b571332196e215fead0.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_41f9e0fb2675bc24d5956b571332196e215fead0.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_732b2ae7a3dff3cbf21ddb0a90352574de9897aa.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_732b2ae7a3dff3cbf21ddb0a90352574de9897aa.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_4434492b574ba0482de7ca5a7bc89aeb08cd6fdb.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_4434492b574ba0482de7ca5a7bc89aeb08cd6fdb.600x338.jpg?t=1702960956"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_90d21e0f41f4d2431a93a0391be5e956c57fd85a.1920x1080.jpg?t=1702960956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635620/ss_90d21e0f41f4d2431a93a0391be5e956c57fd85a.600x338.jpg?t=1702960956"
+        }
+    ],
+    "short_description": "GlobeXplore Drone Simulator provides FPV drone flying on Google Earth. Enjoy lightweight operation, customizable sensitivity, and adjustable camera angles with 3D global views. Ideal for advanced pilots, the simulator continuously improves with user feedback.",
+    "steam_appid": 2635620,
+    "support_info": {
+        "email": "",
+        "url": "https://ozoradrone.notion.site/GlobeXplore-Support-2d632e00cd374acfb75b89b1d41fa24c?pvs=4"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.ozoradrone.site/simulator"
+}

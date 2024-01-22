@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Are you ready for the most intense driving game you\u2019ve ever played? In Panic Lane, your goal is simple: survive. You'll be on the edge of your seat as you dodge randomly spawned obstacles and fight relentlessly just to stay alive. Will you make it? There\u2019s only one way to find out.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Dozens_of_Challenging_Tracks.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/differentTracks.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Randomized_Obstacles.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/randomizedTracks.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Physics_is_your_frenemy.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Physics_is_your_frenemy.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Epic_Environments.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/environmentsV2.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Thrilling_Soundtrack.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/ThrillingSoundtrackV2.png?t=1703674851\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/page_bg_generated_v6b.jpg?t=1703674851",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/page.bg.jpg?t=1703674851",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/capsule_231x87.jpg?t=1703674851",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/capsule_184x69.jpg?t=1703674851",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Are you ready for the most intense driving game you\u2019ve ever played? In Panic Lane, your goal is simple: survive. You'll be on the edge of your seat as you dodge randomly spawned obstacles and fight relentlessly just to stay alive. Will you make it? There\u2019s only one way to find out.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Dozens_of_Challenging_Tracks.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/differentTracks.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Randomized_Obstacles.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/randomizedTracks.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Physics_is_your_frenemy.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Physics_is_your_frenemy.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Epic_Environments.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/environmentsV2.gif?t=1703674851\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/Thrilling_Soundtrack.png?t=1703674851\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373560/extras/ThrillingSoundtrackV2.png?t=1703674851\" />",
+    "developers": [
+        "7 Weird Seeds"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/header.jpg?t=1703674851",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256940640,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940640/movie480.mp4?t=1683745061",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940640/movie_max.mp4?t=1683745061"
+            },
+            "name": "Reveal trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256940640/movie.293x165.jpg?t=1683745061",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940640/movie480_vp9.webm?t=1683745061",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940640/movie_max_vp9.webm?t=1683745061"
+            }
+        }
+    ],
+    "name": "Panic Lane",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> TBA<br></li><li><strong>Processor:</strong> TBA<br></li><li><strong>Graphics:</strong> TBA</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "7 Weird Seeds"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_8aa5ee885756286252733063ed16fbc2a22133e6.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_8aa5ee885756286252733063ed16fbc2a22133e6.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_579cd908253b04481356d83c52721a2a2df5e243.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_579cd908253b04481356d83c52721a2a2df5e243.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_4c6201879194d1de3e35466c00b15b869df9f7f4.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_4c6201879194d1de3e35466c00b15b869df9f7f4.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_a61005f1f6121843199a14c1119e5932e97d1bb7.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_a61005f1f6121843199a14c1119e5932e97d1bb7.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_48506da8f80fa939e1ee519f61ff77ae3514015b.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_48506da8f80fa939e1ee519f61ff77ae3514015b.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_75c648da5da3a549b6c85e1a26d215c4f1526a82.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_75c648da5da3a549b6c85e1a26d215c4f1526a82.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_adb086c7d8fcca24c90274d0d9363b77aac821bd.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_adb086c7d8fcca24c90274d0d9363b77aac821bd.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_538373bcd5deca183e9828b27495f0120df9c865.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_538373bcd5deca183e9828b27495f0120df9c865.600x338.jpg?t=1703674851"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_9ba5849d54d95f49cdf273df62820c25c736bd68.1920x1080.jpg?t=1703674851",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373560/ss_9ba5849d54d95f49cdf273df62820c25c736bd68.600x338.jpg?t=1703674851"
+        }
+    ],
+    "short_description": "Are you ready for the most intense driving game you\u2019ve ever played? In Panic Lane, your goal is simple: survive. You'll be on the edge of your seat as you dodge randomly spawned obstacles and fight relentlessly just to stay alive. Will you make it? There\u2019s only one way to find out.",
+    "steam_appid": 2373560,
+    "support_info": {
+        "email": "7weirdseeds@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

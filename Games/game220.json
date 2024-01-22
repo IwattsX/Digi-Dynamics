@@ -1,0 +1,234 @@
+{
+    "about_the_game": "Strap on the mighty F-16C Viper and enter the world of the Wild Weasels!  First In - Weasels Over Syria will immerse you in this legendary mission as you fly head on into the enemies air defenses.<br><br>Set during the events of Operation Cerberus North, FIWOS will place you in the cockpit of Captain Dan \u2018Forrest\u2019 Wilson, a Wild Weasel pilot with the 79th Fighter Squadron.  During this incredibly detailed, exciting and immersive campaign you will engage in a wide range of Weasel missions as the Joint Syrian Task Force fights for dominance over the highly contested Syrian skies.  YGBSM!<br><br><strong>Campaign features:</strong><br><ul class=\"bb_ul\"><li>12 thrilling and immersive missions set over a variety of tasks including SEAD, DEAD, search and destroy, strike and escort.<br></li><li>Detailed scenario set during the Operation Cerberus North storyline, offering new viewpoints and events for this complex conflict and a comprehensive Syrian air defense network consisting of EW radars, fixed and mobile SAM sites, widespread AAA and SHORAD at key sites.<br></li><li>Highly developed level of immersion and interaction that blends scripted mission content with dynamic gameplay systems.  This means missions can be completed in numerous ways, will react and respond believably to your actions and different mission playthroughs can result in different experiences.<br></li><li>Introducing the \u2018Weasel System\u2019 - a custom built system to enhance AI control of air defenses in the campaign.  The Weasel System allows better management of AI resources for improved system performance, includes a jamming effect system, controls SAM emissions for more realistic behavior and incorporates SAM weaknesses so threat limitations can be learned and exploited.<br></li><li>Extensive, detailed documentation and briefings, including a 75 page scenario intelligence briefing, 22 pages of SPINS and over 200 pages of detailed briefing documents and kneeboards.<br></li><li>Custom Air Traffic Control system for your home airfield.<br></li><li>Fully voice acted by a range of actors with over 2500 lines of dialogue recorded.<br></li><li>Many optional conversations to take part in that will enhance the storyline if you wish or can be ignored if you prefer a quieter cockpit.<br></li><li>A carefully constructed learning curve to develop the pilot's ability to operate in a complex, high threat environment.<br></li><li>Immortal mode - allowing risk free enjoyment of the action, but at the expense of limiting mission scores.<br></li><li>Introducing Gauntlet Ops - A set of free flowing, highly replayable objective based mini missions embedded into the campaign, designed to enable free flight into the full campaign air defense network.</li></ul><br><strong>Localization:</strong><br>Voiceovers: English<br>Briefings/Subtitles: English<br><br><strong>All required products:</strong><br><ul class=\"bb_ul\"><li>DCS: F-16C Viper<br></li><li>DCS: Syria Map by Ugra Media</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/page_bg_generated_v6b.jpg?t=1697729920",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/page_bg_generated.jpg?t=1697729920",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/capsule_231x87.jpg?t=1697729920",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/capsule_184x69.jpg?t=1697729920",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        },
+        {
+            "description": "VR Support",
+            "id": 31
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Strap on the mighty F-16C Viper and enter the world of the Wild Weasels!  First In - Weasels Over Syria will immerse you in this legendary mission as you fly head on into the enemies air defenses.<br><br>Set during the events of Operation Cerberus North, FIWOS will place you in the cockpit of Captain Dan \u2018Forrest\u2019 Wilson, a Wild Weasel pilot with the 79th Fighter Squadron.  During this incredibly detailed, exciting and immersive campaign you will engage in a wide range of Weasel missions as the Joint Syrian Task Force fights for dominance over the highly contested Syrian skies.  YGBSM!<br><br><strong>Campaign features:</strong><br><ul class=\"bb_ul\"><li>12 thrilling and immersive missions set over a variety of tasks including SEAD, DEAD, search and destroy, strike and escort.<br></li><li>Detailed scenario set during the Operation Cerberus North storyline, offering new viewpoints and events for this complex conflict and a comprehensive Syrian air defense network consisting of EW radars, fixed and mobile SAM sites, widespread AAA and SHORAD at key sites.<br></li><li>Highly developed level of immersion and interaction that blends scripted mission content with dynamic gameplay systems.  This means missions can be completed in numerous ways, will react and respond believably to your actions and different mission playthroughs can result in different experiences.<br></li><li>Introducing the \u2018Weasel System\u2019 - a custom built system to enhance AI control of air defenses in the campaign.  The Weasel System allows better management of AI resources for improved system performance, includes a jamming effect system, controls SAM emissions for more realistic behavior and incorporates SAM weaknesses so threat limitations can be learned and exploited.<br></li><li>Extensive, detailed documentation and briefings, including a 75 page scenario intelligence briefing, 22 pages of SPINS and over 200 pages of detailed briefing documents and kneeboards.<br></li><li>Custom Air Traffic Control system for your home airfield.<br></li><li>Fully voice acted by a range of actors with over 2500 lines of dialogue recorded.<br></li><li>Many optional conversations to take part in that will enhance the storyline if you wish or can be ignored if you prefer a quieter cockpit.<br></li><li>A carefully constructed learning curve to develop the pilot's ability to operate in a complex, high threat environment.<br></li><li>Immortal mode - allowing risk free enjoyment of the action, but at the expense of limiting mission scores.<br></li><li>Introducing Gauntlet Ops - A set of free flowing, highly replayable objective based mini missions embedded into the campaign, designed to enable free flight into the full campaign air defense network.</li></ul><br><strong>Localization:</strong><br>Voiceovers: English<br>Briefings/Subtitles: English<br><br><strong>All required products:</strong><br><ul class=\"bb_ul\"><li>DCS: F-16C Viper<br></li><li>DCS: Syria Map by Ugra Media</li></ul>",
+    "developers": [
+        "Eagle Dynamics SA",
+        "Ground Pounder Sims"
+    ],
+    "fullgame": {
+        "appid": "223750",
+        "name": "DCS World Steam Edition"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/header.jpg?t=1697729920",
+    "is_free": false,
+    "legal_notice": "\u00a9 Eagle Dynamics SA<br />\r\n\u00a9 Ground Pounder Sims",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "DCS: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "DCS: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims - $13.99",
+                    "packageid": 945197,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1399
+                }
+            ],
+            "title": "Buy DCS: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims"
+        }
+    ],
+    "packages": [
+        945197
+    ],
+    "pc_requirements": {
+        "minimum": "Minimum <br><ul class=\"bb_ul\"><li><strong>Requires:</strong><a href=\"https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/\" target=\"_blank\" rel=\"\"  >Digital Combat Simulator</a><br><strong>OS *:</strong> Windows 8, 10, 11<br></li><li><strong>CPU:</strong> Intel or AMD 3.0Ghz+ with 2 cores or more<br></li><li><strong>RAM:</strong> 8GB+ RAM <br></li><li><strong>Video:</strong> Discrete AMD or NVIDIA 4GB+<br></li><li><strong>Input:</strong> Joystick</li></ul>",
+        "recommended": "Recommended <br><ul class=\"bb_ul\"><li><strong>Requires:</strong><a href=\"https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/\" target=\"_blank\" rel=\"\"  >Digital Combat Simulator</a><br><strong>OS *:</strong> Windows 8, 10, 11<br></li><li><strong>CPU:</strong> Intel or AMD 4.5Ghz+ with 6 cores or more<br></li><li><strong>RAM:</strong> 32GB+ RAM <br></li><li><strong>Video:</strong> Discrete AMD or NVIDIA 8GB+<br></li><li><strong>Input:</strong> Joystick and Pedals</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1399,
+        "final_formatted": "$13.99",
+        "initial": 1399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Eagle Dynamics SA"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_5147a85fa7240ba32a0a27c4899c695be6ceef5f.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_5147a85fa7240ba32a0a27c4899c695be6ceef5f.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_adedb5ec255bd941e8a3f9779014958f95d73336.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_adedb5ec255bd941e8a3f9779014958f95d73336.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_b9245e5028e1b65232235db028035d9281a7f280.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_b9245e5028e1b65232235db028035d9281a7f280.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_37a8addedec37d71fe96e11660b37b82688bc74d.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_37a8addedec37d71fe96e11660b37b82688bc74d.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_0e0c01464242188d1d70ee2fed06c751840f624b.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_0e0c01464242188d1d70ee2fed06c751840f624b.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_a2cd35160a750b71ef23579ae827aa202007b185.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_a2cd35160a750b71ef23579ae827aa202007b185.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_36e320e778fdfec620769593d223d8ebf370c65e.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_36e320e778fdfec620769593d223d8ebf370c65e.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_d032f25c8f3db0b13a00bb6b43f621bbbcb6d000.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_d032f25c8f3db0b13a00bb6b43f621bbbcb6d000.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_c3da88de3d27690b3eddab9d060ecb3e6065aded.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_c3da88de3d27690b3eddab9d060ecb3e6065aded.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_31034cf12415f6f77a411a9f796e4a0cb383f315.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_31034cf12415f6f77a411a9f796e4a0cb383f315.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_4142811259566e413b228cb4df48857afa8356be.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_4142811259566e413b228cb4df48857afa8356be.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_f44f8372bdd686f1c21dd0792a12c8573ab7b12a.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_f44f8372bdd686f1c21dd0792a12c8573ab7b12a.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_35a3e688279c6cf875c7bce7dbdb46152970c532.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_35a3e688279c6cf875c7bce7dbdb46152970c532.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_740977204a1ab4ccf0d0c7f5d425cb5cd32985a4.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_740977204a1ab4ccf0d0c7f5d425cb5cd32985a4.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_f2dec5a7d07cb704998fe269733fff7f0f24cb2d.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_f2dec5a7d07cb704998fe269733fff7f0f24cb2d.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_13f76555f0f72168a5ef7f8fdf95dcf9e0dd1608.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_13f76555f0f72168a5ef7f8fdf95dcf9e0dd1608.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_20a1effc28de6e2f001b11692c877862e9f491c7.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_20a1effc28de6e2f001b11692c877862e9f491c7.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_50f2a49d1bc7ff02a9e21c3d08d73136d8bb6894.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_50f2a49d1bc7ff02a9e21c3d08d73136d8bb6894.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_53e480ed16d20cd7d0f2ef810c66e957bcec6ffb.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_53e480ed16d20cd7d0f2ef810c66e957bcec6ffb.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_e4685e78d6328977d8603b09d3103be5638ae28d.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_e4685e78d6328977d8603b09d3103be5638ae28d.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_897f1c636937eeaddd91c85ce0748a905bf08fa7.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_897f1c636937eeaddd91c85ce0748a905bf08fa7.600x338.jpg?t=1697729920"
+        },
+        {
+            "id": 21,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_6d88233eda40534629f612a7b94f40c948abe8d4.1920x1080.jpg?t=1697729920",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635860/ss_6d88233eda40534629f612a7b94f40c948abe8d4.600x338.jpg?t=1697729920"
+        }
+    ],
+    "short_description": "Strap on the mighty F-16C Viper and enter the world of the Wild Weasels! First In - Weasels Over Syria will immerse you in this legendary mission as you fly head on into the enemies air defenses.",
+    "steam_appid": 2635860,
+    "support_info": {
+        "email": "https://steamcommunity.com/app/223750/discussions/",
+        "url": "https://steamcommunity.com/app/223750/discussions/"
+    },
+    "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Russian, Czech, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://steamcommunity.com/app/223750/discussions/"
+}

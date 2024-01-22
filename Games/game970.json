@@ -1,0 +1,192 @@
+{
+    "about_the_game": "Naval Action - Rotterdam<br>This is a premium consumable ship. It is not refundable.<br><br>&quot;Rotterdam&quot; is a heavily armed West Indiaman built for the Rotterdam chamber of the Geoctrooieerde Westindische Compagnie. This is a strong ocean going vessel built to withstand storms of the Atlantic Ocean. Due to armament and size ships of this class were often mistaken for heavy frigates or light 4th rates and thus avoided. Beautifully decorated stern shows that it was built for a very rich trader group in the Compagnie. <br><br>About premium consumable vessels.<br>Premium ships cannot be captured by players or traded. You can request this vessel from the admiralty once a day as long as you dont have the same vessel already in your docks. You will be able to request the frame and planking wood type when ordering a ship. Admiralty requests for this ship will be completed instantly.<strong> You must have an appropriate rank to sail it fully crewed.</strong><br>Imported DLC ships are perfect if you just want to jump into action quickly, ignoring hauling of resources, just buy guns, repairs and you are good to go. DLC will appear in your redeemable list after you dock to any port.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/page_bg_generated_v6b.jpg?t=1684155926",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/page_bg_generated.jpg?t=1684155926",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/capsule_231x87.jpg?t=1684155926",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/capsule_184x69.jpg?t=1684155926",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Naval Action - Rotterdam<br>This is a premium consumable ship. It is not refundable.<br><br>&quot;Rotterdam&quot; is a heavily armed West Indiaman built for the Rotterdam chamber of the Geoctrooieerde Westindische Compagnie. This is a strong ocean going vessel built to withstand storms of the Atlantic Ocean. Due to armament and size ships of this class were often mistaken for heavy frigates or light 4th rates and thus avoided. Beautifully decorated stern shows that it was built for a very rich trader group in the Compagnie. <br><br>About premium consumable vessels.<br>Premium ships cannot be captured by players or traded. You can request this vessel from the admiralty once a day as long as you dont have the same vessel already in your docks. You will be able to request the frame and planking wood type when ordering a ship. Admiralty requests for this ship will be completed instantly.<strong> You must have an appropriate rank to sail it fully crewed.</strong><br>Imported DLC ships are perfect if you just want to jump into action quickly, ignoring hauling of resources, just buy guns, repairs and you are good to go. DLC will appear in your redeemable list after you dock to any port.",
+    "developers": [
+        "Game-Labs"
+    ],
+    "fullgame": {
+        "appid": "311310",
+        "name": "Naval Action"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/header.jpg?t=1684155926",
+    "is_free": false,
+    "legal_notice": "2013-2023 Copyright Game Labs, Inc. All rights reserved!",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Naval Action - Rotterdam",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Naval Action - Rotterdam - $49.99",
+                    "packageid": 864261,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy Naval Action - Rotterdam"
+        }
+    ],
+    "packages": [
+        864261
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64 bit Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Core i5-4570 3.2 GHz or AMD Phenom(tm) II X4 B60 3.3 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 460 1GB or AMD Radeon HD 6850 1GB (must support shader 5 model)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> 32bit OS versions is not supported</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64 bit Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Core i7-3770 3.4 GHz or AMD FX-9370 4.4 GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB (must support shader 5 model)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> 32bit OS versions is not supported</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_11f7c08c5ab21549913775248585b4ab069bd9c3.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_11f7c08c5ab21549913775248585b4ab069bd9c3.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_3dcee9fcc9fa758fbefc9d615c2238d2034f692b.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_3dcee9fcc9fa758fbefc9d615c2238d2034f692b.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_439eb9482f8abc9ba3234ee4c4a0c9c1593a244b.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_439eb9482f8abc9ba3234ee4c4a0c9c1593a244b.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_7f1dfb7f11b16074bd0c1ea71173c16a64b03f6f.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_7f1dfb7f11b16074bd0c1ea71173c16a64b03f6f.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_dd3e3858c5c0f9f37cabd0b2d2ef459b15e2df69.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_dd3e3858c5c0f9f37cabd0b2d2ef459b15e2df69.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_f1300e792ff3b757f350aa66cdcf6c7a227b8b81.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_f1300e792ff3b757f350aa66cdcf6c7a227b8b81.600x338.jpg?t=1684155926"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_b4d4aaa96f5ac6b5524691f47d68b76f17796025.1920x1080.jpg?t=1684155926",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402190/ss_b4d4aaa96f5ac6b5524691f47d68b76f17796025.600x338.jpg?t=1684155926"
+        }
+    ],
+    "short_description": "&quot;Rotterdam&quot; is a beautiful and heavily armed West Indiaman built for the Rotterdam chamber of the Geoctrooieerde Westindische Compagnie.",
+    "steam_appid": 2402190,
+    "support_info": {
+        "email": "",
+        "url": "https://steamcommunity.com/app/311310/discussions/2/"
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Spanish - Latin America",
+    "type": "dlc",
+    "website": "http://www.navalaction.com"
+}

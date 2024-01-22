@@ -1,0 +1,132 @@
+{
+    "about_the_game": "A retro-pixel arcade game, where the objective is to transport Czech ships to an island while other players or AI try their best to prevent him from doing so, utilizing obstacles such as sharks.<br />\r\n<br />\r\nControlling the movements of the boats is on the keyboard using the WASD keys. The sharks are controlled automatically by the computer, but can also be controlled by the other player using the arrow keys on the keyboard. When the time limit expires, the game ends. There is one point for each ship transported to the destination. Each ship destroyed by a shark is also one point. The winner is the side that scores the most points overall.<br />\r\n<br />\r\nWhat was the inspiration for this game? From February to October 2023, Pa\u0159ansk\u00fd r\u00e1j, under the leadership of our mascot Marushka, worked tirelessly on translating various games using AI. We translated a total of 45 games. This game was created as gratitude for your support during that period.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/page_bg_generated_v6b.jpg?t=1705703619",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/page_bg_generated.jpg?t=1705703619",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/capsule_231x87.jpg?t=1705703619",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/capsule_184x69.jpg?t=1705703619",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A retro-pixel arcade game, where the objective is to transport Czech ships to an island while other players or AI try their best to prevent him from doing so, utilizing obstacles such as sharks.<br />\r\n<br />\r\nControlling the movements of the boats is on the keyboard using the WASD keys. The sharks are controlled automatically by the computer, but can also be controlled by the other player using the arrow keys on the keyboard. When the time limit expires, the game ends. There is one point for each ship transported to the destination. Each ship destroyed by a shark is also one point. The winner is the side that scores the most points overall.<br />\r\n<br />\r\nWhat was the inspiration for this game? From February to October 2023, Pa\u0159ansk\u00fd r\u00e1j, under the leadership of our mascot Marushka, worked tirelessly on translating various games using AI. We translated a total of 45 games. This game was created as gratitude for your support during that period.",
+    "developers": [
+        "Pa\u0159ansk\u00fd r\u00e1j"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/header.jpg?t=1705703619",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988583,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988583/movie480.mp4?t=1703207034",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988583/movie_max.mp4?t=1703207034"
+            },
+            "name": "Video uk\u00e1zka z hran\u00ed",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988583/movie.293x165.jpg?t=1703207034",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988583/movie480_vp9.webm?t=1703207034",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988583/movie_max_vp9.webm?t=1703207034"
+            }
+        }
+    ],
+    "name": "Za \u010de\u0161tiny ve hr\u00e1ch!",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> 3GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> 3GHz Dual Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Pa\u0159ansk\u00fd r\u00e1j"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 16, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_b6679bcf7e417fa5edc41d185f6d40c541ae51d5.1920x1080.jpg?t=1705703619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_b6679bcf7e417fa5edc41d185f6d40c541ae51d5.600x338.jpg?t=1705703619"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_b39ebcbcccb800f1147926609cef71da2f2ee703.1920x1080.jpg?t=1705703619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_b39ebcbcccb800f1147926609cef71da2f2ee703.600x338.jpg?t=1705703619"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_7961446119f863a8ef7d5a98ea5c3ec9fdd2bf1c.1920x1080.jpg?t=1705703619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_7961446119f863a8ef7d5a98ea5c3ec9fdd2bf1c.600x338.jpg?t=1705703619"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_0eed632a53577857c0c511bfa907594a6148bd50.1920x1080.jpg?t=1705703619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_0eed632a53577857c0c511bfa907594a6148bd50.600x338.jpg?t=1705703619"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_73af7a20c775681098a82127ccb0fb712496c447.1920x1080.jpg?t=1705703619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737160/ss_73af7a20c775681098a82127ccb0fb712496c447.600x338.jpg?t=1705703619"
+        }
+    ],
+    "short_description": "\u201cA retro-pixel arcade game, where the objective is to transport Czech ships to an island while other players or AI try their best to prevent him from doing so, utilizing obstacles such as sharks.",
+    "steam_appid": 2737160,
+    "support_info": {
+        "email": "paranskyraj@gmail.com",
+        "url": "https://www.paranskyraj.cz/"
+    },
+    "supported_languages": "Czech<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.paranskyraj.cz/"
+}

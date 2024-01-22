@@ -1,0 +1,146 @@
+{
+    "about_the_game": "Complete a challenge that will take you through upgraded Green Halls, through concrete levels, through caves, and get to the very end. What awaits you at the end? <i>Only the strongest will know...</i><br><br>Explore the levels not alone, but with friends or just random people you meet, because the game world of Sneak Peak is shared by all, not personal! In other words, multiplayer is implemented in the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401880/extras/Cat.png?t=1682773677\" />",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "To the dark",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401880/a4e9b6791003839c7116bd9a7be7c76782d4d95f.jpg"
+            },
+            {
+                "name": "MC-Coins",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401880/d8d792fe1a9b57578343e73d04dca9b1f849b97e.jpg"
+            }
+        ],
+        "total": 2
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/page_bg_generated_v6b.jpg?t=1682773677",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/page.bg.jpg?t=1682773677",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/capsule_231x87.jpg?t=1682773677",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/capsule_184x69.jpg?t=1682773677",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Complete a challenge that will take you through upgraded Green Halls, through concrete levels, through caves, and get to the very end. What awaits you at the end? <i>Only the strongest will know...</i><br><br>Explore the levels not alone, but with friends or just random people you meet, because the game world of Sneak Peak is shared by all, not personal! In other words, multiplayer is implemented in the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401880/extras/Cat.png?t=1682773677\" />",
+    "developers": [
+        "GKProduction"
+    ],
+    "fullgame": {
+        "appid": "1707590",
+        "name": "Mystery Chamber 2015 Forever"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/header.jpg?t=1682773677",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Mystery Chamber 2015 Forever - Sneak Peek",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP, 7, 8, 8.1, 10, 11<br></li><li><strong>Processor:</strong> 200 Mhz Pentium processor or higher<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Must support minimum of Direct3D 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10, 11<br></li><li><strong>Processor:</strong> 200 Mhz Pentium processor or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Must support minimum of Direct3D 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "GKProduction"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_990faf12146e778255603344f0e8d16afe501e8c.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_990faf12146e778255603344f0e8d16afe501e8c.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_677188492e6e4ea23ba98dbf1cdcc9a1ecbf80b8.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_677188492e6e4ea23ba98dbf1cdcc9a1ecbf80b8.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_08c640f94284646a742f82b31bdb9cbca328ac79.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_08c640f94284646a742f82b31bdb9cbca328ac79.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_1e75bc6c89d047a106e5c806714118eadc402abb.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_1e75bc6c89d047a106e5c806714118eadc402abb.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_9414690da31020c2377194c4a61ce2943550c1fd.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_9414690da31020c2377194c4a61ce2943550c1fd.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_e27c60e1457f0c13331ef8833d8d0ae1d70e74ca.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_e27c60e1457f0c13331ef8833d8d0ae1d70e74ca.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_4c5d05c3f535d31eb7b98601da9a064aac38ab3e.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_4c5d05c3f535d31eb7b98601da9a064aac38ab3e.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_f27312d85427b3dc23dd7cd6cb0e8cfe1fd53f5f.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_f27312d85427b3dc23dd7cd6cb0e8cfe1fd53f5f.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_0fc110caa66efaca1557b3fe3f8d68c2dfd4caae.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_0fc110caa66efaca1557b3fe3f8d68c2dfd4caae.600x338.jpg?t=1682773677"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_e810dc4405697fc8163bc76f5fdbf1b95021d591.1920x1080.jpg?t=1682773677",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401880/ss_e810dc4405697fc8163bc76f5fdbf1b95021d591.600x338.jpg?t=1682773677"
+        }
+    ],
+    "short_description": "Try out the Sneak Peak version of the game Mystery Chamber 2015 Forever now! This version of the game was made for an early showing of some of the game's finished content.",
+    "steam_appid": 2401880,
+    "support_info": {
+        "email": "glebkapustin64@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Russian",
+    "type": "demo",
+    "website": null
+}

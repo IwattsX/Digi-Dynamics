@@ -1,0 +1,147 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634510/extras/DescriptionScreen1.png?t=1703149595\" /><h2 class=\"bb_tag\">Explore Hermit\u2019s Thumb Peninsula:</h2>-A remote peninsula in northern British Columbia just below the snowline.<br><br>-One large map made up of 6 biomes.<br>-From dense, crawling wetlands to snowy peaks.<br>-Conquer Hermit\u2019s Mountains and return to civilization.<h2 class=\"bb_tag\">Gather, hunt, craft, sneak and more:</h2>-Each biome has a set of objectives and mechanics.<br><br>-Craft the tools needed to progress further into the mountains.<br>-Use stealth to disengage with the more dangerous inhabitants.<br>-Solve world puzzles devised by the local eccentrics.<h2 class=\"bb_tag\">Get to know the locals:</h2>-Discover strange landmarks raised by even stranger characters.<br><br>-Find their stories scattered throughout the map.<br>-Uncover the mystery surrounding Hermit\u2019s Thumb and its inhabitants.<h2 class=\"bb_tag\">Time is not (always) on your side:</h2>-Dynamic lighting and a day and night cycle.<br><br>-Hunt during the day and gather at night.<br>-Use your time wisely or you will be stuck in the dark.<h2 class=\"bb_tag\">Manage your health to stay alive:</h2>-No stamina or hunger bars, just your health.<br><br>-Gathering without the right tools drains it.<br>-If it drops too low you wont be able to gather, or swim, or live.<br>-Forage for berries, or hunt for meat to top up your stores.<h2 class=\"bb_tag\">Manage your inventory:</h2>-You\u2019ll start with plenty of space, but stuff piles up.<br><br>-Don\u2019t throw anything away, you might need it later.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/page_bg_generated_v6b.jpg?t=1703149595",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/page.bg.jpg?t=1703149595",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/capsule_231x87.jpg?t=1703149595",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/capsule_184x69.jpg?t=1703149595",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "Contains partial nudity and mild violence"
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634510/extras/DescriptionScreen1.png?t=1703149595\" /><h2 class=\"bb_tag\">Explore Hermit\u2019s Thumb Peninsula:</h2>-A remote peninsula in northern British Columbia just below the snowline.<br><br>-One large map made up of 6 biomes.<br>-From dense, crawling wetlands to snowy peaks.<br>-Conquer Hermit\u2019s Mountains and return to civilization.<h2 class=\"bb_tag\">Gather, hunt, craft, sneak and more:</h2>-Each biome has a set of objectives and mechanics.<br><br>-Craft the tools needed to progress further into the mountains.<br>-Use stealth to disengage with the more dangerous inhabitants.<br>-Solve world puzzles devised by the local eccentrics.<h2 class=\"bb_tag\">Get to know the locals:</h2>-Discover strange landmarks raised by even stranger characters.<br><br>-Find their stories scattered throughout the map.<br>-Uncover the mystery surrounding Hermit\u2019s Thumb and its inhabitants.<h2 class=\"bb_tag\">Time is not (always) on your side:</h2>-Dynamic lighting and a day and night cycle.<br><br>-Hunt during the day and gather at night.<br>-Use your time wisely or you will be stuck in the dark.<h2 class=\"bb_tag\">Manage your health to stay alive:</h2>-No stamina or hunger bars, just your health.<br><br>-Gathering without the right tools drains it.<br>-If it drops too low you wont be able to gather, or swim, or live.<br>-Forage for berries, or hunt for meat to top up your stores.<h2 class=\"bb_tag\">Manage your inventory:</h2>-You\u2019ll start with plenty of space, but stuff piles up.<br><br>-Don\u2019t throw anything away, you might need it later.",
+    "developers": [
+        "IceBathGames"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/header.jpg?t=1703149595",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973658,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973658/movie480.mp4?t=1703149593",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973658/movie_max.mp4?t=1703149593"
+            },
+            "name": "The Carrier and Crows Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973658/movie.293x165.jpg?t=1703149593",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973658/movie480_vp9.webm?t=1703149593",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973658/movie_max_vp9.webm?t=1703149593"
+            }
+        }
+    ],
+    "name": "The Carrier and Crows",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-Bit Windows 10<br></li><li><strong>Processor:</strong> Core i7-6700 or Ryzen 5 1600<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060 6GB or RX 580<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Additional Notes:</strong> SSD is recommended</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-Bit Windows 10<br></li><li><strong>Processor:</strong> Core i7-12700 or Ryzen 7 7800X3D<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> RTX 2060 or RX 5700<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Additional Notes:</strong> SSD is recommended</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "IceBathGames"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Feb 14, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_e6a95cb73805ed43a21294b54ce274367f4b5032.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_e6a95cb73805ed43a21294b54ce274367f4b5032.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_e6c920fc69b5390fd5723bb3d3aabe8c41f10628.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_e6c920fc69b5390fd5723bb3d3aabe8c41f10628.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_1413467acd81553d409f50d4029942afdfcb9a29.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_1413467acd81553d409f50d4029942afdfcb9a29.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_896d79b66f818c20d3c2ce6b07f8b76ae52039a6.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_896d79b66f818c20d3c2ce6b07f8b76ae52039a6.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_354d8bca6f86825e3c9b5f54d73bbf8ba6ab9bb0.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_354d8bca6f86825e3c9b5f54d73bbf8ba6ab9bb0.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_7b4cb6cd2e265259edf9b33623e9de591a154dcd.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_7b4cb6cd2e265259edf9b33623e9de591a154dcd.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_cdba81125227e328b1eb1aaedab2e7228ddc6c8d.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_cdba81125227e328b1eb1aaedab2e7228ddc6c8d.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_744de36e2c859fdc63b566ff9b2f701ced06fde8.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_744de36e2c859fdc63b566ff9b2f701ced06fde8.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_9c73baa4e10bc17bd53206e6d838f9c0b7c320f6.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_9c73baa4e10bc17bd53206e6d838f9c0b7c320f6.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_78a7bfb28691361f6887439048b9f2007ceb4cba.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_78a7bfb28691361f6887439048b9f2007ceb4cba.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_8cf9692749a35cc2f2edd90a772cb33a30aacd71.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_8cf9692749a35cc2f2edd90a772cb33a30aacd71.600x338.jpg?t=1703149595"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_b190d47f17e129baf7843ddacf8e2e93b05f7c1c.1920x1080.jpg?t=1703149595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634510/ss_b190d47f17e129baf7843ddacf8e2e93b05f7c1c.600x338.jpg?t=1703149595"
+        }
+    ],
+    "short_description": "Crows have downed your plane and you are trapped at the far end of a remote peninsula in northern British Columbia. You must craft the necessary tools to contend with the local eccentrics and find your way back to civilization.",
+    "steam_appid": 2634510,
+    "support_info": {
+        "email": "icebathgames.sup@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

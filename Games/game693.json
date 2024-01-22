@@ -1,0 +1,114 @@
+{
+    "about_the_game": "Outway is a 3d platform collectathon, staring a spherical robot that looks like a football.  Utilize your bodies physics to get to new areas and explore a mysterious future world populated by machines. <br />\r\n<br />\r\nNavigate moving platforms and obstacles and out maneuver hostile threats.<br />\r\n<br />\r\nTest your dexterity as you solve fun puzzles while exploring the world of Outway.<br />\r\n<br />\r\nExperience:<br />\r\nAn elaborate seamless world to explore.<br />\r\nAn original soundtrack.<br />\r\nControls that play well with either a keyboard or a gamepad.<br />\r\nCollect abiliys to get to new areas like a metrodvainia.<br />\r\nA bonus Monkey ball style mini game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/page_bg_generated_v6b.jpg?t=1701524758",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/page.bg.jpg?t=1701524758",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/capsule_231x87.jpg?t=1701524758",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/capsule_184x69.jpg?t=1701524758",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Outway is a 3d platform collectathon, staring a spherical robot that looks like a football.  Utilize your bodies physics to get to new areas and explore a mysterious future world populated by machines. <br />\r\n<br />\r\nNavigate moving platforms and obstacles and out maneuver hostile threats.<br />\r\n<br />\r\nTest your dexterity as you solve fun puzzles while exploring the world of Outway.<br />\r\n<br />\r\nExperience:<br />\r\nAn elaborate seamless world to explore.<br />\r\nAn original soundtrack.<br />\r\nControls that play well with either a keyboard or a gamepad.<br />\r\nCollect abiliys to get to new areas like a metrodvainia.<br />\r\nA bonus Monkey ball style mini game.",
+    "developers": [
+        "Adam Howell"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/header.jpg?t=1701524758",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04 or later<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GTS450 / AMD Radeon 6850HD<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires an Apple processor<br></li><li><strong>OS:</strong> macOS 10.12 or later<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GTS450 / AMD Radeon 6850HD<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256958499,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958499/movie480.mp4?t=1689549147",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958499/movie_max.mp4?t=1689549147"
+            },
+            "name": "3rd Dev Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256958499/movie.293x165.jpg?t=1689549147",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958499/movie480_vp9.webm?t=1689549147",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958499/movie_max_vp9.webm?t=1689549147"
+            }
+        }
+    ],
+    "name": "Outway",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GTS450 / AMD Radeon 6850HD<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Windows Compatible Card</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Adam Howell"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_a3d652a916cc26a5b8b7b431aa0b875519f7fbca.1920x1080.jpg?t=1701524758",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_a3d652a916cc26a5b8b7b431aa0b875519f7fbca.600x338.jpg?t=1701524758"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_37acd959f6685e4f6bb2c68e7ccce2afb102d479.1920x1080.jpg?t=1701524758",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_37acd959f6685e4f6bb2c68e7ccce2afb102d479.600x338.jpg?t=1701524758"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_3b6715961f229088db96423af4244306ae0c0716.1920x1080.jpg?t=1701524758",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_3b6715961f229088db96423af4244306ae0c0716.600x338.jpg?t=1701524758"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_ad148c037321f907eceb5f22028b4700467dbb7a.1920x1080.jpg?t=1701524758",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_ad148c037321f907eceb5f22028b4700467dbb7a.600x338.jpg?t=1701524758"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_408ef47182ad2945c874423d60c72b2b8687eeff.1920x1080.jpg?t=1701524758",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373300/ss_408ef47182ad2945c874423d60c72b2b8687eeff.600x338.jpg?t=1701524758"
+        }
+    ],
+    "short_description": "Outway is a 3d platform collectathon, staring a spherical robot that looks like a football. Utilize your bodies physics to get to new areas and explore a mysterious future world populated by machines.",
+    "steam_appid": 2373300,
+    "support_info": {
+        "email": "adam_howell_games@yahoo.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong>, Czech<strong>*</strong>, Hindi<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

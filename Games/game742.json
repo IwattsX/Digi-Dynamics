@@ -1,0 +1,147 @@
+{
+    "about_the_game": "<strong><h2 class=\"bb_tag\">Welcome to Space Shark Wrangle Fest!<br><br>OVERVIEW</h2></strong><br><br>Step into the cockpit in Space Shark Wrangle Fest! This game is a 2D, top-down, Single-Stick, Rhythm Dodger where you'll use your wrangling skills to dodge an endless swarm of space sharks while racking up a high score. Best experienced with a controller, but hey, you do you.<br><br><strong><h2 class=\"bb_tag\">GAMEPLAY</h2></strong><br><br>Forget shooting; this game is all about skillful dodging and clever timing. Eliminate sharks by luring them through circles that function like musical wormholes. But watch out, these circles change color in sync with the game's killer soundtrack. Time it wrong, and you're toast.<h2 class=\"bb_tag\"><strong>FEATURES</strong></h2><br><ul class=\"bb_ul\"><li>    <strong>Face off against Space Sharks</strong><br>Swarms of Hammerheads, Makos, and Rainbow Whale Sharks are on your tail 100% of the time!<br><br></li><li>    <strong>Power-Up Your Game </strong><br>Score occasional power-ups that'll make your ride a bit easier. Freeze time, speed up, or just let a bomb do the work.<br><br></li><li>    <strong>Chain for Gains</strong><br>Link up your passes through wormholes to boost your multiplier and skyrocket your score.<br><br></li><li>    <strong>Groovy Wormholes</strong><br>Not just any wormholes\u2014these ones pulse to the beat of the single, unforgettable song that drives the game's rhythm.<br><br></li><li>    Unlock New Ships<br>Complete challenges to unlock new ships with unique cosmetic effects. There's always a new fun way to tackle those sharks.<br><br></li><li>    Local Leaderboard<br>Compete against yourself or friends who play on the same device. Prove who's the ultimate shark wrangler in your circle.</li></ul><br><strong><h2 class=\"bb_tag\">Are You Ready?</h2></strong><br><br>If you're after an adrenaline-pumping, fast-paced, fresh take on the arcade experience, then Space Shark Wrangle Fest is for you. Dive in now and get those wrangling skills up to snuff!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/page_bg_generated_v6b.jpg?t=1698107373",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/page.bg.jpg?t=1698107373",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/capsule_231x87.jpg?t=1698107373",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/capsule_184x69.jpg?t=1698107373",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong><h2 class=\"bb_tag\">Welcome to Space Shark Wrangle Fest!<br><br>OVERVIEW</h2></strong><br><br>Step into the cockpit in Space Shark Wrangle Fest! This game is a 2D, top-down, Single-Stick, Rhythm Dodger where you'll use your wrangling skills to dodge an endless swarm of space sharks while racking up a high score. Best experienced with a controller, but hey, you do you.<br><br><strong><h2 class=\"bb_tag\">GAMEPLAY</h2></strong><br><br>Forget shooting; this game is all about skillful dodging and clever timing. Eliminate sharks by luring them through circles that function like musical wormholes. But watch out, these circles change color in sync with the game's killer soundtrack. Time it wrong, and you're toast.<h2 class=\"bb_tag\"><strong>FEATURES</strong></h2><br><ul class=\"bb_ul\"><li>    <strong>Face off against Space Sharks</strong><br>Swarms of Hammerheads, Makos, and Rainbow Whale Sharks are on your tail 100% of the time!<br><br></li><li>    <strong>Power-Up Your Game </strong><br>Score occasional power-ups that'll make your ride a bit easier. Freeze time, speed up, or just let a bomb do the work.<br><br></li><li>    <strong>Chain for Gains</strong><br>Link up your passes through wormholes to boost your multiplier and skyrocket your score.<br><br></li><li>    <strong>Groovy Wormholes</strong><br>Not just any wormholes\u2014these ones pulse to the beat of the single, unforgettable song that drives the game's rhythm.<br><br></li><li>    Unlock New Ships<br>Complete challenges to unlock new ships with unique cosmetic effects. There's always a new fun way to tackle those sharks.<br><br></li><li>    Local Leaderboard<br>Compete against yourself or friends who play on the same device. Prove who's the ultimate shark wrangler in your circle.</li></ul><br><strong><h2 class=\"bb_tag\">Are You Ready?</h2></strong><br><br>If you're after an adrenaline-pumping, fast-paced, fresh take on the arcade experience, then Space Shark Wrangle Fest is for you. Dive in now and get those wrangling skills up to snuff!",
+    "developers": [
+        "Updog Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/header.jpg?t=1698107373",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256940300,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940300/movie480.mp4?t=1682146627",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940300/movie_max.mp4?t=1682146627"
+            },
+            "name": "Gameplay Example",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256940300/movie.293x165.jpg?t=1682146627",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940300/movie480_vp9.webm?t=1682146627",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940300/movie_max_vp9.webm?t=1682146627"
+            }
+        }
+    ],
+    "name": "Space Shark Wrangle Fest",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Space Shark Wrangle Fest - $2.99",
+                    "packageid": 853126,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Space Shark Wrangle Fest"
+        }
+    ],
+    "packages": [
+        853126
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> TBA<br></li><li><strong>Processor:</strong> TBA<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> TBA<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> TBA<br></li><li><strong>VR Support:</strong> TBA<br></li><li><strong>Additional Notes:</strong> TBA</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and beyond<br></li><li><strong>Processor:</strong> TBA<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> TBA<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> TBA<br></li><li><strong>VR Support:</strong> TBA<br></li><li><strong>Additional Notes:</strong> TBA</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Updog Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 23, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_6facc833e83af0127e69dcdc858166314eb03e93.1920x1080.jpg?t=1698107373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_6facc833e83af0127e69dcdc858166314eb03e93.600x338.jpg?t=1698107373"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_1f613bb78ef83ce1b19a9465176d04f1799aa739.1920x1080.jpg?t=1698107373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_1f613bb78ef83ce1b19a9465176d04f1799aa739.600x338.jpg?t=1698107373"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_d8d8168665bc4f99612ab7747e0a081e4cb125f9.1920x1080.jpg?t=1698107373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_d8d8168665bc4f99612ab7747e0a081e4cb125f9.600x338.jpg?t=1698107373"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_806f099b5aa3114580d083078224cc8f981697c2.1920x1080.jpg?t=1698107373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_806f099b5aa3114580d083078224cc8f981697c2.600x338.jpg?t=1698107373"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_86c3f631a0cd07e8b8aeea661ff8721017b62d25.1920x1080.jpg?t=1698107373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372980/ss_86c3f631a0cd07e8b8aeea661ff8721017b62d25.600x338.jpg?t=1698107373"
+        }
+    ],
+    "short_description": "Space Shark Wrangle Fest is a fast-paced, top-down 2D action arcade game where you wrangle space sharks! Collect power-ups, hit combos, and fly through wormholes that react to the beat of the energetic soundtrack. A fresh take on classic arcade gameplay that's packed with adrenaline and excitement.",
+    "steam_appid": 2372980,
+    "support_info": {
+        "email": "updoggamesau@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,139 @@
+{
+    "about_the_game": "After the final concert of \u2661beAt, Core Hato, the leader of \u2661beAt, has went abroad on a business trip for the cinematography. On the other hand, Suzu Maikaze and Haru Samidare, is about to entry for the new challenge: Idol Season Festival, to start a new chapter of their career.<br><br><br><br>This DLC includes a new chapter of \u2661beAt! -After the Summer-, and new character graphics, new costumes and new characters.<br>The first chapter is about Suzu Maikaze, and the others will be released in the future.<br><br><br><br><strong><h2 class=\"bb_tag\">DLC Characters\uff1a</h2></strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335470/extras/e5.png?t=1688728964\" /><br><strong>Oui Kokona</strong><br><br>A fashionable 16 years old girl with a unique way of speaking.<br>She was once planned to debut as an unit with Ritsuka Tachibana, but since Ritsuka decided to quit her debut, now she's solo.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335470/extras/e6.png?t=1688728964\" /><br><strong>Riko Mikawa</strong><br><br>Sio Hoshidzuki's victim.<br>She used to be a famous idol from Star Moon Production, but since all the damage Sio's defamation brings, she has no choice but to quit as an idol.<br><br><br><strong>Ritsuka Tachibana</strong><br><br>An accomplice helped Sio and Yuuka during the defamation and the 'dc uproar'.<br>She was also Koa Aida's senior and offered information to dc.<br><br><br><strong>Ai Tachibana</strong><br><br>Ritsuka Tachibana's younger sister. She's also Suzu Maikaze's classmate.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/page_bg_generated_v6b.jpg?t=1688728964",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/page_bg_generated.jpg?t=1688728964",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/capsule_231x87.jpg?t=1688728964",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/capsule_184x69.jpg?t=1688728964",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Remote Play on Phone",
+            "id": 41
+        },
+        {
+            "description": "Remote Play on Tablet",
+            "id": 42
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "After the final concert of \u2661beAt, Core Hato, the leader of \u2661beAt, has went abroad on a business trip for the cinematography. On the other hand, Suzu Maikaze and Haru Samidare, is about to entry for the new challenge: Idol Season Festival, to start a new chapter of their career.<br><br><br><br>This DLC includes a new chapter of \u2661beAt! -After the Summer-, and new character graphics, new costumes and new characters.<br>The first chapter is about Suzu Maikaze, and the others will be released in the future.<br><br><br><br><strong><h2 class=\"bb_tag\">DLC Characters\uff1a</h2></strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335470/extras/e5.png?t=1688728964\" /><br><strong>Oui Kokona</strong><br><br>A fashionable 16 years old girl with a unique way of speaking.<br>She was once planned to debut as an unit with Ritsuka Tachibana, but since Ritsuka decided to quit her debut, now she's solo.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335470/extras/e6.png?t=1688728964\" /><br><strong>Riko Mikawa</strong><br><br>Sio Hoshidzuki's victim.<br>She used to be a famous idol from Star Moon Production, but since all the damage Sio's defamation brings, she has no choice but to quit as an idol.<br><br><br><strong>Ritsuka Tachibana</strong><br><br>An accomplice helped Sio and Yuuka during the defamation and the 'dc uproar'.<br>She was also Koa Aida's senior and offered information to dc.<br><br><br><strong>Ai Tachibana</strong><br><br>Ritsuka Tachibana's younger sister. She's also Suzu Maikaze's classmate.",
+    "developers": [
+        "d'Arc"
+    ],
+    "fullgame": {
+        "appid": "2002430",
+        "name": "\u2661beAt! -After the Summer-"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/header.jpg?t=1688728964",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+ / SteamOS 1.0<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10+<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937310,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937310/movie480.mp4?t=1688728958",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937310/movie_max.mp4?t=1688728958"
+            },
+            "name": "dc",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937310/movie.293x165.jpg?t=1688728958",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937310/movie480_vp9.webm?t=1688728958",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937310/movie_max_vp9.webm?t=1688728958"
+            }
+        }
+    ],
+    "name": "\u2661beAt! Another Season Episode",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 / DirectX 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_2416f6b59f31891f29716e51e2073e6f1e449772.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_2416f6b59f31891f29716e51e2073e6f1e449772.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_dac376c9e0d99f95ed906e1f663dbe93080f5073.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_dac376c9e0d99f95ed906e1f663dbe93080f5073.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_4e10ab3f282087d88e8c502d9d211d2bff5d0760.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_4e10ab3f282087d88e8c502d9d211d2bff5d0760.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_40d3be7fb11472c96aeb93cd42bd1ff2d1b9175c.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_40d3be7fb11472c96aeb93cd42bd1ff2d1b9175c.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_5442b13d472db1b100a05246d1eea8b77acd16ff.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_5442b13d472db1b100a05246d1eea8b77acd16ff.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_16cffe440c788b9a5283a58530c59ae4fe02bed9.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_16cffe440c788b9a5283a58530c59ae4fe02bed9.600x338.jpg?t=1688728964"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_13e931d3a50797d9625e8e1a0e7fecaeaa15290d.1920x1080.jpg?t=1688728964",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335470/ss_13e931d3a50797d9625e8e1a0e7fecaeaa15290d.600x338.jpg?t=1688728964"
+        }
+    ],
+    "short_description": "This is a story about 4 girls, who had a desire to become an idol. After the break-up of \u2661beAt, they are facing a new challenge and about to stand out.",
+    "steam_appid": 2335470,
+    "support_info": {
+        "email": "idoliteratureclub@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "Japanese, Traditional Chinese, English",
+    "type": "dlc",
+    "website": "https://heartbeat.localinfo.jp/"
+}

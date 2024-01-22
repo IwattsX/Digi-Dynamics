@@ -1,0 +1,137 @@
+{
+    "about_the_game": "<strong>Part I: THE LAST SURVIVOR</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/3gif.gif?t=1698360615\" /><br>It's been 16 years since the extinction of humanity due to a virus spread all over the world. You play as James, who thinks he is the last survivor with his brother. But this changes after he finds an invitation to other survivors' home base, <i>HaustVille</i>.<br><br><strong>Part II: WHATEVER IT TAKES</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/WalkGif.gif?t=1698360615\" /><br>Brothers are determined to leave their life behind for the sake of finding other survivors. After a couple of days, they manage to find HaustVille. But <strong>there is something wrong with this village</strong>.<br><br><strong>Part III: THEY ARE GONE</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/FoggyVille.gif?t=1698360615\" /><br>&quot;<i>Where is everyone, what happened here?</i>&quot; The answers to these questions needs to be sought by the player. So, you will be the one to explore the HaustVille and uncover the mystery behind the disappearance of the villagers, along with learning more details about the virus that caused the pandemic.<h2 class=\"bb_tag\"><strong>KEY FEATURES</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/1gif.gif?t=1698360615\" /><br><ul class=\"bb_ul\"><li>Developed on <strong><u>Unreal Engine 5</u></strong> and powered by its latest technologies to make this experience as immersive as possible.<br></li><li>The entire village is waiting to be explored. And <strong>every place has a story to tell</strong>.<br></li><li>The player will witness the stories by <strong>observing their surroundings</strong>, <strong>listening to speech echoes from past events</strong>, and <strong>interacting with the objects left by other survivors</strong>.<br></li><li>The world is crueler than ever. The virus not only killed the people but also made the animals more aggressive. So, you need to <strong>watch yourself</strong> while wandering in the <strong>wilderness</strong>.<br></li><li>Witness <strong>striking cutscenes</strong> that strenghts the story.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/5.gif?t=1698360615\" /></li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/page_bg_generated_v6b.jpg?t=1698360615",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/page.bg.jpg?t=1698360615",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/capsule_231x87.jpg?t=1698360615",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/capsule_184x69.jpg?t=1698360615",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Part I: THE LAST SURVIVOR</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/3gif.gif?t=1698360615\" /><br>It's been 16 years since the extinction of humanity due to a virus spread all over the world. You play as James, who thinks he is the last survivor with his brother. But this changes after he finds an invitation to other survivors' home base, <i>HaustVille</i>.<br><br><strong>Part II: WHATEVER IT TAKES</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/WalkGif.gif?t=1698360615\" /><br>Brothers are determined to leave their life behind for the sake of finding other survivors. After a couple of days, they manage to find HaustVille. But <strong>there is something wrong with this village</strong>.<br><br><strong>Part III: THEY ARE GONE</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/FoggyVille.gif?t=1698360615\" /><br>&quot;<i>Where is everyone, what happened here?</i>&quot; The answers to these questions needs to be sought by the player. So, you will be the one to explore the HaustVille and uncover the mystery behind the disappearance of the villagers, along with learning more details about the virus that caused the pandemic.<h2 class=\"bb_tag\"><strong>KEY FEATURES</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/1gif.gif?t=1698360615\" /><br><ul class=\"bb_ul\"><li>Developed on <strong><u>Unreal Engine 5</u></strong> and powered by its latest technologies to make this experience as immersive as possible.<br></li><li>The entire village is waiting to be explored. And <strong>every place has a story to tell</strong>.<br></li><li>The player will witness the stories by <strong>observing their surroundings</strong>, <strong>listening to speech echoes from past events</strong>, and <strong>interacting with the objects left by other survivors</strong>.<br></li><li>The world is crueler than ever. The virus not only killed the people but also made the animals more aggressive. So, you need to <strong>watch yourself</strong> while wandering in the <strong>wilderness</strong>.<br></li><li>Witness <strong>striking cutscenes</strong> that strenghts the story.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336440/extras/5.gif?t=1698360615\" /></li></ul>",
+    "developers": [
+        "Cem Boray Y\u0131ld\u0131r\u0131m"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/header.jpg?t=1698360615",
+    "is_free": false,
+    "legal_notice": "Once Alive\u2122 is an unregistered trademark and intended to be registered.<br />\r\nCopyright \u00a9 2023 Cem Boray Y\u0131ld\u0131r\u0131m. All rights reserved. <br />\r\n<br />\r\nOnce Alive\u2122 uses Unreal\u00ae Engine. Unreal\u00ae is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal\u00ae Engine, Copyright 1998 \u2013 2023, Epic Games, Inc. All rights reserved.\u201d",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256933278,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933278/movie480.mp4?t=1678029410",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933278/movie_max.mp4?t=1678029410"
+            },
+            "name": "Once Alive Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933278/movie.293x165.jpg?t=1678029410",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933278/movie480_vp9.webm?t=1678029410",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933278/movie_max_vp9.webm?t=1678029410"
+            }
+        }
+    ],
+    "name": "Once Alive",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64 bits or higher<br></li><li><strong>Processor:</strong> Intel i5 or new gen i3 / AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTX 960 / AMD equivalent with 4GB of VRAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Sound Card:</strong> Direct X Compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Cem Boray Y\u0131ld\u0131r\u0131m"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_dd8c1c4622eb361c46c7c8e34f268687193b5b28.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_dd8c1c4622eb361c46c7c8e34f268687193b5b28.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_f4d3be56da99bb3c0cf9c9d446066a3d4c8d7530.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_f4d3be56da99bb3c0cf9c9d446066a3d4c8d7530.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_a4dc49cb4a139e0c097f8ac9499cde40a93df858.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_a4dc49cb4a139e0c097f8ac9499cde40a93df858.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_a121b959e5dffdb8b88e88877db011d5b005dbc2.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_a121b959e5dffdb8b88e88877db011d5b005dbc2.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_33b47a714eb0f03cd2d0f3670b41894901a437eb.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_33b47a714eb0f03cd2d0f3670b41894901a437eb.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_54f32e6d7f60cd332919b90076f03509d6e2f549.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_54f32e6d7f60cd332919b90076f03509d6e2f549.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_7f51b30fb7a5a4d2d3038f9ef84c699b4835b42a.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_7f51b30fb7a5a4d2d3038f9ef84c699b4835b42a.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_8a8dc4800f3a8ee94a6dcab45f0fa91f49865803.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_8a8dc4800f3a8ee94a6dcab45f0fa91f49865803.600x338.jpg?t=1698360615"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_5df10d9c8b9a058beaa53967e426e3b34e570160.1920x1080.jpg?t=1698360615",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336440/ss_5df10d9c8b9a058beaa53967e426e3b34e570160.600x338.jpg?t=1698360615"
+        }
+    ],
+    "short_description": "A story-driven, first person adventure game with a cinematic experience. Set off for a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and unveil the mystery of how the last survivors vanished.",
+    "steam_appid": 2336440,
+    "support_info": {
+        "email": "oncealivegame@gmail.com",
+        "url": "https://www.oncealivegame.com"
+    },
+    "supported_languages": "English<strong>*</strong>, Turkish<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.oncealivegame.com"
+}

@@ -1,0 +1,97 @@
+{
+    "about_the_game": "Harm Other is a two-button narrative comedy game with art + music by Jay Tholen (Hypnospace Outlaw, Dropsy) consisting of five chapters with vastly different locations and themes:<br><br><ul class=\"bb_ul\"><li> Chapter I: KNEE DEEP IN THE READ<br></li><li> Chapter II: THY TEXT CONSUMED<br></li><li> Chapter III: WORD ME PLENTY<br></li><li> Chapter IV: BOOKMARKED FOR DEATH<br></li><li> Chapter V: ASHES TO ASHES, DUST TO DUST JACKET</li></ul><br>The beginning of the game will occur at the start of Chapter I, the middle will be somewhere around Chapter III, and the end will probably be found in the last bit of Chapter V.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334800/extras/Yv_bod.png?t=1701981862\" /><br><br>In the far flung future the response to every decision in life - no matter how enormous or insignificant - is a formal choice between Harm and Other.<br><br>As a DropCo Intergalactic Independent Contractor you are uniquely trained to make such decisions in an official capacity by pressing a pair of brightly colored buttons. Often with very little information. Always with no idea what Harm or Other could possibly mean in the current context. In exchange for your extraordinary talents you earn nearly half of a living wage.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/page_bg_generated_v6b.jpg?t=1701981862",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/page.bg.jpg?t=1701981862",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/capsule_231x87.jpg?t=1701981862",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/capsule_184x69.jpg?t=1701981862",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "This game includes text descriptions of people, skeleton warriors, and planets being harmed. If you click on the Harm or Other button with enough force I suppose that could also be considered violent. Consider yourself warned!"
+    },
+    "controller_support": "full",
+    "detailed_description": "Harm Other is a two-button narrative comedy game with art + music by Jay Tholen (Hypnospace Outlaw, Dropsy) consisting of five chapters with vastly different locations and themes:<br><br><ul class=\"bb_ul\"><li> Chapter I: KNEE DEEP IN THE READ<br></li><li> Chapter II: THY TEXT CONSUMED<br></li><li> Chapter III: WORD ME PLENTY<br></li><li> Chapter IV: BOOKMARKED FOR DEATH<br></li><li> Chapter V: ASHES TO ASHES, DUST TO DUST JACKET</li></ul><br>The beginning of the game will occur at the start of Chapter I, the middle will be somewhere around Chapter III, and the end will probably be found in the last bit of Chapter V.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334800/extras/Yv_bod.png?t=1701981862\" /><br><br>In the far flung future the response to every decision in life - no matter how enormous or insignificant - is a formal choice between Harm and Other.<br><br>As a DropCo Intergalactic Independent Contractor you are uniquely trained to make such decisions in an official capacity by pressing a pair of brightly colored buttons. Often with very little information. Always with no idea what Harm or Other could possibly mean in the current context. In exchange for your extraordinary talents you earn nearly half of a living wage.",
+    "developers": [
+        "Dennis Farrell"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/header.jpg?t=1701981862",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Harm Other",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Pentium 4 processor or later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Dennis Farrell"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_15b8a16732c2bf715b1aaa75d0e40981370a8bd6.1920x1080.jpg?t=1701981862",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_15b8a16732c2bf715b1aaa75d0e40981370a8bd6.600x338.jpg?t=1701981862"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_801359675849b09aa6880ec69438a413acf542a3.1920x1080.jpg?t=1701981862",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_801359675849b09aa6880ec69438a413acf542a3.600x338.jpg?t=1701981862"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_dbfbfb60162528a0be859c82a45b0652673f4248.1920x1080.jpg?t=1701981862",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_dbfbfb60162528a0be859c82a45b0652673f4248.600x338.jpg?t=1701981862"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_100ca124bcedcd7a4a10a77c3d4f40ea23a7fe9a.1920x1080.jpg?t=1701981862",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_100ca124bcedcd7a4a10a77c3d4f40ea23a7fe9a.600x338.jpg?t=1701981862"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_cf07a35d02b563aa846b96ff36ffac8e5e0e9618.1920x1080.jpg?t=1701981862",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334800/ss_cf07a35d02b563aa846b96ff36ffac8e5e0e9618.600x338.jpg?t=1701981862"
+        }
+    ],
+    "short_description": "The most anticipated game since chess! A text-based comedy adventure in which you interact with the world by slamming one of two brightly colored buttons: Harm or Other",
+    "steam_appid": 2334800,
+    "support_info": {
+        "email": "HarmOtherGame@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

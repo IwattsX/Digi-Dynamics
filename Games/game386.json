@@ -1,0 +1,141 @@
+{
+    "about_the_game": "Are you ready for some 70s\u2019 disco fever with Dave and the rest of the gang? Disco Dave is a quick fun game with voxel graphics. Test your reflexes in the neon disco environment, stay alive and perform combos to get extra points. Watch the floor tiles change colour, and stay away from the gray ones! Use your coins to unlock new characters with far out style and animations.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/page_bg_generated_v6b.jpg?t=1704215547",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/page.bg.jpg?t=1704215547",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/capsule_231x87.jpg?t=1704215547",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/capsule_184x69.jpg?t=1704215547",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Are you ready for some 70s\u2019 disco fever with Dave and the rest of the gang? Disco Dave is a quick fun game with voxel graphics. Test your reflexes in the neon disco environment, stay alive and perform combos to get extra points. Watch the floor tiles change colour, and stay away from the gray ones! Use your coins to unlock new characters with far out style and animations.",
+    "developers": [
+        "EVOZON SYSTEMS SRL"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/header.jpg?t=1704215547",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988723,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988723/movie480.mp4?t=1703012354",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988723/movie_max.mp4?t=1703012354"
+            },
+            "name": "Main Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988723/movie.293x165.jpg?t=1703012354",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988723/movie480_vp9.webm?t=1703012354",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988723/movie_max_vp9.webm?t=1703012354"
+            }
+        }
+    ],
+    "name": "Disco Dave",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Disco Dave - $2.99",
+                    "packageid": 979162,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Disco Dave"
+        }
+    ],
+    "packages": [
+        979162
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel CPU Core i3-2500K 2.0GHz+ / AMD CPU Phenom II 570<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8800 GTX, GT640, GT730, Radeon HD 5850, HD Graphics 530<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Stereo</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "EVOZON SYSTEMS SRL"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_09f78f5f17455eac384aafaedf120df67ac35668.1920x1080.jpg?t=1704215547",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_09f78f5f17455eac384aafaedf120df67ac35668.600x338.jpg?t=1704215547"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_b65f4d150b17a863b3291f838c9138baaa8d5d40.1920x1080.jpg?t=1704215547",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_b65f4d150b17a863b3291f838c9138baaa8d5d40.600x338.jpg?t=1704215547"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_cd785f4f686fe63c13c0e23a996888e26dcdbcd1.1920x1080.jpg?t=1704215547",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_cd785f4f686fe63c13c0e23a996888e26dcdbcd1.600x338.jpg?t=1704215547"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_60b4370884032471a6147ccff77a4ff84e314002.1920x1080.jpg?t=1704215547",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_60b4370884032471a6147ccff77a4ff84e314002.600x338.jpg?t=1704215547"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_363d7d96445788fd8379dfbbdbc29cdacfc4bb5c.1920x1080.jpg?t=1704215547",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736580/ss_363d7d96445788fd8379dfbbdbc29cdacfc4bb5c.600x338.jpg?t=1704215547"
+        }
+    ],
+    "short_description": "Fun rhythm game for disco enthusiasts!",
+    "steam_appid": 2736580,
+    "support_info": {
+        "email": "contact@amusedsloth.com",
+        "url": "https://www.amusedsloth.com/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.amusedsloth.com/games/disco-dave/"
+}

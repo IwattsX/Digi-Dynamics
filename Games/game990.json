@@ -1,0 +1,156 @@
+{
+    "about_the_game": "Increase your cities\u2019 visual diversity by changing the looks of your marketplaces and churches with stunning new skin variations!<br />\r\n<br />\r\nDelight your citizens with new fountains and statues, and use gorgeous palm trees, vibrant trees, and cacti to make your cities greener.<br />\r\n<br />\r\nBuild the culinary festival of your dreams with a variety of new stalls.<br />\r\n<br />\r\nTake advantage of three new systems to embellish your cities further including a wall system, tropical flower beds, and festival streetlights.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/page_bg_generated_v6b.jpg?t=1684854634",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/page_bg_generated.jpg?t=1684854634",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/capsule_231x87.jpg?t=1684854634",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/capsule_184x69.jpg?t=1684854634",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Increase your cities\u2019 visual diversity by changing the looks of your marketplaces and churches with stunning new skin variations!<br />\r\n<br />\r\nDelight your citizens with new fountains and statues, and use gorgeous palm trees, vibrant trees, and cacti to make your cities greener.<br />\r\n<br />\r\nBuild the culinary festival of your dreams with a variety of new stalls.<br />\r\n<br />\r\nTake advantage of three new systems to embellish your cities further including a wall system, tropical flower beds, and festival streetlights.",
+    "developers": [
+        "Ubisoft Mainz"
+    ],
+    "fullgame": {
+        "appid": "916440",
+        "name": "Anno 1800"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/header.jpg?t=1684854634",
+    "is_free": false,
+    "legal_notice": "\u00a9 2018 Ubisoft Entertainment. All Rights Reserved. Anno 1800, Ubisoft and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries. Anno, Blue Byte and the Blue Byte logo are registered or unregistered trademarks of Ubisoft GmbH in the US and/or other countries.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Anno 1800\u2122 Fiesta Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Anno 1800 - Fiesta Pack - $4.99",
+                    "packageid": 863788,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Anno 1800\u2122 Fiesta Pack"
+        }
+    ],
+    "packages": [
+        863788
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 8.1 or Windows 10(64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5 3470, AMD FX 6350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 8.1 or Windows 10(64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5 4690k, AMD Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 23, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_bd1bb2ce945dc80dba7bdd6dceb081e241744d0f.1920x1080.jpg?t=1684854634",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_bd1bb2ce945dc80dba7bdd6dceb081e241744d0f.600x338.jpg?t=1684854634"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_666548875f0652382aa002b1e44fb5f6f3647a07.1920x1080.jpg?t=1684854634",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_666548875f0652382aa002b1e44fb5f6f3647a07.600x338.jpg?t=1684854634"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_7b55b9cfa1672b91b3c927d389280a434a30490e.1920x1080.jpg?t=1684854634",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_7b55b9cfa1672b91b3c927d389280a434a30490e.600x338.jpg?t=1684854634"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_5a5e113f88b6bfe15db7f124a23727a07247998f.1920x1080.jpg?t=1684854634",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_5a5e113f88b6bfe15db7f124a23727a07247998f.600x338.jpg?t=1684854634"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_b48bbcedaa225bd29df74d5984993988b4e3ec9f.1920x1080.jpg?t=1684854634",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400950/ss_b48bbcedaa225bd29df74d5984993988b4e3ec9f.600x338.jpg?t=1684854634"
+        }
+    ],
+    "short_description": "Celebrate the cultural boom of the New World and beautify your residents\u2019 neighborhoods with a combination of over 20 new ornaments and skin variations!",
+    "steam_appid": 2400950,
+    "support_info": {
+        "email": "",
+        "url": "https://support.ubi.com/"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Japanese, Korean, Polish, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://www.anno-union.com"
+}

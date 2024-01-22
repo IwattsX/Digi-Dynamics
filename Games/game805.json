@@ -1,0 +1,222 @@
+{
+    "about_the_game": "The MAN TGX features an ergonomically optimized cabin, efficient driveline, economical fuel consumption, high load capacity, and a redesigned cab; making it the perfect partner for any job on the road. <br />\r\n<br />\r\nThe MAN TGX arrives with a select choice of configurations and customizations. This includes 3 cabin sizes (GN, GM, GX), 6 chassis types (4x2, 6x2, 6x4, and 8x4), 8 transmissions, and 9 engine options up to 640hp. Plenty of customizations are available too, including the options for roof deflectors, front fender aero package, headlights and rear lights, bumpers, mudflaps, and 19 official paint jobs the grey individual special. <br />\r\n<br />\r\nBut that's not all, you will also have the option to use the MAN OptiView digital mirror system. Using exterior cameras, this technology increases the driver\u2019s field of vision on the road. This also comes with a blindspot detector accessory with new functionality and the option to display the front digital mirror on the infotainment screen.<br />\r\n<br />\r\nIt's time to get trucking. See you on the road with the new MAN TGX.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/page_bg_generated_v6b.jpg?t=1702127936",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/page_bg_generated.jpg?t=1702127936",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/capsule_231x87.jpg?t=1702127936",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/capsule_184x69.jpg?t=1702127936",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        },
+        {
+            "description": "Remote Play on Phone",
+            "id": 41
+        },
+        {
+            "description": "Remote Play on Tablet",
+            "id": 42
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The MAN TGX features an ergonomically optimized cabin, efficient driveline, economical fuel consumption, high load capacity, and a redesigned cab; making it the perfect partner for any job on the road. <br />\r\n<br />\r\nThe MAN TGX arrives with a select choice of configurations and customizations. This includes 3 cabin sizes (GN, GM, GX), 6 chassis types (4x2, 6x2, 6x4, and 8x4), 8 transmissions, and 9 engine options up to 640hp. Plenty of customizations are available too, including the options for roof deflectors, front fender aero package, headlights and rear lights, bumpers, mudflaps, and 19 official paint jobs the grey individual special. <br />\r\n<br />\r\nBut that's not all, you will also have the option to use the MAN OptiView digital mirror system. Using exterior cameras, this technology increases the driver\u2019s field of vision on the road. This also comes with a blindspot detector accessory with new functionality and the option to display the front digital mirror on the infotainment screen.<br />\r\n<br />\r\nIt's time to get trucking. See you on the road with the new MAN TGX.",
+    "developers": [
+        "SCS Software"
+    ],
+    "fullgame": {
+        "appid": "227300",
+        "name": "Euro Truck Simulator 2"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/header.jpg?t=1702127936",
+    "is_free": true,
+    "legal_notice": "\u00a9 2012 SCS Software. All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission.<br />\r\n<br />\r\nThe MAN\u00ae trademarks and designs are registered rights of MAN Truck & Bus AG and are used under license to SCS Software s.r.o.<br />\r\n\"Mercedes-Benz\" and \"Three pointed star in a ring\" are trademarks of Daimler AG and used under license by SCS Software s.r.o.<br />\r\nThe RENAULT trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license.<br />\r\nThe VOLVO trademarks (word and device), other related trademarks, if applicable, and the Volvo designs are licensed by the AB Volvo Group.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04<br></li><li><strong>Processor:</strong> Dual core CPU 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450-class (Intel HD 4000)<br></li><li><strong>Additional Notes:</strong> recent binary ATI or NVidia drivers (MESA may not work reliably)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04<br></li><li><strong>Processor:</strong> Quad core CPU 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760-class (2 GB)<br></li><li><strong>Additional Notes:</strong> recent binary ATI or NVidia drivers (MESA may not work reliably)</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.9 (Mavericks)<br></li><li><strong>Processor:</strong> Dual core CPU 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450-class (Intel HD 4000)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.10 (Yosemite)<br></li><li><strong>Processor:</strong> Quad core CPU 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760-class (Intel HD 5300)</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256945899,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945899/movie480.mp4?t=1684256225",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945899/movie_max.mp4?t=1684256225"
+            },
+            "name": "MAN TGX Video Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256945899/movie.293x165.jpg?t=1684256225",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945899/movie480_vp9.webm?t=1684256225",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945899/movie_max_vp9.webm?t=1684256225"
+            }
+        }
+    ],
+    "name": "Euro Truck Simulator 2 - MAN TGX",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual core CPU 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450-class (Intel HD 4000)<br></li><li><strong>Hard Drive:</strong> 12 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>Processor:</strong> Quad core CPU 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760-class (2 GB)<br></li><li><strong>Hard Drive:</strong> 12 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "SCS Software"
+    ],
+    "recommendations": {
+        "total": 415
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 16, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_525c80b7d3a9f642e562b4924987004570565759.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_525c80b7d3a9f642e562b4924987004570565759.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_a8362c760a164833cc2d73aa4021e479c615ac13.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_a8362c760a164833cc2d73aa4021e479c615ac13.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_c3fb1069bfb78e758f1abc2e1d30963ca7c5fb59.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_c3fb1069bfb78e758f1abc2e1d30963ca7c5fb59.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_2fdfa63dc92749653fb2d7039ea0210897a18fd6.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_2fdfa63dc92749653fb2d7039ea0210897a18fd6.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_77881a39b6e8efce6b2641c160e8ec5c1254ec5e.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_77881a39b6e8efce6b2641c160e8ec5c1254ec5e.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_c1049352b5b77620a07abbb4fc788c4c49e721fa.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_c1049352b5b77620a07abbb4fc788c4c49e721fa.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_caf41e5bb4acdf14fef7155bf35e3a32cfb22b45.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_caf41e5bb4acdf14fef7155bf35e3a32cfb22b45.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_8526c3a5d774eaa03176b0af0b59a59e41074cf5.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_8526c3a5d774eaa03176b0af0b59a59e41074cf5.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_99d14e851424803f3e63b0ddb592fcc902ebaedb.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_99d14e851424803f3e63b0ddb592fcc902ebaedb.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_8321ffa783ecff8a2374c21bf99c18bb5ee7b4b7.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_8321ffa783ecff8a2374c21bf99c18bb5ee7b4b7.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_67525416fcbff455a03920e2aecdbeb28a819021.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_67525416fcbff455a03920e2aecdbeb28a819021.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_e8c164fd1c0782ed6cac60514c24d71c4d47b171.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_e8c164fd1c0782ed6cac60514c24d71c4d47b171.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_ec7fd0c238bacf147e07f2902c7a77adfcd9888b.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_ec7fd0c238bacf147e07f2902c7a77adfcd9888b.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_d9b1a85a9ccbfad53a749d6b2067524ef19d9b68.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_d9b1a85a9ccbfad53a749d6b2067524ef19d9b68.600x338.jpg?t=1702127936"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_d82ca6e56f9d674c377f93f85854af9155954992.1920x1080.jpg?t=1702127936",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371170/ss_d82ca6e56f9d674c377f93f85854af9155954992.600x338.jpg?t=1702127936"
+        }
+    ],
+    "short_description": "The MAN TGX features an ergonomically optimized cabin, efficient driveline, economical fuel consumption, high load capacity, and a redesigned cab; making it the perfect partner for any job on the road.",
+    "steam_appid": 2371170,
+    "support_info": {
+        "email": "support@eurotrucksimulator2.com",
+        "url": "https://eurotrucksimulator2.com/support.php"
+    },
+    "supported_languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Portuguese - Portugal, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese - Brazil, Bulgarian, Greek, Ukrainian",
+    "type": "dlc",
+    "website": "https://eurotrucksimulator2.com/"
+}

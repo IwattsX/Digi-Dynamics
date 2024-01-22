@@ -1,0 +1,148 @@
+{
+    "about_the_game": "<i><strong>Get ready for a prehistoric adventure in &quot;Attack of the Pterodactyl&quot;!</strong></i><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636630/extras/Imagem_no_meio_do_texto_02.png?t=1703097351\" /><br><br>In a world where the Earth is collapsing due to violent volcanic eruptions, survival has become a daily battle. The air is permeated with ash, water is scarce and food is practically non-existent. It is in this bleak setting that you take on the role of Rex, a fearless young Tyrannosaurus with a voracious appetite.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><strong>A Journey For Survival</strong></h2></h2>Rex faces a relentless fight against hunger, and the only way out is to feed on precious pterodactyl eggs. Each bite brings a momentary disruption, but the hunger persists, creating an endless cycle of the quest for survival. However, you are not the only one facing the challenges of this devastated land.<h2 class=\"bb_tag\"><strong>Pterodactyls: Guardians Of the Sky</strong></h2>Despite the adversities imposed by volcanic eruptions, the pterodactyls did not give up an inch of their territory. These winged creatures form an army determined to protect their nests at all costs. Escape these imposing guardians of the sky in exciting scenarios as you fight for your own survival.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><strong>Game Features:</strong></h2></h2><ul class=\"bb_ul\"><li>Explore a stunning prehistoric world filled with danger and wonder.<br></li><li>Face epic and frantic challenges to escape the clutches of ferocious pterodactyls.<br></li><li>Use cunning and strategy to overcome obstacles and overcome challenging stages.<br></li><li>Feel the tension build as Rex's hunger and the threat of the pterodactyls intensify with every moment.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636630/extras/Cenarios.png?t=1703097351\" /><br><br>Prepare for the battle of your life and fight for survival in &quot;Attack of the Pterodactyl&quot;! Do you have what it takes to face the fury of the heavens and survive the prehistoric apocalypse?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/page_bg_generated_v6b.jpg?t=1703097351",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/page.bg.jpg?t=1703097351",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/capsule_231x87.jpg?t=1703097351",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/capsule_184x69.jpg?t=1703097351",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<i><strong>Get ready for a prehistoric adventure in &quot;Attack of the Pterodactyl&quot;!</strong></i><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636630/extras/Imagem_no_meio_do_texto_02.png?t=1703097351\" /><br><br>In a world where the Earth is collapsing due to violent volcanic eruptions, survival has become a daily battle. The air is permeated with ash, water is scarce and food is practically non-existent. It is in this bleak setting that you take on the role of Rex, a fearless young Tyrannosaurus with a voracious appetite.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><strong>A Journey For Survival</strong></h2></h2>Rex faces a relentless fight against hunger, and the only way out is to feed on precious pterodactyl eggs. Each bite brings a momentary disruption, but the hunger persists, creating an endless cycle of the quest for survival. However, you are not the only one facing the challenges of this devastated land.<h2 class=\"bb_tag\"><strong>Pterodactyls: Guardians Of the Sky</strong></h2>Despite the adversities imposed by volcanic eruptions, the pterodactyls did not give up an inch of their territory. These winged creatures form an army determined to protect their nests at all costs. Escape these imposing guardians of the sky in exciting scenarios as you fight for your own survival.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><strong>Game Features:</strong></h2></h2><ul class=\"bb_ul\"><li>Explore a stunning prehistoric world filled with danger and wonder.<br></li><li>Face epic and frantic challenges to escape the clutches of ferocious pterodactyls.<br></li><li>Use cunning and strategy to overcome obstacles and overcome challenging stages.<br></li><li>Feel the tension build as Rex's hunger and the threat of the pterodactyls intensify with every moment.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636630/extras/Cenarios.png?t=1703097351\" /><br><br>Prepare for the battle of your life and fight for survival in &quot;Attack of the Pterodactyl&quot;! Do you have what it takes to face the fury of the heavens and survive the prehistoric apocalypse?",
+    "developers": [
+        "AdInfinitum Studios"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/header.jpg?t=1703097351",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989168,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989168/movie480.mp4?t=1703097343",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989168/movie_max.mp4?t=1703097343"
+            },
+            "name": "Pterodactly Attack | Steam Edition | Gameplay Trailer 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989168/movie.293x165.jpg?t=1703097343",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989168/movie480_vp9.webm?t=1703097343",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989168/movie_max_vp9.webm?t=1703097343"
+            }
+        }
+    ],
+    "name": "Pterodactyl Attack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or Windows 8<br></li><li><strong>Processor:</strong> Intel Core i3 - 1.8 GHZ<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 620<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "AdInfinitum Studios"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_f894ee4ebaf248a9f40cdeb2034bf7064eff569e.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_f894ee4ebaf248a9f40cdeb2034bf7064eff569e.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_1564c1525c7fd4d02be2ca9b0602fd1e58295f7c.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_1564c1525c7fd4d02be2ca9b0602fd1e58295f7c.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_1ebf37ce67eb1b35b47320d32968f84bc453b6ef.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_1ebf37ce67eb1b35b47320d32968f84bc453b6ef.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_db4ab4a96ca005932df719216bdf5ac565eb1201.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_db4ab4a96ca005932df719216bdf5ac565eb1201.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_37622f4c04b60c75e6da3826fcd25f4b2839dfa5.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_37622f4c04b60c75e6da3826fcd25f4b2839dfa5.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_5853e1d422382920ce614c4b0b0ddb8343f94103.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_5853e1d422382920ce614c4b0b0ddb8343f94103.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_720d7af2edeed22fb04a306b40222b7299d1b461.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_720d7af2edeed22fb04a306b40222b7299d1b461.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_4785848fac86f207c0e3396ee2f2398d600c14ec.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_4785848fac86f207c0e3396ee2f2398d600c14ec.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_a6b752e930f9c20c67e7201bc29bc642714d4bc7.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_a6b752e930f9c20c67e7201bc29bc642714d4bc7.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_dbeed5b080a591ddb494eadcf30ad4638f9094cc.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_dbeed5b080a591ddb494eadcf30ad4638f9094cc.600x338.jpg?t=1703097351"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_294578d3f222b76ad6906ff64d8d972d5016852d.1920x1080.jpg?t=1703097351",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636630/ss_294578d3f222b76ad6906ff64d8d972d5016852d.600x338.jpg?t=1703097351"
+        }
+    ],
+    "short_description": "In a world where the Earth is collapsing, help Rex, a fearless Tyrannosaurus, in a casual 2D platformer! Avoid deadly Pterodactyls and jump to escape. Vibrant HD graphics in an endless cycle of quest for survival.",
+    "steam_appid": 2636630,
+    "support_info": {
+        "email": "adinfinitum.game.dev@gmail.com",
+        "url": "https://www.instagram.com/adinfinitum.of/"
+    },
+    "supported_languages": "English, Spanish - Latin America, Portuguese - Brazil",
+    "type": "game",
+    "website": null
+}

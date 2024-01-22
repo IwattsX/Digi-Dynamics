@@ -1,0 +1,103 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text1_Journey.png?t=1696857080\" /><br>Immerse yourself in a thought-provoking, story-driven adventure. Experience the deeply emotional narrative that explores themes of family, loss and self-discovery.<br><br><ul class=\"bb_ul\"><li>Discover and read numerous short stories<br></li><li>Interact with other characters and creatures<br></li><li>Uncover clues of Arith\u2019s history<br></li><li>Draw connections between the world of Arith and your forgotten childhood</li></ul><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif1_Explore.gif?t=1696857080\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text3_Collect.png?t=1696857080\" /><br>Collect dozens of items that help you on your journey to uncover the secrets of your past and those of the world of Arith.<br><br><ul class=\"bb_ul\"><li>Find notes and letters that shed light on mysteries <br></li><li>Discover useful tools to aid in progression</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif2_Collect.gif?t=1696857080\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text4_Solve.png?t=1696857080\" /><br>Test your skills in over 30 diverse puzzles, including: <br><br><ul class=\"bb_ul\"><li>World environment observations<br></li><li>Symbol deciphering and pattern recognition<br></li><li>Word riddles and memory<br></li><li>Unique story driven puzzles</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif4_Solve.gif?t=1696857080\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/page_bg_generated_v6b.jpg?t=1696857080",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/page.bg.jpg?t=1696857080",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/capsule_231x87.jpg?t=1696857080",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/capsule_184x69.jpg?t=1696857080",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Into Arith addresses sensitive themes such as suicide and self-harm within the context of the storyline. Additionally, the game includes moments of psychological horror that consists of the torment of characters, demonic possession and brief images of corpses and ghostly shadowy figures."
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text1_Journey.png?t=1696857080\" /><br>Immerse yourself in a thought-provoking, story-driven adventure. Experience the deeply emotional narrative that explores themes of family, loss and self-discovery.<br><br><ul class=\"bb_ul\"><li>Discover and read numerous short stories<br></li><li>Interact with other characters and creatures<br></li><li>Uncover clues of Arith\u2019s history<br></li><li>Draw connections between the world of Arith and your forgotten childhood</li></ul><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif1_Explore.gif?t=1696857080\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text3_Collect.png?t=1696857080\" /><br>Collect dozens of items that help you on your journey to uncover the secrets of your past and those of the world of Arith.<br><br><ul class=\"bb_ul\"><li>Find notes and letters that shed light on mysteries <br></li><li>Discover useful tools to aid in progression</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif2_Collect.gif?t=1696857080\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Text4_Solve.png?t=1696857080\" /><br>Test your skills in over 30 diverse puzzles, including: <br><br><ul class=\"bb_ul\"><li>World environment observations<br></li><li>Symbol deciphering and pattern recognition<br></li><li>Word riddles and memory<br></li><li>Unique story driven puzzles</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635580/extras/Gif4_Solve.gif?t=1696857080\" />",
+    "developers": [
+        "David L Roeske"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/header.jpg?t=1696857080",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973547,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973547/movie480.mp4?t=1696533296",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973547/movie_max.mp4?t=1696533296"
+            },
+            "name": "Into Arith Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973547/movie.293x165.jpg?t=1696533296",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973547/movie480_vp9.webm?t=1696533296",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973547/movie_max_vp9.webm?t=1696533296"
+            }
+        }
+    ],
+    "name": "Into Arith",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.4Ghz Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 112MB of VRAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> NA</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "David L Roeske"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_b85af3b60daa5faa46723e95214acf72df05c0bf.1920x1080.jpg?t=1696857080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_b85af3b60daa5faa46723e95214acf72df05c0bf.600x338.jpg?t=1696857080"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_7f8e1fbf5e77b266374d4ce391d51c740ab9b34e.1920x1080.jpg?t=1696857080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_7f8e1fbf5e77b266374d4ce391d51c740ab9b34e.600x338.jpg?t=1696857080"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_0577e51e32046b89472ef23104463891c2b37146.1920x1080.jpg?t=1696857080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_0577e51e32046b89472ef23104463891c2b37146.600x338.jpg?t=1696857080"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_3705920b2b9bb42eb8fe39bf17db47a8db1550dc.1920x1080.jpg?t=1696857080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_3705920b2b9bb42eb8fe39bf17db47a8db1550dc.600x338.jpg?t=1696857080"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_3aa7edd9b1d8372b50751f81ce925e790a815a0b.1920x1080.jpg?t=1696857080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635580/ss_3aa7edd9b1d8372b50751f81ce925e790a815a0b.600x338.jpg?t=1696857080"
+        }
+    ],
+    "short_description": "Embark on a journey to unravel the mysteries of your past within the enchanting, dark world of Arith. Explore the depths of your own memories in this evocative point-and-click adventure.",
+    "steam_appid": 2635580,
+    "support_info": {
+        "email": "drstorygames@outlook.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

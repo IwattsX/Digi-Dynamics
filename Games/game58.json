@@ -1,0 +1,193 @@
+{
+    "about_the_game": "Prepare yourself for an adrenaline-pumping adventure in the game of  &quot;Halloween Again&quot; like no other as the chilling embrace of Halloween night descends upon the town. Panic and fear ripple through the streets as darkness falls, but it's not just any Halloween \u2013 it's a night like never before.<br />\r\n<br />\r\nWelcome to the spine-tingling thrill of a Halloween like you've never experienced before. The air is filled with an electrifying sense of impending doom as an eerie atmosphere sets the stage for the unknown. Ah, it's Halloween again, and this time, things have taken a terrifying turn.<br />\r\n<br />\r\nStep into a world teeming with anticipation, and join us for a hair-raising adventure. Have an insatiable craving for sweets but can't find your way to the candy store? Well, now's your moment to shine, channeling the athlete within you. But be warned, this is no ordinary night, and caution is your closest ally.<br />\r\n<br />\r\nWith every step you take, tread carefully, for this evening has unleashed a legion of the undead \u2013 zombies on the prowl, hunting for souls like yours. Trick them with your lightning-quick movements and seize as many sweets as you dare. The question is, will you stop in your tracks, or will you embrace the adrenaline rush and risk it all for the ultimate Halloween haul?<br />\r\n<br />\r\nGame Features:<br />\r\n<br />\r\n- Choose from 8 distinct characters, each with their unique abilities and skills.<br />\r\n- Embark on a heart-pounding quest to collect as much candy as you can before the zombies close in.<br />\r\n- An atmosphere of dread and excitement as zombies lurk around every corner, ready to pounce on unsuspecting candy seekers.<br />\r\n<br />\r\nThis Halloween, brace yourself for a night of spine-chilling excitement, where the line between panic and thrill is as thin as a spider's thread. Will you be the ultimate candy collector or become a ghastly snack for the lurking zombies? The choice is yours, and the adventure awaits.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/page_bg_generated_v6b.jpg?t=1698742426",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/page_bg_generated.jpg?t=1698742426",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/capsule_231x87.jpg?t=1698742426",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/capsule_184x69.jpg?t=1698742426",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Commentary available",
+            "id": 14
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Prepare yourself for an adrenaline-pumping adventure in the game of  &quot;Halloween Again&quot; like no other as the chilling embrace of Halloween night descends upon the town. Panic and fear ripple through the streets as darkness falls, but it's not just any Halloween \u2013 it's a night like never before.<br />\r\n<br />\r\nWelcome to the spine-tingling thrill of a Halloween like you've never experienced before. The air is filled with an electrifying sense of impending doom as an eerie atmosphere sets the stage for the unknown. Ah, it's Halloween again, and this time, things have taken a terrifying turn.<br />\r\n<br />\r\nStep into a world teeming with anticipation, and join us for a hair-raising adventure. Have an insatiable craving for sweets but can't find your way to the candy store? Well, now's your moment to shine, channeling the athlete within you. But be warned, this is no ordinary night, and caution is your closest ally.<br />\r\n<br />\r\nWith every step you take, tread carefully, for this evening has unleashed a legion of the undead \u2013 zombies on the prowl, hunting for souls like yours. Trick them with your lightning-quick movements and seize as many sweets as you dare. The question is, will you stop in your tracks, or will you embrace the adrenaline rush and risk it all for the ultimate Halloween haul?<br />\r\n<br />\r\nGame Features:<br />\r\n<br />\r\n- Choose from 8 distinct characters, each with their unique abilities and skills.<br />\r\n- Embark on a heart-pounding quest to collect as much candy as you can before the zombies close in.<br />\r\n- An atmosphere of dread and excitement as zombies lurk around every corner, ready to pounce on unsuspecting candy seekers.<br />\r\n<br />\r\nThis Halloween, brace yourself for a night of spine-chilling excitement, where the line between panic and thrill is as thin as a spider's thread. Will you be the ultimate candy collector or become a ghastly snack for the lurking zombies? The choice is yours, and the adventure awaits.",
+    "developers": [
+        "AFabrik"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/header.jpg?t=1698742426",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975754,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975754/movie480.mp4?t=1697530741",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975754/movie_max.mp4?t=1697530741"
+            },
+            "name": "yt",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975754/movie.293x165.jpg?t=1697530741",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975754/movie480_vp9.webm?t=1697530741",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975754/movie_max_vp9.webm?t=1697530741"
+            }
+        }
+    ],
+    "name": "Halloween Again",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Halloween Again - <span class=\"discount_original_price\">$19.99</span> $1.99",
+                    "packageid": 950152,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-90% ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Halloween Again"
+        }
+    ],
+    "packages": [
+        950152
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GT 210<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 90,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 1999,
+        "initial_formatted": "$19.99"
+    },
+    "publishers": [
+        "AFabrik"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_6f9aafaa8678d5aa30a07c81d7b0310163905c49.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_6f9aafaa8678d5aa30a07c81d7b0310163905c49.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_b84a9b644c48545d64863c07859cc8605aaf6c96.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_b84a9b644c48545d64863c07859cc8605aaf6c96.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_992c5284c1b9183ae4f89532012e9dc19de77d47.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_992c5284c1b9183ae4f89532012e9dc19de77d47.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_ac72f0e5a8077b3ea64a34b7a0e92cbaaca260ef.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_ac72f0e5a8077b3ea64a34b7a0e92cbaaca260ef.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_17e84098c6b5de3fb7ddf24c3e704565c9d81a6e.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_17e84098c6b5de3fb7ddf24c3e704565c9d81a6e.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_9be593105a261a8e81d2a746aa7b28d317432603.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_9be593105a261a8e81d2a746aa7b28d317432603.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_d9a41259d17ba960099df3af27656eaa1334f5ba.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_d9a41259d17ba960099df3af27656eaa1334f5ba.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_184891f03f2dcbbc07a60993ceaf60073eaae3dc.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_184891f03f2dcbbc07a60993ceaf60073eaae3dc.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_73098c5c3da9940e9236b72436d83e856f5799d6.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_73098c5c3da9940e9236b72436d83e856f5799d6.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_04d3a349fc15973f3a2955ee7e806addc91307f2.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_04d3a349fc15973f3a2955ee7e806addc91307f2.600x338.jpg?t=1698742426"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_d56a2dc099a7fcd8052294701d018fcfc29f6a33.1920x1080.jpg?t=1698742426",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650860/ss_d56a2dc099a7fcd8052294701d018fcfc29f6a33.600x338.jpg?t=1698742426"
+        }
+    ],
+    "short_description": "Step into a world teeming with anticipation, and join us for a hair-raising adventure.",
+    "steam_appid": 2650860,
+    "support_info": {
+        "email": "business@atomicfabrik.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "type": "game",
+    "website": null
+}

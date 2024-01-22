@@ -1,0 +1,109 @@
+{
+    "about_the_game": "Embark on an adventure as the protagonist of &quot;Peanut's Journey&quot; - Mr. Peanut! This is a mild roguelike tower-climbing expedition where each level is filled with diverse challenges and the unknown. In this adventure of strategy and survival, can you navigate through each level and unveil the destiny of Mr. Peanut?<br />\r\n<br />\r\n\ud83e\udd5c Tower Climbing Expedition: Scale mesmerizing tower levels, confront powerful guardians, and unravel the mysteries hidden within the tower.<br />\r\n<br />\r\n\u2694\ufe0f Battle and Skill: Face different monsters, gather a variety of skills and items, and devise unique survival strategies.<br />\r\n<br />\r\n\ud83d\udd04 Unique Upgrade System: Utilize resources collected during the adventure to continually strengthen Mr. Peanut, adapting to the challenges presented on each tower level.<br />\r\n<br />\r\n\ud83c\udf0c Endless Towers: Each adventure is uniquely crafted, with endless towers filled with unknown mazes waiting for your exploration.<br />\r\n<br />\r\n\ud83c\udfa8 Wonderful Graphics and Sound: Immerse yourself in unique art styles and immersive sound effects, creating a distinctive atmosphere for each adventure.<br />\r\n<br />\r\nIn &quot;Peanut's Journey&quot; the tower climb is not just a physical ascent but a journey through the challenges of strategy and survival. Are you ready to face the unique tower-climbing adventure and unveil the destiny of Mr. Peanut?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/page_bg_generated_v6b.jpg?t=1700186256",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/page.bg.jpg?t=1700186256",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/capsule_231x87.jpg?t=1700186256",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/capsule_184x69.jpg?t=1700186256",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on an adventure as the protagonist of &quot;Peanut's Journey&quot; - Mr. Peanut! This is a mild roguelike tower-climbing expedition where each level is filled with diverse challenges and the unknown. In this adventure of strategy and survival, can you navigate through each level and unveil the destiny of Mr. Peanut?<br />\r\n<br />\r\n\ud83e\udd5c Tower Climbing Expedition: Scale mesmerizing tower levels, confront powerful guardians, and unravel the mysteries hidden within the tower.<br />\r\n<br />\r\n\u2694\ufe0f Battle and Skill: Face different monsters, gather a variety of skills and items, and devise unique survival strategies.<br />\r\n<br />\r\n\ud83d\udd04 Unique Upgrade System: Utilize resources collected during the adventure to continually strengthen Mr. Peanut, adapting to the challenges presented on each tower level.<br />\r\n<br />\r\n\ud83c\udf0c Endless Towers: Each adventure is uniquely crafted, with endless towers filled with unknown mazes waiting for your exploration.<br />\r\n<br />\r\n\ud83c\udfa8 Wonderful Graphics and Sound: Immerse yourself in unique art styles and immersive sound effects, creating a distinctive atmosphere for each adventure.<br />\r\n<br />\r\nIn &quot;Peanut's Journey&quot; the tower climb is not just a physical ascent but a journey through the challenges of strategy and survival. Are you ready to face the unique tower-climbing adventure and unveil the destiny of Mr. Peanut?",
+    "developers": [
+        "MoYu Studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/header.jpg?t=1700186256",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS 13<br></li><li><strong>Processor:</strong> M1<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS 14<br></li><li><strong>Processor:</strong> M1<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    },
+    "name": "Peanut's Journey",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i3 10Gen+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Xe DG1<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel i5 12Gen+<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 960<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "MoYu Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_d018582c9a3ddc6060924be8f2cd084168a69b01.1920x1080.jpg?t=1700186256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_d018582c9a3ddc6060924be8f2cd084168a69b01.600x338.jpg?t=1700186256"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_7ef2e6d6e07ed5cf44c7aacd0ec28258a8aa0db7.1920x1080.jpg?t=1700186256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_7ef2e6d6e07ed5cf44c7aacd0ec28258a8aa0db7.600x338.jpg?t=1700186256"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_3797fe560a23487bfbeebf405a34e40153b00cd8.1920x1080.jpg?t=1700186256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_3797fe560a23487bfbeebf405a34e40153b00cd8.600x338.jpg?t=1700186256"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_490a2ccd90f1fcb80bdc22eb6ba6706b34e6c296.1920x1080.jpg?t=1700186256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_490a2ccd90f1fcb80bdc22eb6ba6706b34e6c296.600x338.jpg?t=1700186256"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_bb930307912dd4970313c68e7678f157226dbae0.1920x1080.jpg?t=1700186256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636950/ss_bb930307912dd4970313c68e7678f157226dbae0.600x338.jpg?t=1700186256"
+        }
+    ],
+    "short_description": "Embark on &quot;Peanut's Journey&quot; as Mr. Peanut! In this mild roguelike tower climb, face diverse challenges and the unknown. Can you strategically navigate each level and uncover Mr. Peanut's destiny?",
+    "steam_appid": 2636950,
+    "support_info": {
+        "email": "cprewilsonvinson@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "http://www.moyu-studio.com:10/"
+}

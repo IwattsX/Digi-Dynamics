@@ -1,0 +1,161 @@
+{
+    "about_the_game": "<strong><h2 class=\"bb_tag\">STORY</h2></strong><br><br>Sempiternal: We are a group of scientists assigned to solve an unknown problem in a secret research facility set in the 1900s and the event or events that took place there. During the research in the facility, we are dragged into the universe of back rooms with an energy explosion of unknown cause.<h2 class=\"bb_tag\"><strong>EXPERIENCE</strong></h2><br>You find yourself in a state of vast uncertainty, where you don't know what's behind it.<br>You will feel the elements of mystery, suspense and horror in your blood.<br>You must enter the universe of back rooms and find a way to survive.<h2 class=\"bb_tag\"><strong>GAMEPLAY</strong></h2>Explore the back rooms with the VHS Camera.<br>A different objective awaits you in each level.<br>Even the smallest decision you make will affect the course of the game.<br>No two games will be the same, play again to reach a completely different conclusion.<br>Experience a different back rooms experience with realistic graphics.<br><u>Remember you are not alone...</u><h2 class=\"bb_tag\">NOTE:</h2>This game is not affiliated with &quot;Kane Pixels&quot; or Backrooms Wiki/Fandom. But some of it is inspired by Kane Pixels.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/page_bg_generated_v6b.jpg?t=1704282820",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/page.bg.jpg?t=1704282820",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/capsule_231x87.jpg?t=1704282820",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/capsule_184x69.jpg?t=1704282820",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Some scenes contain corpses, human parts and blood."
+    },
+    "detailed_description": "<strong><h2 class=\"bb_tag\">STORY</h2></strong><br><br>Sempiternal: We are a group of scientists assigned to solve an unknown problem in a secret research facility set in the 1900s and the event or events that took place there. During the research in the facility, we are dragged into the universe of back rooms with an energy explosion of unknown cause.<h2 class=\"bb_tag\"><strong>EXPERIENCE</strong></h2><br>You find yourself in a state of vast uncertainty, where you don't know what's behind it.<br>You will feel the elements of mystery, suspense and horror in your blood.<br>You must enter the universe of back rooms and find a way to survive.<h2 class=\"bb_tag\"><strong>GAMEPLAY</strong></h2>Explore the back rooms with the VHS Camera.<br>A different objective awaits you in each level.<br>Even the smallest decision you make will affect the course of the game.<br>No two games will be the same, play again to reach a completely different conclusion.<br>Experience a different back rooms experience with realistic graphics.<br><u>Remember you are not alone...</u><h2 class=\"bb_tag\">NOTE:</h2>This game is not affiliated with &quot;Kane Pixels&quot; or Backrooms Wiki/Fandom. But some of it is inspired by Kane Pixels.",
+    "developers": [
+        "Onizuka"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/header.jpg?t=1704282820",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256977556,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977556/movie480.mp4?t=1698013707",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977556/movie_max.mp4?t=1698013707"
+            },
+            "name": "Sempiternal Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256977556/movie.293x165.jpg?t=1698013707",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977556/movie480_vp9.webm?t=1698013707",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977556/movie_max_vp9.webm?t=1698013707"
+            }
+        }
+    ],
+    "name": "Sempiternal The Backrooms",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Sempiternal - $6.99",
+                    "packageid": 945062,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 699
+                }
+            ],
+            "title": "Buy Sempiternal The Backrooms"
+        }
+    ],
+    "packages": [
+        945062
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64 bit<br></li><li><strong>Processor:</strong> Intel i5-4460 or higher - AMD Ryzen 3 1200 or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970 or higher - AMD Radeon RX 570 or higher<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Additional Notes:</strong> SSD required. 720p or 1K 30 ~ 60 FPS.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11 64 bit<br></li><li><strong>Processor:</strong> Intel i5 12400F - AMD Ryzen 5 5600x<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia RTX 3060 - AMD Radeon RX6600<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Additional Notes:</strong> SSD required. 1K 60+ FPS.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 699,
+        "final_formatted": "$6.99",
+        "initial": 699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Onizuka"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_3d39d6056d930625be42f8351dd4ea0d5f7113fa.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_3d39d6056d930625be42f8351dd4ea0d5f7113fa.600x338.jpg?t=1704282820"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_2ee29e191f7d0d4dd7b5fd8034b094f51fc48c59.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_2ee29e191f7d0d4dd7b5fd8034b094f51fc48c59.600x338.jpg?t=1704282820"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_6e2524e29ad523dcf4391d619038d5f3b73c6a8e.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_6e2524e29ad523dcf4391d619038d5f3b73c6a8e.600x338.jpg?t=1704282820"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_732728182911f2009ee73212e9ac2c98e64142de.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_732728182911f2009ee73212e9ac2c98e64142de.600x338.jpg?t=1704282820"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_b6b2d6a40b9f7f36984fb5693f5c45de53ab3988.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_b6b2d6a40b9f7f36984fb5693f5c45de53ab3988.600x338.jpg?t=1704282820"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_64d5142913cd46fbd5e8567ffa87d14cefccdd66.1920x1080.jpg?t=1704282820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635460/ss_64d5142913cd46fbd5e8567ffa87d14cefccdd66.600x338.jpg?t=1704282820"
+        }
+    ],
+    "short_description": "Sempiternal is a psychological thriller survival game. In the universe of back rooms, you will experience the loneliness to the fullest and find yourself in a different mystery in each level and get lost in the back rooms.",
+    "steam_appid": 2635460,
+    "support_info": {
+        "email": "petriclinur@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Turkish",
+    "type": "game",
+    "website": null
+}

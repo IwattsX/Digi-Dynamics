@@ -1,0 +1,173 @@
+{
+    "about_the_game": "The worst thing about Oliver\u2019s breakfast is that it wants to be eaten. <br />\r\n<br />\r\nInspired by early RPGmaker horror games and Adult Swim bumpers, Sunflower Pie is a bite-sized visual novel with extra parasites (for flavor). Much like real life, it oscillates violently between discomfort and sincerity. Unlike real life, however, there is only one correct choice. <br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n*You can beat this visual novel in 25 minutes<br />\r\n<br />\r\n*Oliver\u2019s speech therapist is good at her job and owns a revolver <br />\r\n<br />\r\n*Learn about all the cool ways to remove ticks from your body<br />\r\n <br />\r\n*Made with love (sincerely)",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Stay a while",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2742040/cea4fadc3c0f9f5acfb2e335201e13fb0fad450d.jpg"
+            },
+            {
+                "name": "Stay true",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2742040/becfff299e4d7f8a657da6656c322ebb164ce390.jpg"
+            },
+            {
+                "name": "Stay safe",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2742040/e5ddc6816f234e873efa65903c4fcffa2ef10641.jpg"
+            },
+            {
+                "name": "Infohazards",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2742040/65573cad034cb4ce93e9ce53aedefbb9d262dc49.jpg"
+            }
+        ],
+        "total": 4
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/page_bg_generated_v6b.jpg?t=1705202906",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/page.bg.jpg?t=1705202906",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/capsule_231x87.jpg?t=1705202906",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/capsule_184x69.jpg?t=1705202906",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "emotional and physical parental abuse, surreal violence, general horror and frightening situations   "
+    },
+    "detailed_description": "<h1>Wishlist the sequel</h1><p><a href=\"https://store.steampowered.com/app/2469950\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2469950</a></p><br><h1>About the Game</h1>The worst thing about Oliver\u2019s breakfast is that it wants to be eaten. <br><br>Inspired by early RPGmaker horror games and Adult Swim bumpers, Sunflower Pie is a bite-sized visual novel with extra parasites (for flavor). Much like real life, it oscillates violently between discomfort and sincerity. Unlike real life, however, there is only one correct choice. <br><br>Features:<br><br>*You can beat this visual novel in 25 minutes<br><br>*Oliver\u2019s speech therapist is good at her job and owns a revolver <br><br>*Learn about all the cool ways to remove ticks from your body<br> <br>*Made with love (sincerely)",
+    "developers": [
+        "ThePenSword"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/header.jpg?t=1705202906",
+    "is_free": false,
+    "legal_notice": "All rights reserved: ThePenSword",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988935,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988935/movie480.mp4?t=1702695174",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988935/movie_max.mp4?t=1702695174"
+            },
+            "name": "Sunflower Pie",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988935/movie.293x165.jpg?t=1702695174",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988935/movie480_vp9.webm?t=1702695174",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988935/movie_max_vp9.webm?t=1702695174"
+            }
+        }
+    ],
+    "name": "Sunflower Pie",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Sunflower Pie - $0.99",
+                    "packageid": 980999,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Sunflower Pie"
+        }
+    ],
+    "packages": [
+        980999
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-1005G1<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "ThePenSword"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 6, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_464c30b61672eb56e46a50c8d73796a76604fc2e.1920x1080.jpg?t=1705202906",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_464c30b61672eb56e46a50c8d73796a76604fc2e.600x338.jpg?t=1705202906"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_1aacbde7c067d197e4e417687e766b19959c25a5.1920x1080.jpg?t=1705202906",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_1aacbde7c067d197e4e417687e766b19959c25a5.600x338.jpg?t=1705202906"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_6c009a8459d5ac2049659a2ee33e599e5b917466.1920x1080.jpg?t=1705202906",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_6c009a8459d5ac2049659a2ee33e599e5b917466.600x338.jpg?t=1705202906"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_a81de6883a490030fc3669704aabfb2e41200d73.1920x1080.jpg?t=1705202906",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_a81de6883a490030fc3669704aabfb2e41200d73.600x338.jpg?t=1705202906"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_de994896ac8dccbda622974f4dc1c6afb934caaf.1920x1080.jpg?t=1705202906",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2742040/ss_de994896ac8dccbda622974f4dc1c6afb934caaf.600x338.jpg?t=1705202906"
+        }
+    ],
+    "short_description": "A short story about a parasitic sunflower and her loyal son. Eat everything you can. Enjoy the sunshine. Do whatever it takes to make her happy.",
+    "steam_appid": 2742040,
+    "support_info": {
+        "email": "",
+        "url": "https://discord.gg/W6scNAB8a2"
+    },
+    "supported_languages": "English, German, Spanish - Spain, French, Simplified Chinese",
+    "type": "game",
+    "website": "https://twitter.com/SirensCallGame"
+}

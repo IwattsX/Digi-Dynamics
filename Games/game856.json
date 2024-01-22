@@ -1,0 +1,94 @@
+{
+    "about_the_game": "Demo of The Guardians Survival, includes access to all of the characters and 10 minutes of game play.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/page_bg_generated_v6b.jpg?t=1681561943",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/page_bg_generated.jpg?t=1681561943",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/capsule_231x87.jpg?t=1681561943",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/capsule_184x69.jpg?t=1681561943",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Demo of The Guardians Survival, includes access to all of the characters and 10 minutes of game play.",
+    "developers": [
+        "Calm Fox"
+    ],
+    "fullgame": {
+        "appid": "2368350",
+        "name": "Guardians Survival"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/header.jpg?t=1681561943",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Pentium 4 processor or later that's SSE2 capable</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Pentium 4 processor or later that's SSE2 capable</li></ul>"
+    },
+    "name": "Guardians Survival Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Pentium 4 processor or later that's SSE2 capable<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Calm Fox"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_200b020f6581968a4bad80ac81a7ba8e5f2ab8b4.1920x1080.jpg?t=1681561943",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_200b020f6581968a4bad80ac81a7ba8e5f2ab8b4.600x338.jpg?t=1681561943"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_8ca7adf60fffc85aa588bbcd4e527e6ad9020693.1920x1080.jpg?t=1681561943",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_8ca7adf60fffc85aa588bbcd4e527e6ad9020693.600x338.jpg?t=1681561943"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_07ba57696ed82ae2b302ddb7cd6ddab7185de43f.1920x1080.jpg?t=1681561943",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_07ba57696ed82ae2b302ddb7cd6ddab7185de43f.600x338.jpg?t=1681561943"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_057b345c30e67489096d3c6aac8139079e047d98.1920x1080.jpg?t=1681561943",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_057b345c30e67489096d3c6aac8139079e047d98.600x338.jpg?t=1681561943"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_281c2f50363c186176e9cd5ccdfbe85fa6c8fbe4.1920x1080.jpg?t=1681561943",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370970/ss_281c2f50363c186176e9cd5ccdfbe85fa6c8fbe4.600x338.jpg?t=1681561943"
+        }
+    ],
+    "short_description": "Demo of The Guardians Survival, includes access to all of the characters and 10 minutes of game play.",
+    "steam_appid": 2370970,
+    "support_info": {
+        "email": "degerum@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

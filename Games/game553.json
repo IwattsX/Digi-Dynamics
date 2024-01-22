@@ -1,0 +1,106 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Deep strategy with unique combat mechanics.</h2>Squads are composed of one hero plus 1 to 6 minions. Killing the enemy hero is enough for victory but minions shall do everything possible to prevent this from happening, resulting in ever-changing dynamics never seen in any other game.<br>Different playing styles and squad compositions allow for tank heroes to soak up damage, high mobility heroes for hit-and-run tactics, heal and support heroes for enhanced minion effectiveness and much more.<br>Additional settings allow for up to 3 heroes per squad simultaneously, for experienced players who prefer even higher complexity.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/1t.png?t=1702245782\" /><br><br><br><u><strong>Positioning and Orientation</strong></u><br>Increase hit chance when flanking or backstabbing, block with shields and spells to reduce damage taken from frontal attacks. Use your armored units to protect others by blocking the enemy's line of sight. Disrupt enemy formations by pushing or dragging their units.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/3t.png?t=1702245782\" /><br><br><br><u><strong>Melee Engagement</strong></u><br>End your turn facing an adjacent enemy to engage in melee, granting friendly units an attack bonus against this enemy and performing an opportunity attack whenever the engaged unit tries to move away. Some skills have unique effects against engaging or engaged units.<br>Ranged units get a significant damage penalty for being engaged.<br>Units will disengage after taking damage from any unit except the engaged unit. In a well-coordinated squad, units will protect each other and prevent them from getting engaged.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/4t.png?t=1702245782\" /><br><br><br><u><strong>Stability and Momentum</strong></u><br>Units start the game with full Stability and will drop by performing offensive actions or taking Stability Damage from enemies. All units recover 1 Stability per turn, and Heroes can rest, spending an entire turn to fully recover it.<br>Stability also provides resistance to damage and being pushed or pulled. Hit hard when your enemies are on low on Stability to make the most damage, but be mindful of not getting your Stability too low, specially when your enemies are well positioned for attack.<br><br>Units start the game with no Momentum and it\u2019s gained by using most basic actions. Higher Momentum enables more powerful skills, but the most powerful ones will decrease Momentum after use.<br>Heroes can also use the \u201cRally\u201d ability to increase Momentum of a friendly minion.<br>Some special attacks and spells can do Momentum Damage to enemies, to prevent them from using advanced skills.<br><br>Rather than being linear, both Stability and Momentum will wildly fluctuate up and down. This will dictate when it\u2019s time to play defensive and when it\u2019s time to go all-in, learning to read the tides is key to victory.<br><br><br><u><strong>Upgrades</strong></u><br>Dealing damage with any unit grants Upgrade Points.<br>After reaching a certain amount of Upgrade Points, you can Upgrade any Hero or Minion during its turn.<br>All Minions can choose to Upgrade into one out of three different specializations, once chosen it stays the same for the entire match.<br>Heroes get a wide variety of Upgrade Options depending on their classes and can combine multiple Upgrades during a match<br>Additionally, all units can get the \u201c+1 Max Momentum\u201d Upgrade, which may be necessary to reach the Momentum Cost of their most powerful skills.<br><br>Upgrades allow players to evolve their Squad during combat to adapt to different enemies and circumstances.<br>Upgrading any unit will make the next Upgrade more expensive for the whole Squad, so you have to be extra mindful of when and what to Upgrade.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/5t.png?t=1702245782\" /><br><br><br><u><strong>Highly Customizable Heroes</strong></u><br>Unique classes and skills system for Heroes designed from scratch.<br>Six main classes: Fighter, Rogue, Druid, Cleric, Necromancer and Wizard, with four subclasses each. Spend Class Points to upgrade current classes or to add new ones, combine up to two main classes plus two subclasses for each.<br>Endless possibilities of class combinations will grant your hero unique traits, item equipment, skills and in-combat upgrades.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/6t.png?t=1702245782\" /><br><br><br><u><strong>And so much more!</strong></u><br>Choose from a with a wide variety of minions to form the perfect squad for your hero. Unlike heroes, minions can't be customized and will always be the same for every player, this make them somewhat predictable and easier to plan against them.<br><br>Hundreds of different attacks, spells, abilities and passive skills to fit any playing style and strategy you can ever imagine.<br>Experiment with plenty of positive and negative effects to turn the balance to your favor, brute force and direct damage is almost never the answer.<br><br>Fight in engaging environments with randomized features to use to your advantage.<h2 class=\"bb_tag\">Game Modes</h2>All combat mechanics and content (minions, skills, etc) will be the same through all game modes, so it\u2019s possible to practice in single player or casual pvp and then apply your knowledge in competitive.<br><br><br><u><strong>Single-Player Roguelite</strong></u><br>Ascend along a tower facing new challenges on each floor.<br>Level up your Hero after each combat, and chose your reward out of several options. This may include Experience Scrolls to further strengthen your Hero, items, minions, or even additional heroes (with the downside of having to share experience and level up slower afterwards).<br>Minions that die in combat are permanently lost and losing your main Hero will result in Game Over.<br>There is no progression between runs, except unlocking more content and more enemy variety.<br><br><u><strong>PvP Casual</strong></u><br>Freely select one or more Heroes plus some Minions and fight against a human player with a similar level.<br>After each victory, gain experience for your Heroes and unlock new minions. Minions are fast to unlock and there are no rarities. No need to grind or do anything tedious.<br>Casual matches are meant to be flexible and not always 100% equally fair for both players. They allow different Squad compositions (ej 1 lvl 20 hero vs 2 lvl 10 heroes), asymmetric scenarios, randomized hazards, etc.<br><br><u><strong>PvP Ranked Competitive</strong></u><br>Instantly create a custom Hero of level 20, 40 or 60 and play against enemies of the exact same level. Raise through the ranking and show the world you are the best Squad Tactics player! <br>All content is available from the start, no need to unlock anything.<br>Scenarios and hazards are always perfectly symmetrical to ensure equal conditions and fair play.<br><br>There will be absolutely no pay-to-win schemes.<br>No in-game purchases, except maybe for aesthetics, but absolutely nothing with impact on gameplay.<br><br><strong><i>The goal of Squad Tactics is to create the ultimate skill-based, fun, engaging, high-replayability, highly-customizable turn-based-tactical experience.</i></strong>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/page_bg_generated_v6b.jpg?t=1702245782",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/page_bg_generated.jpg?t=1702245782",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/capsule_231x87.jpg?t=1702245782",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/capsule_184x69.jpg?t=1702245782",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Deep strategy with unique combat mechanics.</h2>Squads are composed of one hero plus 1 to 6 minions. Killing the enemy hero is enough for victory but minions shall do everything possible to prevent this from happening, resulting in ever-changing dynamics never seen in any other game.<br>Different playing styles and squad compositions allow for tank heroes to soak up damage, high mobility heroes for hit-and-run tactics, heal and support heroes for enhanced minion effectiveness and much more.<br>Additional settings allow for up to 3 heroes per squad simultaneously, for experienced players who prefer even higher complexity.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/1t.png?t=1702245782\" /><br><br><br><u><strong>Positioning and Orientation</strong></u><br>Increase hit chance when flanking or backstabbing, block with shields and spells to reduce damage taken from frontal attacks. Use your armored units to protect others by blocking the enemy's line of sight. Disrupt enemy formations by pushing or dragging their units.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/3t.png?t=1702245782\" /><br><br><br><u><strong>Melee Engagement</strong></u><br>End your turn facing an adjacent enemy to engage in melee, granting friendly units an attack bonus against this enemy and performing an opportunity attack whenever the engaged unit tries to move away. Some skills have unique effects against engaging or engaged units.<br>Ranged units get a significant damage penalty for being engaged.<br>Units will disengage after taking damage from any unit except the engaged unit. In a well-coordinated squad, units will protect each other and prevent them from getting engaged.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/4t.png?t=1702245782\" /><br><br><br><u><strong>Stability and Momentum</strong></u><br>Units start the game with full Stability and will drop by performing offensive actions or taking Stability Damage from enemies. All units recover 1 Stability per turn, and Heroes can rest, spending an entire turn to fully recover it.<br>Stability also provides resistance to damage and being pushed or pulled. Hit hard when your enemies are on low on Stability to make the most damage, but be mindful of not getting your Stability too low, specially when your enemies are well positioned for attack.<br><br>Units start the game with no Momentum and it\u2019s gained by using most basic actions. Higher Momentum enables more powerful skills, but the most powerful ones will decrease Momentum after use.<br>Heroes can also use the \u201cRally\u201d ability to increase Momentum of a friendly minion.<br>Some special attacks and spells can do Momentum Damage to enemies, to prevent them from using advanced skills.<br><br>Rather than being linear, both Stability and Momentum will wildly fluctuate up and down. This will dictate when it\u2019s time to play defensive and when it\u2019s time to go all-in, learning to read the tides is key to victory.<br><br><br><u><strong>Upgrades</strong></u><br>Dealing damage with any unit grants Upgrade Points.<br>After reaching a certain amount of Upgrade Points, you can Upgrade any Hero or Minion during its turn.<br>All Minions can choose to Upgrade into one out of three different specializations, once chosen it stays the same for the entire match.<br>Heroes get a wide variety of Upgrade Options depending on their classes and can combine multiple Upgrades during a match<br>Additionally, all units can get the \u201c+1 Max Momentum\u201d Upgrade, which may be necessary to reach the Momentum Cost of their most powerful skills.<br><br>Upgrades allow players to evolve their Squad during combat to adapt to different enemies and circumstances.<br>Upgrading any unit will make the next Upgrade more expensive for the whole Squad, so you have to be extra mindful of when and what to Upgrade.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/5t.png?t=1702245782\" /><br><br><br><u><strong>Highly Customizable Heroes</strong></u><br>Unique classes and skills system for Heroes designed from scratch.<br>Six main classes: Fighter, Rogue, Druid, Cleric, Necromancer and Wizard, with four subclasses each. Spend Class Points to upgrade current classes or to add new ones, combine up to two main classes plus two subclasses for each.<br>Endless possibilities of class combinations will grant your hero unique traits, item equipment, skills and in-combat upgrades.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336810/extras/6t.png?t=1702245782\" /><br><br><br><u><strong>And so much more!</strong></u><br>Choose from a with a wide variety of minions to form the perfect squad for your hero. Unlike heroes, minions can't be customized and will always be the same for every player, this make them somewhat predictable and easier to plan against them.<br><br>Hundreds of different attacks, spells, abilities and passive skills to fit any playing style and strategy you can ever imagine.<br>Experiment with plenty of positive and negative effects to turn the balance to your favor, brute force and direct damage is almost never the answer.<br><br>Fight in engaging environments with randomized features to use to your advantage.<h2 class=\"bb_tag\">Game Modes</h2>All combat mechanics and content (minions, skills, etc) will be the same through all game modes, so it\u2019s possible to practice in single player or casual pvp and then apply your knowledge in competitive.<br><br><br><u><strong>Single-Player Roguelite</strong></u><br>Ascend along a tower facing new challenges on each floor.<br>Level up your Hero after each combat, and chose your reward out of several options. This may include Experience Scrolls to further strengthen your Hero, items, minions, or even additional heroes (with the downside of having to share experience and level up slower afterwards).<br>Minions that die in combat are permanently lost and losing your main Hero will result in Game Over.<br>There is no progression between runs, except unlocking more content and more enemy variety.<br><br><u><strong>PvP Casual</strong></u><br>Freely select one or more Heroes plus some Minions and fight against a human player with a similar level.<br>After each victory, gain experience for your Heroes and unlock new minions. Minions are fast to unlock and there are no rarities. No need to grind or do anything tedious.<br>Casual matches are meant to be flexible and not always 100% equally fair for both players. They allow different Squad compositions (ej 1 lvl 20 hero vs 2 lvl 10 heroes), asymmetric scenarios, randomized hazards, etc.<br><br><u><strong>PvP Ranked Competitive</strong></u><br>Instantly create a custom Hero of level 20, 40 or 60 and play against enemies of the exact same level. Raise through the ranking and show the world you are the best Squad Tactics player! <br>All content is available from the start, no need to unlock anything.<br>Scenarios and hazards are always perfectly symmetrical to ensure equal conditions and fair play.<br><br>There will be absolutely no pay-to-win schemes.<br>No in-game purchases, except maybe for aesthetics, but absolutely nothing with impact on gameplay.<br><br><strong><i>The goal of Squad Tactics is to create the ultimate skill-based, fun, engaging, high-replayability, highly-customizable turn-based-tactical experience.</i></strong>",
+    "developers": [
+        "Andr\u00e9s Paleico"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/header.jpg?t=1702245782",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Squad Tactics",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and above</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Andr\u00e9s Paleico"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q3 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_4db9c7ecec54d567a2e60d7bcf08fa108aef2eec.1920x1080.jpg?t=1702245782",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_4db9c7ecec54d567a2e60d7bcf08fa108aef2eec.600x338.jpg?t=1702245782"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_674581d9cee2972f8bdab303c0d8eae66ea58409.1920x1080.jpg?t=1702245782",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_674581d9cee2972f8bdab303c0d8eae66ea58409.600x338.jpg?t=1702245782"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_9e4f5aeda720320fce1cdba9e5b990cbce4ed640.1920x1080.jpg?t=1702245782",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_9e4f5aeda720320fce1cdba9e5b990cbce4ed640.600x338.jpg?t=1702245782"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_fd45112317e251109b6abba797db5ecdb1215676.1920x1080.jpg?t=1702245782",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_fd45112317e251109b6abba797db5ecdb1215676.600x338.jpg?t=1702245782"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_d94607928b3b33d2c2dcc90d9892b0cb428bcced.1920x1080.jpg?t=1702245782",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336810/ss_d94607928b3b33d2c2dcc90d9892b0cb428bcced.600x338.jpg?t=1702245782"
+        }
+    ],
+    "short_description": "Deep strategy turn-based tactical combat with highly customizable squads. Single-Player roguelike and competitive PvP",
+    "steam_appid": 2336810,
+    "support_info": {
+        "email": "andrespaleico@hotmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

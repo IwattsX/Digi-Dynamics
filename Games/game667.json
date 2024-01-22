@@ -1,0 +1,101 @@
+{
+    "about_the_game": "Romancelvania\u2019s original soundtrack is over 2 hours of music that is as eclectic as the game itself. Classic horror instrumentation like pipe organ and theremin are present, but there are also classical strings, shred-metal lead guitar, electronica dance beats, beatnik jazz sax, thunderous drums, soothing harp, not-so-soothing accordian, 12-string acoustic guitar, hippie drum circles, plucky harpsichord, kitsch-y 50\u2019s vibraphone, Alpine horn (and yodeling!), analog synthesizers, opera singers, down-n-dirty blues harmonica, a men\u2019s chorus, Italian mandolins, funk bass, 8-bit chip-tunes, Jamaican steel drums, Japanese shakuhachi flute, Persian Santur and other exotic world instruments\u2026 even a medley of Christmas carols.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/page_bg_generated_v6b.jpg?t=1678726812",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/page_bg_generated.jpg?t=1678726812",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/capsule_231x87.jpg?t=1678726812",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/capsule_184x69.jpg?t=1678726812",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Romancelvania\u2019s original soundtrack is over 2 hours of music that is as eclectic as the game itself. Classic horror instrumentation like pipe organ and theremin are present, but there are also classical strings, shred-metal lead guitar, electronica dance beats, beatnik jazz sax, thunderous drums, soothing harp, not-so-soothing accordian, 12-string acoustic guitar, hippie drum circles, plucky harpsichord, kitsch-y 50\u2019s vibraphone, Alpine horn (and yodeling!), analog synthesizers, opera singers, down-n-dirty blues harmonica, a men\u2019s chorus, Italian mandolins, funk bass, 8-bit chip-tunes, Jamaican steel drums, Japanese shakuhachi flute, Persian Santur and other exotic world instruments\u2026 even a medley of Christmas carols.",
+    "developers": [
+        "The Deep End Games"
+    ],
+    "fullgame": {
+        "appid": "1192810",
+        "name": "Romancelvania"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/header.jpg?t=1678726812",
+    "is_free": false,
+    "legal_notice": "\u00a92023 2124 Publishing. \u00a92023 The Deep End Games. All Rights Reserved. All trademarks referenced herein are the properties of their respective owners. 2124 Publishing is a trademark of Survios, Inc.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Romancelvania Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Romancelvania Soundtrack - $9.99",
+                    "packageid": 838741,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Romancelvania Soundtrack"
+        }
+    ],
+    "packages": [
+        838741
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 1290 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "2124 Publishing"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/ss_cbb5984d0439caa3d09c1837370245c517546b62.1920x1080.jpg?t=1678726812",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/ss_cbb5984d0439caa3d09c1837370245c517546b62.600x338.jpg?t=1678726812"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/ss_5045e2964c8180b12738b2fe2b5c44b2645d7dd0.1920x1080.jpg?t=1678726812",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335170/ss_5045e2964c8180b12738b2fe2b5c44b2645d7dd0.600x338.jpg?t=1678726812"
+        }
+    ],
+    "short_description": "Jim Bonney has composed over 2 hours of moody and ecclectic soundscapse. In total, there are 57 tracks that are sure to get countless hours of play. Enjoy!",
+    "steam_appid": 2335170,
+    "support_info": {
+        "email": "info@thedeependgames.com",
+        "url": "www.thedeependgames.com"
+    },
+    "type": "music",
+    "website": "https://romancelvania.com/"
+}

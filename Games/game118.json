@@ -1,0 +1,128 @@
+{
+    "about_the_game": "VPet MOD Maker<br />\r\n<br />\r\nZero threshold, just open it and use it.<br />\r\nSupports almost all game content (animations, text, items, etc.).<br />\r\nFollow the game's updates, whenever new content is released, the mod maker will be updated too!<br />\r\n<br />\r\nMake your own mods now!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/page_bg_generated_v6b.jpg?t=1698399836",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/page_bg_generated.jpg?t=1698399836",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/capsule_231x87.jpg?t=1698399836",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/capsule_184x69.jpg?t=1698399836",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "VPet MOD Maker<br />\r\n<br />\r\nZero threshold, just open it and use it.<br />\r\nSupports almost all game content (animations, text, items, etc.).<br />\r\nFollow the game's updates, whenever new content is released, the mod maker will be updated too!<br />\r\n<br />\r\nMake your own mods now!",
+    "developers": [
+        "LB Game"
+    ],
+    "fullgame": {
+        "appid": "1920960",
+        "name": "VPet-Simulator"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/header.jpg?t=1698399836",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "VPet - ModMaker",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_6c112151992d1181d44a33b9618f77f6d836b04e.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_6c112151992d1181d44a33b9618f77f6d836b04e.600x338.jpg?t=1698399836"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_0a911ca6339784b4a6be13e8d5678fed08ad35d3.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_0a911ca6339784b4a6be13e8d5678fed08ad35d3.600x338.jpg?t=1698399836"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_59334dd320c91055fdb571a6e36c474294925151.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_59334dd320c91055fdb571a6e36c474294925151.600x338.jpg?t=1698399836"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_80312e8c733cfb4232eb4903533e4f9831af3643.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_80312e8c733cfb4232eb4903533e4f9831af3643.600x338.jpg?t=1698399836"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_ebe16474ca132485e65c53f71a8c30a87baf9ae5.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_ebe16474ca132485e65c53f71a8c30a87baf9ae5.600x338.jpg?t=1698399836"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_f7279f2bd1d8570929a50495897fde9314f9520b.1920x1080.jpg?t=1698399836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2639250/ss_f7279f2bd1d8570929a50495897fde9314f9520b.600x338.jpg?t=1698399836"
+        }
+    ],
+    "short_description": "VPet Simulator's exclusive mod maker makes it easy to create your own unique mods!",
+    "steam_appid": 2639250,
+    "support_info": {
+        "email": "",
+        "url": "https://github.com/LorisYounger/VPet.ModMaker"
+    },
+    "supported_languages": "Simplified Chinese, Traditional Chinese, English",
+    "type": "dlc",
+    "website": "https://github.com/LorisYounger/VPet.ModMaker"
+}

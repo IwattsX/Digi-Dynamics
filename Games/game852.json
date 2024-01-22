@@ -1,0 +1,126 @@
+{
+    "about_the_game": "This pack is the FREE Dragon Knight content from the winner of the Fantasy Character Pack Showdown!<br />\r\n<br />\r\nThis pack contains the Dragon Knight sv actor spritesheet, 8 img-bust files, faceset, 13 enemy variations, animated char sheet, and bonus large-scale full-character artwork<br />\r\n<br />\r\nAbout the original pack:<br />\r\n<br />\r\n&quot;Fantasy Character Pack&quot; is a collection of male-type and beast-type characters created by Gee kun soft. It is packed full of beautifully drawn fantasy beastmen and a variety of male character assets perfect for your games beastly enemies! Gee kun soft continues to provide incredible, first-class assets for RPG production in a wide range of fields, such as character materials, character generations, battlers, music, tiles, UI materials, and more.<br />\r\n<br />\r\nTerms of Use:<br />\r\n<br />\r\n* This pack is for use in RPG Maker Series or the engine of your choice.<br />\r\n* OK to be used in Commercial projects<br />\r\n* Contents can be edited<br />\r\n* OK for use in games with gore<br />\r\n* OK for use in adult-rated games",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/page_bg_generated_v6b.jpg?t=1682023432",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/page_bg_generated.jpg?t=1682023432",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/capsule_231x87.jpg?t=1682023432",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/capsule_184x69.jpg?t=1682023432",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This pack is the FREE Dragon Knight content from the winner of the Fantasy Character Pack Showdown!<br />\r\n<br />\r\nThis pack contains the Dragon Knight sv actor spritesheet, 8 img-bust files, faceset, 13 enemy variations, animated char sheet, and bonus large-scale full-character artwork<br />\r\n<br />\r\nAbout the original pack:<br />\r\n<br />\r\n&quot;Fantasy Character Pack&quot; is a collection of male-type and beast-type characters created by Gee kun soft. It is packed full of beautifully drawn fantasy beastmen and a variety of male character assets perfect for your games beastly enemies! Gee kun soft continues to provide incredible, first-class assets for RPG production in a wide range of fields, such as character materials, character generations, battlers, music, tiles, UI materials, and more.<br />\r\n<br />\r\nTerms of Use:<br />\r\n<br />\r\n* This pack is for use in RPG Maker Series or the engine of your choice.<br />\r\n* OK to be used in Commercial projects<br />\r\n* Contents can be edited<br />\r\n* OK for use in games with gore<br />\r\n* OK for use in adult-rated games",
+    "developers": [
+        "Gee-kun-soft"
+    ],
+    "fullgame": {
+        "appid": "1096900",
+        "name": "RPG Maker MZ"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Education",
+            "id": "54"
+        },
+        {
+            "description": "Web Publishing",
+            "id": "59"
+        },
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/header.jpg?t=1682023432",
+    "is_free": true,
+    "legal_notice": "\u00a9Gee Kun Soft 2023",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System Supporting RPG Maker MZ</li></ul>"
+    },
+    "name": "RPG Maker MZ - Fantasy Character Pack - Dragon Knight Free Pack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System Supporting RPG Maker MZ</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "KOMODO"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_9d546c84280be5c65941e78186e3ebd69c51128c.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_9d546c84280be5c65941e78186e3ebd69c51128c.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_452836e9f3ea3fb99740e3faaf3d65d76f313792.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_452836e9f3ea3fb99740e3faaf3d65d76f313792.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_8dc5a779ae9bc09d68b6bc91efb82a06f104ddc5.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_8dc5a779ae9bc09d68b6bc91efb82a06f104ddc5.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_c182e9a2ec0dc7863aa49bacfdf636e905d3aec8.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_c182e9a2ec0dc7863aa49bacfdf636e905d3aec8.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_30639ab0d99560a0cb611acdfce97d8d620b1bcb.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_30639ab0d99560a0cb611acdfce97d8d620b1bcb.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_ac9ffc2dc84be6481a46fce0993132cae4e50a1a.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_ac9ffc2dc84be6481a46fce0993132cae4e50a1a.600x338.jpg?t=1682023432"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_c325d9946f488bcd1e56f22ab8d197cb66e1bb2a.1920x1080.jpg?t=1682023432",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370900/ss_c325d9946f488bcd1e56f22ab8d197cb66e1bb2a.600x338.jpg?t=1682023432"
+        }
+    ],
+    "short_description": "This pack is the FREE Dragon Knight content from the winner of the Fantasy Character Pack Showdown!",
+    "steam_appid": 2370900,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgmakerofficial.com/en/contactform/"
+    },
+    "supported_languages": "English, Japanese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Korean",
+    "type": "dlc",
+    "website": null
+}

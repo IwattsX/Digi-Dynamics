@@ -1,0 +1,221 @@
+{
+    "about_the_game": "Welcome to Fabled Style, the multistyle VR rhythm game.<br />\r\n<br />\r\nThis game focuses on striking notes on the beat of the music using different Warrior Styles. Each Warrior Style has it's own weapons and control scheme. During a song the active Warrior Style can change multiple times to make things more interesting.<br />\r\n<br />\r\nThe game currently includes 3 Warrior Styles: <br />\r\n- Brawler: Punch notes using your fists<br />\r\n- Gun Slinger: Shoot at notes using your guns<br />\r\n- Shield Master: Block notes using your shields<br />\r\n<br />\r\nThere are 2 gameplay modes:<br />\r\n- Quick play: Quickly and freely play songs<br />\r\n- Quest mode: Take on challenges<br />\r\n<br />\r\nThere are a total of 9 songs included at the moment.<br />\r\n<br />\r\nOther features:<br />\r\n- Custom songs support (view website for download link to song editor)<br />\r\n<br />\r\nFuture updates of the game will include more Warrior Styles &amp; songs.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Brawler Rookie",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/a3e7f79ed6670bb7339a8a18980f825bf5f9a6c8.jpg"
+            },
+            {
+                "name": "Brawler Apprentice",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/7049035ccca0231a197ae24c54045ad7184b5dbb.jpg"
+            },
+            {
+                "name": "Brawler Practitioner",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/bb48ba46d5c7c963ef3b13c15c41035984f3a14a.jpg"
+            },
+            {
+                "name": "Brawler Expert",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/ea6d8488b316df9aa5f244dd71c9a6ce995cba83.jpg"
+            },
+            {
+                "name": "Brawler Master",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/dbce834819614c262834a3d993c8933383058b95.jpg"
+            },
+            {
+                "name": "Brawler Legend",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/15ddf486cfa050c333275c7b60e46c7cecd07834.jpg"
+            },
+            {
+                "name": "Brawler God",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/320493705869d17b9b830793f8ffb81a7ceecd92.jpg"
+            },
+            {
+                "name": "Gun Slinger Rookie",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/162434700d54a6bd9dfe893772fa4e8c55650c58.jpg"
+            },
+            {
+                "name": "Gun Slinger Apprentice",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/72f8ad6869e190ccdbc38c3ca7ac074ffcf35471.jpg"
+            },
+            {
+                "name": "Gun Slinger Practitioner",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373180/7f79bff0651d40dc72fa4e98dc5887b88e5d938d.jpg"
+            }
+        ],
+        "total": 21
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/page_bg_generated_v6b.jpg?t=1693647932",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/page.bg.jpg?t=1693647932",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/capsule_231x87.jpg?t=1693647932",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/capsule_184x69.jpg?t=1693647932",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Tracked Controller Support",
+            "id": 52
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Community</h1><p>Get involved in the development. Join our <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fn6zmQHH6FY\" target=\"_blank\" rel=\" noopener\"  >Discord server</a> to share your feedback and discuss everything related about Fabled Style.</p><br><h1>PlayTest</h1><p>Currently there is a playtest/beta available which you can use to test the game. This version does have some limitations:<br>- no achievements<br>- no custom songs support</p><br><h1>About the Game</h1>Welcome to Fabled Style, the multistyle VR rhythm game.<br><br>This game focuses on striking notes on the beat of the music using different Warrior Styles. Each Warrior Style has it's own weapons and control scheme. During a song the active Warrior Style can change multiple times to make things more interesting.<br><br>The game currently includes 3 Warrior Styles: <br>- Brawler: Punch notes using your fists<br>- Gun Slinger: Shoot at notes using your guns<br>- Shield Master: Block notes using your shields<br><br>There are 2 gameplay modes:<br>- Quick play: Quickly and freely play songs<br>- Quest mode: Take on challenges<br><br>There are a total of 9 songs included at the moment.<br><br>Other features:<br>- Custom songs support (view website for download link to song editor)<br><br>Future updates of the game will include more Warrior Styles &amp; songs.",
+    "developers": [
+        "Fennecx"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/header.jpg?t=1693647932",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256951719,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951719/movie480.mp4?t=1690135069",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951719/movie_max.mp4?t=1690135069"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256951719/movie.293x165.jpg?t=1690135069",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951719/movie480_vp9.webm?t=1690135069",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951719/movie_max_vp9.webm?t=1690135069"
+            }
+        }
+    ],
+    "name": "Fabled Style",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fabled Style - $2.99",
+                    "packageid": 853248,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Fabled Style"
+        }
+    ],
+    "packages": [
+        853248
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD Radeon R9 290<br></li><li><strong>VR Support:</strong> OpenXR</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>VR Support:</strong> OpenXR</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Fennecx"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_6288ca34d276272f837bd27826f285dcc827cc7d.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_6288ca34d276272f837bd27826f285dcc827cc7d.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_b3cf87902def0ea4c646c9f2096e4e7ac733639b.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_b3cf87902def0ea4c646c9f2096e4e7ac733639b.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_0d7460f26c47e44e2e60dad766bc4e55a93b7ef5.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_0d7460f26c47e44e2e60dad766bc4e55a93b7ef5.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_614d1588fac3730d97ab8366a6aa5dd98e256aaf.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_614d1588fac3730d97ab8366a6aa5dd98e256aaf.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_545b49b51ad5a2c196a52f4eb60f51082551e4e1.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_545b49b51ad5a2c196a52f4eb60f51082551e4e1.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_948a92137ad4c17e3b5f81d428a70ec50932cdae.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_948a92137ad4c17e3b5f81d428a70ec50932cdae.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_133d8cdb23839e1dce80edbceb08d5bef333e8f1.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_133d8cdb23839e1dce80edbceb08d5bef333e8f1.600x338.jpg?t=1693647932"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_777a81d0dfb69a9c6151ccda5184923d50b599b7.1920x1080.jpg?t=1693647932",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373180/ss_777a81d0dfb69a9c6151ccda5184923d50b599b7.600x338.jpg?t=1693647932"
+        }
+    ],
+    "short_description": "Welcome to Fabled Style, the multistyle VR rhythm game. Test your skills using different Warrior Styles on the beat of the music. Strike the notes using multiple weapons while playing through the different songs. Are you up to the challenge to master them all to become the next Fabled Warrior?",
+    "steam_appid": 2373180,
+    "support_info": {
+        "email": "support@fennecx.com",
+        "url": "https://www.fennecx.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://fabledstyle.com/"
+}

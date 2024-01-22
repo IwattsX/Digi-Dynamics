@@ -1,0 +1,138 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/welcomeToPNGMall.png?t=1702310811\" /><br>Explore, survive, and escape from the liminal shopping mall realm you find yourself trapped in. This place is anything but empty; friendly PNGs appear to offer you paths of escape, while other, less talkative PNGs seem to have other plans.<br><br>The decisions are up to you: trust who you choose, and wander at your own pace. Just try not to get lost, and make sure there\u2019s a security gate within running distance\u2026<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/everyDoorOpenable.png?t=1702310811\" /><br>Every door you see leads somewhere. No areas are off-limits!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/3dDungeonGeneration.png?t=1702310811\" /><br>Each new game is procedurally generated with rooms connected in unique and unpredictable ways. Explore to find shortcuts and hidden rooms that may help you in your escape.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/difficultyModes.png?t=1702310811\" /><br>Choose to play with or without permadeath and select enemy difficulty, or choose to play completely peacefully and soak in the atmosphere without any monsters or scares!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/mysteriousMonsters.png?t=1702310811\" /><br>Each PNG monster has its own personality and unique abilities that you will need to experience, learn from, and adapt to as you explore.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/page_bg_generated_v6b.jpg?t=1702310811",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/page.bg.jpg?t=1702310811",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/capsule_231x87.jpg?t=1702310811",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/capsule_184x69.jpg?t=1702310811",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/welcomeToPNGMall.png?t=1702310811\" /><br>Explore, survive, and escape from the liminal shopping mall realm you find yourself trapped in. This place is anything but empty; friendly PNGs appear to offer you paths of escape, while other, less talkative PNGs seem to have other plans.<br><br>The decisions are up to you: trust who you choose, and wander at your own pace. Just try not to get lost, and make sure there\u2019s a security gate within running distance\u2026<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/everyDoorOpenable.png?t=1702310811\" /><br>Every door you see leads somewhere. No areas are off-limits!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/3dDungeonGeneration.png?t=1702310811\" /><br>Each new game is procedurally generated with rooms connected in unique and unpredictable ways. Explore to find shortcuts and hidden rooms that may help you in your escape.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/difficultyModes.png?t=1702310811\" /><br>Choose to play with or without permadeath and select enemy difficulty, or choose to play completely peacefully and soak in the atmosphere without any monsters or scares!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635950/extras/mysteriousMonsters.png?t=1702310811\" /><br>Each PNG monster has its own personality and unique abilities that you will need to experience, learn from, and adapt to as you explore.",
+    "developers": [
+        "Derndeff"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/header.jpg?t=1702310811",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973884,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973884/movie480.mp4?t=1697502061",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973884/movie_max.mp4?t=1697502061"
+            },
+            "name": "PNG Mall Announcement Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973884/movie.293x165.jpg?t=1697502061",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973884/movie480_vp9.webm?t=1697502061",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973884/movie_max_vp9.webm?t=1697502061"
+            }
+        }
+    ],
+    "name": "PNG Mall",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> Intel Core i7-4720HQ 2.60 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 960M<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Derndeff"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_6e278b4f1223272182013b953c8600e9e277ca1d.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_6e278b4f1223272182013b953c8600e9e277ca1d.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_7a0da15460283e429a19b61a33bcc935f160879a.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_7a0da15460283e429a19b61a33bcc935f160879a.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_686c42ecb4b2081c253ea7b9a4925a04381b0c47.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_686c42ecb4b2081c253ea7b9a4925a04381b0c47.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_1b4789d6ff02b12ad62c31c5fc64340de5a42e3d.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_1b4789d6ff02b12ad62c31c5fc64340de5a42e3d.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_35b71e407574b1ed920f7cb93fb2463be2300bf0.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_35b71e407574b1ed920f7cb93fb2463be2300bf0.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_9b1dbb6815a2514c3f97ecb74e4a13ae935ad2dd.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_9b1dbb6815a2514c3f97ecb74e4a13ae935ad2dd.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_f93e0933b0d59af274514f2c1fc5222fe34396b5.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_f93e0933b0d59af274514f2c1fc5222fe34396b5.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_7424b696a41fca10f14698f146dae6c6ae5b86f1.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_7424b696a41fca10f14698f146dae6c6ae5b86f1.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_dba87046ee11ddcd1312209b14b9741b5c53f0eb.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_dba87046ee11ddcd1312209b14b9741b5c53f0eb.600x338.jpg?t=1702310811"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_b216c8ab88c453b03c7ecfae4af24a2f8b3da087.1920x1080.jpg?t=1702310811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635950/ss_b216c8ab88c453b03c7ecfae4af24a2f8b3da087.600x338.jpg?t=1702310811"
+        }
+    ],
+    "short_description": "Trapped in a sprawling and abstract shopping mall realm, you must explore, run, and hide in order to escape. Use your stereoscope to hunt down CDs, raid cash registers to buy items from vending machines, and sprint to safe zones when danger is near!",
+    "steam_appid": 2635950,
+    "support_info": {
+        "email": "support@derndeff.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

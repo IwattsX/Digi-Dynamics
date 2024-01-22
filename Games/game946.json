@@ -1,0 +1,120 @@
+{
+    "about_the_game": "In this narrative puzzle adventure, what begins as just covering your dad's shift at the guard shed by the castle gate, becomes a full-time gig deciding the fate of over 100 unique characters and shaping major events. Question humans, elves, goblins, cyclopes, and other fantasy creatures using your powers of deduction to determine who to admit or deny based on how they respond to your questions and your trusty tools. Your decision will carry through the seasons, as you become embroiled in the intrigue of the Sprawl and its people, and learn what makes them all tick.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/page_bg_generated_v6b.jpg?t=1686691689",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/page_bg_generated.jpg?t=1686691689",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/capsule_231x87.jpg?t=1686691689",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/capsule_184x69.jpg?t=1686691689",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "In this narrative puzzle adventure, what begins as just covering your dad's shift at the guard shed by the castle gate, becomes a full-time gig deciding the fate of over 100 unique characters and shaping major events. Question humans, elves, goblins, cyclopes, and other fantasy creatures using your powers of deduction to determine who to admit or deny based on how they respond to your questions and your trusty tools. Your decision will carry through the seasons, as you become embroiled in the intrigue of the Sprawl and its people, and learn what makes them all tick.",
+    "developers": [
+        "Hilltop Studios"
+    ],
+    "fullgame": {
+        "appid": "1924360",
+        "name": "Lil' Guardsman"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/header.jpg?t=1686691689",
+    "is_free": true,
+    "legal_notice": "Copyright \u00a9 2023 Versus Evil LLC. Lil Guardsman\u2122 is a trademark of Versus Evil LLC\u00ae Versus Evil\u00ae is a registered trademark of Versus Evil LLC.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.15<br></li><li><strong>Processor:</strong> Intel i5 Quad-Core, 2.7 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 660 / RX 460<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 11.6<br></li><li><strong>Processor:</strong> M1<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> M1<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "name": "Lil' Guardsman Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10, 11<br></li><li><strong>Processor:</strong> 3.0 GHz Quad Core CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 or Radeon RX 460<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10, 11<br></li><li><strong>Processor:</strong> 3.0 GHz Quad Core CPU<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1080 Ti or Radeon RX Vega 64<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Versus Evil"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_899dd2e4c2f5f75d6b9292154361d51b973fd9d8.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_899dd2e4c2f5f75d6b9292154361d51b973fd9d8.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_6e59dff1f2b5e276ff30c58452abfb0ed1bc9010.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_6e59dff1f2b5e276ff30c58452abfb0ed1bc9010.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_fc9e86e55bd1e08888f1765ab01928bace1e1161.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_fc9e86e55bd1e08888f1765ab01928bace1e1161.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_94e9f000e2ef722cc182811fc9a8c2b598bda7d6.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_94e9f000e2ef722cc182811fc9a8c2b598bda7d6.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_3606b11ce808fe3f56259a2c1ce4c13d1bf5ccdc.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_3606b11ce808fe3f56259a2c1ce4c13d1bf5ccdc.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_fffe8c5b8fcecb7fdb55cd9676ccee44761fee4b.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_fffe8c5b8fcecb7fdb55cd9676ccee44761fee4b.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_d635c47016b99ee41c60b4900312fa6457945037.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_d635c47016b99ee41c60b4900312fa6457945037.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_0c8c36baca1c77a31d6e7d281022e6d870357200.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_0c8c36baca1c77a31d6e7d281022e6d870357200.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_9612342ecc38a2ebe4ed76c337b84b235a2eff4a.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_9612342ecc38a2ebe4ed76c337b84b235a2eff4a.600x338.jpg?t=1686691689"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_27d625faf1fd532fd19816e8d8461a20e068e765.1920x1080.jpg?t=1686691689",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402780/ss_27d625faf1fd532fd19816e8d8461a20e068e765.600x338.jpg?t=1686691689"
+        }
+    ],
+    "short_description": "Imagine you're a 12 year old, suddenly in charge of the guard shed at the castle gate, where you decide if elves, goblins and 100+ other characters should be admitted. It's a wonderful combination of deduction, narrative and puzzle games.",
+    "steam_appid": 2402780,
+    "support_info": {
+        "email": "support@vsevil.net",
+        "url": "https://versusevil.com/player/support"
+    },
+    "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

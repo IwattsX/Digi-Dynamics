@@ -1,0 +1,174 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/A2.gif?t=1681318769\" /><br><br>Portable VR is an immersive virtual reality game that puts players in the shoes of a person who is being evicted from their container home, which is being lifted into the air by cranes. The objective of the game is to collect the eviction notice and destroy it, preventing the eviction from happening. The game is set in a sky-bound world, where players navigate their way through obstacles and puzzles to reach the other container home and stop the eviction.<br><br>The game begins with players in their container home, as they see the eviction notice being delivered. The game world is highly detailed and realistic, with stunning visuals and lifelike sound effects that fully immerse players in the experience. As players navigate through their home, they encounter various obstacles and challenges that they must overcome to reach their objective.<br><br>One of the key features of Portable VR is its unique setting. The game takes place in a sky-bound world, where players are lifted high into the air by cranes. This setting adds an extra level of challenge and excitement to the game, as players must navigate through a variety of different environments to reach their destination.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/gif1.gif?t=1681318769\" /><br><br>The game is filled with challenging puzzles and obstacles that must be overcome to progress. Players must use their problem-solving skills to find hidden objects, decipher clues, and unlock new areas of the game. The puzzles are varied and challenging, ensuring that players are always engaged and invested in the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/A1.gif?t=1681318769\" /><br><br>Another key feature of Portable VR is its immersive gameplay mechanics. Players can interact with the environment around them, picking up objects and using them to solve puzzles and progress through the game.<br><br>Overall, Portable VR is an exciting and immersive virtual reality game that offers a unique and challenging experience. From the stunning visuals to the lifelike sound effects and challenging puzzles, every aspect of the game is designed to immerse players in a world of wonder and excitement. Whether you're a hardcore gamer or just looking for a fun and engaging experience, Portable VR is sure to provide an unforgettable adventure that you won't soon forget. So don your VR headset and get ready to save your container home from eviction!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Start Up",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372320/4ee1509702dfa0321d5c508e416951df84e4ad88.jpg"
+            }
+        ],
+        "total": 1
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/page_bg_generated_v6b.jpg?t=1681318769",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/page_bg_generated.jpg?t=1681318769",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/capsule_231x87.jpg?t=1681318769",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/capsule_184x69.jpg?t=1681318769",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/A2.gif?t=1681318769\" /><br><br>Portable VR is an immersive virtual reality game that puts players in the shoes of a person who is being evicted from their container home, which is being lifted into the air by cranes. The objective of the game is to collect the eviction notice and destroy it, preventing the eviction from happening. The game is set in a sky-bound world, where players navigate their way through obstacles and puzzles to reach the other container home and stop the eviction.<br><br>The game begins with players in their container home, as they see the eviction notice being delivered. The game world is highly detailed and realistic, with stunning visuals and lifelike sound effects that fully immerse players in the experience. As players navigate through their home, they encounter various obstacles and challenges that they must overcome to reach their objective.<br><br>One of the key features of Portable VR is its unique setting. The game takes place in a sky-bound world, where players are lifted high into the air by cranes. This setting adds an extra level of challenge and excitement to the game, as players must navigate through a variety of different environments to reach their destination.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/gif1.gif?t=1681318769\" /><br><br>The game is filled with challenging puzzles and obstacles that must be overcome to progress. Players must use their problem-solving skills to find hidden objects, decipher clues, and unlock new areas of the game. The puzzles are varied and challenging, ensuring that players are always engaged and invested in the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372320/extras/A1.gif?t=1681318769\" /><br><br>Another key feature of Portable VR is its immersive gameplay mechanics. Players can interact with the environment around them, picking up objects and using them to solve puzzles and progress through the game.<br><br>Overall, Portable VR is an exciting and immersive virtual reality game that offers a unique and challenging experience. From the stunning visuals to the lifelike sound effects and challenging puzzles, every aspect of the game is designed to immerse players in a world of wonder and excitement. Whether you're a hardcore gamer or just looking for a fun and engaging experience, Portable VR is sure to provide an unforgettable adventure that you won't soon forget. So don your VR headset and get ready to save your container home from eviction!",
+    "developers": [
+        "Alex VR"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/header.jpg?t=1681318769",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937679,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937679/movie480.mp4?t=1680030504",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937679/movie_max.mp4?t=1680030504"
+            },
+            "name": "main",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937679/movie.293x165.jpg?t=1680030504",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937679/movie480_vp9.webm?t=1680030504",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937679/movie_max_vp9.webm?t=1680030504"
+            }
+        }
+    ],
+    "name": "Portable VR",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Portable VR - <span class=\"discount_original_price\">$3.99</span> $2.99",
+                    "packageid": 852905,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-25% ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Portable VR"
+        }
+    ],
+    "packages": [
+        852905
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD Radeon R9 290<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>VR Support:</strong> Oculus Quest 2</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>VR Support:</strong> Oculus Quest 2</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 25,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 399,
+        "initial_formatted": "$3.99"
+    },
+    "publishers": [
+        "Alex VR"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 11, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_e342054e04955e144e6ecfd0a5381be6b2de2f2f.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_e342054e04955e144e6ecfd0a5381be6b2de2f2f.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_83da49ac6b265bd9ccd633deb188f76df27c8235.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_83da49ac6b265bd9ccd633deb188f76df27c8235.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_6642280c50959e5264ebb00cb1f3a4c3dba1d764.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_6642280c50959e5264ebb00cb1f3a4c3dba1d764.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_0af92032d5ac3d51eb47317473e0583a3b8486ce.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_0af92032d5ac3d51eb47317473e0583a3b8486ce.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_dd416a25aa575a72420851eebbb1ac8de35df125.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_dd416a25aa575a72420851eebbb1ac8de35df125.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_b85ab1878fc3bc3d6d051acdfc4e6545342063b8.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_b85ab1878fc3bc3d6d051acdfc4e6545342063b8.600x338.jpg?t=1681318769"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_2eade44e91d7eae85422a38ee96b69681f3551e3.1920x1080.jpg?t=1681318769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372320/ss_2eade44e91d7eae85422a38ee96b69681f3551e3.600x338.jpg?t=1681318769"
+        }
+    ],
+    "short_description": "Lifted into the sky in your container home, you and must stop your eviction by collecting and destroying the eviction notice. With challenging puzzles and stunning visuals, this immersive game will keep you on the edge of your FEETS. Portable VR offers an unforgettable gaming experience.",
+    "steam_appid": 2372320,
+    "support_info": {
+        "email": "alexusahome@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

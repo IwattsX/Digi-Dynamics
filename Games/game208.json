@@ -1,0 +1,119 @@
+{
+    "about_the_game": "<i>The Empress' Shadow is determined to resurrect the dead empire... will you stop her?</i><br>You play as Tetrine Reish. Tetrine must find a way to lift the curse plaguing her employer's sister, the Empress' Shadow, before the Shadow succeeds in restoring the old dread empire and crowning herself the next Empress of Aeser.<br><br><ul class=\"bb_ul\"><li>Solve puzzles and learn magic in the quest to lift the curse<br></li><li>Choices have lasting consequences and can lead to one of several endings<br></li><li>Other choices affect Tetrine's character growth over time<br></li><li>Develop relationships, both friendships and romantic, and make Tetrine to grow as a person<br></li><li>Or play to Tetrine's flaws and see what happens</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/page_bg_generated_v6b.jpg?t=1696870363",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/page_bg_generated.jpg?t=1696870363",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/capsule_231x87.jpg?t=1696870363",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/capsule_184x69.jpg?t=1696870363",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<i>The Empress' Shadow is determined to resurrect the dead empire... will you stop her?</i><br>You play as Tetrine Reish. Tetrine must find a way to lift the curse plaguing her employer's sister, the Empress' Shadow, before the Shadow succeeds in restoring the old dread empire and crowning herself the next Empress of Aeser.<br><br><ul class=\"bb_ul\"><li>Solve puzzles and learn magic in the quest to lift the curse<br></li><li>Choices have lasting consequences and can lead to one of several endings<br></li><li>Other choices affect Tetrine's character growth over time<br></li><li>Develop relationships, both friendships and romantic, and make Tetrine to grow as a person<br></li><li>Or play to Tetrine's flaws and see what happens</li></ul>",
+    "developers": [
+        "Sun Labyrinth LLC"
+    ],
+    "fullgame": {
+        "appid": "1806540",
+        "name": "The Empress of Aeser"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/header.jpg?t=1696870363",
+    "is_free": true,
+    "legal_notice": "Story & Art Copyright  \u00a9 S. A. Welland",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "The Empress of Aeser Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Sun Labyrinth LLC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_2b2616e60b4980e665ff1055c4403309ef710cdd.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_2b2616e60b4980e665ff1055c4403309ef710cdd.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_d4c74694e01742804aed0b93fec32008554942b9.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_d4c74694e01742804aed0b93fec32008554942b9.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_3db0f390ab0065f8482c30461377add34138efe4.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_3db0f390ab0065f8482c30461377add34138efe4.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_59d44c1ac7a1c5d9aaf12af08548e0f550c11228.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_59d44c1ac7a1c5d9aaf12af08548e0f550c11228.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_49f46b82e0beedff83fc42f1f504d2725072f471.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_49f46b82e0beedff83fc42f1f504d2725072f471.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_b0962eca44793b13de44bf07f080f5971462dc5f.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_b0962eca44793b13de44bf07f080f5971462dc5f.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_53df1756a4c6bd34a92eac43f2d0075a4ae18a20.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_53df1756a4c6bd34a92eac43f2d0075a4ae18a20.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_02311979036f3f0722cd432b7648e03d43ec6507.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_02311979036f3f0722cd432b7648e03d43ec6507.600x338.jpg?t=1696870363"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_a3cdd953a5440ade905a2e927c42e6f651ebf8de.1920x1080.jpg?t=1696870363",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636610/ss_a3cdd953a5440ade905a2e927c42e6f651ebf8de.600x338.jpg?t=1696870363"
+        }
+    ],
+    "short_description": "Make decisions, learn magic and lift the villain's curse instead of destroying her in this puzzle-adventure visual novel.",
+    "steam_appid": 2636610,
+    "support_info": {
+        "email": "s@sunlabyrinth.com",
+        "url": "https://sunlabyrinth.com/contact.php"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": "https://sunlabyrinth.com/Empress/"
+}

@@ -1,0 +1,124 @@
+{
+    "about_the_game": "<strong>Welcome to Interlinked</strong>, a captivating and minimalistic strategy game that boasts surprising depth!<h2 class=\"bb_tag\">Embark on the challenge of connecting the expanding world to the internet through three distinct methods:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/cables-demo.gif?t=1705424266\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/cell-tower-demo.gif?t=1705424266\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/satellite-demo.gif?t=1705424266\" /><br><br>As the head of a global technology company, your role is pivotal in navigating the complexities of building a robust network capable of reaching every household. Start by strategically placing central hubs and cables while adeptly managing your research department and finances to ensure the profitability of your company.<br><br>Prepare to face off against <strong>rival technology companies</strong> vying for dominance in the market. Outpace the competition by offering a <strong>speedier connection</strong> or <strong>competitive pricing</strong>\u2014the choice is yours! Can you ascend to the pinnacle and forge a network that will revolutionize the world?<br><br>Mastery of the delicate equilibrium between expansion and research is crucial to staying ahead. Employ cutting-edge technology and innovative strategies to establish a <strong>monopoly</strong>, but make sure that your network can seamlessly handle the ever-increasing traffic!<br><br>With colorful graphics, simple mechanics, and unlimited strategies, Interlinked is the perfect game for anyone who loves strategy and finance. Do you have what it takes to become a corporate giant? Play Interlinked now and find out!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/page_bg_generated_v6b.jpg?t=1705424266",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/page.bg.jpg?t=1705424266",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/capsule_231x87.jpg?t=1705424266",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/capsule_184x69.jpg?t=1705424266",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Welcome to Interlinked</strong>, a captivating and minimalistic strategy game that boasts surprising depth!<h2 class=\"bb_tag\">Embark on the challenge of connecting the expanding world to the internet through three distinct methods:</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/cables-demo.gif?t=1705424266\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/cell-tower-demo.gif?t=1705424266\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370760/extras/satellite-demo.gif?t=1705424266\" /><br><br>As the head of a global technology company, your role is pivotal in navigating the complexities of building a robust network capable of reaching every household. Start by strategically placing central hubs and cables while adeptly managing your research department and finances to ensure the profitability of your company.<br><br>Prepare to face off against <strong>rival technology companies</strong> vying for dominance in the market. Outpace the competition by offering a <strong>speedier connection</strong> or <strong>competitive pricing</strong>\u2014the choice is yours! Can you ascend to the pinnacle and forge a network that will revolutionize the world?<br><br>Mastery of the delicate equilibrium between expansion and research is crucial to staying ahead. Employ cutting-edge technology and innovative strategies to establish a <strong>monopoly</strong>, but make sure that your network can seamlessly handle the ever-increasing traffic!<br><br>With colorful graphics, simple mechanics, and unlimited strategies, Interlinked is the perfect game for anyone who loves strategy and finance. Do you have what it takes to become a corporate giant? Play Interlinked now and find out!",
+    "developers": [
+        "Frans J\u00e4rvi"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/header.jpg?t=1705424266",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Interlinked",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.3 GHz Intel Core 2 Duo or better.<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible video card with at least 512MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Frans J\u00e4rvi"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_627b380109afdb3996c5a8386d8474d9d1c07a17.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_627b380109afdb3996c5a8386d8474d9d1c07a17.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_cb45c9271bf09438d2ccc6831ecec1d2da1c9ee2.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_cb45c9271bf09438d2ccc6831ecec1d2da1c9ee2.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_b8a745a53bb495a0f34e93c002bf837eb54cee28.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_b8a745a53bb495a0f34e93c002bf837eb54cee28.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_68eddd80d60bbad1eec2e595e5e11caedf8aa94a.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_68eddd80d60bbad1eec2e595e5e11caedf8aa94a.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_565b7b5d80d78b7f4671995e8ac7daa2b3f90b43.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_565b7b5d80d78b7f4671995e8ac7daa2b3f90b43.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_86c276661048398cfa53af41182e624c4f5b4906.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_86c276661048398cfa53af41182e624c4f5b4906.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_fcf53d8ea3c5a6b49d66fca74920d5dab1c5f8b0.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_fcf53d8ea3c5a6b49d66fca74920d5dab1c5f8b0.600x338.jpg?t=1705424266"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_1db13576799f5c81faddcc2c0c1631e6695bc8f4.1920x1080.jpg?t=1705424266",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370760/ss_1db13576799f5c81faddcc2c0c1631e6695bc8f4.600x338.jpg?t=1705424266"
+        }
+    ],
+    "short_description": "Build infrastructure to connect the expanding world to the internet! Having a working strategy and great management is key to winning your competition in this capitalist environment.",
+    "steam_appid": 2370760,
+    "support_info": {
+        "email": "fransjarvi@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Finnish",
+    "type": "game",
+    "website": null
+}

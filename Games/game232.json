@@ -1,0 +1,154 @@
+{
+    "about_the_game": "Tremor, Ninja of the Black Dragon Clan, returns to the new Mortal Kombat\u2122 Universe. <br />\r\n<br />\r\nPurchase this pack and receive Tremor as a Kameo Character to assist you in fight.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/page_bg_generated_v6b.jpg?t=1700496099",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/page.bg.jpg?t=1700496099",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/capsule_231x87.jpg?t=1700496099",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/capsule_184x69.jpg?t=1700496099",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play on TV",
+            "id": 43
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    },
+    "controller_support": "full",
+    "detailed_description": "Tremor, Ninja of the Black Dragon Clan, returns to the new Mortal Kombat\u2122 Universe. <br />\r\n<br />\r\nPurchase this pack and receive Tremor as a Kameo Character to assist you in fight.",
+    "developers": [
+        "NetherRealm Studios",
+        "QLOC"
+    ],
+    "fullgame": {
+        "appid": "1971870",
+        "name": "Mortal Kombat 1"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/header.jpg?t=1700496099",
+    "is_free": false,
+    "legal_notice": "MORTAL KOMBAT 1 Software \u00a9 2023 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. All other trademarks and copyrights are the property of their respective owners. All rights reserved.  <br />\r\nNETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and \u00a9 2023 Warner Bros. Entertainment Inc. <br />\r\n <br />\r\nWARNER BROS. GAMES LOGO, WARNER BROS. INTERACTIVE LOGO, WB SHIELD: \u2122 & \u00a9 Warner Bros. Entertainment Inc. (s23)",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "MK1: Tremor Kameo",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "MK1: Tremor Kameo - $4.99",
+                    "packageid": 945284,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy MK1: Tremor Kameo"
+        }
+    ],
+    "packages": [
+        945284
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Warner Bros. Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 20, 2023"
+    },
+    "required_age": "18",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/ss_36f4a2b7c1ecb1635a500aec3259f4372f7a6528.1920x1080.jpg?t=1700496099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636090/ss_36f4a2b7c1ecb1635a500aec3259f4372f7a6528.600x338.jpg?t=1700496099"
+        }
+    ],
+    "short_description": "Tremor, Ninja of the Black Dragon Clan, returns to the new Mortal Kombat\u2122 Universe. Purchase this pack and receive Tremor as a Kameo Character to assist you in fight.",
+    "steam_appid": 2636090,
+    "support_info": {
+        "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com",
+        "url": "https://support.wbgames.com/"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese, Spanish - Latin America<strong>*</strong>, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://www.mortalkombat.com/"
+}

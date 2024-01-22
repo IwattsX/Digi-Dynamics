@@ -1,0 +1,113 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Dive into Elemental Exploration:</h2><br><strong>&quot;ElementAreWe&quot;</strong> is more than just a game; it's a scientific adventure. Enter a realm where the elements come to life, each represented by a unique card in your deck. Your journey begins as you select your element, and from there, the possibilities are endless. Navigate through the periodic table, unlocking elements, and combining their unique properties to create powerful card combinations. This dynamic exploration fosters a deep appreciation for the elements, making learning as fun as it is informative.<h2 class=\"bb_tag\">Card-Based Microcosmic Action:</h2><br>Prepare for action-packed, microscopic encounters as you engage in card-based battles against groundbreaking AI opponents. Each playthrough is an ever-changing challenge, ensuring that no two games are alike. Test your strategic skills, adapt to different enemy tactics, and experiment with diverse deck builds to secure victory.<h2 class=\"bb_tag\">Educational Gameplay for All Ages:</h2><br>&quot;ElementAreWe&quot; isn't just for seasoned gamers; it's perfect for children of all ages. We've designed it as an educational experience of a lifetime, seamlessly blending fun and learning. As you explore the world of elements, you'll find yourself organically absorbing scientific knowledge. The periodic table, once an abstract concept, becomes a tangible and exciting adventure.<h2 class=\"bb_tag\">Key Features:</h2>Elemental Mastery: Discover and harness the properties of each element in the periodic table as you build your deck.<br><br>Ever-Changing Gameplay: Face off against groundbreaking AI opponents, ensuring that each playthrough is a unique challenge.<br><br>Strategic Depth: Experiment with combinations, adapt your tactics, and evolve your deck with every victory or defeat.<br><br>Educational Fun: &quot;ElementAreWe&quot; is a delightful way for players of all ages to learn about the periodic table.<br><br>Microscopic Adventures: Dive into the world of elements and prove your strategic prowess in the microscopic battles of &quot;ElementAreWe.&quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/page_bg_generated_v6b.jpg?t=1699018046",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/page.bg.jpg?t=1699018046",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/capsule_231x87.jpg?t=1699018046",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/capsule_184x69.jpg?t=1699018046",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Dive into Elemental Exploration:</h2><br><strong>&quot;ElementAreWe&quot;</strong> is more than just a game; it's a scientific adventure. Enter a realm where the elements come to life, each represented by a unique card in your deck. Your journey begins as you select your element, and from there, the possibilities are endless. Navigate through the periodic table, unlocking elements, and combining their unique properties to create powerful card combinations. This dynamic exploration fosters a deep appreciation for the elements, making learning as fun as it is informative.<h2 class=\"bb_tag\">Card-Based Microcosmic Action:</h2><br>Prepare for action-packed, microscopic encounters as you engage in card-based battles against groundbreaking AI opponents. Each playthrough is an ever-changing challenge, ensuring that no two games are alike. Test your strategic skills, adapt to different enemy tactics, and experiment with diverse deck builds to secure victory.<h2 class=\"bb_tag\">Educational Gameplay for All Ages:</h2><br>&quot;ElementAreWe&quot; isn't just for seasoned gamers; it's perfect for children of all ages. We've designed it as an educational experience of a lifetime, seamlessly blending fun and learning. As you explore the world of elements, you'll find yourself organically absorbing scientific knowledge. The periodic table, once an abstract concept, becomes a tangible and exciting adventure.<h2 class=\"bb_tag\">Key Features:</h2>Elemental Mastery: Discover and harness the properties of each element in the periodic table as you build your deck.<br><br>Ever-Changing Gameplay: Face off against groundbreaking AI opponents, ensuring that each playthrough is a unique challenge.<br><br>Strategic Depth: Experiment with combinations, adapt your tactics, and evolve your deck with every victory or defeat.<br><br>Educational Fun: &quot;ElementAreWe&quot; is a delightful way for players of all ages to learn about the periodic table.<br><br>Microscopic Adventures: Dive into the world of elements and prove your strategic prowess in the microscopic battles of &quot;ElementAreWe.&quot;",
+    "developers": [
+        "Gym Suite Studios"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/header.jpg?t=1699018046",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978610,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978610/movie480.mp4?t=1699018038",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978610/movie_max.mp4?t=1699018038"
+            },
+            "name": "Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978610/movie.293x165.jpg?t=1699018038",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978610/movie480_vp9.webm?t=1699018038",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978610/movie_max_vp9.webm?t=1699018038"
+            }
+        }
+    ],
+    "name": "Element Are We",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1Gb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Gym Suite Studios"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_a0fb89457aebd05a655fde9f0186b598bcfe1050.1920x1080.jpg?t=1699018046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_a0fb89457aebd05a655fde9f0186b598bcfe1050.600x338.jpg?t=1699018046"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_6e48b9cd8ad0167c5d1e5180613812c4a21b08cf.1920x1080.jpg?t=1699018046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_6e48b9cd8ad0167c5d1e5180613812c4a21b08cf.600x338.jpg?t=1699018046"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_c66f5e2af0fad123a6b97424908b3d12787f0654.1920x1080.jpg?t=1699018046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_c66f5e2af0fad123a6b97424908b3d12787f0654.600x338.jpg?t=1699018046"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_039bbbaa7ab3bb3fb1621b354944fc78ccc378c2.1920x1080.jpg?t=1699018046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_039bbbaa7ab3bb3fb1621b354944fc78ccc378c2.600x338.jpg?t=1699018046"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_68716b4ddd1ee3d6e689a99bf03bc3f828870226.1920x1080.jpg?t=1699018046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636760/ss_68716b4ddd1ee3d6e689a99bf03bc3f828870226.600x338.jpg?t=1699018046"
+        }
+    ],
+    "short_description": "&quot;ElementAreWe&quot; is an innovative, educational rogue-like deck builder. Explore the periodic table's wonders, engage in card-based battles, and learn while having fun! Perfect for all ages.",
+    "steam_appid": 2636760,
+    "support_info": {
+        "email": "social@elementarewe.com",
+        "url": "https://www.elementarewe.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.elementarewe.com/"
+}

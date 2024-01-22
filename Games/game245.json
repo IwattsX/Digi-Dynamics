@@ -1,0 +1,58 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635470/capsule_231x87.jpg?t=1697203425",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635470/capsule_184x69.jpg?t=1697203425",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Side Stage"
+    ],
+    "fullgame": {
+        "appid": "2476780",
+        "name": "Edge Road"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635470/header.jpg?t=1697203425",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Edge Road Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Next Stage Inc."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 10, 2023"
+    },
+    "required_age": 0,
+    "short_description": "'Edge Road' is an action game that tells the story of an ordinary student who becomes the most famous and popular person in his school. Play the first chapter of your journey to become 'Edgeloard'!",
+    "steam_appid": 2635470,
+    "support_info": {
+        "email": "studionextstage@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Korean, Japanese",
+    "type": "demo",
+    "website": null
+}

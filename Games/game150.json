@@ -1,0 +1,88 @@
+{
+    "about_the_game": "Complete missions to save a world devastated by zombies, utilizing Arm Units and special abilities! Throw Anything: Radiation Zombies is a third-person shooter 3D-action roguelite game set in a world overrun by zombies, where you survive by throwing objects around. Equip a powerful Arm Unit, enhance yourself with a personalized skill tree, and explore a maze-like world!<br><br>\u25a0 Throw objects at zombies to fend them off.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZThrow.gif?t=1704876005\" /><br><br>\u25a0 Develop your character by choosing a skill tree that suits your playstyle.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZItem.gif?t=1704876005\" /><br><br>\u25a0 Experience flashy and dynamic skills with impactful feedback.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZSkill.gif?t=1704876005\" /><br><br>\u25a0 Explore the city accompanied by a high-quality original soundtrack.<br><br>\u25a0 Uncover numerous rooms and their secrets hidden throughout the map!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/page_bg_generated_v6b.jpg?t=1704876005",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/page_bg_generated.jpg?t=1704876005",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/capsule_231x87.jpg?t=1704876005",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/capsule_184x69.jpg?t=1704876005",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Complete missions to save a world devastated by zombies, utilizing Arm Units and special abilities! Throw Anything: Radiation Zombies is a third-person shooter 3D-action roguelite game set in a world overrun by zombies, where you survive by throwing objects around. Equip a powerful Arm Unit, enhance yourself with a personalized skill tree, and explore a maze-like world!<br><br>\u25a0 Throw objects at zombies to fend them off.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZThrow.gif?t=1704876005\" /><br><br>\u25a0 Develop your character by choosing a skill tree that suits your playstyle.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZItem.gif?t=1704876005\" /><br><br>\u25a0 Experience flashy and dynamic skills with impactful feedback.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637840/extras/RZSkill.gif?t=1704876005\" /><br><br>\u25a0 Explore the city accompanied by a high-quality original soundtrack.<br><br>\u25a0 Uncover numerous rooms and their secrets hidden throughout the map!",
+    "developers": [
+        "Visual Light"
+    ],
+    "fullgame": {
+        "appid": "2634850",
+        "name": "Throw Anything : Radiation Zombies"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/header.jpg?t=1704876005",
+    "is_free": true,
+    "legal_notice": "\u00a9 2023 VisualLight. All rights reserved. Throw Anything : Radiation Zombies and VisualLight are registered trademarks of VisualLight.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Throw Anything : Radiation Zombies Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64bit)<br></li><li><strong>Processor:</strong> Intel I5-10500<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 1060<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Visual Light"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_f58b051f40f10a5b27e0b1b5c5ab8fe209d2f916.1920x1080.jpg?t=1704876005",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_f58b051f40f10a5b27e0b1b5c5ab8fe209d2f916.600x338.jpg?t=1704876005"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_6b422ae0c9ada6bbfb9b07f662a4c19cbe318136.1920x1080.jpg?t=1704876005",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_6b422ae0c9ada6bbfb9b07f662a4c19cbe318136.600x338.jpg?t=1704876005"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_f85affc1b0dc9f6420b99a5b2a887aaef054367e.1920x1080.jpg?t=1704876005",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_f85affc1b0dc9f6420b99a5b2a887aaef054367e.600x338.jpg?t=1704876005"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_b663d9e446acbddd3b221519eeae81421523b3fb.1920x1080.jpg?t=1704876005",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_b663d9e446acbddd3b221519eeae81421523b3fb.600x338.jpg?t=1704876005"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_91ee2c0c9eebde6d01d98cda34d27be7a58e68c8.1920x1080.jpg?t=1704876005",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637840/ss_91ee2c0c9eebde6d01d98cda34d27be7a58e68c8.600x338.jpg?t=1704876005"
+        }
+    ],
+    "short_description": "Complete missions to save a world devastated by zombies, utilizing Arm Units and special abilities! Throw Anything: Radiation Zombies is a third-person shooter 3D-action roguelite game set in a world overrun by zombies, where you survive by throwing objects around.",
+    "steam_appid": 2637840,
+    "support_info": {
+        "email": "vlt2011game@gmail.com",
+        "url": "http://visuallight.kr/"
+    },
+    "supported_languages": "English, Korean",
+    "type": "demo",
+    "website": "http://visuallight.kr/"
+}

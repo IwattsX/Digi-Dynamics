@@ -1,0 +1,110 @@
+{
+    "about_the_game": "<strong>Introducing Gold Grabbing Goblin: Dive into a 2D Platform Adventure!</strong><br><br>Embark on an exhilarating journey in the captivating world of Gold Grabbing Goblin, a thrilling 2D platform game where your ultimate goal is to collect as many golden coins as possible before meeting your demise!<br><br><strong>Key Features:</strong><br><br>\ud83c\udf1f<strong>Impeccable Design:</strong><br>Experience a visually stunning and well-crafted game environment that immerses you in the heart of the adventure.<br><br>\ud83c\udfb6<strong>Fantastic Music:</strong><br> Groove to the rhythm of captivating tunes that enhance the gaming experience and keep you motivated throughout your quest.<br><br>\ud83c\udfc6<strong>Achievements:</strong><br>Challenge yourself with a variety of in-game accomplishments, earning rewards and recognition for your skills and determination.<br><br>\ud83e\udd47<strong>Leaderboard:</strong><br>Compete with players from around the world and showcase your gold-grabbing prowess on the global leaderboard.<br><br>\ud83d\udcca<strong>Personal Stats:</strong><br>Track your progress and performance with detailed personal statistics, allowing you to strategize and improve your gameplay.<br><br>\ud83d\udc79 <strong>Formidable Enemies:</strong><br>Face off against a myriad of enemies determined to thwart your gold-grabbing endeavors. Stay sharp, strategize your moves, and outwit these foes to claim victory.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/page_bg_generated_v6b.jpg?t=1698477692",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/page.bg.jpg?t=1698477692",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/capsule_231x87.jpg?t=1698477692",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/capsule_184x69.jpg?t=1698477692",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Introducing Gold Grabbing Goblin: Dive into a 2D Platform Adventure!</strong><br><br>Embark on an exhilarating journey in the captivating world of Gold Grabbing Goblin, a thrilling 2D platform game where your ultimate goal is to collect as many golden coins as possible before meeting your demise!<br><br><strong>Key Features:</strong><br><br>\ud83c\udf1f<strong>Impeccable Design:</strong><br>Experience a visually stunning and well-crafted game environment that immerses you in the heart of the adventure.<br><br>\ud83c\udfb6<strong>Fantastic Music:</strong><br> Groove to the rhythm of captivating tunes that enhance the gaming experience and keep you motivated throughout your quest.<br><br>\ud83c\udfc6<strong>Achievements:</strong><br>Challenge yourself with a variety of in-game accomplishments, earning rewards and recognition for your skills and determination.<br><br>\ud83e\udd47<strong>Leaderboard:</strong><br>Compete with players from around the world and showcase your gold-grabbing prowess on the global leaderboard.<br><br>\ud83d\udcca<strong>Personal Stats:</strong><br>Track your progress and performance with detailed personal statistics, allowing you to strategize and improve your gameplay.<br><br>\ud83d\udc79 <strong>Formidable Enemies:</strong><br>Face off against a myriad of enemies determined to thwart your gold-grabbing endeavors. Stay sharp, strategize your moves, and outwit these foes to claim victory.",
+    "developers": [
+        "SarahQT"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/header.jpg?t=1698477692",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973864,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973864/movie480.mp4?t=1696972939",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973864/movie_max.mp4?t=1696972939"
+            },
+            "name": "Gold Grabbing Goblin Coming Soon",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973864/movie.293x165.jpg?t=1696972939",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973864/movie480_vp9.webm?t=1696972939",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973864/movie_max_vp9.webm?t=1696972939"
+            }
+        }
+    ],
+    "name": "Gold Grabbing Goblin",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> Dual-core CPU with a clock speed of at least 2.0 GHz.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> Quad-core CPU with a clock speed of at least 2.5 GHz or higher.<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> A dedicated graphics card with at least 1GB VRAM</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "QTSingelDev"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_42464227a9335f48eba2ac54d53bb52dec12f751.1920x1080.jpg?t=1698477692",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_42464227a9335f48eba2ac54d53bb52dec12f751.600x338.jpg?t=1698477692"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_3c73ad29f687d2b48e59ab7bd953c0484d11a48c.1920x1080.jpg?t=1698477692",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_3c73ad29f687d2b48e59ab7bd953c0484d11a48c.600x338.jpg?t=1698477692"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_24aeaaf6039e78b6f70546c6dd114ce66fcc1b40.1920x1080.jpg?t=1698477692",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_24aeaaf6039e78b6f70546c6dd114ce66fcc1b40.600x338.jpg?t=1698477692"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_7c1129e415d2564c417998f6c5e426078f4445ba.1920x1080.jpg?t=1698477692",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_7c1129e415d2564c417998f6c5e426078f4445ba.600x338.jpg?t=1698477692"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_028d8c771f2165d0eddf5c7093a447a7eec1c4a9.1920x1080.jpg?t=1698477692",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636300/ss_028d8c771f2165d0eddf5c7093a447a7eec1c4a9.600x338.jpg?t=1698477692"
+        }
+    ],
+    "short_description": "Master the art of goblinry! Seize all gold, elude enemies, and emerge triumphant in this epic quest! Can you be the ultimate goblin champion?",
+    "steam_appid": 2636300,
+    "support_info": {
+        "email": "sarahqt69+support@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

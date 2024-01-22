@@ -1,0 +1,246 @@
+{
+    "about_the_game": "This game is a non-network stand-alone version of the classic flash web game &quot;\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd&quot; led by AndyLaw. This game is a small size game running in the form of 800X480. Because the development time was in 2010, the game screen is relatively retro, please understand.<br />\r\nThis version mainly updates the multilingual system and complete local storage. And coexist with the online version of the original &quot;\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd&quot;. Please choose the corresponding version by yourself.<br />\r\n<br />\r\nThis game is an adventure based on the theme of survival in the last days. The enemies in the early stage are mainly zombies, and later you will gradually encounter other gangs in the last days, such as the bandit &quot;Rock Park&quot;, warlords, the assassination organization &quot;Black Iron Club&quot;, etc. The gang &quot;A Corps&quot; triggered a series of stories and battles...<br />\r\n<br />\r\nThis game is a horizontal combat game, mainly using firearms, cold weapons and bare hands. There are many kinds of long guns and pistols in the firearms, and the original dual gun system can control different pistols for left and right hands separately. When using firearms, remember that there are corresponding magazines in the backpack. There are a variety of cold weapons, and you can learn various combat skills. Most of the equipment will change the shape of the character, which is rare in 2010 flash games.<br />\r\nOne of the features of this game is that you can hire other characters to fight together. In the later stage of the game, you can also use the monsters in the game to become pets and fight together.<br />\r\nThis game started in 2010 and has been in operation until 2023. During this period, it has undergone many updates. The current content is also very long, which makes it very difficult for developers to test from beginning to end. Please forgive me if you encounter bugs .<br />\r\n<br />\r\nThis game is more difficult, if you want to relax, please pay attention to the DLC that will be released later.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First blood",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/1c5c46cf85123a8ab22e62bf8a5402939f5d50ef.jpg"
+            },
+            {
+                "name": "Ranger",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/9721ad2f11a5e4ee0c2bcafa44af9265b503b940.jpg"
+            },
+            {
+                "name": "A Army",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/0bf4de03cf21e8a1264af47888e6b6080c248b23.jpg"
+            },
+            {
+                "name": "Andy Law",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/84ea37a56038305bf78ac6ad914a80876c71b531.jpg"
+            },
+            {
+                "name": "The Girl",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/de1343ecf929138d50a8be1d53b4a60fdb8306e9.jpg"
+            },
+            {
+                "name": "Blue",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/4a415b448cf5b5bdd8968d59f39e04a8da4ebaa4.jpg"
+            },
+            {
+                "name": "Shop Girl",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/54268c9977ae5f8e5db695d1110ba429d4b4a0c7.jpg"
+            },
+            {
+                "name": "Boy",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/802dfc2044c59f130a3a4f856cc56c8497313fba.jpg"
+            },
+            {
+                "name": "King",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/0a361b82712027085ddb13d19d6a12ecb9d25608.jpg"
+            },
+            {
+                "name": "Pig",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402310/3547606a84ec6efbc543630c176668089cf7dee3.jpg"
+            }
+        ],
+        "total": 50
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/page_bg_generated_v6b.jpg?t=1699975949",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/page.bg.jpg?t=1699975949",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/capsule_231x87.jpg?t=1699975949",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/capsule_184x69.jpg?t=1699975949",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "This game contains bloody scenes in the battle, please choose carefully."
+    },
+    "detailed_description": "This game is a non-network stand-alone version of the classic flash web game &quot;\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd&quot; led by AndyLaw. This game is a small size game running in the form of 800X480. Because the development time was in 2010, the game screen is relatively retro, please understand.<br />\r\nThis version mainly updates the multilingual system and complete local storage. And coexist with the online version of the original &quot;\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd&quot;. Please choose the corresponding version by yourself.<br />\r\n<br />\r\nThis game is an adventure based on the theme of survival in the last days. The enemies in the early stage are mainly zombies, and later you will gradually encounter other gangs in the last days, such as the bandit &quot;Rock Park&quot;, warlords, the assassination organization &quot;Black Iron Club&quot;, etc. The gang &quot;A Corps&quot; triggered a series of stories and battles...<br />\r\n<br />\r\nThis game is a horizontal combat game, mainly using firearms, cold weapons and bare hands. There are many kinds of long guns and pistols in the firearms, and the original dual gun system can control different pistols for left and right hands separately. When using firearms, remember that there are corresponding magazines in the backpack. There are a variety of cold weapons, and you can learn various combat skills. Most of the equipment will change the shape of the character, which is rare in 2010 flash games.<br />\r\nOne of the features of this game is that you can hire other characters to fight together. In the later stage of the game, you can also use the monsters in the game to become pets and fight together.<br />\r\nThis game started in 2010 and has been in operation until 2023. During this period, it has undergone many updates. The current content is also very long, which makes it very difficult for developers to test from beginning to end. Please forgive me if you encounter bugs .<br />\r\n<br />\r\nThis game is more difficult, if you want to relax, please pay attention to the DLC that will be released later.",
+    "developers": [
+        "Andy Law"
+    ],
+    "dlc": [
+        2402350
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/header.jpg?t=1699975949",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256953303,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953303/movie480.mp4?t=1688877175",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953303/movie_max.mp4?t=1688877175"
+            },
+            "name": "Crazy Flasher 7 Mercenary Empire(stand-alone Version)",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256953303/movie.293x165.jpg?t=1688877175",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953303/movie480_vp9.webm?t=1688877175",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953303/movie_max_vp9.webm?t=1688877175"
+            }
+        }
+    ],
+    "name": "Crazy Flasher 7 Mercenary Empire(stand-alone Version)",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd2023\u65e0\u7f51\u5355\u673a\u7248 - $3.99",
+                    "packageid": 864302,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Crazy Flasher 7 Mercenary Empire(stand-alone Version)"
+        }
+    ],
+    "packages": [
+        864302
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows7</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 10</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Andy Law"
+    ],
+    "recommendations": {
+        "total": 123
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_8853cb5e588cb5291befd7f7967afe5b782936aa.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_8853cb5e588cb5291befd7f7967afe5b782936aa.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_8b3a8eeeff1fde8b1e7d092d5577e606819236ef.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_8b3a8eeeff1fde8b1e7d092d5577e606819236ef.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_38dfee511ab9bd68f980e0360bddd07e80813a64.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_38dfee511ab9bd68f980e0360bddd07e80813a64.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_121979fcb9541ed56e2fc02e46bbf5790349a107.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_121979fcb9541ed56e2fc02e46bbf5790349a107.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_d9ab968201cb2f9e307acaac5ead0e2b15027310.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_d9ab968201cb2f9e307acaac5ead0e2b15027310.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_ce3ff62fa92427d294d9cbdc1159bca57f733469.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_ce3ff62fa92427d294d9cbdc1159bca57f733469.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_c9a87bb38c2ada17f1cf0c92c05b08e056c4e281.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_c9a87bb38c2ada17f1cf0c92c05b08e056c4e281.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_9c0eba63f4fe02552d2a2f95766455cfc215dbeb.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_9c0eba63f4fe02552d2a2f95766455cfc215dbeb.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_98c65564ae426d6405ee2b33d541e915728bb35a.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_98c65564ae426d6405ee2b33d541e915728bb35a.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_ba311e14bfc9b90743883ce2149fba05c36475bf.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_ba311e14bfc9b90743883ce2149fba05c36475bf.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_e9644f3ded04a2cfb05197cb8e3e823c1b8e4adc.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_e9644f3ded04a2cfb05197cb8e3e823c1b8e4adc.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_7116ec5a8ce24acdf52286401d00a33f1e7b91c0.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_7116ec5a8ce24acdf52286401d00a33f1e7b91c0.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_b34ee76a41e08b27f7688a6b626a4cdfaf926961.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_b34ee76a41e08b27f7688a6b626a4cdfaf926961.600x338.jpg?t=1699975949"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_3a3d993647a83ac7b5a9e8f835d320a3e1b5aa14.1920x1080.jpg?t=1699975949",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402310/ss_3a3d993647a83ac7b5a9e8f835d320a3e1b5aa14.600x338.jpg?t=1699975949"
+        }
+    ],
+    "short_description": "The classic old web game action role-playing in 2010, fighting zombies in the last days, horizontal 2D games, firearms, cold weapons, mercenaries, gangs... Now a stand-alone version without internet is launched.",
+    "steam_appid": 2402310,
+    "support_info": {
+        "email": "andy4punk@163.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese, French, Italian, German, Ukrainian, Russian, Thai, Traditional Chinese, Portuguese - Portugal, Vietnamese, Korean",
+    "type": "game",
+    "website": null
+}

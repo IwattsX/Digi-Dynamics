@@ -1,0 +1,229 @@
+{
+    "about_the_game": "<i>Pongspin</i> is a bizarre, tough-as-nails, arcade-style game spread across three game modes:<h2 class=\"bb_tag\"><strong>The main game</strong></h2>The gameplay of Pongspin's primary game mode puts you in control of a paddle orbiting a central &quot;core&quot; that you must protect from the oncoming ball by deflecting it. As the ball moves faster with every stage, the background visuals become more psychedelic and strange, along with obstructions, strobe lights and decoy balls to throw you off. You are also able to pick up different power-ups to assist you.<h2 class=\"bb_tag\"><strong>Spin Tennis</strong></h2>Spin Tennis places you and a CPU opponent in a fast-pased, radial tennis match! You must protect your core from the ball, while also trying to wound your opponent's.<h2 class=\"bb_tag\"><strong>Lockball</strong></h2>Prediction-based fun! A more strategic game mode where the ball and paddle cannot move at the same time. While the ball is &quot;locked,&quot; you have a limited amount of time to predict where the ball will collide with the core and to lock your paddle in that position accordingly. There are seven stages (or &quot;light bulbs&quot; as they're referred to here), and with each one the time limit decreases and the ball becomes more difficult to predict.<h2 class=\"bb_tag\"><strong>HELL Mode</strong></h2>One life, no power-ups, longer lasting events and higher speeds make for Pongspin's ultimate challenge! Will you be able to make it through?",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Never Been Easier!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/ee188601c8468ebd691e37e5d565f3f784b0f546.jpg"
+            },
+            {
+                "name": "You Hear That, Anthony? He's Got Cat-Like Reflexes.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/87b8ecd2b53986d41606bb61d09de884a5c56879.jpg"
+            },
+            {
+                "name": "Come And Get 'Em!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/0a03ebcadabbef82fbb97937a2165cb0b731849b.jpg"
+            },
+            {
+                "name": "Unstoppable",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/5a489ba7ed789b5e83ac847359d589881de01a37.jpg"
+            },
+            {
+                "name": "I'll See You In Hell",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/793857ade70d676e394f6daa7f0f573d384e021e.jpg"
+            },
+            {
+                "name": "Rally Pro",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/d4cccfed54e764bb05d126444830a262c8facb9a.jpg"
+            },
+            {
+                "name": "Barely Escaped With Your Life",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/2df00481cb049c15d6530a42f3fdb9b80b75e1e6.jpg"
+            },
+            {
+                "name": "Free Slurpee",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/146bc764e93c1a6abf97fae9b91e3f51c200605a.jpg"
+            },
+            {
+                "name": "Aww Did Your Feelings Get Hurt?",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/11986ed67698644f8fb5f04490bfd3d1500aabdd.jpg"
+            },
+            {
+                "name": "Pongoholics Anonymous",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371270/c5700c6b7114c4c46cd176d51ff879b3a1910468.jpg"
+            }
+        ],
+        "total": 18
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/page_bg_generated_v6b.jpg?t=1700706186",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/page.bg.jpg?t=1700706186",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/capsule_231x87.jpg?t=1700706186",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/capsule_184x69.jpg?t=1700706186",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<i>Pongspin</i> is a bizarre, tough-as-nails, arcade-style game spread across three game modes:<h2 class=\"bb_tag\"><strong>The main game</strong></h2>The gameplay of Pongspin's primary game mode puts you in control of a paddle orbiting a central &quot;core&quot; that you must protect from the oncoming ball by deflecting it. As the ball moves faster with every stage, the background visuals become more psychedelic and strange, along with obstructions, strobe lights and decoy balls to throw you off. You are also able to pick up different power-ups to assist you.<h2 class=\"bb_tag\"><strong>Spin Tennis</strong></h2>Spin Tennis places you and a CPU opponent in a fast-pased, radial tennis match! You must protect your core from the ball, while also trying to wound your opponent's.<h2 class=\"bb_tag\"><strong>Lockball</strong></h2>Prediction-based fun! A more strategic game mode where the ball and paddle cannot move at the same time. While the ball is &quot;locked,&quot; you have a limited amount of time to predict where the ball will collide with the core and to lock your paddle in that position accordingly. There are seven stages (or &quot;light bulbs&quot; as they're referred to here), and with each one the time limit decreases and the ball becomes more difficult to predict.<h2 class=\"bb_tag\"><strong>HELL Mode</strong></h2>One life, no power-ups, longer lasting events and higher speeds make for Pongspin's ultimate challenge! Will you be able to make it through?",
+    "developers": [
+        "Dotekicept"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/header.jpg?t=1700706186",
+    "is_free": false,
+    "legal_notice": "\u00a9 2021-2023 Dotekicept",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256977232,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977232/movie480.mp4?t=1697869911",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977232/movie_max.mp4?t=1697869911"
+            },
+            "name": "Lockball Update Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256977232/movie.293x165.jpg?t=1697869911",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977232/movie480_vp9.webm?t=1697869911",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977232/movie_max_vp9.webm?t=1697869911"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256955632,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955632/movie480.mp4?t=1687977808",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955632/movie_max.mp4?t=1687977808"
+            },
+            "name": "Launch trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955632/movie.293x165.jpg?t=1687977808",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955632/movie480_vp9.webm?t=1687977808",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955632/movie_max_vp9.webm?t=1687977808"
+            }
+        }
+    ],
+    "name": "Pongspin",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Pongspin - $2.99",
+                    "packageid": 852505,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Pongspin"
+        }
+    ],
+    "packages": [
+        852505
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 510<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Dotekicept"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_7efbec7039c004c6683e965b0d1aa25521a12a8b.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_7efbec7039c004c6683e965b0d1aa25521a12a8b.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_b85679a8597a6a85639ed32e4f37423a851d974f.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_b85679a8597a6a85639ed32e4f37423a851d974f.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_154e586a09a61c913f8c0559608637c9531960b1.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_154e586a09a61c913f8c0559608637c9531960b1.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_2f7cdb9f68340e78cc68fa2ce2997e8804cb2b33.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_2f7cdb9f68340e78cc68fa2ce2997e8804cb2b33.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_2c340b6931a66016bf0c1414d5e71b7b1e360cf1.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_2c340b6931a66016bf0c1414d5e71b7b1e360cf1.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_dc297b84487d2a3c7ab25998accd0383bad00144.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_dc297b84487d2a3c7ab25998accd0383bad00144.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_ce9456f24db4bf7b29affbf9fa7b1964f7e0262f.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_ce9456f24db4bf7b29affbf9fa7b1964f7e0262f.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_d50d1d6a2ff4139c148d255434c2698ed8b01b41.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_d50d1d6a2ff4139c148d255434c2698ed8b01b41.600x338.jpg?t=1700706186"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_d790294b405b79265d8746a42e0071d0f65ad713.1920x1080.jpg?t=1700706186",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371270/ss_d790294b405b79265d8746a42e0071d0f65ad713.600x338.jpg?t=1700706186"
+        }
+    ],
+    "short_description": "A surreal, experimental take on Pong challenging you to protect a circular &quot;core&quot; using an orbiting paddle to deflect the ball.",
+    "steam_appid": 2371270,
+    "support_info": {
+        "email": "support@dotekicept.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.dotekicept.com/pongspin"
+}

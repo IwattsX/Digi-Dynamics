@@ -1,0 +1,113 @@
+{
+    "about_the_game": "In City Defense Z, you should strategically place the Shelter, Ammo Workshop, and Factory buildings that come in sequence to develop your city. Starting with level one buildings, you'll merge them to upgrade, and every night, you'll face to zombie hordes attacking your city.<br>Be careful, as your decisions will affect many aspects, from the number of your soldiers to the ammunition they can use.<br><br><strong>Key Features:</strong><br><br>- Turn-based and luck-based game structure.<br><br>- Placing buildings of the same level side by side to upgrade the next higher level building.<br><br>- 15+ unique building models.<br><br>- Control of Population-Ammo-Building Material conditions.<br><br>- 7 language support (new languages are planned to be added in the future).<br><br><strong>Building Categories</strong><br><br>Shelters: These are the cozy nests where people seeking refuge in your city find home. The provision of this facility transforms into armed forces that will defend your city.<br><br>Ammunition Workshops: Provides ammunition production per day. It's crucial not only to have people to wield weapons but also to ensure a sufficient supply of ammunition to fill those weapons.<br><br>Factories: You require a plethora of materials to construct buildings. Factories produce the construction materials you'll use to build structures in your city.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/page_bg_generated_v6b.jpg?t=1703194717",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/page_bg_generated.jpg?t=1703194717",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/capsule_231x87.jpg?t=1703194717",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/capsule_184x69.jpg?t=1703194717",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "In City Defense Z, you should strategically place the Shelter, Ammo Workshop, and Factory buildings that come in sequence to develop your city. Starting with level one buildings, you'll merge them to upgrade, and every night, you'll face to zombie hordes attacking your city.<br>Be careful, as your decisions will affect many aspects, from the number of your soldiers to the ammunition they can use.<br><br><strong>Key Features:</strong><br><br>- Turn-based and luck-based game structure.<br><br>- Placing buildings of the same level side by side to upgrade the next higher level building.<br><br>- 15+ unique building models.<br><br>- Control of Population-Ammo-Building Material conditions.<br><br>- 7 language support (new languages are planned to be added in the future).<br><br><strong>Building Categories</strong><br><br>Shelters: These are the cozy nests where people seeking refuge in your city find home. The provision of this facility transforms into armed forces that will defend your city.<br><br>Ammunition Workshops: Provides ammunition production per day. It's crucial not only to have people to wield weapons but also to ensure a sufficient supply of ammunition to fill those weapons.<br><br>Factories: You require a plethora of materials to construct buildings. Factories produce the construction materials you'll use to build structures in your city.",
+    "developers": [
+        "Qubees Interactive"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/header.jpg?t=1703194717",
+    "is_free": false,
+    "legal_notice": "It retains all copyrights associated with all text, graphic images and software owned by Qubees Interactive.<br />\r\nQubees Interactive Copyright \u00a9 2023 all rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "City Defense Z",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64Bit<br></li><li><strong>Processor:</strong> Intel Core i5-8400<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX970<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Keyboard and Mouse</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64Bit<br></li><li><strong>Processor:</strong> Intel Core i7-11700K<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce RTX2060<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Keyboard and Mouse</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Qubees Interactive"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_289ad49e995bed7a8a6460be414e217671be6803.1920x1080.jpg?t=1703194717",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_289ad49e995bed7a8a6460be414e217671be6803.600x338.jpg?t=1703194717"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_7aa2d0655cfd5ef83a5af2deb4fc232ba5683407.1920x1080.jpg?t=1703194717",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_7aa2d0655cfd5ef83a5af2deb4fc232ba5683407.600x338.jpg?t=1703194717"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_5511a56ea42a3a7fe82460ca2d6b1a29e5fe19c8.1920x1080.jpg?t=1703194717",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_5511a56ea42a3a7fe82460ca2d6b1a29e5fe19c8.600x338.jpg?t=1703194717"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_1bc577557940d7fa194619792ebda8e281cbdd12.1920x1080.jpg?t=1703194717",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_1bc577557940d7fa194619792ebda8e281cbdd12.600x338.jpg?t=1703194717"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_f9775cdc5cb1602db177eb3cfb2843549a2f2029.1920x1080.jpg?t=1703194717",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635500/ss_f9775cdc5cb1602db177eb3cfb2843549a2f2029.600x338.jpg?t=1703194717"
+        }
+    ],
+    "short_description": "City Defense Z is a strategy, city-building, and survival game where we use our cards during the day to place buildings. Buildings of the same level merge to upgrade to the next level, and the resources provided by these buildings help defend our city against zombie waves attacking every night.",
+    "steam_appid": 2635500,
+    "support_info": {
+        "email": "goodmoodtk@goodmoodgames.com.tr",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Simplified Chinese, Russian, Turkish",
+    "type": "game",
+    "website": null
+}

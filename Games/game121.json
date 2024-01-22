@@ -1,0 +1,97 @@
+{
+    "about_the_game": "Frustrating jump action game.<br>The goal is to reach the goal by jumping only.<br><br>Action Difficulty: \u2605\u2605\u2605\u2606\u2606\u2606\u2606<br>Frustration Level: \u2605\u2605\u2605\u2605\u2605<br><br>-story<br>Emoji wanders in a broken world.<br>Guided by a mysterious voice that tells them to aim for outer space to escape from here, they aim for the sky only by jumping.<br>The mysterious voice curses you every time you fail.<br>Will you be able to reach the universe while enduring the abuse?<br><br>-Controls<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638350/extras/setumei2.jpg?t=1705055537\" /><br>Jump: left click or spacebar<br><br><img src=\"\" crossorigin=\"anonymous\"/><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2F%7BSTEAM_APP_IMAGE%7D%2Fextras%2Fsetumei1.jpg%2Fimg\" target=\"_blank\" rel=\" noopener\"  >{STEAM_APP_IMAGE}/extras/setumei1.jpg/img</a>]<br>The left and right sides of the screen are switched when you hit a wall.<br>Jump up the scaffolding and aim for space.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/page_bg_generated_v6b.jpg?t=1705055537",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/page_bg_generated.jpg?t=1705055537",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/capsule_231x87.jpg?t=1705055537",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/capsule_184x69.jpg?t=1705055537",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Frustrating jump action game.<br>The goal is to reach the goal by jumping only.<br><br>Action Difficulty: \u2605\u2605\u2605\u2606\u2606\u2606\u2606<br>Frustration Level: \u2605\u2605\u2605\u2605\u2605<br><br>-story<br>Emoji wanders in a broken world.<br>Guided by a mysterious voice that tells them to aim for outer space to escape from here, they aim for the sky only by jumping.<br>The mysterious voice curses you every time you fail.<br>Will you be able to reach the universe while enduring the abuse?<br><br>-Controls<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638350/extras/setumei2.jpg?t=1705055537\" /><br>Jump: left click or spacebar<br><br><img src=\"\" crossorigin=\"anonymous\"/><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2F%7BSTEAM_APP_IMAGE%7D%2Fextras%2Fsetumei1.jpg%2Fimg\" target=\"_blank\" rel=\" noopener\"  >{STEAM_APP_IMAGE}/extras/setumei1.jpg/img</a>]<br>The left and right sides of the screen are switched when you hit a wall.<br>Jump up the scaffolding and aim for space.",
+    "developers": [
+        "WINGLAY"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/header.jpg?t=1705055537",
+    "is_free": false,
+    "legal_notice": "\u00a92024 WINGLAY",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Emoji Face Jump!",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "WINGLAY"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_288cd9e40295c11b8b5c33028591a56831782fcd.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_288cd9e40295c11b8b5c33028591a56831782fcd.600x338.jpg?t=1705055537"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_4ae6bfb8a426dacc1d37f807a8a76734138d8026.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_4ae6bfb8a426dacc1d37f807a8a76734138d8026.600x338.jpg?t=1705055537"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_1f43719fde6450fea369de10b5c4e156b5ef4e96.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_1f43719fde6450fea369de10b5c4e156b5ef4e96.600x338.jpg?t=1705055537"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_0a36c4fd1c734a9ecd3a12f6e804f25426185e7a.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_0a36c4fd1c734a9ecd3a12f6e804f25426185e7a.600x338.jpg?t=1705055537"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_472d71ba81a8469f8c5f9835081a36487ed38513.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_472d71ba81a8469f8c5f9835081a36487ed38513.600x338.jpg?t=1705055537"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_a1c5811560513f8c4ff483e015758351dee1b253.1920x1080.jpg?t=1705055537",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638350/ss_a1c5811560513f8c4ff483e015758351dee1b253.600x338.jpg?t=1705055537"
+        }
+    ],
+    "short_description": "Jump action game. Emoji wanders in a broken world. Guided by a mysterious voice that tells them to aim for outer space to escape from here, they aim for the sky only by jumping. The mysterious voice curses you every time you fail. Will you be able to reach the universe while enduring the abuse?",
+    "steam_appid": 2638350,
+    "support_info": {
+        "email": "",
+        "url": "https://www.winglay.com/"
+    },
+    "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,158 @@
+{
+    "about_the_game": "Let's play a new retro twin stick shooter arcade game called BLASTER ARCADE. BLAST ROBOTS before ROBOTS BLAST you. Use Plasma to Score a million points and face the dreaded VEG HEAD to win the game. Wanna Arcade? Let's play BLASTER ARCADE!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/page_bg_generated_v6b.jpg?t=1696717827",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/page.bg.jpg?t=1696717827",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/capsule_231x87.jpg?t=1696717827",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/capsule_184x69.jpg?t=1696717827",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Let's play a new retro twin stick shooter arcade game called BLASTER ARCADE. BLAST ROBOTS before ROBOTS BLAST you. Use Plasma to Score a million points and face the dreaded VEG HEAD to win the game. Wanna Arcade? Let's play BLASTER ARCADE!",
+    "developers": [
+        "Andy"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/header.jpg?t=1696717827",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942298,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942298/movie480.mp4?t=1696717820",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942298/movie_max.mp4?t=1696717820"
+            },
+            "name": "BLASTER ARCADE",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942298/movie.293x165.jpg?t=1696717820",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942298/movie480_vp9.webm?t=1696717820",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942298/movie_max_vp9.webm?t=1696717820"
+            }
+        }
+    ],
+    "name": "BLASTER ARCADE",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "BLASTER ARCADE - $1.99",
+                    "packageid": 864471,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy BLASTER ARCADE"
+        }
+    ],
+    "packages": [
+        864471
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1 (GHz)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> standard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Andy"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_6faec0084aa64ff35de5e7be20f0488691b0c55e.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_6faec0084aa64ff35de5e7be20f0488691b0c55e.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_66b5e17d15581bda9fb061e8ce5abce037fab130.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_66b5e17d15581bda9fb061e8ce5abce037fab130.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_85fb63c668d3419b52fa75ecaf376158b8d3a2cf.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_85fb63c668d3419b52fa75ecaf376158b8d3a2cf.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_8f455b12238cb6d1e532b5c741e9beae7acc874f.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_8f455b12238cb6d1e532b5c741e9beae7acc874f.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_1730e7709ff92fe91b2ea7c756a99f88b469dee8.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_1730e7709ff92fe91b2ea7c756a99f88b469dee8.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_4e7e63d9b77c43038add55831c453dbb2e0c58b3.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_4e7e63d9b77c43038add55831c453dbb2e0c58b3.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_1572ca7a5b6ed325a9c3da2a5ded121b1fae70ba.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_1572ca7a5b6ed325a9c3da2a5ded121b1fae70ba.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_3a3ea3af5def62ae7f79cdec05e4c504dd94531d.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_3a3ea3af5def62ae7f79cdec05e4c504dd94531d.600x338.jpg?t=1696717827"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_ad17a7dfbb4361394f10c7c6e5e63ce914a7c8cd.1920x1080.jpg?t=1696717827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402770/ss_ad17a7dfbb4361394f10c7c6e5e63ce914a7c8cd.600x338.jpg?t=1696717827"
+        }
+    ],
+    "short_description": "Wanna Arcade?",
+    "steam_appid": 2402770,
+    "support_info": {
+        "email": "canibuzny@aol.com",
+        "url": "https://www.youtube.com/channel/UCNLFap8h9FlG2Ps7udbTgMA"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

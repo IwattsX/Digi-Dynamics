@@ -1,0 +1,237 @@
+{
+    "about_the_game": "A hidden object game where you must find all the cats and wool to complete each level.<h2 class=\"bb_tag\">Key features:</h2>\ud83d\uddbc\ufe0f 15 Unique artworks<br><br>\u2753 1500+ Hidden objects total<br>\ud83d\udc08 750+ Cats<br>\ud83e\uddf6 750+ Wool<br> \ud83d\udca1 \u221e Unlimited hints if you get stuck<br>\u267b\ufe0f Restore a small number of hidden objects to a painting so you can find them again!<br>\ud83c\udfb5 Music for each artwork<br>\u2328\ufe0f Use your keyboard to move/zoom in if you have no scroll wheel<br>\ud83d\udcbe 3x save slots<br>\ud83d\uddd1\ufe0f Reset progress entirely and play again<br>\ud83d\udd52 Timer included to show how long you took to complete each level<h2 class=\"bb_tag\">Context:</h2>The brief was simple. I commissioned artists to create a fantasy world, and hide as many cats and wool as they can inside it. Now it\u2019s your job to find them all! With 15 art pieces to choose from, you will have a lot of searching to do.<h2 class=\"bb_tag\">Controls:</h2>Use your mouse to move around the image and zoom in / out. When you find a cat or wool, click it and it will disappear. You can also use WASD to move and the arrow keys to zoom.<h2 class=\"bb_tag\">Difficulty:</h2>A full range of difficulty is included, but all levels start unlocked, your progress is saved as you play, and you can use hints if you get stuck.<h2 class=\"bb_tag\">Get immersed:</h2>Each painting has its own music to help you connect with the world, as you search for everything.<h2 class=\"bb_tag\">Replayable</h2>You can restore a small number of hidden objects back into a painting so you can find them again! It\u2019s much harder when there are only a few hidden objects left (especially randomly). You can also use up to 3 save slots so you can replay without progress loss. Alternatively, you can reset your progress for the entire game if you\u2019d like to start over.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Perfect",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/e70c7f217517e670480ba9432f98fef5a6c7d759.jpg"
+            },
+            {
+                "name": "Complete the Briefcase Town",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/306932e75bc32892eab8521840b2c9fba6d6ac88.jpg"
+            },
+            {
+                "name": "Complete the Summer Shopping Street",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/de47097417f5209da0046dc7ffa221c9701bab16.jpg"
+            },
+            {
+                "name": "Complete the Underground Machine Testing",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/7d0802ccadac1904acddd0d7c34115cab958f86a.jpg"
+            },
+            {
+                "name": "Complete the After Hours Bar",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/6911ea13d3269567b8ab7073c1843527d4ce3c18.jpg"
+            },
+            {
+                "name": "Complete the Spent All Day Tidying",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/fad05ebf01f44b3d3d3d22f2b080d959ab7b294d.jpg"
+            },
+            {
+                "name": "Complete the Off Road Mechanics",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/44b2477e5af9a33caf93eaee69902ca9cbc87832.jpg"
+            },
+            {
+                "name": "Complete the Mech Suit Assembly",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/c345227ad1247e43e899e07a3b8d6ecb2c668da2.jpg"
+            },
+            {
+                "name": "Complete the Mini Town Folk",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/cca13e453364f1a461a021e7cdc72131f4e8c39a.jpg"
+            },
+            {
+                "name": "Complete the Autumn Scrap Yard",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635680/1ae87d67f24efc59fc07d47ed487778bd248e61b.jpg"
+            }
+        ],
+        "total": 16
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/page_bg_generated_v6b.jpg?t=1699646553",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/page_bg_generated.jpg?t=1699646553",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/capsule_231x87.jpg?t=1699646553",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/capsule_184x69.jpg?t=1699646553",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Recommended for you</h1><p><a href=\"https://store.steampowered.com/app/2328160/I_commissioned_some_ladybugs/?utm_source=MoreForYou&amp;utm_medium=Cats6\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2328160/I_commissioned_some_ladybugs/?utm_source=MoreForYou&amp;utm_medium=Cats6</a><a href=\"https://store.steampowered.com/app/1996420/I_commissioned_some_bees/?utm_source=MoreForYou&amp;utm_medium=Cats6\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1996420/I_commissioned_some_bees/?utm_source=MoreForYou&amp;utm_medium=Cats6</a><a href=\"https://store.steampowered.com/app/2327160/I_commissioned_some_dogs/?utm_source=MoreForYou&amp;utm_medium=Cats6\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_2\" >https://store.steampowered.com/app/2327160/I_commissioned_some_dogs/?utm_source=MoreForYou&amp;utm_medium=Cats6</a></p><br><h1>About the Game</h1>A hidden object game where you must find all the cats and wool to complete each level.<h2 class=\"bb_tag\">Key features:</h2>\ud83d\uddbc\ufe0f 15 Unique artworks<br><br>\u2753 1500+ Hidden objects total<br>\ud83d\udc08 750+ Cats<br>\ud83e\uddf6 750+ Wool<br> \ud83d\udca1 \u221e Unlimited hints if you get stuck<br>\u267b\ufe0f Restore a small number of hidden objects to a painting so you can find them again!<br>\ud83c\udfb5 Music for each artwork<br>\u2328\ufe0f Use your keyboard to move/zoom in if you have no scroll wheel<br>\ud83d\udcbe 3x save slots<br>\ud83d\uddd1\ufe0f Reset progress entirely and play again<br>\ud83d\udd52 Timer included to show how long you took to complete each level<h2 class=\"bb_tag\">Context:</h2>The brief was simple. I commissioned artists to create a fantasy world, and hide as many cats and wool as they can inside it. Now it\u2019s your job to find them all! With 15 art pieces to choose from, you will have a lot of searching to do.<h2 class=\"bb_tag\">Controls:</h2>Use your mouse to move around the image and zoom in / out. When you find a cat or wool, click it and it will disappear. You can also use WASD to move and the arrow keys to zoom.<h2 class=\"bb_tag\">Difficulty:</h2>A full range of difficulty is included, but all levels start unlocked, your progress is saved as you play, and you can use hints if you get stuck.<h2 class=\"bb_tag\">Get immersed:</h2>Each painting has its own music to help you connect with the world, as you search for everything.<h2 class=\"bb_tag\">Replayable</h2>You can restore a small number of hidden objects back into a painting so you can find them again! It\u2019s much harder when there are only a few hidden objects left (especially randomly). You can also use up to 3 save slots so you can replay without progress loss. Alternatively, you can reset your progress for the entire game if you\u2019d like to start over.",
+    "developers": [
+        "Follow The Fun"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/header.jpg?t=1699646553",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256980687,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980687/movie480.mp4?t=1699582507",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980687/movie_max.mp4?t=1699582507"
+            },
+            "name": "ICSCats6 - Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256980687/movie.293x165.jpg?t=1699582507",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980687/movie480_vp9.webm?t=1699582507",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980687/movie_max_vp9.webm?t=1699582507"
+            }
+        }
+    ],
+    "name": "I commissioned some cats 6",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "I commissioned some cats 6 - $3.99",
+                    "packageid": 945138,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy I commissioned some cats 6"
+        }
+    ],
+    "packages": [
+        945138
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Follow The Fun"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_74ad6f4ec9a3564f470e27ad165f9d43cc3752c2.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_74ad6f4ec9a3564f470e27ad165f9d43cc3752c2.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_5108141b8834d3e556b9145b3a655a9defae3b8d.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_5108141b8834d3e556b9145b3a655a9defae3b8d.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_d61153e1e74de6e26ae476b4ac863d4bec326c7d.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_d61153e1e74de6e26ae476b4ac863d4bec326c7d.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_8c57deefc82d487ad8eeccf4faee26c7f48dd2dc.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_8c57deefc82d487ad8eeccf4faee26c7f48dd2dc.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_a8397c7640f31fb7729a3f3c485ef8000de2f9da.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_a8397c7640f31fb7729a3f3c485ef8000de2f9da.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_b64dd687968bfe9c1a76780d059bb31ed2168cc4.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_b64dd687968bfe9c1a76780d059bb31ed2168cc4.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_db4638f8065bef856055d4e588b99e70792ba4c3.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_db4638f8065bef856055d4e588b99e70792ba4c3.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_1cf15dffb3699e4a6c5f0f654332e5d742af8286.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_1cf15dffb3699e4a6c5f0f654332e5d742af8286.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_41f39379fccfc43d43130191c52f26687a964aee.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_41f39379fccfc43d43130191c52f26687a964aee.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_5d18e5cd13fbaf9d6251f5b8caec325c4f288530.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_5d18e5cd13fbaf9d6251f5b8caec325c4f288530.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_26b017e1449f53cc56b640d90e1c3cd5bbd83382.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_26b017e1449f53cc56b640d90e1c3cd5bbd83382.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_d77813bf4a77920b5a508f6eb4b56ff1de212483.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_d77813bf4a77920b5a508f6eb4b56ff1de212483.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_373c8ab051a31d634ee05c84b816625c7ece2872.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_373c8ab051a31d634ee05c84b816625c7ece2872.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_005dc40f6616b6f2e412190e0fbed777624bfd52.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_005dc40f6616b6f2e412190e0fbed777624bfd52.600x338.jpg?t=1699646553"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_745811066940b0e36a6a239427939585030f70b1.1920x1080.jpg?t=1699646553",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635680/ss_745811066940b0e36a6a239427939585030f70b1.600x338.jpg?t=1699646553"
+        }
+    ],
+    "short_description": "I paid artists to hide cats and wool in 15 pieces of artwork. Can you find them all? Warning: Relaxing.",
+    "steam_appid": 2635680,
+    "support_info": {
+        "email": "FollowTheFun@Protonmail.com",
+        "url": "https://steamcommunity.com/app/2635680/discussions/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

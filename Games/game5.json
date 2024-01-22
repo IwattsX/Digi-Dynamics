@@ -1,0 +1,120 @@
+{
+    "about_the_game": "Starter Pack for those who want to support the developer.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/crown.png?t=1702888214\" /><br><strong>Legendary Horned Crown</strong>. <br>Increases dark mana loot.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/flail.png?t=1702888214\" /><br><strong>Legendary Infernal Flail</strong><br>Increases the attack of all heroes.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/armor.png?t=1702888214\" /><br><strong>Legendary Scaly Armor</strong><br>Increases the armor of all heroes.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/Crystals-2000.png?t=1702888214\" /><br><strong>2000 Crystals</strong><br><br><br><strong>*</strong> <i>The Starter Pack unlocks in Cave 6.</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/page_bg_generated_v6b.jpg?t=1702888214",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/page_bg_generated.jpg?t=1702888214",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/capsule_231x87.jpg?t=1702888214",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/capsule_184x69.jpg?t=1702888214",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Starter Pack for those who want to support the developer.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/crown.png?t=1702888214\" /><br><strong>Legendary Horned Crown</strong>. <br>Increases dark mana loot.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/flail.png?t=1702888214\" /><br><strong>Legendary Infernal Flail</strong><br>Increases the attack of all heroes.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/armor.png?t=1702888214\" /><br><strong>Legendary Scaly Armor</strong><br>Increases the armor of all heroes.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651620/extras/Crystals-2000.png?t=1702888214\" /><br><strong>2000 Crystals</strong><br><br><br><strong>*</strong> <i>The Starter Pack unlocks in Cave 6.</i>",
+    "developers": [
+        "VSTGames"
+    ],
+    "fullgame": {
+        "appid": "2631210",
+        "name": "Cave Heroes"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/header.jpg?t=1702888214",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Cave Heroes - Starter Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Cave Heroes - Starter Pack - $3.99",
+                    "packageid": 950382,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Cave Heroes - Starter Pack"
+        }
+    ],
+    "packages": [
+        950382
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "VSTGames"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/ss_8332cb46ddaa4a1143be2e28e2af59080bf5fee6.1920x1080.jpg?t=1702888214",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651620/ss_8332cb46ddaa4a1143be2e28e2af59080bf5fee6.600x338.jpg?t=1702888214"
+        }
+    ],
+    "short_description": "Starter Pack for those who want to support the developer.",
+    "steam_appid": 2651620,
+    "support_info": {
+        "email": "support@vstgames.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": null
+}

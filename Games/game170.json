@@ -1,0 +1,53 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636770/capsule_231x87.jpg?t=1696812869",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636770/capsule_184x69.jpg?t=1696812869",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Crescent Sun"
+    ],
+    "fullgame": {
+        "appid": "2365920",
+        "name": "Scarlet Record"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636770/header.jpg?t=1696812869",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Scarlet Record Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "YSY Softworks"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 8, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2636770,
+    "support_info": {
+        "email": "huangyuoxi@gmail.com",
+        "url": "www.ysysoftworks.net"
+    },
+    "type": "demo",
+    "website": null
+}

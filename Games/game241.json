@@ -1,0 +1,205 @@
+{
+    "about_the_game": "<strong>About this game</strong><br>This game is a single player adventure horror game.<br>You have come to your grandmother's house for summer vacation.<br>Explore the Japanese house and confront the oncoming curse!<br><br><strong>Game Overview</strong><br>The game is about exploring a cursed grandma's house and confronting the mystery by completing tasks.<br>Sometimes you will have to clean up toys and even explore outside.<br>As the game progresses, the number of curses that attack you will increase.<br><br><strong>Play Time</strong><br>1 to 2 hours<br><br><strong>Number of Endings</strong><br>2 endings<br><br><strong>Controls</strong><br>Keyboard Character Controls<br>Mouse Viewpoint Control<br><br>Controller operation is not supported.<br><br>are no restrictions regarding video distribution.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "toy box",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            },
+            {
+                "name": "fuda",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            },
+            {
+                "name": "return",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            },
+            {
+                "name": "Ending 1",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            },
+            {
+                "name": "Ending 2",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            },
+            {
+                "name": "HardMode",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635390/ed50b29a8c9dd3166deff59423df28a5e7dc3434.jpg"
+            }
+        ],
+        "total": 6
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/page_bg_generated_v6b.jpg?t=1699339338",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/page_bg_generated.jpg?t=1699339338",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/capsule_231x87.jpg?t=1699339338",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/capsule_184x69.jpg?t=1699339338",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "<strong>About this game</strong><br>This game is a single player adventure horror game.<br>You have come to your grandmother's house for summer vacation.<br>Explore the Japanese house and confront the oncoming curse!<br><br><strong>Game Overview</strong><br>The game is about exploring a cursed grandma's house and confronting the mystery by completing tasks.<br>Sometimes you will have to clean up toys and even explore outside.<br>As the game progresses, the number of curses that attack you will increase.<br><br><strong>Play Time</strong><br>1 to 2 hours<br><br><strong>Number of Endings</strong><br>2 endings<br><br><strong>Controls</strong><br>Keyboard Character Controls<br>Mouse Viewpoint Control<br><br>Controller operation is not supported.<br><br>are no restrictions regarding video distribution.",
+    "developers": [
+        "rentaka"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/header.jpg?t=1699339338",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256976389,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976389/movie480.mp4?t=1697536515",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976389/movie_max.mp4?t=1697536515"
+            },
+            "name": "1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256976389/movie.293x165.jpg?t=1697536515",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976389/movie480_vp9.webm?t=1697536515",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976389/movie_max_vp9.webm?t=1697536515"
+            }
+        }
+    ],
+    "name": "Crazy Cursed Grandma's House",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u6ec5\u8336\u82e6\u8336\u546a\u308f\u308c\u3066\u308b\u304a\u3070\u3042\u3061\u3083\u3093\u5bb6 - $5.99",
+                    "packageid": 945040,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy Crazy Cursed Grandma's House"
+        }
+    ],
+    "packages": [
+        945040
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong> Quad-core Intel \u307e\u305f\u306f AMD\u30012.5 GHz \u4ee5\u4e0a<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 \u307e\u305f\u306f DirectX 12 \u5bfe\u5fdc\u306e\u30b0\u30e9\u30d5\u30a3\u30c3\u30af \u30ab\u30fc\u30c9<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "rentaka"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_611b7cf7d66258169dffa29220615c22adeea7e7.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_611b7cf7d66258169dffa29220615c22adeea7e7.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_2e4e4ae153772926d1a46a0ae99211491c99e0d9.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_2e4e4ae153772926d1a46a0ae99211491c99e0d9.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_4eb523bd251ec1337dfd32689244b9583e65d5f6.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_4eb523bd251ec1337dfd32689244b9583e65d5f6.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_f57e849c6380e79bc9cd87dd1e51ae108f98e6ff.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_f57e849c6380e79bc9cd87dd1e51ae108f98e6ff.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_238c3396c912ba1b962229f45f00e834ce937b4a.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_238c3396c912ba1b962229f45f00e834ce937b4a.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_e7fe22393c04e7885c8d1553302e37dfb4069995.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_e7fe22393c04e7885c8d1553302e37dfb4069995.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_a77c90394ff875bfea560ba342c56f516248ccc1.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_a77c90394ff875bfea560ba342c56f516248ccc1.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_d0985fff8de22fff40b9b51934a04046cd944c60.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_d0985fff8de22fff40b9b51934a04046cd944c60.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_bd6178c89d412023eef60c136a63ba98adc1b795.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_bd6178c89d412023eef60c136a63ba98adc1b795.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_581991b44f232d8714da8b4043d72f3633a62126.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_581991b44f232d8714da8b4043d72f3633a62126.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_0536f2598aa4b858602a60d38004605d86aac50e.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_0536f2598aa4b858602a60d38004605d86aac50e.600x338.jpg?t=1699339338"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_f6e92f45f48f33fc79daae1edadb02ca234b73cb.1920x1080.jpg?t=1699339338",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635390/ss_f6e92f45f48f33fc79daae1edadb02ca234b73cb.600x338.jpg?t=1699339338"
+        }
+    ],
+    "short_description": "Explore Japanese houses and deal with the curses that attack you!",
+    "steam_appid": 2635390,
+    "support_info": {
+        "email": "",
+        "url": "https://twitter.com/rerererereb"
+    },
+    "supported_languages": "English, Japanese, Korean, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,107 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>EXPLORATION</strong></h2>Explore the locations freely, sometimes utilizing jumping and crouching to access various hard-to-reach areas. Grabbing and manipulating certain objects is essential to uncovering hidden secrets.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336800/extras/shodot-exploration-grabbing.gif?t=1693473319\" /></h2><h2 class=\"bb_tag\"><strong>PUZZLING MECHANISMS</strong></h2>The place is full of strange mechanisms - small devices and large machines. Learn how they function and use them to your advantage.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336800/extras/shodot-mechanisms.gif?t=1693473319\" /></h2>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/page_bg_generated_v6b.jpg?t=1693473319",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/page.bg.jpg?t=1693473319",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/capsule_231x87.jpg?t=1693473319",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/capsule_184x69.jpg?t=1693473319",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>EXPLORATION</strong></h2>Explore the locations freely, sometimes utilizing jumping and crouching to access various hard-to-reach areas. Grabbing and manipulating certain objects is essential to uncovering hidden secrets.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336800/extras/shodot-exploration-grabbing.gif?t=1693473319\" /></h2><h2 class=\"bb_tag\"><strong>PUZZLING MECHANISMS</strong></h2>The place is full of strange mechanisms - small devices and large machines. Learn how they function and use them to your advantage.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336800/extras/shodot-mechanisms.gif?t=1693473319\" /></h2>",
+    "developers": [
+        "gul3n"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/header.jpg?t=1693473319",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256935150,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256935150/movie480.mp4?t=1678565167",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256935150/movie_max.mp4?t=1678565167"
+            },
+            "name": "Shodot Announcement Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256935150/movie.293x165.jpg?t=1678565167",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256935150/movie480_vp9.webm?t=1678565167",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256935150/movie_max_vp9.webm?t=1678565167"
+            }
+        }
+    ],
+    "name": "Shodot",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> Intel Core i3 @ 3.5GHz or AMD FX-4170<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 760 or AMD R7 270X (2GB VRAM)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> Intel Core i5 @ 3.5GHz or AMD FX 6 Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 or AMD R9 290X (4GB VRAM)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "gul3n"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Dec 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_106393eb27f51f73ed8ad64b5c41b4636769c9ab.1920x1080.jpg?t=1693473319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_106393eb27f51f73ed8ad64b5c41b4636769c9ab.600x338.jpg?t=1693473319"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_4c0f10536833ed8a0314735b407e1aec8990a54e.1920x1080.jpg?t=1693473319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_4c0f10536833ed8a0314735b407e1aec8990a54e.600x338.jpg?t=1693473319"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_169c5e4100dbb51978a22c7eb08266d3f308a122.1920x1080.jpg?t=1693473319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_169c5e4100dbb51978a22c7eb08266d3f308a122.600x338.jpg?t=1693473319"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_414945eaaaef1f1f90e5f550da8c3348734fb15d.1920x1080.jpg?t=1693473319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_414945eaaaef1f1f90e5f550da8c3348734fb15d.600x338.jpg?t=1693473319"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_eac692deda99e63a162cf673b03c082c4836bd75.1920x1080.jpg?t=1693473319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336800/ss_eac692deda99e63a162cf673b03c082c4836bd75.600x338.jpg?t=1693473319"
+        }
+    ],
+    "short_description": "Shodot is a short first-person adventure inspired by myst-likes, half-likes, and the artworks of Moebius. You find yourself in a deserted city full of curious mechanisms - what are they for and how do they function? Is there a way out of this place?",
+    "steam_appid": 2336800,
+    "support_info": {
+        "email": "gul3n.dev@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Spanish - Spain, Simplified Chinese, Traditional Chinese, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Ukrainian, Polish, Turkish",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,58 @@
+{
+    "about_the_game": "<ul class=\"bb_ul\"><li>Retro 3D graphics with photo-edited textures.<br></li><li>Combat and puzzles designed around the astral projection mechanic.<br></li><li>Fast-paced combat: get close to the enemies with your spirit for extra damage, but beware of leaving your real body vulnerable.<br></li><li>Random enemy encounters, no room is safe.<br></li><li>Surreal story revolving around an SCP-esque take on haunted houses.<br></li><li>Mind-screwy map.<br></li><li>Fixed camera angles built with modern controls in mind.<br></li><li>Survival horror staples such as limited healing items and save points.<br></li><li>Possibility of choosing between modern and tank controls.<br></li><li>6 different difficulty settings.<br></li><li>Built-in achievement system.</li></ul>",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650330/capsule_231x87.jpg?t=1697730155",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650330/capsule_184x69.jpg?t=1697730155",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<ul class=\"bb_ul\"><li>Retro 3D graphics with photo-edited textures.<br></li><li>Combat and puzzles designed around the astral projection mechanic.<br></li><li>Fast-paced combat: get close to the enemies with your spirit for extra damage, but beware of leaving your real body vulnerable.<br></li><li>Random enemy encounters, no room is safe.<br></li><li>Surreal story revolving around an SCP-esque take on haunted houses.<br></li><li>Mind-screwy map.<br></li><li>Fixed camera angles built with modern controls in mind.<br></li><li>Survival horror staples such as limited healing items and save points.<br></li><li>Possibility of choosing between modern and tank controls.<br></li><li>6 different difficulty settings.<br></li><li>Built-in achievement system.</li></ul>",
+    "developers": [
+        "ApeHardware"
+    ],
+    "fullgame": {
+        "appid": "2648260",
+        "name": "Pseudo-Haunting"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650330/header.jpg?t=1697730155",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Pseudo-Haunting Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "ApeHardware"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 19, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Fend off spirits by ripping your spirit off your body.",
+    "steam_appid": 2650330,
+    "support_info": {
+        "email": "justanothercarbonbasedmonster@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Spanish - Spain",
+    "type": "demo",
+    "website": null
+}

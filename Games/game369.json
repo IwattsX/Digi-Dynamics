@@ -1,0 +1,108 @@
+{
+    "about_the_game": "Time itself is breaking up, and Dodger, the dishwashing dude onboard Penrose Space Station, is the unlikely fixer. Join the chaos in this 80s-style comedy, sci-fi text-parser adventure as Dodger tackles a cosmic crisis like no other! Experience all three episodes seamlessly combined into one complete adventure, now with NEW EXTRA CONTENT!<br><br>Explore prehistoric jungles from 300 million years ago, navigate a post-apocalyptic world 85 years into the future, step onto alien landscapes, confront personal demons and make peace with your past, and journey across the galaxy to aid ancient aliens in their cosmic clash against some other aliens!<br><br>Laugh all the way to the end of this intergalactic adventure typing commands to solve puzzles (the 80s are back, baby!)<br><br>Tachyon Dreams Anthology includes all 3 free Tachyon Dreams games - Tachyon Dreams I: The Radiant Fish of the Apocalypse, Tachyon Dreams II: The Bloated Can of Space Root Beer, and Tachyon Dreams III: The Rancid Buttermilk from Andromeda, as well as NEW extra content - more rooms to explore, more items to collect, more puzzles to solve, more story - more of everything! All three episodes now weave into a single story with polished art and text.<br><br>Average playthrough 2-3 hours.<br><br><strong>Game Features</strong><br>\u2022 Explore the past, present, and future!<br>\u2022 Help an intergalactic race of ancient aliens!<br>\u2022 Type your commands to solve puzzles!<br>\u2022 Double-wide pixel-art that's straight from the 80s!<br>\u2022 Laugh uncontrollably as you watch Dodger hilariously flounder about!<br>\u2022 Fair, modern design - no dead ends, no deaths, all puzzles make sense! Too much sense!<br>\u2022 Contains all three episodes in the Tachyon Dreams series - including new extra content!<br>\u2022 Steam achievements!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/page_bg_generated_v6b.jpg?t=1702627313",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/page_bg_generated.jpg?t=1702627313",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/capsule_231x87.jpg?t=1702627313",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/capsule_184x69.jpg?t=1702627313",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Time itself is breaking up, and Dodger, the dishwashing dude onboard Penrose Space Station, is the unlikely fixer. Join the chaos in this 80s-style comedy, sci-fi text-parser adventure as Dodger tackles a cosmic crisis like no other! Experience all three episodes seamlessly combined into one complete adventure, now with NEW EXTRA CONTENT!<br><br>Explore prehistoric jungles from 300 million years ago, navigate a post-apocalyptic world 85 years into the future, step onto alien landscapes, confront personal demons and make peace with your past, and journey across the galaxy to aid ancient aliens in their cosmic clash against some other aliens!<br><br>Laugh all the way to the end of this intergalactic adventure typing commands to solve puzzles (the 80s are back, baby!)<br><br>Tachyon Dreams Anthology includes all 3 free Tachyon Dreams games - Tachyon Dreams I: The Radiant Fish of the Apocalypse, Tachyon Dreams II: The Bloated Can of Space Root Beer, and Tachyon Dreams III: The Rancid Buttermilk from Andromeda, as well as NEW extra content - more rooms to explore, more items to collect, more puzzles to solve, more story - more of everything! All three episodes now weave into a single story with polished art and text.<br><br>Average playthrough 2-3 hours.<br><br><strong>Game Features</strong><br>\u2022 Explore the past, present, and future!<br>\u2022 Help an intergalactic race of ancient aliens!<br>\u2022 Type your commands to solve puzzles!<br>\u2022 Double-wide pixel-art that's straight from the 80s!<br>\u2022 Laugh uncontrollably as you watch Dodger hilariously flounder about!<br>\u2022 Fair, modern design - no dead ends, no deaths, all puzzles make sense! Too much sense!<br>\u2022 Contains all three episodes in the Tachyon Dreams series - including new extra content!<br>\u2022 Steam achievements!",
+    "developers": [
+        "Cosmic Void"
+    ],
+    "fullgame": {
+        "appid": "2731920",
+        "name": "Tachyon Dreams Anthology"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/header.jpg?t=1702627313",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Tachyon Dreams Anthology Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Cosmic Void"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_385340ecc2e4e0ddcb5aa25340f75c7b3b491586.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_385340ecc2e4e0ddcb5aa25340f75c7b3b491586.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_2ad86b0aa14ad6a19211c4902a3b23602905bd34.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_2ad86b0aa14ad6a19211c4902a3b23602905bd34.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_b48ef1771d4a39fe7764f6b8497e7af6395ba662.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_b48ef1771d4a39fe7764f6b8497e7af6395ba662.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_1171dd120bd6b18e18a6fce3eb7df15cb65efed1.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_1171dd120bd6b18e18a6fce3eb7df15cb65efed1.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_12f6086d67c0f1e8a530db4dbb14326f6cf8beb5.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_12f6086d67c0f1e8a530db4dbb14326f6cf8beb5.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_2510f2bed4bdc1deb26340f5ca870a9b42cc9356.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_2510f2bed4bdc1deb26340f5ca870a9b42cc9356.600x338.jpg?t=1702627313"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_36a01f7a553c95ff56b3638345e661d18b9a337a.1920x1080.jpg?t=1702627313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737760/ss_36a01f7a553c95ff56b3638345e661d18b9a337a.600x338.jpg?t=1702627313"
+        }
+    ],
+    "short_description": "Time itself is breaking up, and Dodger, the dishwashing dude onboard Penrose Space Station, is the unlikely fixer. Join the chaos in this 80s-style comedy, sci-fi text-parser adventure as Dodger tackles a cosmic crisis like no other! This version includes all three episodes + new extra content!",
+    "steam_appid": 2737760,
+    "support_info": {
+        "email": "cosmic_void@yahoo.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

@@ -1,0 +1,122 @@
+{
+    "about_the_game": "<strong><h2 class=\"bb_tag\">PLOT</h2></strong><br><br>The game tells the story of Isidora, a young woman who has been suffering sleep paralisys. It has been complicated to deal with it, so she made the decision to visit a doctor who has a very special treatment for her. Now she needs to figure out about her secret past, but is not going to be so easy to get back to the reality.<br><br><strong><h2 class=\"bb_tag\">GAMEPLAY</h2></strong><br><br>Never wake up is a classic, non-linear, first-person horror survivor game. The player will be investigating the area \u23af searching for artifacts, reading notes and documents, examining photos. The player\u2019s tools include a flashlight, books, lighter and many other items. The player needs to resolve puzzles while is trying to scape from the enemy.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738460/extras/gift1.gif?t=1704995857\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738460/extras/gift2.gif?t=1704995857\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/page_bg_generated_v6b.jpg?t=1704995857",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/page_bg_generated.jpg?t=1704995857",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/capsule_231x87.jpg?t=1704995857",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/capsule_184x69.jpg?t=1704995857",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong><h2 class=\"bb_tag\">PLOT</h2></strong><br><br>The game tells the story of Isidora, a young woman who has been suffering sleep paralisys. It has been complicated to deal with it, so she made the decision to visit a doctor who has a very special treatment for her. Now she needs to figure out about her secret past, but is not going to be so easy to get back to the reality.<br><br><strong><h2 class=\"bb_tag\">GAMEPLAY</h2></strong><br><br>Never wake up is a classic, non-linear, first-person horror survivor game. The player will be investigating the area \u23af searching for artifacts, reading notes and documents, examining photos. The player\u2019s tools include a flashlight, books, lighter and many other items. The player needs to resolve puzzles while is trying to scape from the enemy.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738460/extras/gift1.gif?t=1704995857\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738460/extras/gift2.gif?t=1704995857\" />",
+    "developers": [
+        "ToquiGames"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/header.jpg?t=1704995857",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256993414,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993414/movie480.mp4?t=1704995193",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993414/movie_max.mp4?t=1704995193"
+            },
+            "name": "Never wake up trailer - January 2024",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256993414/movie.293x165.jpg?t=1704995193",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993414/movie480_vp9.webm?t=1704995193",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993414/movie_max_vp9.webm?t=1704995193"
+            }
+        }
+    ],
+    "name": "Never wake up",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows\u00ae 7 64-bit / Windows\u00ae 8 64-bit / Windows\u00ae 10 64-bit<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-2500 @3.3 GHz / AMD AMD Phenom II X6 1055T<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 660 / AMD Radeon\u2122 HD 7850 (2GB VRAM)<br></li><li><strong>Storage:</strong> 9 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 64-bit<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 1080TI/ AMD Radeon\u2122 RX 6800 XT<br></li><li><strong>Storage:</strong> 9 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "ToquiGames"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "January 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_78c22dfbf4961299b0cc2e49a777dce2f0b24b6e.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_78c22dfbf4961299b0cc2e49a777dce2f0b24b6e.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_e28a2d6823a8ce36ed8e46d9839f3d23853f359c.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_e28a2d6823a8ce36ed8e46d9839f3d23853f359c.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_f3f7de183bc5b3c8fb6fe0d3bd77208ac54f7dce.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_f3f7de183bc5b3c8fb6fe0d3bd77208ac54f7dce.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_1ee795295f8e872ab8b234d72dcab13613875674.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_1ee795295f8e872ab8b234d72dcab13613875674.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_ab575b3dda54653af61f91653f6cb4f119543933.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_ab575b3dda54653af61f91653f6cb4f119543933.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_1d4c49e073e4b73f634d04dad9c06b83e1336b6a.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_1d4c49e073e4b73f634d04dad9c06b83e1336b6a.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_467827941ec06f6ad2877bb31b5f2521f2ffc481.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_467827941ec06f6ad2877bb31b5f2521f2ffc481.600x338.jpg?t=1704995857"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_8bb2740eab0c3d636b52d571dbadcf8879f0e1ac.1920x1080.jpg?t=1704995857",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738460/ss_8bb2740eab0c3d636b52d571dbadcf8879f0e1ac.600x338.jpg?t=1704995857"
+        }
+    ],
+    "short_description": "psychological survival horror",
+    "steam_appid": 2738460,
+    "support_info": {
+        "email": "toquigamesstudios@gmail.com",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

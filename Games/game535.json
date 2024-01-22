@@ -1,0 +1,180 @@
+{
+    "about_the_game": "Manufactured from 1957, Keio 2000 series are one of Japanese vintage electric multiple units that are still in service until this day. Originated from Keio Railway, it is now still running with third hand status in Choshi electric railway. Previously second-hand status in Iyo railway from 1984 until retired in 2009. With an electrical system of DC 600/750 V, narrow gauge (1067 mm / 3 ft 6 in), and Maximum operating speed of 65 km/h, this makes Keio 2000 perfect for common Japanese rural railway.<br />\r\n<br />\r\nPackage Includes:<br />\r\n<br />\r\nChoshi Railway 2000 Series, 8 cars (5 Combined Trainsets of different liveries)<br />\r\nIyo Railway 800 Series, 6 Cars (4 Combined Trainsets of different liveries)<br />\r\nFeatures:<br />\r\n<br />\r\n<br />\r\nRealistic exterior and cab with full, detailed High-Resolution PBR textures + LOD<br />\r\nRealistic electromagnetic direct brake braking system, commonly used at Japanese EMU. <br />\r\nAnimated passenger doors <br />\r\nAnimated pantograph<br />\r\nJR-ATS (Automatic Train Stop) security equipment with sound fx<br />\r\nNight mode<br />\r\nDedicated cab with full functional EMU Controller includes:<br />\r\nFunctional master controller and switches<br />\r\nAll indicator gauges are working<br />\r\n&quot;one-man&quot; service compatibility (open/close all passenger doors in trainset via cab button) + door closing indicator confirmation<br />\r\nSound fx include: <br />\r\nCustom train brake sound<br />\r\nDoor opening/closing sound <br />\r\nCustom brake compressor sound<br />\r\nTrain starting sound <br />\r\nRealistic custom driving and rail joint sound",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/page_bg_generated_v6b.jpg?t=1678759177",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/page_bg_generated.jpg?t=1678759177",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/capsule_231x87.jpg?t=1678759177",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/capsule_184x69.jpg?t=1678759177",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Manufactured from 1957, Keio 2000 series are one of Japanese vintage electric multiple units that are still in service until this day. Originated from Keio Railway, it is now still running with third hand status in Choshi electric railway. Previously second-hand status in Iyo railway from 1984 until retired in 2009. With an electrical system of DC 600/750 V, narrow gauge (1067 mm / 3 ft 6 in), and Maximum operating speed of 65 km/h, this makes Keio 2000 perfect for common Japanese rural railway.<br />\r\n<br />\r\nPackage Includes:<br />\r\n<br />\r\nChoshi Railway 2000 Series, 8 cars (5 Combined Trainsets of different liveries)<br />\r\nIyo Railway 800 Series, 6 Cars (4 Combined Trainsets of different liveries)<br />\r\nFeatures:<br />\r\n<br />\r\n<br />\r\nRealistic exterior and cab with full, detailed High-Resolution PBR textures + LOD<br />\r\nRealistic electromagnetic direct brake braking system, commonly used at Japanese EMU. <br />\r\nAnimated passenger doors <br />\r\nAnimated pantograph<br />\r\nJR-ATS (Automatic Train Stop) security equipment with sound fx<br />\r\nNight mode<br />\r\nDedicated cab with full functional EMU Controller includes:<br />\r\nFunctional master controller and switches<br />\r\nAll indicator gauges are working<br />\r\n&quot;one-man&quot; service compatibility (open/close all passenger doors in trainset via cab button) + door closing indicator confirmation<br />\r\nSound fx include: <br />\r\nCustom train brake sound<br />\r\nDoor opening/closing sound <br />\r\nCustom brake compressor sound<br />\r\nTrain starting sound <br />\r\nRealistic custom driving and rail joint sound",
+    "developers": [
+        "Rizky_Adiputra"
+    ],
+    "fullgame": {
+        "appid": "553520",
+        "name": "Trainz Railroad Simulator 2019"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/header.jpg?t=1678759177",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+    },
+    "name": "Trainz 2019 DLC - Former Keio 2000 Series - Choshi & Iyo Railway Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz 2019 DLC - Former Keio 2000 Series - Choshi & Iyo Railway Pack - $14.99",
+                    "packageid": 839510,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Trainz 2019 DLC - Former Keio 2000 Series - Choshi & Iyo Railway Pack"
+        }
+    ],
+    "packages": [
+        839510
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_7ff611c2d197de12bd9aa6353cf9c08af52e55e6.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_7ff611c2d197de12bd9aa6353cf9c08af52e55e6.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_8fe46cc83e98b82901d01b39c479db59282bbea7.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_8fe46cc83e98b82901d01b39c479db59282bbea7.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_6bf1258cc7179b8142a3fafeb7320b96db5bbe41.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_6bf1258cc7179b8142a3fafeb7320b96db5bbe41.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_c419557fbb39e5a8305f5476a20c89213e8fa84e.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_c419557fbb39e5a8305f5476a20c89213e8fa84e.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_28af15d4d0579192b96fd518674ef2629268cfd1.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_28af15d4d0579192b96fd518674ef2629268cfd1.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_7a4f12c9d0ebd26f4571cb223d14f22c9bd09505.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_7a4f12c9d0ebd26f4571cb223d14f22c9bd09505.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_be7c6d930efd2f174a905f231fefc7a75a39c3d2.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_be7c6d930efd2f174a905f231fefc7a75a39c3d2.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_228ba03cf0aa592464c43fba3a24262730101f17.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_228ba03cf0aa592464c43fba3a24262730101f17.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_686bd5f02d1ab9204c4a5b549fff890d9e2f47b9.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_686bd5f02d1ab9204c4a5b549fff890d9e2f47b9.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_2a772e5d2a21a7a94580796d2dd6cc11a63076f7.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_2a772e5d2a21a7a94580796d2dd6cc11a63076f7.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_6056d9da4fa0ccf9c591947e3098f0c7bce0cf3c.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_6056d9da4fa0ccf9c591947e3098f0c7bce0cf3c.600x338.jpg?t=1678759177"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_d3cd7398f82167934a4a2ec19d13821fb8ea598e.1920x1080.jpg?t=1678759177",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337420/ss_d3cd7398f82167934a4a2ec19d13821fb8ea598e.600x338.jpg?t=1678759177"
+        }
+    ],
+    "short_description": "The Keio 2000 series are a Japanese electric multiple units that were originally used by the Keio Railway from 1957, they were later used by the Iyo railway from 1984 - 2009, and are now still running with the Choshi electric railway. These EMUs feature a range of scripted options and custom cabs!",
+    "steam_appid": 2337420,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Czech, Dutch, Polish, Portuguese - Portugal, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

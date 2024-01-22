@@ -1,0 +1,203 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong><u>TUG OF WAR STRATEGY ACTION</u></strong></h2><br>Spawn units to move across the map attacking your enemy's along the way. They will capture buildings that will increase your economy, buff your units, and give you a new frontline to spawn reinforcements on. Eventually making it to your enemy's base and destroying it to win.<h2 class=\"bb_tag\"><strong><u>MULTIPLE DIFFERENT UNITS TO SPAWN</u></strong></h2><br>Spawn units like the Rookie that is a cheap infantry that can overwhelm your enemy. The Runner is a unit that moves fast and in unable to capture buildings so it is perfect for reinforcing a fight that you are losing. All while the Juggernaut is a low damage tank that can soak up tons of damage for a squad of units to back it up.<h2 class=\"bb_tag\"><strong><u>SHORT MATCHES ON RANDOM MAPS</u></strong></h2><br>5 - 20 minute matches to fill in the small gap in your day were you have a little free time. This is not a game trying to take hundreds of hours of your life. No 2 maps are ever the same. Every time you load one up there will be different buildings in different places. 4 different maps sizes so you can choose how much time you wanna spend on a match.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First of many",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/02461a0e25a8f5100ceec6e2f9525da97e3763dc.jpg"
+            },
+            {
+                "name": "On a roll",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/667fbc5f336b9314ce63425544b67fcdb68380f9.jpg"
+            },
+            {
+                "name": "Unbeatable",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/19f0a661607cd71e8c282464845d0672d6a89b68.jpg"
+            },
+            {
+                "name": "Investment",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/d7430a56c17f06a78f409556effe558ee7acbc89.jpg"
+            },
+            {
+                "name": "Business Expense",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/9835d240bbd9ab2d18aa5a056808f2ee6d0baa0c.jpg"
+            },
+            {
+                "name": "Was it worth it?",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/a537c622f18cf43f400eeeab7317e372ffb11b10.jpg"
+            },
+            {
+                "name": "Saving it for next round",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/bc8140263f86ba87ca1511345f613d083cf76e4a.jpg"
+            },
+            {
+                "name": "Big Paycheck",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/22644a9b44adc3925fc8c5dd5137cd5c9a7eab13.jpg"
+            },
+            {
+                "name": "SEND MORE!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/65ed69142b9a2008d6ea7d27ad62bca928c0db79.jpg"
+            },
+            {
+                "name": "Never know what hit 'em",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2650240/8c30ce25ea33521ff4fb1c7a2fd73ead4487af17.jpg"
+            }
+        ],
+        "total": 28
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/page_bg_generated_v6b.jpg?t=1702104046",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/page_bg_generated.jpg?t=1702104046",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/capsule_231x87.jpg?t=1702104046",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/capsule_184x69.jpg?t=1702104046",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong><u>TUG OF WAR STRATEGY ACTION</u></strong></h2><br>Spawn units to move across the map attacking your enemy's along the way. They will capture buildings that will increase your economy, buff your units, and give you a new frontline to spawn reinforcements on. Eventually making it to your enemy's base and destroying it to win.<h2 class=\"bb_tag\"><strong><u>MULTIPLE DIFFERENT UNITS TO SPAWN</u></strong></h2><br>Spawn units like the Rookie that is a cheap infantry that can overwhelm your enemy. The Runner is a unit that moves fast and in unable to capture buildings so it is perfect for reinforcing a fight that you are losing. All while the Juggernaut is a low damage tank that can soak up tons of damage for a squad of units to back it up.<h2 class=\"bb_tag\"><strong><u>SHORT MATCHES ON RANDOM MAPS</u></strong></h2><br>5 - 20 minute matches to fill in the small gap in your day were you have a little free time. This is not a game trying to take hundreds of hours of your life. No 2 maps are ever the same. Every time you load one up there will be different buildings in different places. 4 different maps sizes so you can choose how much time you wanna spend on a match.",
+    "developers": [
+        "Shane E."
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/header.jpg?t=1702104046",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256981924,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981924/movie480.mp4?t=1700535077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981924/movie_max.mp4?t=1700535077"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256981924/movie.293x165.jpg?t=1700535077",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981924/movie480_vp9.webm?t=1700535077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981924/movie_max_vp9.webm?t=1700535077"
+            }
+        }
+    ],
+    "name": "Frontline Battles",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Frontline Battles - $4.99",
+                    "packageid": 949945,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Frontline Battles"
+        }
+    ],
+    "packages": [
+        949945
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or higher<br></li><li><strong>Processor:</strong> 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Any DirectX 11 or 12 compatible card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or higher<br></li><li><strong>Processor:</strong> 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Any DirectX 12 compatible card<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Shane E."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 4, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_4a86dfc298be172a0bece599b41dba1c0ba72762.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_4a86dfc298be172a0bece599b41dba1c0ba72762.600x338.jpg?t=1702104046"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_0ee15d8d6b2234e40e6d394c6692eba0740d5533.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_0ee15d8d6b2234e40e6d394c6692eba0740d5533.600x338.jpg?t=1702104046"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_5c12e2d30483546050c74ecc4343c3c80bf19633.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_5c12e2d30483546050c74ecc4343c3c80bf19633.600x338.jpg?t=1702104046"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_c4028b6c7b7b4b182f60838bf28e67f405f79e20.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_c4028b6c7b7b4b182f60838bf28e67f405f79e20.600x338.jpg?t=1702104046"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_c90235f0de0aa0ad436a549bc32bce4c3230fb34.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_c90235f0de0aa0ad436a549bc32bce4c3230fb34.600x338.jpg?t=1702104046"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_55f91b70abe0e6024458857e4dac38a80c732878.1920x1080.jpg?t=1702104046",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650240/ss_55f91b70abe0e6024458857e4dac38a80c732878.600x338.jpg?t=1702104046"
+        }
+    ],
+    "short_description": "In this tug of war style strategy game you can send out soldiers to destroy your enemy's bases. Deploy army's comprised of multiple different types of soldiers that each fill a different role. Push across the map to your enemy's HQ and destroy it to win in these short less than 20 minute matches.",
+    "steam_appid": 2650240,
+    "support_info": {
+        "email": "OvergrowthStudiosOfficial@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

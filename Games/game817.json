@@ -1,0 +1,125 @@
+{
+    "about_the_game": "Beverage Craft is a simulation RPG. In this game players would have a chance to run their own drink shops in the &quot;Land of Tonic&quot;, farming, fishing, foraging ingredients, and also managing the menu and the open time of their drink shops. Meanwhile, secrets in this land are waiting to be found by those who seek miracles.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/page_bg_generated_v6b.jpg?t=1690379834",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/page.bg.jpg?t=1690379834",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/capsule_231x87.jpg?t=1690379834",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/capsule_184x69.jpg?t=1690379834",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2376960,
+            "description": ""
+        }
+    ],
+    "detailed_description": "Beverage Craft is a simulation RPG. In this game players would have a chance to run their own drink shops in the &quot;Land of Tonic&quot;, farming, fishing, foraging ingredients, and also managing the menu and the open time of their drink shops. Meanwhile, secrets in this land are waiting to be found by those who seek miracles.",
+    "developers": [
+        "MouseMat Studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/header.jpg?t=1690379834",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "\u8c03\u548c\u5e08\u7269\u8bed Beverage Craft",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1050<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "MouseMat Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_f83d0e5bcaa980fb019743ced9b07af3cf4f7c30.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_f83d0e5bcaa980fb019743ced9b07af3cf4f7c30.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_0c055aced22f7ae0f707dd7b21d079b5cc63705d.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_0c055aced22f7ae0f707dd7b21d079b5cc63705d.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_04da92ca925ba9fb7f4425e032a9087ea7b590c2.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_04da92ca925ba9fb7f4425e032a9087ea7b590c2.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_0117e8d0573c194439569fdd42032f4e71ba9e20.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_0117e8d0573c194439569fdd42032f4e71ba9e20.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_8e0c4e478199da1c52c149fbca283f4ab2edf003.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_8e0c4e478199da1c52c149fbca283f4ab2edf003.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_4a7f42c618f72c1832df8fda45cdfbd55b02cc0b.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_4a7f42c618f72c1832df8fda45cdfbd55b02cc0b.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_16c1667c35ffb6135a5150c6c444574f0aabbed3.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_16c1667c35ffb6135a5150c6c444574f0aabbed3.600x338.jpg?t=1690379834"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_71a0218f6c6411b1ee19115f8febf9b091312c97.1920x1080.jpg?t=1690379834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371350/ss_71a0218f6c6411b1ee19115f8febf9b091312c97.600x338.jpg?t=1690379834"
+        }
+    ],
+    "short_description": "Run Your Own Beverage Shop !",
+    "steam_appid": 2371350,
+    "support_info": {
+        "email": "",
+        "url": "https://space.bilibili.com/77587699"
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,58 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634810/capsule_231x87.jpg?t=1696812721",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634810/capsule_184x69.jpg?t=1696812721",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Xurzerth"
+    ],
+    "fullgame": {
+        "appid": "2440030",
+        "name": "Crownless Abyss"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634810/header.jpg?t=1696812721",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Crownless Abyss Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "YSY Softworks"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 8, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2634810,
+    "support_info": {
+        "email": "ysysoftworks@gmail.com",
+        "url": "https://xurzerth.com/"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": "https://xurzerth.com/"
+}

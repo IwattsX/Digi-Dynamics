@@ -1,0 +1,116 @@
+{
+    "about_the_game": "Living in a mage tower near small castle with your teacher one day you wake up and see castle attacked by skeletons! Old mage and castle people will not be able to solve big and truly evil force that tries to invade it, but your hidden genius and uncontrollable curiosity was always waiting for a true big start in your life.<br><br><br><strong>CATCH DIFFERENT SKELETONS</strong><br>Catch skeletons by opening portal from your living room to the castle battlefield. You will be able to catch bigger ones when waves will start getting more hostile.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/firstcolumn.gif?t=1681558777\" /><br><br><br><strong>DISCOVER A MINE UNDER THE TOWER</strong><br>Manage your skeletons to mine different ore in underground mines and Discover different parts of tunnels to gain access to more rare ore.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/secondcolumn.gif?t=1681558777\" /><br><br><br><strong>CREATE DIFFERENT MINING EQUIPMENT</strong><br>Create different things using alchemist table to help your skeletons to make them faster and stronger. Stronger skeletons will be able to clear paths to other parts of the mine<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/thirdcolumn.gif?t=1681558777\" /><br><br><br><strong>MANAGE NEIGHBOOR CASTLE</strong><br>Manage transmuted golden coins to help citizens to repair the castle and build better defenses. Which will lead to stronger enemy waves with stronger skeletons.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/fourthcolumn.gif?t=1681558777\" /><br><br><br><strong>DISCOVER UNKNOWN SPELLS</strong><br>Discover new spells by pronouncing them with your voice on rune table. Use spells to enchant skeletons equipment to help them mine really strong ore.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/fifthcolumn.gif?t=1681558777\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/page_bg_generated_v6b.jpg?t=1681558777",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/page.bg.jpg?t=1681558777",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/capsule_231x87.jpg?t=1681558777",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/capsule_184x69.jpg?t=1681558777",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "This game contains some parts that can be considered as violent, such as npc's using weapons and magic against each other, using magic to destroy some game objects such as wooden doors. This part of game is made with regards to plot and doesn't concentrate on violence itself. It is more an indie strategy game with magic items crafting system."
+    },
+    "detailed_description": "Living in a mage tower near small castle with your teacher one day you wake up and see castle attacked by skeletons! Old mage and castle people will not be able to solve big and truly evil force that tries to invade it, but your hidden genius and uncontrollable curiosity was always waiting for a true big start in your life.<br><br><br><strong>CATCH DIFFERENT SKELETONS</strong><br>Catch skeletons by opening portal from your living room to the castle battlefield. You will be able to catch bigger ones when waves will start getting more hostile.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/firstcolumn.gif?t=1681558777\" /><br><br><br><strong>DISCOVER A MINE UNDER THE TOWER</strong><br>Manage your skeletons to mine different ore in underground mines and Discover different parts of tunnels to gain access to more rare ore.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/secondcolumn.gif?t=1681558777\" /><br><br><br><strong>CREATE DIFFERENT MINING EQUIPMENT</strong><br>Create different things using alchemist table to help your skeletons to make them faster and stronger. Stronger skeletons will be able to clear paths to other parts of the mine<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/thirdcolumn.gif?t=1681558777\" /><br><br><br><strong>MANAGE NEIGHBOOR CASTLE</strong><br>Manage transmuted golden coins to help citizens to repair the castle and build better defenses. Which will lead to stronger enemy waves with stronger skeletons.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/fourthcolumn.gif?t=1681558777\" /><br><br><br><strong>DISCOVER UNKNOWN SPELLS</strong><br>Discover new spells by pronouncing them with your voice on rune table. Use spells to enchant skeletons equipment to help them mine really strong ore.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334920/extras/fifthcolumn.gif?t=1681558777\" />",
+    "developers": [
+        "shipscaptainindie"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/header.jpg?t=1681558777",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941305,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941305/movie480.mp4?t=1681558770",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941305/movie_max.mp4?t=1681558770"
+            },
+            "name": "Base Video 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941305/movie.293x165.jpg?t=1681558770",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941305/movie480_vp9.webm?t=1681558770",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941305/movie_max_vp9.webm?t=1681558770"
+            }
+        }
+    ],
+    "name": "Young mage",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows\u00ae XP (32-64 bits) /Windows Vista\u00ae(32-64 bits)/Windows 7\u00ae (32-64 bits)<br></li><li><strong>Processor:</strong> Intel Core\u00ae 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB DirectX\u00ae 9.0\u2013compliant card with Shader Model 3.0 or higher<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "shipscaptainindie"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_2d71e0238f6938176c70a117c74ee9dae6ddbc90.1920x1080.jpg?t=1681558777",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_2d71e0238f6938176c70a117c74ee9dae6ddbc90.600x338.jpg?t=1681558777"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_5165bf07c5e2e4bfddc8122c18b79e2996426f0b.1920x1080.jpg?t=1681558777",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_5165bf07c5e2e4bfddc8122c18b79e2996426f0b.600x338.jpg?t=1681558777"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_3335d49cfa497b7a3908687705bdb2fcc9f4813e.1920x1080.jpg?t=1681558777",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_3335d49cfa497b7a3908687705bdb2fcc9f4813e.600x338.jpg?t=1681558777"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_3ab8d5146d5e19a193c54a7e61f460cc3cdf34b9.1920x1080.jpg?t=1681558777",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_3ab8d5146d5e19a193c54a7e61f460cc3cdf34b9.600x338.jpg?t=1681558777"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_64e4e2f73461d5814ebb378d3758e194fef10a21.1920x1080.jpg?t=1681558777",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334920/ss_64e4e2f73461d5814ebb378d3758e194fef10a21.600x338.jpg?t=1681558777"
+        }
+    ],
+    "short_description": "Skeletons are attacking nearby castle, catch them through the portal and assign to mine ore in your tower! Use collected materials to defend the castle and Craft better equipment for your workers! Help villagers to unveil evil behind the skeletons ambush!",
+    "steam_appid": 2334920,
+    "support_info": {
+        "email": "shipsfixeshotline@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Greek, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese, Turkish, Ukrainian, Slovak<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

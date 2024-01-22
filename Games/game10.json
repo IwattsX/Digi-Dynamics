@@ -1,0 +1,148 @@
+{
+    "about_the_game": "A security system failure occurred at a high-budget robotic technology factory. You, Elon, are the only one who will have to personally eliminate the results of an error in a seemingly well-functioning robot production program. Your path runs through the entire Silicon Valley guarded by ever-watchful combat units. Armed with only your trusty pistol, you will meet each of your creations as an engineering genius.<br />\r\n<br />\r\nRogueMusk is a fast-paced action shooter with a third-person view in a cybersecurity setting. While running vast distances, collect scattered particles of matter, pick up temporary upgrades and conduct targeted fire at the sentry droids. Buy upgrades for your pistol and carefully watch your step amidst all this chaos.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/page_bg_generated_v6b.jpg?t=1702368275",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/page_bg_generated.jpg?t=1702368275",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/capsule_231x87.jpg?t=1702368275",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/capsule_184x69.jpg?t=1702368275",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A security system failure occurred at a high-budget robotic technology factory. You, Elon, are the only one who will have to personally eliminate the results of an error in a seemingly well-functioning robot production program. Your path runs through the entire Silicon Valley guarded by ever-watchful combat units. Armed with only your trusty pistol, you will meet each of your creations as an engineering genius.<br />\r\n<br />\r\nRogueMusk is a fast-paced action shooter with a third-person view in a cybersecurity setting. While running vast distances, collect scattered particles of matter, pick up temporary upgrades and conduct targeted fire at the sentry droids. Buy upgrades for your pistol and carefully watch your step amidst all this chaos.",
+    "developers": [
+        "mexdi"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/header.jpg?t=1702368275",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975971,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975971/movie480.mp4?t=1697722092",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975971/movie_max.mp4?t=1697722092"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975971/movie.293x165.jpg?t=1697722092",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975971/movie480_vp9.webm?t=1697722092",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975971/movie_max_vp9.webm?t=1697722092"
+            }
+        }
+    ],
+    "name": "RogueMusk",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RogueMusk - $49.99",
+                    "packageid": 950405,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy RogueMusk"
+        }
+    ],
+    "packages": [
+        950405
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows\u00ae 7 or newer<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450 / AMD Radeon HD 5570 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 130 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible<br></li><li><strong>Additional Notes:</strong> Keyboard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "mexdi"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 4, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_3f8dc65a57b72919ccb00c5695f4c431be9e002c.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_3f8dc65a57b72919ccb00c5695f4c431be9e002c.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_61d35e9348289a468f229be578219757ba93615a.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_61d35e9348289a468f229be578219757ba93615a.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_1c5ba94209ed1de0a8dc5652090314b818201384.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_1c5ba94209ed1de0a8dc5652090314b818201384.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_4849419e1b53089a2d5ddc3af8d2d81ab971c836.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_4849419e1b53089a2d5ddc3af8d2d81ab971c836.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_67d01f3b5bb5817b8624e990587a38ac9e2ecce2.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_67d01f3b5bb5817b8624e990587a38ac9e2ecce2.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_547f762bcef070bde6a325c239f7641041b3ead5.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_547f762bcef070bde6a325c239f7641041b3ead5.600x338.jpg?t=1702368275"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_622f3d0df3b885e04f81b9a589d038a6813eca31.1920x1080.jpg?t=1702368275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651690/ss_622f3d0df3b885e04f81b9a589d038a6813eca31.600x338.jpg?t=1702368275"
+        }
+    ],
+    "short_description": "RogueMusk is a fast-paced action shooter with a third-person view in a cybersecurity setting. While running vast distances, collect scattered particles of matter, pick up temporary upgrades and conduct targeted fire at the sentry droids. Buy upgrades for your pistol and carefully watch your step.",
+    "steam_appid": 2651690,
+    "support_info": {
+        "email": "soleonboardgames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

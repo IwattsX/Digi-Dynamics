@@ -1,0 +1,103 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Information</h2>Explore the unique sounds of the '90s and retro ambiance with the DLC Soundtrack for &quot;Another Hardest Game.&quot; This musical collection will transport you back to the golden era of gaming, offering captivating compositions that perfectly complement the intensity of the challenges. Immerse yourself deeper into the game's atmosphere with nostalgia echoed in every sound. Feel the pulse of retro gaming with every step as you achieve milestones and conquer new levels. The DLC Soundtrack is not just music; it's a journey into the past, filled with the energy of the '90s and the pure joy of gaming. Discover new dimensions of sound and enhance your adventure in &quot;Another Hardest Game&quot; with this unforgettable musical collection.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/page_bg_generated_v6b.jpg?t=1703101093",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/page_bg_generated.jpg?t=1703101093",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/capsule_231x87.jpg?t=1703101093",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/capsule_184x69.jpg?t=1703101093",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Information</h2>Explore the unique sounds of the '90s and retro ambiance with the DLC Soundtrack for &quot;Another Hardest Game.&quot; This musical collection will transport you back to the golden era of gaming, offering captivating compositions that perfectly complement the intensity of the challenges. Immerse yourself deeper into the game's atmosphere with nostalgia echoed in every sound. Feel the pulse of retro gaming with every step as you achieve milestones and conquer new levels. The DLC Soundtrack is not just music; it's a journey into the past, filled with the energy of the '90s and the pure joy of gaming. Discover new dimensions of sound and enhance your adventure in &quot;Another Hardest Game&quot; with this unforgettable musical collection.",
+    "developers": [
+        "RetroAirem",
+        "Airem"
+    ],
+    "fullgame": {
+        "appid": "2735000",
+        "name": "Another Hardest Game"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/header.jpg?t=1703101093",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Another Hardest Game Soundtrack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Airem"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_ae0dfa0a5b8a77f718b256142139f0a4fd635878.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_ae0dfa0a5b8a77f718b256142139f0a4fd635878.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_b3d716a37813de3e25f90d1d6764805883d4b3b4.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_b3d716a37813de3e25f90d1d6764805883d4b3b4.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_683c2c90eba48c3af91c7f2c2f5478c0d4816fb4.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_683c2c90eba48c3af91c7f2c2f5478c0d4816fb4.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_5476cf5a7a7365cb94be036198d3c1f488c777a3.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_5476cf5a7a7365cb94be036198d3c1f488c777a3.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_b5a3c50127b157fc8d208fee1fd7246eb056a53a.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_b5a3c50127b157fc8d208fee1fd7246eb056a53a.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_56d71e01626035014993f68a38e9fbb7539e3534.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_56d71e01626035014993f68a38e9fbb7539e3534.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_29f82b9b0dedd89828f0fa32352e297e76bd1cf5.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_29f82b9b0dedd89828f0fa32352e297e76bd1cf5.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_f74aedc7f3250b1ba7a9c3c08de75314d86e2d90.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_f74aedc7f3250b1ba7a9c3c08de75314d86e2d90.600x338.jpg?t=1703101093"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_7b1789553ceaf056b4ab8b7adfacbff2c354e2d7.1920x1080.jpg?t=1703101093",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735050/ss_7b1789553ceaf056b4ab8b7adfacbff2c354e2d7.600x338.jpg?t=1703101093"
+        }
+    ],
+    "short_description": "Explore the unique sounds of the '90s and retro ambiance with the DLC Soundtrack for &quot;Another Hardest Game.&quot; This musical collection will transport you back to the golden era of gaming,",
+    "steam_appid": 2735050,
+    "support_info": {
+        "email": "info@airem.pl",
+        "url": "https://airem.pl"
+    },
+    "type": "music",
+    "website": null
+}

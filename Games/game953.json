@@ -1,0 +1,88 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Included in the demo:</h2>Game mode: Campaign<br>Mission: Trailblazer<br>Boss: Monarch<br>Champion: Sentinel<br>Enemy types: Swarmer, Driller, Digger, Protector, Exploder, Energizer, Oiler, Collector, Charged Collector<br>Equipment: 12 Weapons, 12 Modifiers.<br>Upgrades: Strictly limited<br>Quests: Turret, Flamer, Drill, Shielder, Hive<br>Loadout: Gun, Empyrean Sledge, Soldier<h2 class=\"bb_tag\">About HiveCorp</h2>Become an unstoppable force and survive endless waves of enemies in this unforgiving action rogue-lite auto-shooter.<br>Unlock new equipment and upgrade your stats to keep pushing the limit of how long you can survive.<h2 class=\"bb_tag\">About Counterspell studios</h2>Counterspell Studios is a small two-man indie studio based in Stockholm, Sweden. We love playing games as much as we love making them. <br><br>We're now on a mission to build up our own indie studio and figured that the best way in doing so, is from the ground up. That's how we got started on making our very first game HiveCorp!<br><br>HiveCorp has been developed on our spare time during 2022-2023. We hope you will love it as much as we loved making it!<br><br>If you do like it, you can wishlist it on Steam or send us a donation here on itch. We need every bit of help we can get to reach out and continue making games! And hopefully one day in the future do this full-time.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/page_bg_generated_v6b.jpg?t=1682106806",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/page_bg_generated.jpg?t=1682106806",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/capsule_231x87.jpg?t=1682106806",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/capsule_184x69.jpg?t=1682106806",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h2 class=\"bb_tag\">Included in the demo:</h2>Game mode: Campaign<br>Mission: Trailblazer<br>Boss: Monarch<br>Champion: Sentinel<br>Enemy types: Swarmer, Driller, Digger, Protector, Exploder, Energizer, Oiler, Collector, Charged Collector<br>Equipment: 12 Weapons, 12 Modifiers.<br>Upgrades: Strictly limited<br>Quests: Turret, Flamer, Drill, Shielder, Hive<br>Loadout: Gun, Empyrean Sledge, Soldier<h2 class=\"bb_tag\">About HiveCorp</h2>Become an unstoppable force and survive endless waves of enemies in this unforgiving action rogue-lite auto-shooter.<br>Unlock new equipment and upgrade your stats to keep pushing the limit of how long you can survive.<h2 class=\"bb_tag\">About Counterspell studios</h2>Counterspell Studios is a small two-man indie studio based in Stockholm, Sweden. We love playing games as much as we love making them. <br><br>We're now on a mission to build up our own indie studio and figured that the best way in doing so, is from the ground up. That's how we got started on making our very first game HiveCorp!<br><br>HiveCorp has been developed on our spare time during 2022-2023. We hope you will love it as much as we loved making it!<br><br>If you do like it, you can wishlist it on Steam or send us a donation here on itch. We need every bit of help we can get to reach out and continue making games! And hopefully one day in the future do this full-time.",
+    "developers": [
+        "Counterspell Studios"
+    ],
+    "fullgame": {
+        "appid": "2270120",
+        "name": "HiveCorp"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/header.jpg?t=1682106806",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "HiveCorp Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce MX150, 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> INTEL. AMD 4 cores CPU at 3Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 980, 4GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Counterspell Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_61ab2fb2d7bbc99a02ded2e7030fd2e1410fa0ae.1920x1080.jpg?t=1682106806",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_61ab2fb2d7bbc99a02ded2e7030fd2e1410fa0ae.600x338.jpg?t=1682106806"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_d12e2ae4b4d390818c922bfd3a12f97efb1ccab7.1920x1080.jpg?t=1682106806",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_d12e2ae4b4d390818c922bfd3a12f97efb1ccab7.600x338.jpg?t=1682106806"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_76157da2ac68d9858f526300df153b943daa52ec.1920x1080.jpg?t=1682106806",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_76157da2ac68d9858f526300df153b943daa52ec.600x338.jpg?t=1682106806"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_31e325c793f7076644bb56c087d05dc9c1cdec54.1920x1080.jpg?t=1682106806",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401940/ss_31e325c793f7076644bb56c087d05dc9c1cdec54.600x338.jpg?t=1682106806"
+        }
+    ],
+    "short_description": "Join the HiveCorp mercenaries in their fight against an onslaught of enemies in this action rogue-lite auto-shooter. Avoid enemies, level up and combine powerful weapons and equipment to survive.",
+    "steam_appid": 2401940,
+    "support_info": {
+        "email": "support@counterspellstudios.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

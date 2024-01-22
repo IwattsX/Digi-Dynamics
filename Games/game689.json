@@ -1,0 +1,229 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF01.gif?t=1705419013\" /><br>The year is 50 BC. Gaul is entirely occupied by the Romans. Well, not entirely... One small village of indomitable Gauls still holds out against the invaders.<h2 class=\"bb_tag\"><u>USE YOUR CARDS INSTEAD OF YOUR FISTS</u></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF02.gif?t=1705419013\" /><br><strong>In this game, designed to delight both fans of deck building and of the Asterix series, you can build a deck of 30 cards from the 150 available in the game.</strong><br> <br>Each card in your deck can be used to advance your strategy, from inflicting heavy damage with a menhir to healing a hero with one of Getafix's potions! It's up to you to adapt to each round, make the right choices and create combos that are as unexpected as they are devastating, by mixing, for example, the famous frenemies Unhygienix and Fulliautomatix.<h2 class=\"bb_tag\"><u>ASTERIX, OBELIX\u2026 AND OVER 20 ICONIC CHARACTERS FROM THE COMIC</u></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF03.gif?t=1705419013\" /><br><strong>Asterix et Obelix are here, of course, and so is the entire village and their friends, all ready to set off on an adventure. Cacofonix the bard, the faithful Dogmatix, Unhygienix the fishmonger and even Queen Cleopatra: they're all ready to fight!</strong> <br><br>Unlock up to 24 heroes as you adventure through all the different regions. Each character has unique characteristics and an ultimate skill.  Asterix's &quot;&quot;Born Rebel&quot;&quot; skill, for example, works best against the Romans, making their attacks less precise, while Dogmatix uses &quot;&quot;Mark Territory&quot;&quot;, which terrifies opponents and completely stuns animals! So make sure you choose the right hero for the right enemy.<h2 class=\"bb_tag\"><u>THE TREASURE OF TOUTATIS</u></h2><br><strong>The village is again under threat\u2026 Caesar is seeking a treasure that will enable him to (really) conquer ALL Gaul.</strong><br><br>Asterix, Obelix and their friends have to find it before he does in order to foil his plan. But be careful, the path ahead is fraught with peril: in each chapter you choose your route and combat, find treasure and avoid many obstacles. Use your cards wisely to avoid the traps set by the Romans. You will travel across 6 regions well known to fans of the series while you take on the Roman legions, of course, as well as the pirates, Egyptians, Vikings, and even wild animals.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First Steps of a long journey",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/fc0c316dd13cb70329442ff905d3c8482f3e2bd2.jpg"
+            },
+            {
+                "name": "Complete Adventure Gaul",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/3660b6502edba23f3292beb951f96752eda827f5.jpg"
+            },
+            {
+                "name": "Complete Adventure Carnute Forest",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/d851944eef4cfb4b725c69ea3253c5b3ec487c33.jpg"
+            },
+            {
+                "name": "Complete Adventure Egypt",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/8fbc063f4435dbe1016a9e8b9abf838d1a5b3764.jpg"
+            },
+            {
+                "name": "Complete Adventure Britain",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/1932bc78d4efe69b6c2bdec21390ab0577c4f7f9.jpg"
+            },
+            {
+                "name": "Complete Adventure Land of the North",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/09e4fbd65ea5a8d9a11821dd6dc78a410896d016.jpg"
+            },
+            {
+                "name": "Complete Adventure Rome",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/54156dbeacbe008be1ee3c092cb6ad5b653496c2.jpg"
+            },
+            {
+                "name": "Victory is ours",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/67c892e49acc27a1e25a032931b51ac4a815175a.jpg"
+            },
+            {
+                "name": "Nothing is holding you back",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/13850d5569070c2bfa085218268ca04e516c5457.jpg"
+            },
+            {
+                "name": "Play with fire",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2374090/58ea22e072b05d6ca87a68f21b965182df5b03e6.jpg"
+            }
+        ],
+        "total": 22
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/page_bg_generated_v6b.jpg?t=1705419013",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/page.bg.jpg?t=1705419013",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/capsule_231x87.jpg?t=1705419013",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/capsule_184x69.jpg?t=1705419013",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF01.gif?t=1705419013\" /><br>The year is 50 BC. Gaul is entirely occupied by the Romans. Well, not entirely... One small village of indomitable Gauls still holds out against the invaders.<h2 class=\"bb_tag\"><u>USE YOUR CARDS INSTEAD OF YOUR FISTS</u></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF02.gif?t=1705419013\" /><br><strong>In this game, designed to delight both fans of deck building and of the Asterix series, you can build a deck of 30 cards from the 150 available in the game.</strong><br> <br>Each card in your deck can be used to advance your strategy, from inflicting heavy damage with a menhir to healing a hero with one of Getafix's potions! It's up to you to adapt to each round, make the right choices and create combos that are as unexpected as they are devastating, by mixing, for example, the famous frenemies Unhygienix and Fulliautomatix.<h2 class=\"bb_tag\"><u>ASTERIX, OBELIX\u2026 AND OVER 20 ICONIC CHARACTERS FROM THE COMIC</u></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2374090/extras/GIF03.gif?t=1705419013\" /><br><strong>Asterix et Obelix are here, of course, and so is the entire village and their friends, all ready to set off on an adventure. Cacofonix the bard, the faithful Dogmatix, Unhygienix the fishmonger and even Queen Cleopatra: they're all ready to fight!</strong> <br><br>Unlock up to 24 heroes as you adventure through all the different regions. Each character has unique characteristics and an ultimate skill.  Asterix's &quot;&quot;Born Rebel&quot;&quot; skill, for example, works best against the Romans, making their attacks less precise, while Dogmatix uses &quot;&quot;Mark Territory&quot;&quot;, which terrifies opponents and completely stuns animals! So make sure you choose the right hero for the right enemy.<h2 class=\"bb_tag\"><u>THE TREASURE OF TOUTATIS</u></h2><br><strong>The village is again under threat\u2026 Caesar is seeking a treasure that will enable him to (really) conquer ALL Gaul.</strong><br><br>Asterix, Obelix and their friends have to find it before he does in order to foil his plan. But be careful, the path ahead is fraught with peril: in each chapter you choose your route and combat, find treasure and avoid many obstacles. Use your cards wisely to avoid the traps set by the Romans. You will travel across 6 regions well known to fans of the series while you take on the Roman legions, of course, as well as the pirates, Egyptians, Vikings, and even wild animals.",
+    "developers": [
+        "Gamexcite"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/header.jpg?t=1705419013",
+    "is_free": false,
+    "legal_notice": "Asterix & Obelix: Heroes \u00a92023 NACON S.A.. Published by NACON and developed by gameXcite GmbH. All rights reserved.<br />\r\nASTERIX\u00ae - OBELIX\u00ae - IDEFIX\u00ae / \u00a92023 LES \u00c9DITIONS ALBERT REN\u00c9 / GOSCINNY - UDERZO",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256974507,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974507/movie480.mp4?t=1696846197",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974507/movie_max.mp4?t=1696846197"
+            },
+            "name": "Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256974507/movie.293x165.jpg?t=1696846197",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974507/movie480_vp9.webm?t=1696846197",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974507/movie_max_vp9.webm?t=1696846197"
+            }
+        }
+    ],
+    "name": "Asterix & Obelix: Heroes",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Asterix & Obelix: Heroes - $19.99",
+                    "packageid": 853610,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Asterix & Obelix: Heroes"
+        }
+    ],
+    "packages": [
+        853610
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 4130T (2.9 GHz) / AMD Ryzen 3 2200G (3.5 GHz)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4400 (128 MB) / AMD Vega 8 (512 MB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1.5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i3 8100 (3.6 GHz) / AMD Ryzen 3 2200G (3.5 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 (4 GB) / AMD R9 290X (4 GB)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 1.5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Nacon"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 5, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_c6d289f9d95c2a86140d8d06ebbaed9dfb793a35.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_c6d289f9d95c2a86140d8d06ebbaed9dfb793a35.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_d64cfaae858d0b702e86a1e29d62860e21eaa3fc.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_d64cfaae858d0b702e86a1e29d62860e21eaa3fc.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_a121deaf4fc8359fe60197571d27488335cf939e.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_a121deaf4fc8359fe60197571d27488335cf939e.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_3658f8df8f71e4a4fcafab2bc658c048f9fb32f5.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_3658f8df8f71e4a4fcafab2bc658c048f9fb32f5.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_deb40e2458face788f811df4e7e8d3d639d70fd8.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_deb40e2458face788f811df4e7e8d3d639d70fd8.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_4227ab9ad02ba0aaef837d6cbf2e1cb7d368453c.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_4227ab9ad02ba0aaef837d6cbf2e1cb7d368453c.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_2a353f1da78374e9d76ed8decd4d46f31daf7da2.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_2a353f1da78374e9d76ed8decd4d46f31daf7da2.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_208f1c810a8958c67e5a2c5a0204c59e5ec54b8e.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_208f1c810a8958c67e5a2c5a0204c59e5ec54b8e.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_099498380053324077657f2e478a10bd93ee18c0.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_099498380053324077657f2e478a10bd93ee18c0.600x338.jpg?t=1705419013"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_15281780ab672228c4f3d2aeef0af14fe5cc28a3.1920x1080.jpg?t=1705419013",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2374090/ss_15281780ab672228c4f3d2aeef0af14fe5cc28a3.600x338.jpg?t=1705419013"
+        }
+    ],
+    "short_description": "Original gameplay combining deck building and turn-based combat. 24 heroes from the comic series available for you in this original adventure. To foil Caesar's plans, upgrade your deck and make the right tactical decisions!",
+    "steam_appid": 2374090,
+    "support_info": {
+        "email": "support@asterix-et-obelix-heroes.zendesk.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+    "type": "game",
+    "website": null
+}

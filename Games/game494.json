@@ -1,0 +1,159 @@
+{
+    "about_the_game": "<strong>THE BATTLE BEGINS!</strong><br>Capture cities and destroy enemy tanks in breathtaking firefights.<br>Protect your comrades from attacking enemies.<br>To defeat a dangerous enemy, come up with a plan of action in advance to destroy as many enemies as possible with less loss...<br><br><strong>FEATURES:</strong><br><ul class=\"bb_ul\"><li>Beautiful graphics (in cartoon style)</li></ul> <ul class=\"bb_ul\"><li>Realistic sounds</li></ul> <ul class=\"bb_ul\"><li>Different tanks</li></ul> <ul class=\"bb_ul\"><li>Different battle maps: Cities, Fields, Villages</li></ul> <ul class=\"bb_ul\"><li>Team fight (Player + AI)</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/page_bg_generated_v6b.jpg?t=1679314504",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/page.bg.jpg?t=1679314504",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/capsule_231x87.jpg?t=1679314504",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/capsule_184x69.jpg?t=1679314504",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>THE BATTLE BEGINS!</strong><br>Capture cities and destroy enemy tanks in breathtaking firefights.<br>Protect your comrades from attacking enemies.<br>To defeat a dangerous enemy, come up with a plan of action in advance to destroy as many enemies as possible with less loss...<br><br><strong>FEATURES:</strong><br><ul class=\"bb_ul\"><li>Beautiful graphics (in cartoon style)</li></ul> <ul class=\"bb_ul\"><li>Realistic sounds</li></ul> <ul class=\"bb_ul\"><li>Different tanks</li></ul> <ul class=\"bb_ul\"><li>Different battle maps: Cities, Fields, Villages</li></ul> <ul class=\"bb_ul\"><li>Team fight (Player + AI)</li></ul>",
+    "developers": [
+        "SP GAMES"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/header.jpg?t=1679314504",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256934822,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934822/movie480.mp4?t=1678388326",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934822/movie_max.mp4?t=1678388326"
+            },
+            "name": "Battle Tanks: Arena Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256934822/movie.293x165.jpg?t=1678388326",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934822/movie480_vp9.webm?t=1678388326",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934822/movie_max_vp9.webm?t=1678388326"
+            }
+        }
+    ],
+    "name": "Battle Tanks: Arena",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Battle Tanks: Arena - <span class=\"discount_original_price\">$1.99</span> $0.69",
+                    "packageid": 839601,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-65% ",
+                    "price_in_cents_with_discount": 69
+                }
+            ],
+            "title": "Buy Battle Tanks: Arena"
+        }
+    ],
+    "packages": [
+        839601
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10, 11<br></li><li><strong>Processor:</strong> Pentium\uff08R\uff09Core E2210@2.20GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 9800GTX+ (1GB)<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10, 11<br></li><li><strong>Processor:</strong> Intel Core i3 or better processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 65,
+        "final": 69,
+        "final_formatted": "$0.69",
+        "initial": 199,
+        "initial_formatted": "$1.99"
+    },
+    "publishers": [
+        "SP GAMES"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_3e231a3f18a4f50eab51ba721c543d99e588f7c9.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_3e231a3f18a4f50eab51ba721c543d99e588f7c9.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_38f570076f693dcf0915ab896308e7f7ddd52580.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_38f570076f693dcf0915ab896308e7f7ddd52580.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_ff88366e0ff37b10d566c7e0a0a91b16f80fcddd.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_ff88366e0ff37b10d566c7e0a0a91b16f80fcddd.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_4cea4917918b679b3622499d10cdb5f596b2b255.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_4cea4917918b679b3622499d10cdb5f596b2b255.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_3c65773a2596e861c20c2c28e4a45b78e6aa753f.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_3c65773a2596e861c20c2c28e4a45b78e6aa753f.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_1893d5faeaf86620da9660d90d37e91680d377a0.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_1893d5faeaf86620da9660d90d37e91680d377a0.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_be874802412929c64a045bc3aeeb7144b4072da9.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_be874802412929c64a045bc3aeeb7144b4072da9.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_fe4fb926b7c71b6faf610d1abb4939d5b2c8f9e8.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_fe4fb926b7c71b6faf610d1abb4939d5b2c8f9e8.600x338.jpg?t=1679314504"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_45f1a896a3230df2ef6ac7c7bef169dde2a895cd.1920x1080.jpg?t=1679314504",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337690/ss_45f1a896a3230df2ef6ac7c7bef169dde2a895cd.600x338.jpg?t=1679314504"
+        }
+    ],
+    "short_description": "Capture cities and destroy enemy tanks in breathtaking firefights. Protect your comrades from attacking enemies. To defeat a dangerous enemy, come up with a plan of action in advance to destroy as many enemies as possible with less loss...",
+    "steam_appid": 2337690,
+    "support_info": {
+        "email": "",
+        "url": "https://www.facebook.com/sp.games.steam"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.facebook.com/sp.games.steam"
+}

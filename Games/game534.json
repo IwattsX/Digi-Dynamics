@@ -1,0 +1,148 @@
+{
+    "about_the_game": "Get 5 entry-level heroes covering all the fighting styles!<br />\r\nContent included\uff1a<br />\r\nHeroes -Macalon, Seaya, Heracles, Cupid, Sandy<br />\r\n<br />\r\nIf you already own some of these heroes when you purchase this DLC, you will receive an equal number of repeated heroes in Aura Chest as a bonus switch.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/page_bg_generated_v6b.jpg?t=1682471033",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/page_bg_generated.jpg?t=1682471033",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/capsule_231x87.jpg?t=1682471033",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/capsule_184x69.jpg?t=1682471033",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Get 5 entry-level heroes covering all the fighting styles!<br />\r\nContent included\uff1a<br />\r\nHeroes -Macalon, Seaya, Heracles, Cupid, Sandy<br />\r\n<br />\r\nIf you already own some of these heroes when you purchase this DLC, you will receive an equal number of repeated heroes in Aura Chest as a bonus switch.",
+    "developers": [
+        "XD"
+    ],
+    "fullgame": {
+        "appid": "1799370",
+        "name": "Flash Party"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/header.jpg?t=1682471033",
+    "is_free": false,
+    "legal_notice": "\u00a9 XD Inc.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Flash Party - Starter Edition",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Flash Party - Starter Edition - $24.99",
+                    "packageid": 839507,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2499
+                }
+            ],
+            "title": "Buy Flash Party - Starter Edition"
+        }
+    ],
+    "packages": [
+        839507
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 / AMD Ryzen 5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 960<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 / AMD Ryzen 5<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2499,
+        "final_formatted": "$24.99",
+        "initial": 2499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "XD"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/ss_fe763ab6c5f9d35b747741cdde1b22b7329abfdc.1920x1080.jpg?t=1682471033",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337410/ss_fe763ab6c5f9d35b747741cdde1b22b7329abfdc.600x338.jpg?t=1682471033"
+        }
+    ],
+    "short_description": "Get 5 entry-level heroes covering all the fighting styles! Content included\uff1a Heroes -Macalon, Seaya, Heracles, Cupid, Sandy",
+    "steam_appid": 2337410,
+    "support_info": {
+        "email": "enquiry@xd.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://fp.xd.com"
+}

@@ -1,0 +1,204 @@
+{
+    "about_the_game": "The winds of the frozen wasteland are calling.  Sender is an atmospheric horror game in which you operate an aging arctic exploration vehicle as dusk settles into the dead of night.<br><br>Sent on a solo journey to locate the missing driver of the previous expedition, follow power lines and landmarks to figure out what happened. They say the tundra is watching, so be careful not to stray from the path...<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li><strong>Driving simulation gameplay</strong>. Explore using an aging vehicle.<br></li><li><strong>Paranoia, dread, and claustrophobia</strong> drench the world of Sender.<br></li><li><strong>Hidden locations and lore</strong> to uncover across the tundra.<br></li><li><strong>An original soundtrack</strong> haunts the game's atmosphere.<br></li><li><strong>90s era 3D graphics</strong> with a modern flair.<br></li><li><strong>A bite-sized experience</strong> intended to last around an hour.</li></ul>",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Beacons",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/5781c1e375c5d5948c42a7ddf4b2340c5eb76b7f.jpg"
+            },
+            {
+                "name": "From Ages Beyond",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/6cf26f66d7532757f4383bf0e5be1659cf5d4433.jpg"
+            },
+            {
+                "name": "Mission Complete",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/2b358c6d4a030613f80d8f6b68bd25f3568492b3.jpg"
+            },
+            {
+                "name": "Distracted Driver",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/cf7aa8f3e4f7e1a91f502528475daf843f9991c7.jpg"
+            },
+            {
+                "name": "Survival Policy Violation",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/5daa5dc020c5cad13497fa175ef7edfc8d9c472d.jpg"
+            },
+            {
+                "name": "Not a Dent",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/96f456a6f6bb7e307d59efa11263db7187b9bb95.jpg"
+            },
+            {
+                "name": "Just a Scratch",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371220/5eff079cfa1076a8f3ef8237bb054f7a345bc4cc.jpg"
+            }
+        ],
+        "total": 7
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/page_bg_generated_v6b.jpg?t=1695693496",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/page.bg.jpg?t=1695693496",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/capsule_231x87.jpg?t=1695693496",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/capsule_184x69.jpg?t=1695693496",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play on TV",
+            "id": 43
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "The winds of the frozen wasteland are calling.  Sender is an atmospheric horror game in which you operate an aging arctic exploration vehicle as dusk settles into the dead of night.<br><br>Sent on a solo journey to locate the missing driver of the previous expedition, follow power lines and landmarks to figure out what happened. They say the tundra is watching, so be careful not to stray from the path...<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li><strong>Driving simulation gameplay</strong>. Explore using an aging vehicle.<br></li><li><strong>Paranoia, dread, and claustrophobia</strong> drench the world of Sender.<br></li><li><strong>Hidden locations and lore</strong> to uncover across the tundra.<br></li><li><strong>An original soundtrack</strong> haunts the game's atmosphere.<br></li><li><strong>90s era 3D graphics</strong> with a modern flair.<br></li><li><strong>A bite-sized experience</strong> intended to last around an hour.</li></ul>",
+    "developers": [
+        "The Rat Zone"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/header.jpg?t=1695693496",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256949350,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256949350/movie480.mp4?t=1685501456",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256949350/movie_max.mp4?t=1685501456"
+            },
+            "name": "Steam Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256949350/movie.293x165.jpg?t=1685501456",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256949350/movie480_vp9.webm?t=1685501456",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256949350/movie_max_vp9.webm?t=1685501456"
+            }
+        }
+    ],
+    "name": "Sender",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Sender - $4.99",
+                    "packageid": 852495,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Sender"
+        }
+    ],
+    "packages": [
+        852495
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-4790<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 760<br></li><li><strong>Storage:</strong> 260 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-7700<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 960<br></li><li><strong>Storage:</strong> 260 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "The Rat Zone"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_5cc130eabccf79b9b331177ec8447d6970bb7f7c.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_5cc130eabccf79b9b331177ec8447d6970bb7f7c.600x338.jpg?t=1695693496"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_9ea720802fdb122adeb9f6d654b2294144d5c78c.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_9ea720802fdb122adeb9f6d654b2294144d5c78c.600x338.jpg?t=1695693496"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_f34c76d11f21106d86b507708b498a0934586874.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_f34c76d11f21106d86b507708b498a0934586874.600x338.jpg?t=1695693496"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_5853be312704c800cd4174dcb98dcae939846f8f.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_5853be312704c800cd4174dcb98dcae939846f8f.600x338.jpg?t=1695693496"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_bc518c29242e2529cc9e8b0358b103788157abe7.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_bc518c29242e2529cc9e8b0358b103788157abe7.600x338.jpg?t=1695693496"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_04d6149839edfcfe87db7d98279051b858fc3ecb.1920x1080.jpg?t=1695693496",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371220/ss_04d6149839edfcfe87db7d98279051b858fc3ecb.600x338.jpg?t=1695693496"
+        }
+    ],
+    "short_description": "The winds of the frozen wasteland are calling in this atmospheric horror game. Operate an aging vehicle to locate the missing driver of the previous expedition. Be careful not to stray from the path...",
+    "steam_appid": 2371220,
+    "support_info": {
+        "email": "support@therat.zone",
+        "url": "https://therat.zone/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

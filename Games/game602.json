@@ -1,0 +1,146 @@
+{
+    "about_the_game": "Can you conquer the world of Bullet Hell? Explore 120 levels to discover new equipment, weapons, races, and classes. Choose from a combination of equipment, weapons, races and classes to arm yourself against the horde of over 900 combinations of minions and bosses.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/page_bg_generated_v6b.jpg?t=1685129551",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/page.bg.jpg?t=1685129551",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/capsule_231x87.jpg?t=1685129551",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/capsule_184x69.jpg?t=1685129551",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Can you conquer the world of Bullet Hell? Explore 120 levels to discover new equipment, weapons, races, and classes. Choose from a combination of equipment, weapons, races and classes to arm yourself against the horde of over 900 combinations of minions and bosses.",
+    "developers": [
+        "Tsaongames"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/header.jpg?t=1685129551",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932732,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932732/movie480.mp4?t=1677697685",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932732/movie_max.mp4?t=1677697685"
+            },
+            "name": "BBHRPG Official Steam Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932732/movie.293x165.jpg?t=1677697685",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932732/movie480_vp9.webm?t=1677697685",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932732/movie_max_vp9.webm?t=1677697685"
+            }
+        }
+    ],
+    "name": "Brutal Bullet Hell RPG",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Brutal Bullet Hell RPG - $4.99",
+                    "packageid": 838984,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Brutal Bullet Hell RPG"
+        }
+    ],
+    "packages": [
+        838984
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft\u00ae Windows\u00ae XP / Vista / 7 (32-bit/64-bit)<br></li><li><strong>Processor:</strong> Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM MB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "None"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 20, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_acf659dab4160e9108d01d0687daa941a8da9dfb.1920x1080.jpg?t=1685129551",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_acf659dab4160e9108d01d0687daa941a8da9dfb.600x338.jpg?t=1685129551"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_9299f90c41b03ec5723aafe87881cf554b7472ba.1920x1080.jpg?t=1685129551",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_9299f90c41b03ec5723aafe87881cf554b7472ba.600x338.jpg?t=1685129551"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_edcdebfa4222cc4d76258ec8014cfb4c9b632626.1920x1080.jpg?t=1685129551",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_edcdebfa4222cc4d76258ec8014cfb4c9b632626.600x338.jpg?t=1685129551"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_995abf3fd292d2b31004306fb144b0c7cc4ef384.1920x1080.jpg?t=1685129551",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_995abf3fd292d2b31004306fb144b0c7cc4ef384.600x338.jpg?t=1685129551"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_14ed9220d7cbe7db40fc8d9c6f6737620e3a9988.1920x1080.jpg?t=1685129551",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335920/ss_14ed9220d7cbe7db40fc8d9c6f6737620e3a9988.600x338.jpg?t=1685129551"
+        }
+    ],
+    "short_description": "Avoid, fail, and rage, as you attempt to progress through the Brutal Bullet Hell.",
+    "steam_appid": 2335920,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

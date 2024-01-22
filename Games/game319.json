@@ -1,0 +1,113 @@
+{
+    "about_the_game": "Immortal Emptiness is a first-person shooter with roguelike elements in which you get to navigate a deathless post-apocalyptic world and fight endless battles against nightmarish foes all the while you shape your own journey with each choice you make on the battlefield. <br />\r\nExplore, fight and unravel the mysteries of a world where mortality is but a fleeting concept and each death is but a mere hiccup in your relentless pursuit to slaughter\u00a0everything.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/page_bg_generated_v6b.jpg?t=1703322645",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/page_bg_generated.jpg?t=1703322645",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/capsule_231x87.jpg?t=1703322645",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/capsule_184x69.jpg?t=1703322645",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Immortal Emptiness is a first-person shooter with roguelike elements in which you get to navigate a deathless post-apocalyptic world and fight endless battles against nightmarish foes all the while you shape your own journey with each choice you make on the battlefield. <br />\r\nExplore, fight and unravel the mysteries of a world where mortality is but a fleeting concept and each death is but a mere hiccup in your relentless pursuit to slaughter\u00a0everything.",
+    "developers": [
+        "ColdBones"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/header.jpg?t=1703322645",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Immortal Emptiness",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core\u2122 Duo or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128MB of video memory, 32-bit color quality<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "ColdBones"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_b22548e8b804b1034663cf88fa2891dbbb26a4d9.1920x1080.jpg?t=1703322645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_b22548e8b804b1034663cf88fa2891dbbb26a4d9.600x338.jpg?t=1703322645"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_3e7fbb21a135e4f1eb38caf5ec4ecb22fb5cd5e3.1920x1080.jpg?t=1703322645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_3e7fbb21a135e4f1eb38caf5ec4ecb22fb5cd5e3.600x338.jpg?t=1703322645"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_97ca4cf5b297d1220e660bc3041dba918abdd144.1920x1080.jpg?t=1703322645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_97ca4cf5b297d1220e660bc3041dba918abdd144.600x338.jpg?t=1703322645"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_9fd0c769538d891701c58ea8bba9ab11097dddb2.1920x1080.jpg?t=1703322645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_9fd0c769538d891701c58ea8bba9ab11097dddb2.600x338.jpg?t=1703322645"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_fbc88df8bdd1dcbe8ee7c7e1ee25a921c287b206.1920x1080.jpg?t=1703322645",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739940/ss_fbc88df8bdd1dcbe8ee7c7e1ee25a921c287b206.600x338.jpg?t=1703322645"
+        }
+    ],
+    "short_description": "Immortal Emptiness is a first-person shooter with roguelike elements in which you get to navigate a deathless post-apocalyptic world and fight endless battles against nightmarish foes. Explore, fight and unravel the mysteries of a world where mortality is but a fleeting concept.",
+    "steam_appid": 2739940,
+    "support_info": {
+        "email": "poisen.bonescontact@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

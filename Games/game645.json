@@ -1,0 +1,62 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335750/capsule_231x87.jpg?t=1677998285",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335750/capsule_184x69.jpg?t=1677998285",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "\u041e\u041e\u041e \"\u0420\u041c\u0412\""
+    ],
+    "fullgame": {
+        "appid": "2082960",
+        "name": "Freed Software"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335750/header.jpg?t=1677998285",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Freed Software Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u041e\u041e\u041e \"\u0420\u041c\u0412\""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 4, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2335750,
+    "support_info": {
+        "email": "rmvgamecompany@gmail.com",
+        "url": "https://vk.com/freedsoft"
+    },
+    "type": "demo",
+    "website": null
+}

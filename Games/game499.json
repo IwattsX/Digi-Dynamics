@@ -1,0 +1,161 @@
+{
+    "about_the_game": "Tsetseg, a litlte witch, lives with her friends. One day, the Mad Wizard suddenly appeares. He converts her friends into bad guys via evil magic. The  friends becomes the guard of Wizard's castle. They also take Tsetseg's magic power. Tsetseg bravely entered castle, rescues her friends, regains lost power, and finally defeats mad wizard!<br />\r\n<br />\r\nInspired by 16-bit classic platformers, the games provides a jump-and-squash centered game experience. Besides, the special power received offers ability to solve puzzles in levels and explore new area. The areas may lead to either different paths or hidden golds. With gold, we purchase items to enhance ouselves, and helps defeating the Mad Wizard.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/page_bg_generated_v6b.jpg?t=1698400738",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/page_bg_generated.jpg?t=1698400738",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/capsule_231x87.jpg?t=1698400738",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/capsule_184x69.jpg?t=1698400738",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "demos": [
+        {
+            "appid": 2354140,
+            "description": ""
+        }
+    ],
+    "detailed_description": "Tsetseg, a litlte witch, lives with her friends. One day, the Mad Wizard suddenly appeares. He converts her friends into bad guys via evil magic. The  friends becomes the guard of Wizard's castle. They also take Tsetseg's magic power. Tsetseg bravely entered castle, rescues her friends, regains lost power, and finally defeats mad wizard!<br />\r\n<br />\r\nInspired by 16-bit classic platformers, the games provides a jump-and-squash centered game experience. Besides, the special power received offers ability to solve puzzles in levels and explore new area. The areas may lead to either different paths or hidden golds. With gold, we purchase items to enhance ouselves, and helps defeating the Mad Wizard.",
+    "developers": [
+        "Fuzhou Chen"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/header.jpg?t=1698400738",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu, Fedora or Archlinux with Xorg/Wayland<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu, Fedora or Archlinux with Xorg/Wayland<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Monterey or above<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Monterey or above<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256976037,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976037/movie480.mp4?t=1697364394",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976037/movie_max.mp4?t=1697364394"
+            },
+            "name": "Tsetseg's Adventure Official Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256976037/movie.293x165.jpg?t=1697364394",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976037/movie480_vp9.webm?t=1697364394",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976037/movie_max_vp9.webm?t=1697364394"
+            }
+        }
+    ],
+    "name": "Tsetseg's Adventure",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Tsetseg's Adventure - $9.99",
+                    "packageid": 839627,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Tsetseg's Adventure"
+        }
+    ],
+    "packages": [
+        839627
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Microsoft Windows 10<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Microsoft Windows 10<br></li><li><strong>Processor:</strong> 11th Gen INTEL Core i5-11320H or above<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Fuzhou Chen"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_a60e321c29a5686eb3c9cdffb3942c670ff5bd9f.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_a60e321c29a5686eb3c9cdffb3942c670ff5bd9f.600x338.jpg?t=1698400738"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_a5006f7fa2d1f0b3e6391857cdf82b4ac08c049c.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_a5006f7fa2d1f0b3e6391857cdf82b4ac08c049c.600x338.jpg?t=1698400738"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_0ca8ceb55922a4fa626b43742e5e52ae7135d82d.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_0ca8ceb55922a4fa626b43742e5e52ae7135d82d.600x338.jpg?t=1698400738"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_c908d737cadc1dfd2cb876dab687d9bd171958b3.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_c908d737cadc1dfd2cb876dab687d9bd171958b3.600x338.jpg?t=1698400738"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_31a75de3857053aa5520139ce12e388ab1e1c64a.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_31a75de3857053aa5520139ce12e388ab1e1c64a.600x338.jpg?t=1698400738"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_7e0cddb56a26f4fce386c5cf1b834afbbcb24641.1920x1080.jpg?t=1698400738",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337770/ss_7e0cddb56a26f4fce386c5cf1b834afbbcb24641.600x338.jpg?t=1698400738"
+        }
+    ],
+    "short_description": "Tsetseg, the little witch, is in crisis. Her friends are taken and converted to bad guys by the Mad Wizard. Explore castle, fight Bosses, rescue friends, regain special power, and defeat Mad Wizard! A classic pixel style, 2D platformer game.",
+    "steam_appid": 2337770,
+    "support_info": {
+        "email": "fuzhouch@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

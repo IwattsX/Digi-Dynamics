@@ -1,0 +1,91 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/page_bg_generated_v6b.jpg?t=1677644587",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/page.bg.jpg?t=1677644587",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/capsule_231x87.jpg?t=1677644587",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/capsule_184x69.jpg?t=1677644587",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/header.jpg?t=1677644587",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "DinoDash-Lite Playtest",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_719fcc3a7e8dc1fb8ccc1cc705383da8dba09cfb.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_719fcc3a7e8dc1fb8ccc1cc705383da8dba09cfb.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_8562ddfc2723659bc7770b39366b93a30d885655.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_8562ddfc2723659bc7770b39366b93a30d885655.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_813f0df17a29348b871ea98820478b859a258243.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_813f0df17a29348b871ea98820478b859a258243.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_85fa60f2f838a5c76fa769c7db4f3cbbddb73081.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_85fa60f2f838a5c76fa769c7db4f3cbbddb73081.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_2015ee8c5c8f63d578c42457251130adeec087ff.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_2015ee8c5c8f63d578c42457251130adeec087ff.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_623fee1ec8042472e49c4f37c0ff3fe02a80e755.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_623fee1ec8042472e49c4f37c0ff3fe02a80e755.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_1267db3f4a94d9be445a782342e810ec8f2e07ca.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_1267db3f4a94d9be445a782342e810ec8f2e07ca.600x338.jpg?t=1677644587"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_3cfcfb0f39c813336219469ac98ffd3558257561.1920x1080.jpg?t=1677644587",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337350/ss_3cfcfb0f39c813336219469ac98ffd3558257561.600x338.jpg?t=1677644587"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2337350,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,88 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371650/extras/Brewess_Banner_Image.png?t=1680089431\" /><br><br>One year on from your world being turned upside down by Kett\u2019s rebellion of 1549, you rediscover your grandmother\u2019s craft of brewing. At a time where your success as an alewife could be your downfall, you vow to become Norwich\u2019s most lauded Brewess.<br><br><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\">CRAFT YOUR ALES</h2>Preparing your ingredients, malting your grains and serving your thirsty customers is how you earn your keep. <br><br></li><li><h2 class=\"bb_tag\">CHARM YOUR CUSTOMERS</h2>Coaxing your patrons into deeper conversations will reveal how they can help your business grow, offer new recipes and even possible trade routes.<br><br></li><li><h2 class=\"bb_tag\">AVOID SUSPICION</h2>Your reputation is everything; confuse the Bishop for the local Alderman and you could quickly find yourself accused of practising witchcraft.<br><br></li><li><h2 class=\"bb_tag\">BUILD YOUR BREWING EMPIRE</h2>Timing is key. Take advantage of seasonal events and soon you will be able to manage several taverns, gaining favour with the nobles. </li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/page_bg_generated_v6b.jpg?t=1680089431",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/page.bg.jpg?t=1680089431",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/capsule_231x87.jpg?t=1680089431",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/capsule_184x69.jpg?t=1680089431",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "The game is centred around running a tavern and brewing ales, therefore alcohol is a main theme of the game. The historical setting means that language may be mature in nature and criminality is a common element of the game world. There are no scenes of nudity or sexual acts in the game however there are romance options including use of suggestive (but not sexually explicit) language."
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371650/extras/Brewess_Banner_Image.png?t=1680089431\" /><br><br>One year on from your world being turned upside down by Kett\u2019s rebellion of 1549, you rediscover your grandmother\u2019s craft of brewing. At a time where your success as an alewife could be your downfall, you vow to become Norwich\u2019s most lauded Brewess.<br><br><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\">CRAFT YOUR ALES</h2>Preparing your ingredients, malting your grains and serving your thirsty customers is how you earn your keep. <br><br></li><li><h2 class=\"bb_tag\">CHARM YOUR CUSTOMERS</h2>Coaxing your patrons into deeper conversations will reveal how they can help your business grow, offer new recipes and even possible trade routes.<br><br></li><li><h2 class=\"bb_tag\">AVOID SUSPICION</h2>Your reputation is everything; confuse the Bishop for the local Alderman and you could quickly find yourself accused of practising witchcraft.<br><br></li><li><h2 class=\"bb_tag\">BUILD YOUR BREWING EMPIRE</h2>Timing is key. Take advantage of seasonal events and soon you will be able to manage several taverns, gaining favour with the nobles. </li></ul>",
+    "developers": [
+        "Fairer Games"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/header.jpg?t=1680089431",
+    "is_free": false,
+    "legal_notice": "Copyright 2023 Fairer Games Ltd. All rights reserved",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Brewess",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GT 430 (1024 MB) / Radeon HD 5570 (1024 MB)</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Fairer Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_cad08c1110272b166b63db12dbbd28ffbb74b6f3.1920x1080.jpg?t=1680089431",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_cad08c1110272b166b63db12dbbd28ffbb74b6f3.600x338.jpg?t=1680089431"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_b10f37efec66a80d0c370750025679415c2cf72c.1920x1080.jpg?t=1680089431",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_b10f37efec66a80d0c370750025679415c2cf72c.600x338.jpg?t=1680089431"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_2a8038267cbe2649b4fdb8c6cd58124da70490e7.1920x1080.jpg?t=1680089431",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_2a8038267cbe2649b4fdb8c6cd58124da70490e7.600x338.jpg?t=1680089431"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_03aa3c6341f3493ae2e1757651c8d42cf1f2da3f.1920x1080.jpg?t=1680089431",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_03aa3c6341f3493ae2e1757651c8d42cf1f2da3f.600x338.jpg?t=1680089431"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_5071379d46623e9db12db59c3f1545f73de7aa44.1920x1080.jpg?t=1680089431",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371650/ss_5071379d46623e9db12db59c3f1545f73de7aa44.600x338.jpg?t=1680089431"
+        }
+    ],
+    "short_description": "Brewess is a narrative adventure game about crafting ales and building friendships in Early Modern East Anglia. The region is plagued with power struggles that you must navigate as a brewer, using your dry wit and natural charm to keep your business open and your purses full.",
+    "steam_appid": 2371650,
+    "support_info": {
+        "email": "support@fairer.games",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://www.brewessgame.com"
+}

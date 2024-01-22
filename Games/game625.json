@@ -1,0 +1,111 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Overview:</h2><br>Enter the world of Heck City, 20XX. As a delivery goblin, you'll dash through the city and surrounding wastelands, delivering food to the diverse inhabitants of the world. Blood powers technology and demons walk the earth, yet your hustle is eternal.<br><br>Surviving in Heck City will take quick wits and a strong work ethic. Will you rise to the top of the food chain, or will the city claim your soul too?<br><br>This demo will give you a generous first look at the gameplay and world of Heck City Delivery.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>A fast-paced, high-octane experience inspired by classic arcade games like Crazy Taxi<br></li><li>A vibrant and diverse world to explore, filled with all sorts of colorful characters and wacky surprises<br></li><li>A cast of quirky and demanding customers, each with their own unique needs and preferences<br></li><li>A blood-powered car that lets you plow through obstacles and enemies alike, with bonus rewards for expert driving and zombie-smashing.<br></li><li>Groove to an upbeat, infectious soundtrack that will keep you engaged and energized.</li></ul>",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First Run",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/23295621f74fff3f30c13f1d41485897119fca0c.jpg"
+            },
+            {
+                "name": "Nice Combo!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/a044203db38e2a605077e3c6c6410a1e4caf81a8.jpg"
+            },
+            {
+                "name": "Super Combo!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/a044203db38e2a605077e3c6c6410a1e4caf81a8.jpg"
+            },
+            {
+                "name": "Epic Combo!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/a044203db38e2a605077e3c6c6410a1e4caf81a8.jpg"
+            },
+            {
+                "name": "Got the Rent!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/63cbd668c31769b6a8dc5dbe6359384ae96309d1.jpg"
+            },
+            {
+                "name": "Five Stars",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/63cbd668c31769b6a8dc5dbe6359384ae96309d1.jpg"
+            },
+            {
+                "name": "First Class",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/63cbd668c31769b6a8dc5dbe6359384ae96309d1.jpg"
+            },
+            {
+                "name": "Hot for a Min",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335360/8a28ef3e19df812ad09bd331fd1834d52b5c5bb0.jpg"
+            }
+        ],
+        "total": 8
+    },
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335360/capsule_231x87.jpg?t=1680632336",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335360/capsule_184x69.jpg?t=1680632336",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Contains cartoon depictions of graphic violence against zombies"
+    },
+    "controller_support": "full",
+    "detailed_description": "<h2 class=\"bb_tag\">Overview:</h2><br>Enter the world of Heck City, 20XX. As a delivery goblin, you'll dash through the city and surrounding wastelands, delivering food to the diverse inhabitants of the world. Blood powers technology and demons walk the earth, yet your hustle is eternal.<br><br>Surviving in Heck City will take quick wits and a strong work ethic. Will you rise to the top of the food chain, or will the city claim your soul too?<br><br>This demo will give you a generous first look at the gameplay and world of Heck City Delivery.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>A fast-paced, high-octane experience inspired by classic arcade games like Crazy Taxi<br></li><li>A vibrant and diverse world to explore, filled with all sorts of colorful characters and wacky surprises<br></li><li>A cast of quirky and demanding customers, each with their own unique needs and preferences<br></li><li>A blood-powered car that lets you plow through obstacles and enemies alike, with bonus rewards for expert driving and zombie-smashing.<br></li><li>Groove to an upbeat, infectious soundtrack that will keep you engaged and energized.</li></ul>",
+    "developers": [
+        "Dairydog"
+    ],
+    "fullgame": {
+        "appid": "2330440",
+        "name": "Heck City Delivery"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335360/header.jpg?t=1680632336",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Heck City Delivery Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Dairydog"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 31, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Heck City Delivery is an arcade driving game inspired by Crazy Taxi. You play as a delivery goblin in the post-apocalypse, delivering food in your blood-powered car to the demons who inhabit Heck City, 20XX. Make your deliveries quickly and earn enough money to pay your rent!",
+    "steam_appid": 2335360,
+    "support_info": {
+        "email": "billy@dairy.dog",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

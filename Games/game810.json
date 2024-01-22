@@ -1,0 +1,114 @@
+{
+    "about_the_game": "<i>In this narrative management game, you will have to decide about the future of everyone according to the anticipations of an AI. Help create the efficient society of tomorrow or preserve the dreams and hopes of everybody. Your choices will affect the future of Gauetia.</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371240/extras/620.gif?t=1686326256\" /><br><br>After an unprecedented economic crisis and to deal with mass unemployment, the government of Gauetia appoints a young company, Dolos Incorporated, to create a program capable of coordinating job and training seekers (students, unemployed) with the labour market in order to build a perfectly efficient society. Capable of predicting the potential of each individual through large-scale data collection, Dolos will become a central tool in the government's economic and social policy, but not without causing some damage...<br>Operator of the Dolos application, you will have to choose the future of everyone and contribute to the creation of a perfectly efficient society...or fight against it to respect everyone's aspirations and preserve their freedom. Confront the destinies of the applicants, observe the consequences of your choices on their destiny and ask yourself what will be fairest.<br><br><ul class=\"bb_ul\"><li><strong>Collect and evaluate the potential of applicants</strong>, collect private information to evaluate their capitals and determine their potential. Follow the instructions, earn experience points, unlock Dolos achievements and become the best operator of Dolos Incorporated.<br></li><li><strong>Investigate and uncover sensitive biographical information</strong> about applicants discriminated by Dolos with the help of a hacker program. Decide to help them or not, but beware, you are being watched.<br></li><li><strong>Interact with your supervisor</strong>. Try to unravel the truth and establish new strategies through a multiple choice dialogue system that adapts to your in-game actions.<br></li><li><strong>Follow the news from Gauetia</strong>. Search for new information that will open up new narrative possibilities and learn more about the true nature of Dolos Incorporated.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/page_bg_generated_v6b.jpg?t=1686326256",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/page.bg.jpg?t=1686326256",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/capsule_231x87.jpg?t=1686326256",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/capsule_184x69.jpg?t=1686326256",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<i>In this narrative management game, you will have to decide about the future of everyone according to the anticipations of an AI. Help create the efficient society of tomorrow or preserve the dreams and hopes of everybody. Your choices will affect the future of Gauetia.</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371240/extras/620.gif?t=1686326256\" /><br><br>After an unprecedented economic crisis and to deal with mass unemployment, the government of Gauetia appoints a young company, Dolos Incorporated, to create a program capable of coordinating job and training seekers (students, unemployed) with the labour market in order to build a perfectly efficient society. Capable of predicting the potential of each individual through large-scale data collection, Dolos will become a central tool in the government's economic and social policy, but not without causing some damage...<br>Operator of the Dolos application, you will have to choose the future of everyone and contribute to the creation of a perfectly efficient society...or fight against it to respect everyone's aspirations and preserve their freedom. Confront the destinies of the applicants, observe the consequences of your choices on their destiny and ask yourself what will be fairest.<br><br><ul class=\"bb_ul\"><li><strong>Collect and evaluate the potential of applicants</strong>, collect private information to evaluate their capitals and determine their potential. Follow the instructions, earn experience points, unlock Dolos achievements and become the best operator of Dolos Incorporated.<br></li><li><strong>Investigate and uncover sensitive biographical information</strong> about applicants discriminated by Dolos with the help of a hacker program. Decide to help them or not, but beware, you are being watched.<br></li><li><strong>Interact with your supervisor</strong>. Try to unravel the truth and establish new strategies through a multiple choice dialogue system that adapts to your in-game actions.<br></li><li><strong>Follow the news from Gauetia</strong>. Search for new information that will open up new narrative possibilities and learn more about the true nature of Dolos Incorporated.</li></ul>",
+    "developers": [
+        "Playing Paradigms"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/header.jpg?t=1686326256",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256947282,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256947282/movie480.mp4?t=1685710522",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256947282/movie_max.mp4?t=1685710522"
+            },
+            "name": "DOLOS - First Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256947282/movie.293x165.jpg?t=1685710522",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256947282/movie480_vp9.webm?t=1685710522",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256947282/movie_max_vp9.webm?t=1685710522"
+            }
+        }
+    ],
+    "name": "DOLOS",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.0 Ghz or above<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 1030 or RX 550<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Abiding Bridge"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_560a13d05482a91eaab2afdbd8743af0e703590c.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_560a13d05482a91eaab2afdbd8743af0e703590c.600x338.jpg?t=1686326256"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_1d857bfec53fddb79897c6fb735a58a2ef218583.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_1d857bfec53fddb79897c6fb735a58a2ef218583.600x338.jpg?t=1686326256"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_c324e639f0bf7c45c5fd3d8874e36a12fca4d6a0.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_c324e639f0bf7c45c5fd3d8874e36a12fca4d6a0.600x338.jpg?t=1686326256"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_3310b467d02f05830b52642ebc499f1a15155deb.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_3310b467d02f05830b52642ebc499f1a15155deb.600x338.jpg?t=1686326256"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_c96fab41b881cacfdc641800dae6084e510326a2.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_c96fab41b881cacfdc641800dae6084e510326a2.600x338.jpg?t=1686326256"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_cc44a6f1b238152b142ac14ada8991838eecdafa.1920x1080.jpg?t=1686326256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371240/ss_cc44a6f1b238152b142ac14ada8991838eecdafa.600x338.jpg?t=1686326256"
+        }
+    ],
+    "short_description": "In this narrative management game, you will have to decide about the future of everyone according to the anticipations of an AI. Help create the efficient society of tomorrow or preserve the dreams and hopes of everybody. Your choices will affect the future of Gauetia.",
+    "steam_appid": 2371240,
+    "support_info": {
+        "email": "dolos.the.game@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French",
+    "type": "game",
+    "website": null
+}

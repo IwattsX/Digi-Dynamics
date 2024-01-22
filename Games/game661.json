@@ -1,0 +1,89 @@
+{
+    "about_the_game": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u304c\u767b\u5834\uff01<br>\u516845\u66f2\u3001\u5408\u8a0853\u5206\u306e\u5927\u30dc\u30ea\u30e5\u30fc\u30e0\uff01<br>\u3055\u3041\u305f\u3093\u9054\u306e\u5192\u967a\u304c\u8074\u304f\u3060\u3051\u3067\u3088\u307f\u304c\u3048\u308b\uff01<br><br><strong>\u3075\u308a\u30b9\u30da\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u7279\u5fb4</strong><br>\u30fb\u672c\u7de8\u3067\u306f\u672a\u4f7f\u7528\u3060\u3063\u305f\u308a\u307b\u3068\u3093\u3069\u8074\u304f\u6a5f\u4f1a\u306e\u5c11\u306a\u304b\u3063\u305fBGM\u3082\u3057\u3063\u304b\u308a\u53ce\u9332\uff01<br>\u30fb\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30a2\u30a4\u30ad\u30e3\u30c3\u30c1\u30b8\u30f3\u30b0\u30eb\u307e\u3067\u3057\u3063\u304b\u308a\u53ce\u9332\uff01<br>\u30fbmp3\u5f62\u5f0f\u3068wav\u5f62\u5f0f\u306e\u4e21\u65b9\u53ce\u9332\uff01 <br>\u30fb\u80ce\u6559\u306b\u3044\u3044<br>\u30fb\u98df\u7269\u7e4a\u7dad\u305f\u3063\u3077\u308a",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/page_bg_generated_v6b.jpg?t=1682049337",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/page_bg_generated.jpg?t=1682049337",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/capsule_231x87.jpg?t=1682049337",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/capsule_184x69.jpg?t=1682049337",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u304c\u767b\u5834\uff01<br>\u516845\u66f2\u3001\u5408\u8a0853\u5206\u306e\u5927\u30dc\u30ea\u30e5\u30fc\u30e0\uff01<br>\u3055\u3041\u305f\u3093\u9054\u306e\u5192\u967a\u304c\u8074\u304f\u3060\u3051\u3067\u3088\u307f\u304c\u3048\u308b\uff01<br><br><strong>\u3075\u308a\u30b9\u30da\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u7279\u5fb4</strong><br>\u30fb\u672c\u7de8\u3067\u306f\u672a\u4f7f\u7528\u3060\u3063\u305f\u308a\u307b\u3068\u3093\u3069\u8074\u304f\u6a5f\u4f1a\u306e\u5c11\u306a\u304b\u3063\u305fBGM\u3082\u3057\u3063\u304b\u308a\u53ce\u9332\uff01<br>\u30fb\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30a2\u30a4\u30ad\u30e3\u30c3\u30c1\u30b8\u30f3\u30b0\u30eb\u307e\u3067\u3057\u3063\u304b\u308a\u53ce\u9332\uff01<br>\u30fbmp3\u5f62\u5f0f\u3068wav\u5f62\u5f0f\u306e\u4e21\u65b9\u53ce\u9332\uff01 <br>\u30fb\u80ce\u6559\u306b\u3044\u3044<br>\u30fb\u98df\u7269\u7e4a\u7dad\u305f\u3063\u3077\u308a",
+    "developers": [
+        "\u3088\u3093\u3068\u3093\u30c8\u30de\u30c1\u30f3"
+    ],
+    "fullgame": {
+        "appid": "1764700",
+        "name": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/header.jpg?t=1682049337",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc Soundtrack - $14.99",
+                    "packageid": 838695,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy \u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc Soundtrack"
+        }
+    ],
+    "packages": [
+        838695
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 1200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "\u3088\u3093\u3068\u3093\u30c8\u30de\u30c1\u30f3"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 20, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/ss_a8f0fdefbacff54e3c35866a6fc975d8e813a15d.1920x1080.jpg?t=1682049337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335030/ss_a8f0fdefbacff54e3c35866a6fc975d8e813a15d.600x338.jpg?t=1682049337"
+        }
+    ],
+    "short_description": "\u3075\u308a\u304b\u3051\u2606\u30b9\u30da\u30a4\u30b7\u30fc\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u304c\u767b\u5834\uff01 \u516845\u66f2\u3001\u5408\u8a0853\u5206\u306e\u5927\u30dc\u30ea\u30e5\u30fc\u30e0\uff01 \u3055\u3041\u305f\u3093\u9054\u306e\u5192\u967a\u304c\u8074\u304f\u3060\u3051\u3067\u3088\u307f\u304c\u3048\u308b\uff01",
+    "steam_appid": 2335030,
+    "support_info": {
+        "email": "4t.tomatine@gmail.com",
+        "url": "https://twitter.com/4t_tomatine"
+    },
+    "type": "music",
+    "website": null
+}

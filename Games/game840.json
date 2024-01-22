@@ -1,0 +1,152 @@
+{
+    "about_the_game": "Buy the new Nightrunner Bundle. Show no mercy to your enemies by mutilating them in combat, whether you help survivors during the day or brave the dangers of the night.<br><br><strong>This bundle contains:</strong><br><ul class=\"bb_ul\"><li>Nightrunner Outfit \u2014 wear it when the days are hot and bloody.<br></li><li>Cutting Edge Axe \u2014 a limb here, a limb there\u2026dismember your foes with ease and let the blood run like water.<br></li><li>Nightrunner Coat \u2014 will help you keep your cool in a sweaty situation.<br></li><li>Nightrunner Trousers \u2014 stay comfortable as you creep around.<br></li><li>Nightrunner Trainers \u2014 silently tread past the dangers of the night.<br></li><li>Nightrunner Gloves \u2014 insulating your hands without losing on maneuverability.<br></li><li>Nightrunner Mask \u2014 better safe than sorry. You never know who could be watching from the shadows.<br></li><li>Nightrunner Guards \u2014 keep the monsters from chomping on you. Your forearms, at least.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/page_bg_generated_v6b.jpg?t=1685702154",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/page_bg_generated.jpg?t=1685702154",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/capsule_231x87.jpg?t=1685702154",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/capsule_184x69.jpg?t=1685702154",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play on TV",
+            "id": 43
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Buy the new Nightrunner Bundle. Show no mercy to your enemies by mutilating them in combat, whether you help survivors during the day or brave the dangers of the night.<br><br><strong>This bundle contains:</strong><br><ul class=\"bb_ul\"><li>Nightrunner Outfit \u2014 wear it when the days are hot and bloody.<br></li><li>Cutting Edge Axe \u2014 a limb here, a limb there\u2026dismember your foes with ease and let the blood run like water.<br></li><li>Nightrunner Coat \u2014 will help you keep your cool in a sweaty situation.<br></li><li>Nightrunner Trousers \u2014 stay comfortable as you creep around.<br></li><li>Nightrunner Trainers \u2014 silently tread past the dangers of the night.<br></li><li>Nightrunner Gloves \u2014 insulating your hands without losing on maneuverability.<br></li><li>Nightrunner Mask \u2014 better safe than sorry. You never know who could be watching from the shadows.<br></li><li>Nightrunner Guards \u2014 keep the monsters from chomping on you. Your forearms, at least.</li></ul>",
+    "developers": [
+        "Techland"
+    ],
+    "fullgame": {
+        "appid": "534380",
+        "name": "Dying Light 2 Stay Human"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/header.jpg?t=1685702154",
+    "is_free": false,
+    "legal_notice": "Dying Light 2 \u00a9 Techland S.A. Published and developed by Techland S.A. All other trademarks, copyrights and logos are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Dying Light 2 Stay Human: Nightrunner Bundle",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Dying Light 2 - Nightrunner Bundle - $4.99",
+                    "packageid": 852323,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Dying Light 2 Stay Human: Nightrunner Bundle"
+        }
+    ],
+    "packages": [
+        852323
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3-9100 / AMD Ryzen 3 2300X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 1050 Ti / AMD Radeon\u2122 RX 560 (4GB VRAM)<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> AMD / Intel CPU running at 3.6 GHz or higher: AMD Ryzen 5 3600X or Intel i5-8600K or newer<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce RTX\u2122 2060 6GB or AMD RX Vega 56 8GB or newe<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 27, 2023"
+    },
+    "required_age": "18",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/ss_1695328e9d1f8d58b2d205267aae573ba397d512.1920x1080.jpg?t=1685702154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370710/ss_1695328e9d1f8d58b2d205267aae573ba397d512.600x338.jpg?t=1685702154"
+        }
+    ],
+    "short_description": "Buy the new Nightrunner Bundle. Show no mercy to your enemies by mutilating them in combat, whether you help survivors during the day or brave the dangers of the night.",
+    "steam_appid": 2370710,
+    "support_info": {
+        "email": "support@techland.pl",
+        "url": "http://support.techland.pl/"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Arabic, Czech, Japanese<strong>*</strong>, Portuguese - Portugal, Simplified Chinese<strong>*</strong>, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://dyinglightgame.com/?utm_source=Steam&amp;utm_medium=Link&amp;utm_campaign=Dying_Light_2"
+}

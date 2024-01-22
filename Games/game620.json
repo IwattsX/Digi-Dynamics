@@ -1,0 +1,73 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336270/capsule_231x87.jpg?t=1692676872",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336270/capsule_184x69.jpg?t=1692676872",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "There are some adult themed jokes and topics. "
+    },
+    "detailed_description": "",
+    "developers": [
+        "New Standard Games"
+    ],
+    "fullgame": {
+        "appid": "2335570",
+        "name": "Veil of Clay"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336270/header.jpg?t=1692676872",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Veil of Clay Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> 1.5Ghz Processor or better<br></li><li><strong>Graphics:</strong> Integrated Graphics Chip<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "New Standard Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2336270,
+    "support_info": {
+        "email": "newstandardgames@gmail.com",
+        "url": "https://twitter.com/NewStandardGame"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

@@ -1,0 +1,160 @@
+{
+    "about_the_game": "Take on the role of a modern exorcist. You have to fulfill contracts related to paranormal phenomena. Visit the grim crime scenes and find out what really happened there.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/1.gif?t=1683269340\" /><br>Your main weapon is a video camera. Although this old camera is damaged, and a strange symbol is scratched on the lens, but it can shoot what is not visible to the human eye.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/2.gif?t=1683269340\" /><br>Collect enough information about the monstrous events that took place in this place, then perform a ritual of exorcism with the help of special Tarot cards. Beware of the wrong choice, the consequences will not take long to wait.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/3.gif?t=1683269340\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/page_bg_generated_v6b.jpg?t=1683269340",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/page.bg.jpg?t=1683269340",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/capsule_231x87.jpg?t=1683269340",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/capsule_184x69.jpg?t=1683269340",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "Take on the role of a modern exorcist. You have to fulfill contracts related to paranormal phenomena. Visit the grim crime scenes and find out what really happened there.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/1.gif?t=1683269340\" /><br>Your main weapon is a video camera. Although this old camera is damaged, and a strange symbol is scratched on the lens, but it can shoot what is not visible to the human eye.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/2.gif?t=1683269340\" /><br>Collect enough information about the monstrous events that took place in this place, then perform a ritual of exorcism with the help of special Tarot cards. Beware of the wrong choice, the consequences will not take long to wait.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401810/extras/3.gif?t=1683269340\" />",
+    "developers": [
+        "Red Kraken studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/header.jpg?t=1683269340",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942028,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942028/movie480.mp4?t=1682012023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942028/movie_max.mp4?t=1682012023"
+            },
+            "name": "On the other side",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942028/movie.293x165.jpg?t=1682012023",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942028/movie480_vp9.webm?t=1682012023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942028/movie_max_vp9.webm?t=1682012023"
+            }
+        }
+    ],
+    "name": "On the other side",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "On the other side - $4.99",
+                    "packageid": 864125,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy On the other side"
+        }
+    ],
+    "packages": [
+        864125
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 5 2600 Six-Core Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Red Kraken studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 4, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_5e04250a7e86eeb90a286568bbb3ee79dee099dd.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_5e04250a7e86eeb90a286568bbb3ee79dee099dd.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_353c0a3011e1fd000669ea68a63bedb152123ad2.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_353c0a3011e1fd000669ea68a63bedb152123ad2.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_182315b204048f5ef9907bc8aa5d153c20634f57.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_182315b204048f5ef9907bc8aa5d153c20634f57.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_32a921ce01aa2b3723cf2379a24f017f927ab3e5.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_32a921ce01aa2b3723cf2379a24f017f927ab3e5.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_42e093269df1fac6ed1973bd2abe949305e14214.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_42e093269df1fac6ed1973bd2abe949305e14214.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_699579db75df18218c173c4eb240c057f27c019a.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_699579db75df18218c173c4eb240c057f27c019a.600x338.jpg?t=1683269340"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_ede1b7712e063eb2686eb2d6083395f5bab568f8.1920x1080.jpg?t=1683269340",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401810/ss_ede1b7712e063eb2686eb2d6083395f5bab568f8.600x338.jpg?t=1683269340"
+        }
+    ],
+    "short_description": "Take on the role of a modern exorcist in this realistic ghost hunting horror. You have to fulfill contracts related to paranormal phenomena. Your main weapon is an old camera that can shoot what is not visible to the human eye.",
+    "steam_appid": 2401810,
+    "support_info": {
+        "email": "redkrakenstudios@gmail.com",
+        "url": "https://twitter.com/RedkrakenS"
+    },
+    "supported_languages": "English<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://twitter.com/RedkrakenS"
+}

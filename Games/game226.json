@@ -1,0 +1,190 @@
+{
+    "about_the_game": "This is the story of a snowman named Chris. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner01.png?t=1703146690\" /><br>Brought to life one cold winter's day by a lonely boy in need of a playmate, Chris is content with his simple existence. But when a cackling crow reveals to him one night that he'll melt away as soon as the weather warms, Chris must embark on a long journey to a paradise far to the north, where it's said that snowmen can survive even the coming of spring.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner.png?t=1703146690\" /><br>Along the way, he'll encounter a host of friendly woodland critters who'll guide him on his trek, and help him tackle tricky ice puzzles whenever things get slippery. (Note that these puzzles are fully skippable for players who just want to enjoy the story!)<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner02.png?t=1703146690\" /><br>He'll also come across other snowmen who tried but failed to make the very same pilgrimage, and gain the ability to read the memories embedded in their melted remains. Hopefully, by learning how they met their tragic ends, Chris can avoid the same fate.<br><br>After all\u2014what meaning can there possibly be in a life that lasts but a single winter?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner03.jpg?t=1703146690\" /><br>A wintertime tale of warmth and friendship that'll surely melt your heart, Snowman Story is the perfect game to curl up with by the fire this (or any) holiday season.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Journey's End",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635930/d58bea074a51ddf8f68656b9528af769f0bae215.jpg"
+            },
+            {
+                "name": "To Each Their Own Ending",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635930/057dc9da4cde6588184f4b03aeada078f26acd92.jpg"
+            },
+            {
+                "name": "A Very Special Dinner",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635930/b1a16833b4b23a59a0fd099665bc973a0864106b.jpg"
+            },
+            {
+                "name": "Brotherly Love",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635930/ad82a0e0303956d4b286feeb4f7e539f8fd552ad.jpg"
+            },
+            {
+                "name": "Mole Masters Only",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2635930/4b0f6c05069276e6c39d7ddaef2a82c98333f14a.jpg"
+            }
+        ],
+        "total": 5
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/page_bg_generated_v6b.jpg?t=1703146690",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/page.bg.jpg?t=1703146690",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/capsule_231x87.jpg?t=1703146690",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/capsule_184x69.jpg?t=1703146690",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "This is the story of a snowman named Chris. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner01.png?t=1703146690\" /><br>Brought to life one cold winter's day by a lonely boy in need of a playmate, Chris is content with his simple existence. But when a cackling crow reveals to him one night that he'll melt away as soon as the weather warms, Chris must embark on a long journey to a paradise far to the north, where it's said that snowmen can survive even the coming of spring.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner.png?t=1703146690\" /><br>Along the way, he'll encounter a host of friendly woodland critters who'll guide him on his trek, and help him tackle tricky ice puzzles whenever things get slippery. (Note that these puzzles are fully skippable for players who just want to enjoy the story!)<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner02.png?t=1703146690\" /><br>He'll also come across other snowmen who tried but failed to make the very same pilgrimage, and gain the ability to read the memories embedded in their melted remains. Hopefully, by learning how they met their tragic ends, Chris can avoid the same fate.<br><br>After all\u2014what meaning can there possibly be in a life that lasts but a single winter?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635930/extras/steam_banner03.jpg?t=1703146690\" /><br>A wintertime tale of warmth and friendship that'll surely melt your heart, Snowman Story is the perfect game to curl up with by the fire this (or any) holiday season.",
+    "developers": [
+        "Odencat"
+    ],
+    "dlc": [
+        2736620
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/header.jpg?t=1703146690",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> Processor 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics 256 mb video memory, OpenGL 2<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13 High Sierra<br></li><li><strong>Processor:</strong> Apple Silicon or Intel x64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256983566,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983566/movie480.mp4?t=1701510779",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983566/movie_max.mp4?t=1701510779"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256983566/movie.293x165.jpg?t=1701510779",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983566/movie480_vp9.webm?t=1701510779",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983566/movie_max_vp9.webm?t=1701510779"
+            }
+        }
+    ],
+    "name": "Snowman Story",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Snowman Story - $4.99",
+                    "packageid": 945223,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Snowman Story"
+        }
+    ],
+    "packages": [
+        945223
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2G Hz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL 2.1<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Odencat"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 16, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_f38f0837fea542696231d69edc190feb3e876029.1920x1080.jpg?t=1703146690",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_f38f0837fea542696231d69edc190feb3e876029.600x338.jpg?t=1703146690"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_aacb7316f602a41fae7fe67ae0bd83f8120cc24d.1920x1080.jpg?t=1703146690",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_aacb7316f602a41fae7fe67ae0bd83f8120cc24d.600x338.jpg?t=1703146690"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_d0ac573145a2d72edba67a9e919f2a3937eb5d0f.1920x1080.jpg?t=1703146690",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_d0ac573145a2d72edba67a9e919f2a3937eb5d0f.600x338.jpg?t=1703146690"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_dad32017c6f432052403552fea5ad72460c1f62b.1920x1080.jpg?t=1703146690",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_dad32017c6f432052403552fea5ad72460c1f62b.600x338.jpg?t=1703146690"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_2b3d42affedbe5279a0fabdf22a8caf0017729fd.1920x1080.jpg?t=1703146690",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635930/ss_2b3d42affedbe5279a0fabdf22a8caf0017729fd.600x338.jpg?t=1703146690"
+        }
+    ],
+    "short_description": "Bundle up and get cozy with this warm winter tale about one snowman's journey to the North Pole. Can he make it there before spring arrives?",
+    "steam_appid": 2635930,
+    "support_info": {
+        "email": "contact@odencat.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, Indonesian, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Vietnamese, Russian",
+    "type": "game",
+    "website": "https://odencat.com"
+}

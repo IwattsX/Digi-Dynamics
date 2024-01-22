@@ -1,0 +1,134 @@
+{
+    "about_the_game": "The DLC contains 51 wallpapers, all the priestesses of love and the goddess Luxuria, which you unlock as you progress through the game Hero of Luxuria.<br />\r\n<br />\r\nAs a bonus, +1 art with Avaritia has been added.<br />\r\n<br />\r\nAll 51 artworks:<br />\r\n<br />\r\n- contain Nude and NSFW;<br />\r\n- in High Quality;<br />\r\n- have a resolution of 3840 x 2160 pixels in PNG format;<br />\r\n- are suitable for monitors with 4K resolution and higher.<br />\r\n<br />\r\nWallpapers DLC contains only static PNG images.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/page_bg_generated_v6b.jpg?t=1697166168",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/page_bg_generated.jpg?t=1697166168",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/capsule_231x87.jpg?t=1697166168",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/capsule_184x69.jpg?t=1697166168",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "notes": "Wallpaper contains sexual content, nudity and BDSM. The wallpaper contains images of nude mythical creatures such as fairy, centaur, naga, etc."
+    },
+    "detailed_description": "The DLC contains 51 wallpapers, all the priestesses of love and the goddess Luxuria, which you unlock as you progress through the game Hero of Luxuria.<br />\r\n<br />\r\nAs a bonus, +1 art with Avaritia has been added.<br />\r\n<br />\r\nAll 51 artworks:<br />\r\n<br />\r\n- contain Nude and NSFW;<br />\r\n- in High Quality;<br />\r\n- have a resolution of 3840 x 2160 pixels in PNG format;<br />\r\n- are suitable for monitors with 4K resolution and higher.<br />\r\n<br />\r\nWallpapers DLC contains only static PNG images.",
+    "developers": [
+        "Harbinger Arts"
+    ],
+    "fullgame": {
+        "appid": "2494830",
+        "name": "Hero of Luxuria"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/header.jpg?t=1697166168",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Hero of Luxuria Wallpapers DLC",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Hero of Luxuria Wallpapers DLC - <span class=\"discount_original_price\">$1.99</span> $1.69",
+                    "packageid": 945164,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-15% ",
+                    "price_in_cents_with_discount": 169
+                }
+            ],
+            "title": "Buy Hero of Luxuria Wallpapers DLC"
+        }
+    ],
+    "packages": [
+        945164
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 310 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 15,
+        "final": 169,
+        "final_formatted": "$1.69",
+        "initial": 199,
+        "initial_formatted": "$1.99"
+    },
+    "publishers": [
+        "Harbinger Arts"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_7ba35d6954d809e8ef315e8a820cff7b1f3fd46a.1920x1080.jpg?t=1697166168",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_7ba35d6954d809e8ef315e8a820cff7b1f3fd46a.600x338.jpg?t=1697166168"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_0bc58192592acad35a9d766ccde4d084f15f1f27.1920x1080.jpg?t=1697166168",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_0bc58192592acad35a9d766ccde4d084f15f1f27.600x338.jpg?t=1697166168"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_a960986aa499c87cb0ceaa9533bf9615ab072ac6.1920x1080.jpg?t=1697166168",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_a960986aa499c87cb0ceaa9533bf9615ab072ac6.600x338.jpg?t=1697166168"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_b578577e52d171622d48832a61161d46fcf4b6c6.1920x1080.jpg?t=1697166168",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635760/ss_b578577e52d171622d48832a61161d46fcf4b6c6.600x338.jpg?t=1697166168"
+        }
+    ],
+    "short_description": "The DLC contains 51 wallpapers, all the priestesses of love and the goddess Luxuria, which you unlock as you progress through the game Hero of Luxuria.",
+    "steam_appid": 2635760,
+    "support_info": {
+        "email": "lharbingerlart@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Indonesian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong>, Azerbaijani<strong>*</strong>, Albanian<strong>*</strong>, Amharic<strong>*</strong>, Armenian<strong>*</strong>, Assamese<strong>*</strong>, Afrikaans<strong>*</strong>, Basque<strong>*</strong>, Belarusian<strong>*</strong>, Bangla<strong>*</strong>, Bosnian<strong>*</strong>, Valencian<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Galician<strong>*</strong>, Georgian<strong>*</strong>, Gujarati<strong>*</strong>, Dari<strong>*</strong>, Zulu<strong>*</strong>, Hebrew<strong>*</strong>, Igbo<strong>*</strong>, Irish<strong>*</strong>, Icelandic<strong>*</strong>, Yoruba<strong>*</strong>, Kazakh<strong>*</strong>, Kannada<strong>*</strong>, Catalan<strong>*</strong>, Quechua<strong>*</strong>, Kinyarwanda<strong>*</strong>, K'iche'<strong>*</strong>, Konkani<strong>*</strong>, Xhosa<strong>*</strong>, Khmer<strong>*</strong>, Kyrgyz<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Macedonian<strong>*</strong>, Malay<strong>*</strong>, Malayalam<strong>*</strong>, Maltese<strong>*</strong>, Maori<strong>*</strong>, Marathi<strong>*</strong>, Mongolian<strong>*</strong>, Nepali<strong>*</strong>, Odia<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Persian<strong>*</strong>, Serbian<strong>*</strong>, Sotho<strong>*</strong>, Sinhala<strong>*</strong>, Sindhi<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Sorani<strong>*</strong>, Swahili<strong>*</strong>, Tajik<strong>*</strong>, Tamil<strong>*</strong>, Tatar<strong>*</strong>, Telugu<strong>*</strong>, Tigrinya<strong>*</strong>, Tswana<strong>*</strong>, Turkmen<strong>*</strong>, Uzbek<strong>*</strong>, Uyghur<strong>*</strong>, Urdu<strong>*</strong>, Filipino<strong>*</strong>, Hausa<strong>*</strong>, Hindi<strong>*</strong>, Croatian<strong>*</strong>, Cherokee<strong>*</strong>, Scots<strong>*</strong>, Estonian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": null
+}

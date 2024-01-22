@@ -1,0 +1,131 @@
+{
+    "about_the_game": "As you work through a level, your past moves are stored in a move history. When you move in the pattern \u201cdirection, direction, opposite direction, direction\u201d (for example up, up, down, up) you perform a happy jump which flings you three places instead of one. Things start to heat up when different blocks get introduced that serve as both obstacles and advantages. Walls are the simplest block. You can\u2019t walk through them and have to happy jump over them. Pause blocks are tricky buggers. You can walk inside of them, but the move you make into them is not counted in your move history. The move you make out of the block is counted! Break blocks are the opposite. You can\u2019t walk inside a break block, but running into it will add to the move history even though your player stays in exactly the same spot. Move blocks can be pushed around to clear a path or used in tandem with break blocks to make some crazy moves possible.<br />\r\n<br />\r\nThere are currently 39 levels! I hope you have as much fun playing them as I have had making them.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/page_bg_generated_v6b.jpg?t=1705546722",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/page.bg.jpg?t=1705546722",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/capsule_231x87.jpg?t=1705546722",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/capsule_184x69.jpg?t=1705546722",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "As you work through a level, your past moves are stored in a move history. When you move in the pattern \u201cdirection, direction, opposite direction, direction\u201d (for example up, up, down, up) you perform a happy jump which flings you three places instead of one. Things start to heat up when different blocks get introduced that serve as both obstacles and advantages. Walls are the simplest block. You can\u2019t walk through them and have to happy jump over them. Pause blocks are tricky buggers. You can walk inside of them, but the move you make into them is not counted in your move history. The move you make out of the block is counted! Break blocks are the opposite. You can\u2019t walk inside a break block, but running into it will add to the move history even though your player stays in exactly the same spot. Move blocks can be pushed around to clear a path or used in tandem with break blocks to make some crazy moves possible.<br />\r\n<br />\r\nThere are currently 39 levels! I hope you have as much fun playing them as I have had making them.",
+    "developers": [
+        "ODav"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/header.jpg?t=1705546722",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mojave 10.14+<br></li><li><strong>Processor:</strong> Apple Silicon or x64 chip<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel or AMD GPUs<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256991946,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991946/movie480.mp4?t=1705546720",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991946/movie_max.mp4?t=1705546720"
+            },
+            "name": "Fitting-In: Official Trailer 2",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256991946/movie.293x165.jpg?t=1705546720",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991946/movie480_vp9.webm?t=1705546720",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991946/movie_max_vp9.webm?t=1705546720"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256976334,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976334/movie480.mp4?t=1704232682",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976334/movie_max.mp4?t=1704232682"
+            },
+            "name": "Fitting-In: Official Trailer 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256976334/movie.293x165.jpg?t=1704232682",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976334/movie480_vp9.webm?t=1704232682",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976334/movie_max_vp9.webm?t=1704232682"
+            }
+        }
+    ],
+    "name": "Fitting-In",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x86 or x64 compatible<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "ODav"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "January 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_0058341098ad1f78b5c049e5007c0b973657ae9f.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_0058341098ad1f78b5c049e5007c0b973657ae9f.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_640ee057310972ffe83e65da0c10cd7be9cdb4c9.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_640ee057310972ffe83e65da0c10cd7be9cdb4c9.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_40f761215485c29a5b6249a41d8876de2ea92268.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_40f761215485c29a5b6249a41d8876de2ea92268.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_019121df602229a619653de313ae93e79ba49bfc.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_019121df602229a619653de313ae93e79ba49bfc.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_c2c628838aa1e0332b5f355adbae55bf4bcf0166.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_c2c628838aa1e0332b5f355adbae55bf4bcf0166.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_aafe5d2fbdf92cae05f841131583bf3fc3ebb051.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_aafe5d2fbdf92cae05f841131583bf3fc3ebb051.600x338.jpg?t=1705546722"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_f64f7ef7e007c9d49696a8cf4b109531ac23b243.1920x1080.jpg?t=1705546722",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371110/ss_f64f7ef7e007c9d49696a8cf4b109531ac23b243.600x338.jpg?t=1705546722"
+        }
+    ],
+    "short_description": "Fitting-In is a single player puzzle game where you perform movement combos to jump over, through, and inside obstacles! There are walls, pause blocks, break blocks, and move blocks that all require creativity to overcome!",
+    "steam_appid": 2371110,
+    "support_info": {
+        "email": "oscar.davenport.f@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

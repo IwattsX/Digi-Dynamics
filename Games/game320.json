@@ -1,0 +1,75 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/Header.png?t=1704065114\" /><br><br>Welcome, reincarnated in Fegefeuer!<br><br>This is Fegefeuer Soul Tower, an cozy adventure game within the Fegefeuer.<br><br>Fegefeuer is a mysterious world between Hell and Heaven.<br>Build a Home and Fight your way through the Soul Tower to finally reach Heaven.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/SoulTower.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/SoulTower.gif?t=1704065114\" /><br><br>The Soul Tower has 100 floors that you have to overcome.<br>You can free NPCs in the Soul Tower to increase the capabilities of your home.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/Farm.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/FarmExample.png?t=1704065114\" /><br><br>Relax on your farm to craft and grow everything imaginable.<br>Perfect after a hard encounter in the Soul Tower.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/ModifyEq.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/ModifyEqExample.png?t=1704065114\" /><br><br>Equipment and powerful Gems will drop. <br>Free the legendary Alchemist to unlock powerful potions and socket Gems in your Equipment.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/4PlayerCoop.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/4PlayerCoopExample.png?t=1704065114\" /><br><br>Every journey is best with friends by your side.<br>Play with up to 4 Players through this epic adventure.<br><br>Can you escape from Fegefeuer and reach Heaven?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/End.png?t=1704065114\" />",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740010/capsule_231x87.jpg?t=1704065114",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2740010/capsule_184x69.jpg?t=1704065114",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/Header.png?t=1704065114\" /><br><br>Welcome, reincarnated in Fegefeuer!<br><br>This is Fegefeuer Soul Tower, an cozy adventure game within the Fegefeuer.<br><br>Fegefeuer is a mysterious world between Hell and Heaven.<br>Build a Home and Fight your way through the Soul Tower to finally reach Heaven.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/SoulTower.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/SoulTower.gif?t=1704065114\" /><br><br>The Soul Tower has 100 floors that you have to overcome.<br>You can free NPCs in the Soul Tower to increase the capabilities of your home.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/Farm.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/FarmExample.png?t=1704065114\" /><br><br>Relax on your farm to craft and grow everything imaginable.<br>Perfect after a hard encounter in the Soul Tower.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/ModifyEq.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/ModifyEqExample.png?t=1704065114\" /><br><br>Equipment and powerful Gems will drop. <br>Free the legendary Alchemist to unlock powerful potions and socket Gems in your Equipment.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/4PlayerCoop.png?t=1704065114\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/4PlayerCoopExample.png?t=1704065114\" /><br><br>Every journey is best with friends by your side.<br>Play with up to 4 Players through this epic adventure.<br><br>Can you escape from Fegefeuer and reach Heaven?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740010/extras/End.png?t=1704065114\" />",
+    "developers": [
+        "Snob Entertainment UG"
+    ],
+    "fullgame": {
+        "appid": "2578640",
+        "name": "Fegefeuer Soul Tower"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740010/header.jpg?t=1704065114",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fegefeuer Soul Tower Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Snob Entertainment UG"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "short_description": "Fegefeuer Soul Tower is a Cozy Adventure (Up to 4 Player). Manage a Shop, Farm and City while fighting through a Tower to escape the Fegefeuer.",
+    "steam_appid": 2740010,
+    "support_info": {
+        "email": "support@snobentertainment.com",
+        "url": "https://snobentertainment.com"
+    },
+    "supported_languages": "English, German",
+    "type": "demo",
+    "website": "https://snobentertainment.com"
+}

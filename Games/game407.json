@@ -1,0 +1,114 @@
+{
+    "about_the_game": "Helix is an adventure game taking place in a melancholic disembodied world.<br>One will explore highly detailed black&amp;white screens in a quest for redemption.<h2 class=\"bb_tag\">Unique gameplay mechanics</h2><br><ul class=\"bb_ul\"><li> Short runs<br></li><li> Start again to explore further and deeper<br></li><li> No violence, no killing, just puzzles and exploration<br></li><li> No text, but rather progressive learning through layers of complexity<br></li><li> 5 abilities to choose from and combine<br></li><li> Mix and match your abilities in unique ways to solve riddles<br></li><li> 25 ways to combine your abilities</li></ul><h2 class=\"bb_tag\">Hand drawn screens</h2><br><ul class=\"bb_ul\"><li> Strong traditional black &amp; white inking<br></li><li> Each screen is unique and highly detailed<br></li><li> A melancholic world emptied of his soul, dark and yet beautiful</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/page_bg_generated_v6b.jpg?t=1703088080",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/page_bg_generated.jpg?t=1703088080",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/capsule_231x87.jpg?t=1703088080",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/capsule_184x69.jpg?t=1703088080",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Helix is an adventure game taking place in a melancholic disembodied world.<br>One will explore highly detailed black&amp;white screens in a quest for redemption.<h2 class=\"bb_tag\">Unique gameplay mechanics</h2><br><ul class=\"bb_ul\"><li> Short runs<br></li><li> Start again to explore further and deeper<br></li><li> No violence, no killing, just puzzles and exploration<br></li><li> No text, but rather progressive learning through layers of complexity<br></li><li> 5 abilities to choose from and combine<br></li><li> Mix and match your abilities in unique ways to solve riddles<br></li><li> 25 ways to combine your abilities</li></ul><h2 class=\"bb_tag\">Hand drawn screens</h2><br><ul class=\"bb_ul\"><li> Strong traditional black &amp; white inking<br></li><li> Each screen is unique and highly detailed<br></li><li> A melancholic world emptied of his soul, dark and yet beautiful</li></ul>",
+    "developers": [
+        "Badass Mongoose"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/header.jpg?t=1703088080",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988256,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988256/movie480.mp4?t=1703088071",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988256/movie_max.mp4?t=1703088071"
+            },
+            "name": "Helix Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988256/movie.293x165.jpg?t=1703088071",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988256/movie480_vp9.webm?t=1703088071",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988256/movie_max_vp9.webm?t=1703088071"
+            }
+        }
+    ],
+    "name": "Helix: Descent N Ascent",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 SP1<br></li><li><strong>Processor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB VRAM / DirectX 10+ support<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 SP1<br></li><li><strong>Processor:</strong> Dual Core 3.0 GHz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM / DirectX 10+ support<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Badass Mongoose"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_e671618c1eeda2e858794b322614d99567ffe392.1920x1080.jpg?t=1703088080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_e671618c1eeda2e858794b322614d99567ffe392.600x338.jpg?t=1703088080"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_7b0947f1b92f52777cd61407e49286530f84fd71.1920x1080.jpg?t=1703088080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_7b0947f1b92f52777cd61407e49286530f84fd71.600x338.jpg?t=1703088080"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_e207fa7977dc466824795543a296c13d2cdd826f.1920x1080.jpg?t=1703088080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_e207fa7977dc466824795543a296c13d2cdd826f.600x338.jpg?t=1703088080"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_8b074660d20a2e21d8127574886d39f401947974.1920x1080.jpg?t=1703088080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_8b074660d20a2e21d8127574886d39f401947974.600x338.jpg?t=1703088080"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_8cf3a25526add160a6cb3c2e60ae30c505448ea7.1920x1080.jpg?t=1703088080",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736370/ss_8cf3a25526add160a6cb3c2e60ae30c505448ea7.600x338.jpg?t=1703088080"
+        }
+    ],
+    "short_description": "Helix is an adventure game taking place in a melancholic disembodied world. Combine your powers to solve puzzles and explore further and deeper.",
+    "steam_appid": 2736370,
+    "support_info": {
+        "email": "",
+        "url": "http://badassmongoose.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

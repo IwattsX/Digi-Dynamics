@@ -1,0 +1,117 @@
+{
+    "about_the_game": "World Class is an RPG that uses stylized art to tell the story of new adventurers in this world striving to become World Class Adventurers. You create your character and define your story by the actions you take along this winding road. Customizing your ability set is a key feature of the game, but what stands out is the ability to further modify your skills/abilities with modifications that make the overall feel more personalized.<br><br>Are you ready to take on the world and become a World Class Adventurer?<br><br><strong><u>Play alone or with others!</u></strong><br><i>With a quest system designed for single player or multiplayer difficulties, you can search for a party online or join up with friends to take on the world's challenges.</i><br><br><strong><u>Explore a vast and beautiful world!</u></strong><br><i>Taking advantage of Unreal Engine's 5.1 update, a larger world can be made for players to explore with an art style to show off its beauty.</i><br><br><strong><u>Personalization is key!</u></strong><br><i>Having spells and abilities is a must have in RPGs, however being able to tweak them to your own play style is necessary giving your characters a more personal feel.</i><br><br>Though this game is a bit away, development will be open and vocal about what will be changed and will release polls to see if this is what the community wants as a whole. Though we are in Concept phase, play testing will be a HUGE part of the game making process so that we can get real time feedback and adjust/fix things that need addressing immediately. <br><br>Have fun in the world and become World Class!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/page_bg_generated_v6b.jpg?t=1692722109",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/page.bg.jpg?t=1692722109",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/capsule_231x87.jpg?t=1692722109",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/capsule_184x69.jpg?t=1692722109",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "Violence - There will be combat and violent moments in cutscenes.\r\n\r\nBlood/Gore - Blood splatter and a bit of intense violence with very little actual Gore.\r\n\r\nDrug Use - There will be drugs (fantasy versions) and the use of them will be available to players."
+    },
+    "detailed_description": "World Class is an RPG that uses stylized art to tell the story of new adventurers in this world striving to become World Class Adventurers. You create your character and define your story by the actions you take along this winding road. Customizing your ability set is a key feature of the game, but what stands out is the ability to further modify your skills/abilities with modifications that make the overall feel more personalized.<br><br>Are you ready to take on the world and become a World Class Adventurer?<br><br><strong><u>Play alone or with others!</u></strong><br><i>With a quest system designed for single player or multiplayer difficulties, you can search for a party online or join up with friends to take on the world's challenges.</i><br><br><strong><u>Explore a vast and beautiful world!</u></strong><br><i>Taking advantage of Unreal Engine's 5.1 update, a larger world can be made for players to explore with an art style to show off its beauty.</i><br><br><strong><u>Personalization is key!</u></strong><br><i>Having spells and abilities is a must have in RPGs, however being able to tweak them to your own play style is necessary giving your characters a more personal feel.</i><br><br>Though this game is a bit away, development will be open and vocal about what will be changed and will release polls to see if this is what the community wants as a whole. Though we are in Concept phase, play testing will be a HUGE part of the game making process so that we can get real time feedback and adjust/fix things that need addressing immediately. <br><br>Have fun in the world and become World Class!",
+    "developers": [
+        "Will A."
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/header.jpg?t=1692722109",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "World Class",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz   3.70 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1070<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Self Published"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_15f92e6436cc5ff48fbf00481cf5db0dfab223e2.1920x1080.jpg?t=1692722109",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_15f92e6436cc5ff48fbf00481cf5db0dfab223e2.600x338.jpg?t=1692722109"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_fad8ef1fc0de2dae02c1b417f84d0592ab8d9aac.1920x1080.jpg?t=1692722109",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_fad8ef1fc0de2dae02c1b417f84d0592ab8d9aac.600x338.jpg?t=1692722109"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_b7f1283fb0474ff51509b9d7dd6bf2afe7c49889.1920x1080.jpg?t=1692722109",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_b7f1283fb0474ff51509b9d7dd6bf2afe7c49889.600x338.jpg?t=1692722109"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_7d36e45d8e7546b5b633e962fca0ff604874cfed.1920x1080.jpg?t=1692722109",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_7d36e45d8e7546b5b633e962fca0ff604874cfed.600x338.jpg?t=1692722109"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_bd3a933aa620f5fa54ee9f4a1f934a55c36e5888.1920x1080.jpg?t=1692722109",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336060/ss_bd3a933aa620f5fa54ee9f4a1f934a55c36e5888.600x338.jpg?t=1692722109"
+        }
+    ],
+    "short_description": "World Class is an RPG that uses stylized, anime-like, art. You create your character and define your story with customized ability sets with modifications that make the overall feel more personalized.",
+    "steam_appid": 2336060,
+    "support_info": {
+        "email": "",
+        "url": "https://discord.gg/GVdHr4XAkN"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

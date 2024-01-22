@@ -1,0 +1,140 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Welcome to Beat \u2018N\u2019 Path!</h2><br><strong>You won\u2019t just create music, you\u2019ll create machines that create music.</strong><br><br>Combine creativity and logic to arrange components and instruments to create musical machines.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-25_10-21-11.gif?t=1701456583\" /><br><br> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-24_21-34-03.gif?t=1701456583\" /><br><br>Design and build your own solutions to complete jobs for clients. Completing jobs will unlock new components and opportunities.<br><br>Each client has their own style, and each job has unique requirements and restrictions.<br><br>Be creative. There are many ways to approach each job, and bonuses for going above and beyond.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-25_09-17-46.gif?t=1701456583\" /><br><br>Experiment in sandbox mode without limits. Share your creations with other players to show off your masterpiece or to collaborate.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/page_bg_generated_v6b.jpg?t=1701456583",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/page.bg.jpg?t=1701456583",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/capsule_231x87.jpg?t=1701456583",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/capsule_184x69.jpg?t=1701456583",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Welcome to Beat \u2018N\u2019 Path!</h2><br><strong>You won\u2019t just create music, you\u2019ll create machines that create music.</strong><br><br>Combine creativity and logic to arrange components and instruments to create musical machines.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-25_10-21-11.gif?t=1701456583\" /><br><br> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-24_21-34-03.gif?t=1701456583\" /><br><br>Design and build your own solutions to complete jobs for clients. Completing jobs will unlock new components and opportunities.<br><br>Each client has their own style, and each job has unique requirements and restrictions.<br><br>Be creative. There are many ways to approach each job, and bonuses for going above and beyond.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2636350/extras/After_Effects.avi-2023-11-25_09-17-46.gif?t=1701456583\" /><br><br>Experiment in sandbox mode without limits. Share your creations with other players to show off your masterpiece or to collaborate.",
+    "developers": [
+        "BitCutter Studios Inc."
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/header.jpg?t=1701456583",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux (Any Steam Supported)<br></li><li><strong>Processor:</strong> Intel Core i3, AMD Ryzen 3, or similar<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 core, DirectX 10.1 capable GPU with 512 MB VRAM - GeForce GTX 260, Radeon HD 4850 or Intel HD Graphics 5500<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256984694,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984694/movie480.mp4?t=1701280409",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984694/movie_max.mp4?t=1701280409"
+            },
+            "name": "Beat 'N' Path Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256984694/movie.293x165.jpg?t=1701280409",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984694/movie480_vp9.webm?t=1701280409",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984694/movie_max_vp9.webm?t=1701280409"
+            }
+        }
+    ],
+    "name": "Beat 'N' Path",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> Intel Core i3, AMD Ryzen 3, or similar<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10.1 capable GPU with 512 MB VRAM - GeForce GTX 260, Radeon HD 4850 or Intel HD Graphics 5500<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "BitCutter Studios Inc."
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_16072cf8268ed2ef49c06975d5a0920719df8857.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_16072cf8268ed2ef49c06975d5a0920719df8857.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_d451fa01417fb813b7f283720ad072a12735da7b.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_d451fa01417fb813b7f283720ad072a12735da7b.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_de01c45e1290a16b582617d160e4d2b100575ccd.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_de01c45e1290a16b582617d160e4d2b100575ccd.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_aae9f3d8ddc5d8518d7cb0bc12ea4938e9d35a0f.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_aae9f3d8ddc5d8518d7cb0bc12ea4938e9d35a0f.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_d80bcb4f18783616600f1791408c5a2f00047749.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_d80bcb4f18783616600f1791408c5a2f00047749.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_c1187359c8abe706208811392cf9bc95f2c03cf8.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_c1187359c8abe706208811392cf9bc95f2c03cf8.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_91350922dcb9d71841716adbbec5cf500d88e85c.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_91350922dcb9d71841716adbbec5cf500d88e85c.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_ed594b9135ef7091bd6501af2bcfd2db15edb841.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_ed594b9135ef7091bd6501af2bcfd2db15edb841.600x338.jpg?t=1701456583"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_f6d30d0b65e2a6ff82774ab21e230cc179be0a0b.1920x1080.jpg?t=1701456583",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636350/ss_f6d30d0b65e2a6ff82774ab21e230cc179be0a0b.600x338.jpg?t=1701456583"
+        }
+    ],
+    "short_description": "Combine creativity and logic to create machines\u2026 that create music! Take on exciting challenges in Career Mode, or experiment in Sandbox Mode.",
+    "steam_appid": 2636350,
+    "support_info": {
+        "email": "bitcutter@bitcutter.com",
+        "url": "https://bitcutter.com"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "game",
+    "website": "https://beatnpath.io"
+}

@@ -1,0 +1,113 @@
+{
+    "about_the_game": "Px2d Three Kingdoms Theme Role Expansion Package 001<br />\r\n<br />\r\nHead assembly: 191<br />\r\nShoulder assembly: 57<br />\r\nFoot assembly: 1<br />\r\nWeapon components: 163<br />\r\nDecorative components: 2<br />\r\nEffect components: 12<br />\r\nBody components: 201<br />\r\nHand components: 10<br />\r\nBack assembly: 30<br />\r\nArmor components: 15<br />\r\nAuxiliary components: 2<br />\r\n<br />\r\nTotal number of components: 684<br />\r\n<br />\r\nUsage: load dlc. The resource content will be automatically replaced after loading.<br />\r\n<br />\r\nImportant tips<br />\r\nOnly one dlc content can be loaded automatically at a time.<br />\r\nIt is not recommended to load multiple dlcs at the same time. Too much loading will cause memory overflow and software errors. Unable to use.<br />\r\nIf you have to use the contents of multiple dlcs at the same time, there is also a way.<br />\r\nIt is to create a new role folder, and then put the contents of multiple dlcs in it. The resource names should be rearranged in order in advance.<br />\r\nThen modify the resource quantity of each component in the px2d.INI file.<br />\r\nFinally, just overwrite the new role folder and the new px2d.INI file into the ontology folder.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/page_bg_generated_v6b.jpg?t=1677914581",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/page_bg_generated.jpg?t=1677914581",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/capsule_231x87.jpg?t=1677914581",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/capsule_184x69.jpg?t=1677914581",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Px2d Three Kingdoms Theme Role Expansion Package 001<br />\r\n<br />\r\nHead assembly: 191<br />\r\nShoulder assembly: 57<br />\r\nFoot assembly: 1<br />\r\nWeapon components: 163<br />\r\nDecorative components: 2<br />\r\nEffect components: 12<br />\r\nBody components: 201<br />\r\nHand components: 10<br />\r\nBack assembly: 30<br />\r\nArmor components: 15<br />\r\nAuxiliary components: 2<br />\r\n<br />\r\nTotal number of components: 684<br />\r\n<br />\r\nUsage: load dlc. The resource content will be automatically replaced after loading.<br />\r\n<br />\r\nImportant tips<br />\r\nOnly one dlc content can be loaded automatically at a time.<br />\r\nIt is not recommended to load multiple dlcs at the same time. Too much loading will cause memory overflow and software errors. Unable to use.<br />\r\nIf you have to use the contents of multiple dlcs at the same time, there is also a way.<br />\r\nIt is to create a new role folder, and then put the contents of multiple dlcs in it. The resource names should be rearranged in order in advance.<br />\r\nThen modify the resource quantity of each component in the px2d.INI file.<br />\r\nFinally, just overwrite the new role folder and the new px2d.INI file into the ontology folder.",
+    "developers": [
+        "PixelWorkshop"
+    ],
+    "fullgame": {
+        "appid": "2255310",
+        "name": "Px2d"
+    },
+    "genres": [
+        {
+            "description": "Animation & Modeling",
+            "id": "51"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/header.jpg?t=1677914581",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Px2d - Three Kingdoms Theme Role Expansion Package 001",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Three Kingdoms Theme Role Expansion Package 001 - $16.99",
+                    "packageid": 838911,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1699
+                }
+            ],
+            "title": "Buy Px2d - Three Kingdoms Theme Role Expansion Package 001"
+        }
+    ],
+    "packages": [
+        838911
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows7/8/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows7/8/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1699,
+        "final_formatted": "$16.99",
+        "initial": 1699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "PixelWorkshop"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/ss_5041cc120c1cb4ae98b54ded0b149ea1c117a44d.1920x1080.jpg?t=1677914581",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335710/ss_5041cc120c1cb4ae98b54ded0b149ea1c117a44d.600x338.jpg?t=1677914581"
+        }
+    ],
+    "short_description": "Px2d role component expansion package",
+    "steam_appid": 2335710,
+    "support_info": {
+        "email": "kxzf_kxdr@163.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese, English",
+    "type": "dlc",
+    "website": null
+}

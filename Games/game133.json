@@ -1,0 +1,161 @@
+{
+    "about_the_game": "&quot;Pathfinder RPG - Pathfinder Companion: Agents of Evil<br> <br>  <br> It's Good to Be Bad <br> Not every protagonist is a hero! Author Thurston Hillman brings you all the twisted tools you need to carry out nefarious deeds in\u00a0Pathfinder Player Companion: Agents of Evil. Delve deep into discussions\u00a0of\u00a0what it means to undertake evil tasks, both for truly selfish characters and for those hard-eyed heroes willing to get their hands dirty in pursuit of the greater good. Explore new character options for PCs not squeamish about what patrons, gods, or other\u00a0sources of power they serve, and gear up with a smorgasboard of sinister magic items, forbidden equipment, and spells that will make\u00a0paladins think twice about working with you! <br> Adventure isn't just for goody-goodies anymore.\u00a0Inside this book, you'll find: <br><ul class=\"bb_ul\"> <li> New background options, story feats, and character traits to help you flesh out your villainous past. Were you the product of a hard life, or just born rotten to the core? <br> </li><li> Details on who worships the evil gods of the Inner Sea, and a brief review of their nonevil cults, including the appeaser cleric archetype, who channels nefarious powers to unaligned ends. <br> </li><li> New archetypes to emphasize moral compromise and sinister influences, such as the insinuator antipaladin, who serves no cause but his own glory. <br> </li><li> General and specific tactics for battling the forces of good, from self-righteous paladins to holier-than-thou angels. <br> </li><li> New spells, magic items, magic weapons, feats, and poisons to help give your morally compromised adventurers the edge over their foes! </li></ul>  This Pathfinder Player Companion is intended for use with the Pathfinder Roleplaying Game and the Pathfinder campaign setting, but can easily be incorporated into any fantasy world. <br>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and Features the Following additions: <br>  <br><ul class=\"bb_ul\"> <li> All maps resized and set up with a preset grid to make combats easy to manage <br> </li><li> Individual area descriptions linked to maps, containing new encounters, treasure parcels and descriptions for just that area <br> </li><li> Tokens for each encounter are pre-placed in starting locations on the map. You can edit these on the fly <br> </li><li> Drag and drop treasure parcels and Encounter XP that is easily awarded to your players to keep the game moving ahead <br> </li><li> All the images and handouts from the book available to share with your players as you need them </li></ul>&quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/page_bg_generated_v6b.jpg?t=1699464108",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/page_bg_generated.jpg?t=1699464108",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/capsule_231x87.jpg?t=1699464108",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/capsule_184x69.jpg?t=1699464108",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;Pathfinder RPG - Pathfinder Companion: Agents of Evil<br> <br>  <br> It's Good to Be Bad <br> Not every protagonist is a hero! Author Thurston Hillman brings you all the twisted tools you need to carry out nefarious deeds in\u00a0Pathfinder Player Companion: Agents of Evil. Delve deep into discussions\u00a0of\u00a0what it means to undertake evil tasks, both for truly selfish characters and for those hard-eyed heroes willing to get their hands dirty in pursuit of the greater good. Explore new character options for PCs not squeamish about what patrons, gods, or other\u00a0sources of power they serve, and gear up with a smorgasboard of sinister magic items, forbidden equipment, and spells that will make\u00a0paladins think twice about working with you! <br> Adventure isn't just for goody-goodies anymore.\u00a0Inside this book, you'll find: <br><ul class=\"bb_ul\"> <li> New background options, story feats, and character traits to help you flesh out your villainous past. Were you the product of a hard life, or just born rotten to the core? <br> </li><li> Details on who worships the evil gods of the Inner Sea, and a brief review of their nonevil cults, including the appeaser cleric archetype, who channels nefarious powers to unaligned ends. <br> </li><li> New archetypes to emphasize moral compromise and sinister influences, such as the insinuator antipaladin, who serves no cause but his own glory. <br> </li><li> General and specific tactics for battling the forces of good, from self-righteous paladins to holier-than-thou angels. <br> </li><li> New spells, magic items, magic weapons, feats, and poisons to help give your morally compromised adventurers the edge over their foes! </li></ul>  This Pathfinder Player Companion is intended for use with the Pathfinder Roleplaying Game and the Pathfinder campaign setting, but can easily be incorporated into any fantasy world. <br>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and Features the Following additions: <br>  <br><ul class=\"bb_ul\"> <li> All maps resized and set up with a preset grid to make combats easy to manage <br> </li><li> Individual area descriptions linked to maps, containing new encounters, treasure parcels and descriptions for just that area <br> </li><li> Tokens for each encounter are pre-placed in starting locations on the map. You can edit these on the fly <br> </li><li> Drag and drop treasure parcels and Encounter XP that is easily awarded to your players to keep the game moving ahead <br> </li><li> All the images and handouts from the book available to share with your players as you need them </li></ul>&quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/header.jpg?t=1699464108",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2023. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Agents of Evil",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Agents of Evil - $14.99",
+                    "packageid": 946084,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Agents of Evil"
+        }
+    ],
+    "packages": [
+        946084
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_fbe939fa137586d7b21924bb325d9c3bb4f99628.1920x1080.jpg?t=1699464108",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_fbe939fa137586d7b21924bb325d9c3bb4f99628.600x338.jpg?t=1699464108"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_ec13cf270714642a8205cd16adb7d9cf301f17f1.1920x1080.jpg?t=1699464108",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_ec13cf270714642a8205cd16adb7d9cf301f17f1.600x338.jpg?t=1699464108"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_865ab2b7c3e4cdac63946453b47556e7a533cf85.1920x1080.jpg?t=1699464108",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_865ab2b7c3e4cdac63946453b47556e7a533cf85.600x338.jpg?t=1699464108"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_112fdaa6f784994771f0ac59ad388ce966a9dd34.1920x1080.jpg?t=1699464108",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_112fdaa6f784994771f0ac59ad388ce966a9dd34.600x338.jpg?t=1699464108"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_4339d7950360781a4bf5b2619a10d9c31fec49db.1920x1080.jpg?t=1699464108",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638580/ss_4339d7950360781a4bf5b2619a10d9c31fec49db.600x338.jpg?t=1699464108"
+        }
+    ],
+    "short_description": "&quot;Pathfinder RPG - Pathfinder Companion: Agents of Evil It's Good to Be Bad Not every protagonist is a hero! Author Thurston Hillman brings you all the twisted tools you need to carry out nefarious deeds in\u00a0Pathfinder Player Companion: Agents of Evil.",
+    "steam_appid": 2638580,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

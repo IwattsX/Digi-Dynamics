@@ -1,0 +1,123 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/UJWL.png?t=1682564794\" /><br><strong>In this psychological horror game, play as a little girl who's been mysteriously shrunk down. Using a camera, take photos of the scary invisible figure that's been haunting you. He doesn't like getting caught on camera. Can you survive until 6:00 AM?</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/STORY2.png?t=1682564794\" /><br>You've been telling your parents for days that a scary toy's been chasing you at night. They said that the nightmares will go away, but you know they won't. One night you went to sleep with your dad's old camera you found in a box so you can prove to them that it exists and they are not just nightmares. This is your last chance to prove your parents wrong.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/p1v2.png?t=1682564794\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/terrorizer.png?t=1682564794\" /><br>This wicked toy has been haunting you in your nightmares and now he finally has a chance to get you. With a black and white scare mask, it stalks the little girl through her room, ready to strike her down at the slightest mistake. He dwells in the darkness and light is the only way to get rid of him. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/ezgif.com-gif-maker__1_.gif?t=1682564794\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/gameplay.png?t=1682564794\" /><br>You play as a little girl trapped in her room at night, where she's shrunk down and stalked by a wicked toy. Use your handheld camera to take a picture of the haunted toy, but be aware, it only has space limited numbers of pictures being taken and has limited battery life. Collect batteries to keep the camera charged as you navigate your way through your room. Take a picture and avoid being caught by the toy until the break of dawn.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/page_bg_generated_v6b.jpg?t=1682564794",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/page.bg.jpg?t=1682564794",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/capsule_231x87.jpg?t=1682564794",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/capsule_184x69.jpg?t=1682564794",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/UJWL.png?t=1682564794\" /><br><strong>In this psychological horror game, play as a little girl who's been mysteriously shrunk down. Using a camera, take photos of the scary invisible figure that's been haunting you. He doesn't like getting caught on camera. Can you survive until 6:00 AM?</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/STORY2.png?t=1682564794\" /><br>You've been telling your parents for days that a scary toy's been chasing you at night. They said that the nightmares will go away, but you know they won't. One night you went to sleep with your dad's old camera you found in a box so you can prove to them that it exists and they are not just nightmares. This is your last chance to prove your parents wrong.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/p1v2.png?t=1682564794\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/terrorizer.png?t=1682564794\" /><br>This wicked toy has been haunting you in your nightmares and now he finally has a chance to get you. With a black and white scare mask, it stalks the little girl through her room, ready to strike her down at the slightest mistake. He dwells in the darkness and light is the only way to get rid of him. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/ezgif.com-gif-maker__1_.gif?t=1682564794\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402520/extras/gameplay.png?t=1682564794\" /><br>You play as a little girl trapped in her room at night, where she's shrunk down and stalked by a wicked toy. Use your handheld camera to take a picture of the haunted toy, but be aware, it only has space limited numbers of pictures being taken and has limited battery life. Collect batteries to keep the camera charged as you navigate your way through your room. Take a picture and avoid being caught by the toy until the break of dawn.",
+    "developers": [
+        "xyl studio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/header.jpg?t=1682564794",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256943360,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943360/movie480.mp4?t=1682564784",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943360/movie_max.mp4?t=1682564784"
+            },
+            "name": "Teeny Tiny Terror Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256943360/movie.293x165.jpg?t=1682564784",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943360/movie480_vp9.webm?t=1682564784",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943360/movie_max_vp9.webm?t=1682564784"
+            }
+        }
+    ],
+    "name": "Teeny Tiny Terror",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> 2.5 GHz Quad-core Intel or AMD processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 970 GTX or AMD equivalent<br></li><li><strong>Storage:</strong> 1400 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "xyl studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_d57ee8cc3794365cdcd67578ec9a208e7bd2a9f3.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_d57ee8cc3794365cdcd67578ec9a208e7bd2a9f3.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_055397c2cfacf4f8b5a14e30b866ffb8702f390f.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_055397c2cfacf4f8b5a14e30b866ffb8702f390f.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_f577791672ecc39d01cfb72b6e042a12e2479428.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_f577791672ecc39d01cfb72b6e042a12e2479428.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_59c2bb2daa15368de0978ce45f1fb5fbf07747b5.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_59c2bb2daa15368de0978ce45f1fb5fbf07747b5.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_9c2b02ca484e70ddef37bcae06d3edbc8844a655.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_9c2b02ca484e70ddef37bcae06d3edbc8844a655.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_cea54c637dfb9ef1266854fce3a2e7089a6c86ae.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_cea54c637dfb9ef1266854fce3a2e7089a6c86ae.600x338.jpg?t=1682564794"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_b921dc3d3843586fdeb204aeead86aaa603a2600.1920x1080.jpg?t=1682564794",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402520/ss_b921dc3d3843586fdeb204aeead86aaa603a2600.600x338.jpg?t=1682564794"
+        }
+    ],
+    "short_description": "In this psychological horror game, play as a little girl who's been mysteriously shrunk down. Using a camera, take photos of the scary invisible figure that's been haunting you. He doesn't like getting caught on camera. Can you survive until 6:00 AM?",
+    "steam_appid": 2402520,
+    "support_info": {
+        "email": "admin@xyl.lol",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://teenytinyterror.com"
+}

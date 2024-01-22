@@ -1,0 +1,155 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/dungeon_raiding_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/dungeon_raiding.gif?t=1702473836\" /><br>Raid, explore and grind handcrafted dungeons by using the mysterious portal device 'Gate of Torment', searching for loot and Dungeon Keys to unlock new dungeons. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/visceral_combat_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/visceral_combat.gif?t=1702473836\" /><br>Slay demons and cultists by wielding firearms and black magic. Challenging and unique combat gameplay with 8-directional aiming that rewards tactical positioning and patience, but also fast reactive play when things get hot. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/the_hideout_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/the_hideout2.gif?t=1702473836\" /><br>Extract back to your Hideout to store the loot you've found. In The Hideout you can replenish, modify your loadout and choose what dungeon to raid next. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/play_testing_wide.png?t=1702473836\" /><br>If you're interested in early <strong>PLAY-TESTING</strong> or otherwise want to support and follow the development, please join the Discord server! Discord link in the sidebar -&gt;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/page_bg_generated_v6b.jpg?t=1702473836",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/page_bg_generated.jpg?t=1702473836",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/capsule_231x87.jpg?t=1702473836",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/capsule_184x69.jpg?t=1702473836",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Gate of Torment contains violence, gore and torture, as well as satanic, occult and ritualistic elements."
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/dungeon_raiding_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/dungeon_raiding.gif?t=1702473836\" /><br>Raid, explore and grind handcrafted dungeons by using the mysterious portal device 'Gate of Torment', searching for loot and Dungeon Keys to unlock new dungeons. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/visceral_combat_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/visceral_combat.gif?t=1702473836\" /><br>Slay demons and cultists by wielding firearms and black magic. Challenging and unique combat gameplay with 8-directional aiming that rewards tactical positioning and patience, but also fast reactive play when things get hot. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/the_hideout_wide.png?t=1702473836\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/the_hideout2.gif?t=1702473836\" /><br>Extract back to your Hideout to store the loot you've found. In The Hideout you can replenish, modify your loadout and choose what dungeon to raid next. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637020/extras/play_testing_wide.png?t=1702473836\" /><br>If you're interested in early <strong>PLAY-TESTING</strong> or otherwise want to support and follow the development, please join the Discord server! Discord link in the sidebar -&gt;",
+    "developers": [
+        "Gate of Torment"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/header.jpg?t=1702473836",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973809,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973809/movie480.mp4?t=1696670268",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973809/movie_max.mp4?t=1696670268"
+            },
+            "name": "Gate of Torment - Announcement Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973809/movie.293x165.jpg?t=1696670268",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973809/movie480_vp9.webm?t=1696670268",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973809/movie_max_vp9.webm?t=1696670268"
+            }
+        }
+    ],
+    "name": "Gate of Torment",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad core CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Gate of Torment"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_44f70129c21942e4a022f309032b13041b55a515.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_44f70129c21942e4a022f309032b13041b55a515.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_f458f8ddf4d67e3992cf5128dbce1265d6b837fc.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_f458f8ddf4d67e3992cf5128dbce1265d6b837fc.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_600ae6eb32f236ab24a90f15767ecb4fde623edd.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_600ae6eb32f236ab24a90f15767ecb4fde623edd.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_bbf2a974d9c555b20a7b25c186626ccb44ec77fb.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_bbf2a974d9c555b20a7b25c186626ccb44ec77fb.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_c9721e665a99587fc93358d6fbdf2d518e2fdc60.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_c9721e665a99587fc93358d6fbdf2d518e2fdc60.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_e8b324d4b75e0b450972f889c06d02fdb1e86582.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_e8b324d4b75e0b450972f889c06d02fdb1e86582.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_ef75ac22cbe5092fe5d93ab74f610a4455e56f12.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_ef75ac22cbe5092fe5d93ab74f610a4455e56f12.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_02559d1af30f21921f8e93768cf850ce2badadc3.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_02559d1af30f21921f8e93768cf850ce2badadc3.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_ad71240a85dea4c8c1f50646a9dae51e08156382.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_ad71240a85dea4c8c1f50646a9dae51e08156382.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_0a459d8ecb5f3d106b86f2f281f4734db18287a1.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_0a459d8ecb5f3d106b86f2f281f4734db18287a1.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_b3cf74981ca02d7ef109891ef1acb7c98b69e435.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_b3cf74981ca02d7ef109891ef1acb7c98b69e435.600x338.jpg?t=1702473836"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_d99cd097eff11f6d2b3e8ebe79c533fc673256e4.1920x1080.jpg?t=1702473836",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637020/ss_d99cd097eff11f6d2b3e8ebe79c533fc673256e4.600x338.jpg?t=1702473836"
+        }
+    ],
+    "short_description": "Gate of Torment is a top-down 2D hardcore dungeon crawler extraction shooter, where you are seeking a way to escape Hell. Armed with guns and black magic, you raid dark and dangerous dungeons by using a mysterious portal device.",
+    "steam_appid": 2637020,
+    "support_info": {
+        "email": "gateoftorment@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

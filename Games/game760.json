@@ -1,0 +1,142 @@
+{
+    "about_the_game": "<strong>World-P is an MMORPG based in a overgrown landscape.</strong><br><br><strong>Develop Your Path</strong><br>Choose from unique talents to work on. Talents are stats based on PVP, while others are based on money or crafting. <br><br><strong>PVP</strong><br>Certain areas of the world are dangerous, be cautious. In these areas players will be able to attack you and you will drop all of your items upon death. Practice your fighting talents to be competitive in this unique combat style.<br><br><strong>Journal</strong><br>Your journeys will be documented in your journal. Completing a journey will reward you. Journeys can be encountered throughout the world.<br><br><strong>Items</strong><br>Craft, use, or wear a wide variety of items. Make your character unique with different armors and clothes. Stock up on supplies and your favorite weapons for your next battle.<br><br><strong>Multiplayer</strong><br>Learn from, make friends with, and battle against other players in World-P. Share your story and hang out in your favorite areas.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/page_bg_generated_v6b.jpg?t=1682494157",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/page_bg_generated.jpg?t=1682494157",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/capsule_231x87.jpg?t=1682494157",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/capsule_184x69.jpg?t=1682494157",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "Some of the weapons and armor may be inappropriate for some audiences.\r\n\r\nThis game allows players to communicate through text-chat."
+    },
+    "detailed_description": "<strong>World-P is an MMORPG based in a overgrown landscape.</strong><br><br><strong>Develop Your Path</strong><br>Choose from unique talents to work on. Talents are stats based on PVP, while others are based on money or crafting. <br><br><strong>PVP</strong><br>Certain areas of the world are dangerous, be cautious. In these areas players will be able to attack you and you will drop all of your items upon death. Practice your fighting talents to be competitive in this unique combat style.<br><br><strong>Journal</strong><br>Your journeys will be documented in your journal. Completing a journey will reward you. Journeys can be encountered throughout the world.<br><br><strong>Items</strong><br>Craft, use, or wear a wide variety of items. Make your character unique with different armors and clothes. Stock up on supplies and your favorite weapons for your next battle.<br><br><strong>Multiplayer</strong><br>Learn from, make friends with, and battle against other players in World-P. Share your story and hang out in your favorite areas.",
+    "developers": [
+        "prextus"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/header.jpg?t=1682494157",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256943163,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943163/movie480.mp4?t=1682494147",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943163/movie_max.mp4?t=1682494147"
+            },
+            "name": "World-P",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256943163/movie.293x165.jpg?t=1682494147",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943163/movie480_vp9.webm?t=1682494147",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943163/movie_max_vp9.webm?t=1682494147"
+            }
+        }
+    ],
+    "name": "World-P",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Ryzen 7 4800H Series<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 Ti</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "prextus"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_6fe4cf9b2d51864f6dbcfac163899235b3761f53.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_6fe4cf9b2d51864f6dbcfac163899235b3761f53.600x338.jpg?t=1682494157"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_f5b2bf29b6ecbd7833860a3b349c158585ec7796.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_f5b2bf29b6ecbd7833860a3b349c158585ec7796.600x338.jpg?t=1682494157"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_814b91c217df802994763f68312e53195416954f.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_814b91c217df802994763f68312e53195416954f.600x338.jpg?t=1682494157"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_7ccbd374312833758918d0270cc3d934b07ef9e4.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_7ccbd374312833758918d0270cc3d934b07ef9e4.600x338.jpg?t=1682494157"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_dd57ae9481f8a3eb3e6d7160064bf3b0e4e41b3d.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_dd57ae9481f8a3eb3e6d7160064bf3b0e4e41b3d.600x338.jpg?t=1682494157"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_44c887293153c24368d6ef51b6c7d5dcd9101175.1920x1080.jpg?t=1682494157",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372280/ss_44c887293153c24368d6ef51b6c7d5dcd9101175.600x338.jpg?t=1682494157"
+        }
+    ],
+    "short_description": "Strange things happen in this open-world multiplayer game. Navigate, take advantage of the overgrown environment, and throw it all down in battle. Start your adventure and explore World-P, you may make some friends along the way.",
+    "steam_appid": 2372280,
+    "support_info": {
+        "email": "prextustv@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

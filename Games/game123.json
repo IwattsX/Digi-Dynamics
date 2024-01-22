@@ -1,0 +1,90 @@
+{
+    "about_the_game": "Invasion Alert! <br><br><i>Our planet faces a relentless onslaught as two alien races wage war across the galaxy. The peace-seeking race warns of an imminent invasion and provides advanced technology to fortify our cities. Now, as the assault has begun, we boldly advance on the invaders with our most powerful weapon. Behold, the mighty 'Abner Jack,' a forty-foot tall tank, manned by a skilled crew, and armed with massive guns, to lead the fight through the trenches against the alien incursion!</i><br><br>Hop in the gunner's seat of the Abner Jack in this first-person, arcade alley shooter set in a dieselpunk world. Fight through five chapters of relentless foes to defeat the invaders, and defend your planet. Swap between six different guns, and use deployable turrets, landmines, and rocket barrages as you battle against both ground and air baddies.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/page_bg_generated_v6b.jpg?t=1697135788",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/page_bg_generated.jpg?t=1697135788",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/capsule_231x87.jpg?t=1697135788",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/capsule_184x69.jpg?t=1697135788",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Invasion Alert! <br><br><i>Our planet faces a relentless onslaught as two alien races wage war across the galaxy. The peace-seeking race warns of an imminent invasion and provides advanced technology to fortify our cities. Now, as the assault has begun, we boldly advance on the invaders with our most powerful weapon. Behold, the mighty 'Abner Jack,' a forty-foot tall tank, manned by a skilled crew, and armed with massive guns, to lead the fight through the trenches against the alien incursion!</i><br><br>Hop in the gunner's seat of the Abner Jack in this first-person, arcade alley shooter set in a dieselpunk world. Fight through five chapters of relentless foes to defeat the invaders, and defend your planet. Swap between six different guns, and use deployable turrets, landmines, and rocket barrages as you battle against both ground and air baddies.",
+    "developers": [
+        "Polearm Studios"
+    ],
+    "fullgame": {
+        "appid": "2632140",
+        "name": "Iron & Lead"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/header.jpg?t=1697135788",
+    "is_free": true,
+    "legal_notice": "\u00a9 2023 Polearm Studios. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Iron & Lead Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Polearm Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_3b0c432c5cb9781c4f40baa23f92fd94ba6e8dec.1920x1080.jpg?t=1697135788",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_3b0c432c5cb9781c4f40baa23f92fd94ba6e8dec.600x338.jpg?t=1697135788"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_769f37a403b9109a286582d2b5a896a9e2928487.1920x1080.jpg?t=1697135788",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_769f37a403b9109a286582d2b5a896a9e2928487.600x338.jpg?t=1697135788"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_966241d24e186b9d5a1534a2f9fa0ded055267ea.1920x1080.jpg?t=1697135788",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_966241d24e186b9d5a1534a2f9fa0ded055267ea.600x338.jpg?t=1697135788"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_4325108690ccd2fc1dc2596fe16f2d6d4ce9a6fa.1920x1080.jpg?t=1697135788",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_4325108690ccd2fc1dc2596fe16f2d6d4ce9a6fa.600x338.jpg?t=1697135788"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_389a3e72154de4f88902ce13ffacc520831201cb.1920x1080.jpg?t=1697135788",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638390/ss_389a3e72154de4f88902ce13ffacc520831201cb.600x338.jpg?t=1697135788"
+        }
+    ],
+    "short_description": "Hop in the gunner's seat of the Abner Jack in this first-person, arcade alley shooter set in a dieselpunk world. Fight through five chapters of relentless foes to defeat the invaders, and defend your planet. Swap between different guns, and use deployables as you battle against both ground and air.",
+    "steam_appid": 2638390,
+    "support_info": {
+        "email": "info@polearmstudios.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

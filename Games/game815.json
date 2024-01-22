@@ -1,0 +1,118 @@
+{
+    "about_the_game": "<i>&quot;It looks like Dark Souls but it plays like Vampire Survivors.&quot;</i><br><br>Hi there, I'm H. Lang, solo developer of Sinder Blade.<br>Let me tell you a bit about my game:<h2 class=\"bb_tag\">Unique Combination of Active &amp; Passive Combat</h2><ul class=\"bb_ul\"><li><i>Phantom Attacks</i>: You can actively attack just like any action game, but you also have a Phantom that appears in front of you to automatically attack. Each Sinder you can obtain has a different phantom with its own unique attacks and abilities.<br></li><li><i>No Dodging or Rolling</i>: Instead of avoiding enemy attacks, you have a shield that automatically blocks and recharges over time, allowing you to power through and take on many foes at once. Your enemies should avoid YOU!</li></ul><h2 class=\"bb_tag\">Insane Combos Through Intricate Strategy</h2><ul class=\"bb_ul\"><li><i>Earn Your Power</i>: Becoming more powerful has less to do with luck or stacking stats, and more to do with finding and creating synergies. Learn how to combine skills and abilities together to create devastating combos.<br></li><li><i>Your Strategy, Your Way</i>: There are more than 150 skills right now with more to come, allowing countless different builds you can create. Make a build where you call down endless greatswords on top of enemies. Or make a build where you don't have to lift a finger, and anything that touches you dies in a fiery explosion.</li></ul><h2 class=\"bb_tag\">Horizontal Progression &amp; Mastery</h2><ul class=\"bb_ul\"><li><i>Master The Sinders</i>: Each Sinder has its own unique phantom, attacks, abilities, and skills. Obtain each one, learn how they play, and master them all.<br></li><li><i>Find Legendary Artifacts</i>: Discover unique artifacts that drastically alter your playstyle. Think of creative ways to combine them with Sinders and skills for even more devastation.<br></li><li><i>Conquer Each Battlefield</i>: Unlock different arenas to fight in, each with unique gameplay modifiers that change up the challenge.</li></ul><br>That's about it. Thanks for checking out my game and I look forward to seeing you unleash absolute destruction!<br><br>Best regards,<br>H. Lang",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/page_bg_generated_v6b.jpg?t=1697590118",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/page.bg.jpg?t=1697590118",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/capsule_231x87.jpg?t=1697590118",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/capsule_184x69.jpg?t=1697590118",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<i>&quot;It looks like Dark Souls but it plays like Vampire Survivors.&quot;</i><br><br>Hi there, I'm H. Lang, solo developer of Sinder Blade.<br>Let me tell you a bit about my game:<h2 class=\"bb_tag\">Unique Combination of Active &amp; Passive Combat</h2><ul class=\"bb_ul\"><li><i>Phantom Attacks</i>: You can actively attack just like any action game, but you also have a Phantom that appears in front of you to automatically attack. Each Sinder you can obtain has a different phantom with its own unique attacks and abilities.<br></li><li><i>No Dodging or Rolling</i>: Instead of avoiding enemy attacks, you have a shield that automatically blocks and recharges over time, allowing you to power through and take on many foes at once. Your enemies should avoid YOU!</li></ul><h2 class=\"bb_tag\">Insane Combos Through Intricate Strategy</h2><ul class=\"bb_ul\"><li><i>Earn Your Power</i>: Becoming more powerful has less to do with luck or stacking stats, and more to do with finding and creating synergies. Learn how to combine skills and abilities together to create devastating combos.<br></li><li><i>Your Strategy, Your Way</i>: There are more than 150 skills right now with more to come, allowing countless different builds you can create. Make a build where you call down endless greatswords on top of enemies. Or make a build where you don't have to lift a finger, and anything that touches you dies in a fiery explosion.</li></ul><h2 class=\"bb_tag\">Horizontal Progression &amp; Mastery</h2><ul class=\"bb_ul\"><li><i>Master The Sinders</i>: Each Sinder has its own unique phantom, attacks, abilities, and skills. Obtain each one, learn how they play, and master them all.<br></li><li><i>Find Legendary Artifacts</i>: Discover unique artifacts that drastically alter your playstyle. Think of creative ways to combine them with Sinders and skills for even more devastation.<br></li><li><i>Conquer Each Battlefield</i>: Unlock different arenas to fight in, each with unique gameplay modifiers that change up the challenge.</li></ul><br>That's about it. Thanks for checking out my game and I look forward to seeing you unleash absolute destruction!<br><br>Best regards,<br>H. Lang",
+    "developers": [
+        "H. Lang"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/header.jpg?t=1697590118",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256958165,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958165/movie480.mp4?t=1689296764",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958165/movie_max.mp4?t=1689296764"
+            },
+            "name": "Sinder Blade Announcement Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256958165/movie.293x165.jpg?t=1689296764",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958165/movie480_vp9.webm?t=1689296764",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958165/movie_max_vp9.webm?t=1689296764"
+            }
+        }
+    ],
+    "name": "Sinder Blade",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core I5-8400 or AMD Ryzen 3 3300X<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1060 3 GB or AMD Radeon RX 580 4 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core I7-8700K or AMD Ryzen 5 3600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1070 8 GB or AMD Radeon RX Vega 56 8 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "H. Lang Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_c8cf65e7f6290fbba1651af59a107e3fc929c6af.1920x1080.jpg?t=1697590118",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_c8cf65e7f6290fbba1651af59a107e3fc929c6af.600x338.jpg?t=1697590118"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_e5d96bb72a1fc66ee4946cc4aec880bbe0b2e5a7.1920x1080.jpg?t=1697590118",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_e5d96bb72a1fc66ee4946cc4aec880bbe0b2e5a7.600x338.jpg?t=1697590118"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_cfa2b568fa91d83ef018ddbab72383d90c8df163.1920x1080.jpg?t=1697590118",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_cfa2b568fa91d83ef018ddbab72383d90c8df163.600x338.jpg?t=1697590118"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_c3d438d788ee263f68bae2fc11b7c8f74605cacf.1920x1080.jpg?t=1697590118",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_c3d438d788ee263f68bae2fc11b7c8f74605cacf.600x338.jpg?t=1697590118"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_37c00d9c3135006e9452e61641dac2138f02d2d1.1920x1080.jpg?t=1697590118",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371290/ss_37c00d9c3135006e9452e61641dac2138f02d2d1.600x338.jpg?t=1697590118"
+        }
+    ],
+    "short_description": "Dark Souls meets Vampire Survivors. A dark fantasy action roguelike with heavy emphasis on strategy. Learn how to combine powerful skills to create game-breaking combos. Obtain mighty Sinders and find legendary artifacts. Craft ultimate synergies to unleash absolute destruction!",
+    "steam_appid": 2371290,
+    "support_info": {
+        "email": "hlanggames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,164 @@
+{
+    "about_the_game": "Dr Morgo has been testing on human subject forcing them to battle in a tournament to join his army. Only the strongest shall defeat Dr Morgo and his Minions, will it be you or parish? Experience the intensity of head-to-head battles with Exotic Fighter Choose from 10 iconic characters, then battle against friends",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/page_bg_generated_v6b.jpg?t=1704923805",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/page_bg_generated.jpg?t=1704923805",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/capsule_231x87.jpg?t=1704923805",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/capsule_184x69.jpg?t=1704923805",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Dr Morgo has been testing on human subject forcing them to battle in a tournament to join his army. Only the strongest shall defeat Dr Morgo and his Minions, will it be you or parish? Experience the intensity of head-to-head battles with Exotic Fighter Choose from 10 iconic characters, then battle against friends",
+    "developers": [
+        "Eric Hodges"
+    ],
+    "fullgame": {
+        "appid": "2737430",
+        "name": "Exotic Fighter"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/header.jpg?t=1704923805",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Exotic Fighter Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Eric Hodges",
+        "Externalrevenuellc"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Jan 30, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_89c8c379b7c85ce7673558203e59dd0118427a13.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_89c8c379b7c85ce7673558203e59dd0118427a13.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_0fa8f74fbc576fa4ba0809404e4b550278157cbf.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_0fa8f74fbc576fa4ba0809404e4b550278157cbf.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_cd49d9a35ae7d58f7469fe15bac11b0e398717cf.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_cd49d9a35ae7d58f7469fe15bac11b0e398717cf.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_1c37f68356b8eb9c0a2e41c2cbbe867b900cd5c6.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_1c37f68356b8eb9c0a2e41c2cbbe867b900cd5c6.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_f8fc7de4ab94c6f59ac6e9fbfcfc0ef434b926ba.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_f8fc7de4ab94c6f59ac6e9fbfcfc0ef434b926ba.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_a58e03c63303024f6be8a75fe3206dc9dde1c2a6.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_a58e03c63303024f6be8a75fe3206dc9dde1c2a6.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_7f9c924de427b1fa457b12b2c5451fef15096ef8.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_7f9c924de427b1fa457b12b2c5451fef15096ef8.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_2dd278503585e7458feb6aa98f33cb9090582959.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_2dd278503585e7458feb6aa98f33cb9090582959.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_6ee15427eae57f30462ad0383e6d3c0ed83d835a.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_6ee15427eae57f30462ad0383e6d3c0ed83d835a.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_11e175840f10e618a2fbd73265bf74fe124cb53a.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_11e175840f10e618a2fbd73265bf74fe124cb53a.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_ce8c455472e16245b018cb8dbebb52fbe0f196d2.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_ce8c455472e16245b018cb8dbebb52fbe0f196d2.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_de06e48e696f35bb73e72aa59322d08d2560ddcf.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_de06e48e696f35bb73e72aa59322d08d2560ddcf.600x338.jpg?t=1704923805"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_a2aebafaaa08010d681b51d72230f298f8d9afe3.1920x1080.jpg?t=1704923805",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737550/ss_a2aebafaaa08010d681b51d72230f298f8d9afe3.600x338.jpg?t=1704923805"
+        }
+    ],
+    "short_description": "Action fighter game.",
+    "steam_appid": 2737550,
+    "support_info": {
+        "email": "externalrevenuellc@gmail.com",
+        "url": "externalrevenuellc.com"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

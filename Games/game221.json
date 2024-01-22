@@ -1,0 +1,99 @@
+{
+    "about_the_game": "The Original Soundtrack for Hero of Luxuria features 8 pieces of music from the game.<br />\r\n<br />\r\nTrack List : <br />\r\n<br />\r\n1. Fragile idyll (Theme &quot;Forest of Forbidden Fruits&quot;)<br />\r\n2. Awakening of forces (Theme &quot;Forest of Forbidden Fruits&quot;)<br />\r\n3. Way to eternity (Theme &quot;Hot Sand Hills&quot;)<br />\r\n4. Sand dance (Theme &quot;Hot Sand Hills&quot;)<br />\r\n5. Last hope (Theme &quot;Dark Forest of Temptations&quot;)<br />\r\n6. Light in the dark (Theme &quot;Dark Forest of Temptations&quot;)<br />\r\n7. New hope (Theme &quot;Kingdom of Dirty Vices&quot;)<br />\r\n8. Unstoppable force (Theme &quot;Kingdom of Dirty Vices&quot;)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/page_bg_generated_v6b.jpg?t=1697170956",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/page_bg_generated.jpg?t=1697170956",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/capsule_231x87.jpg?t=1697170956",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/capsule_184x69.jpg?t=1697170956",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The Original Soundtrack for Hero of Luxuria features 8 pieces of music from the game.<br />\r\n<br />\r\nTrack List : <br />\r\n<br />\r\n1. Fragile idyll (Theme &quot;Forest of Forbidden Fruits&quot;)<br />\r\n2. Awakening of forces (Theme &quot;Forest of Forbidden Fruits&quot;)<br />\r\n3. Way to eternity (Theme &quot;Hot Sand Hills&quot;)<br />\r\n4. Sand dance (Theme &quot;Hot Sand Hills&quot;)<br />\r\n5. Last hope (Theme &quot;Dark Forest of Temptations&quot;)<br />\r\n6. Light in the dark (Theme &quot;Dark Forest of Temptations&quot;)<br />\r\n7. New hope (Theme &quot;Kingdom of Dirty Vices&quot;)<br />\r\n8. Unstoppable force (Theme &quot;Kingdom of Dirty Vices&quot;)",
+    "developers": [
+        "Harbinger Arts"
+    ],
+    "fullgame": {
+        "appid": "2494830",
+        "name": "Hero of Luxuria"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/header.jpg?t=1697170956",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Hero of Luxuria Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Hero of Luxuria Soundtrack - $1.99",
+                    "packageid": 945200,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Hero of Luxuria Soundtrack"
+        }
+    ],
+    "packages": [
+        945200
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 60 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Harbinger Arts"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_0a6d0f2102d8ca78085227c1132cd8606a566472.1920x1080.jpg?t=1697170956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_0a6d0f2102d8ca78085227c1132cd8606a566472.600x338.jpg?t=1697170956"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_6cf37952b296c15ef35650690641ed96b6c6444e.1920x1080.jpg?t=1697170956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_6cf37952b296c15ef35650690641ed96b6c6444e.600x338.jpg?t=1697170956"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_1a3641c19475e52f50d9d344f2ad81045d07fea7.1920x1080.jpg?t=1697170956",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635870/ss_1a3641c19475e52f50d9d344f2ad81045d07fea7.600x338.jpg?t=1697170956"
+        }
+    ],
+    "short_description": "The Original Soundtrack for Hero of Luxuria features 8 pieces of music from the game.",
+    "steam_appid": 2635870,
+    "support_info": {
+        "email": "lharbingerlart@gmail.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

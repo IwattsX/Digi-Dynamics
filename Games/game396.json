@@ -1,0 +1,56 @@
+{
+    "about_the_game": "Listen to the soundtrack of Animated Jigsaw Puzzles, composed by monoflow. Available as .mp3.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/page_bg_generated_v6b.jpg?t=1705147229",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/page_bg_generated.jpg?t=1705147229",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/capsule_231x87.jpg?t=1705147229",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/capsule_184x69.jpg?t=1705147229",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Listen to the soundtrack of Animated Jigsaw Puzzles, composed by monoflow. Available as .mp3.",
+    "developers": [
+        "BluePhoenixGames"
+    ],
+    "fullgame": {
+        "appid": "2619860",
+        "name": "Animated Jigsaw Puzzles"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/header.jpg?t=1705147229",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Animated Jigsaw Puzzles Soundtrack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "BluePhoenixGames"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/ss_3e8943c71fe98f9912e997033d92608fbace6b41.1920x1080.jpg?t=1705147229",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736980/ss_3e8943c71fe98f9912e997033d92608fbace6b41.600x338.jpg?t=1705147229"
+        }
+    ],
+    "short_description": "Listen to the soundtrack of Animated Jigsaw Puzzles, composed by monoflow. Available as .mp3.",
+    "steam_appid": 2736980,
+    "support_info": {
+        "email": "ida.fagerlund@hotmail.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

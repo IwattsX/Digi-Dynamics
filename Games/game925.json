@@ -1,0 +1,113 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/about_img.png?t=1699966569\" /><br><br>\u300a\u8fc7\u6728\u4e0d\u6c6a\u300b\u662f\u4e00\u6b3e\u6e29\u99a8\u6cbb\u6108\u7684\u89e3\u8c1c\u6e38\u620f\u3002\u4f60\u5c06\u4f34\u968f\u5c0f\u72d7\u7f57\u4f2f\u7279\uff0c\u8e0f\u4e0a\u4e00\u4e2a\u5bfb\u627e\u4ed6\u68a6\u4e2d\u60c5\u201c\u68cd\u201d\u7684\u5192\u9669\u65c5\u7a0b\u3002<br><br>\u6e38\u620f\u73a9\u6cd5\u620f\u5f88\u7b80\u5355\uff1a\u907f\u5f00\u969c\u788d\u7269\u5e76\u89c4\u5212\u4e00\u6761\u901a\u5411\u7ec8\u70b9\u7684\u8def\u5f84\u3002\u6ce8\u610f\u4e86\uff0c\u8fd9\u53ef\u6ca1\u6709\u4f60\u60f3\u7684\u90a3\u4e48\u5bb9\u6613\u3002\u8fd8\u6709\uff0c\u522b\u5fd8\u4e86\u5e26\u7740\u4f60\u7684\u6728\u68cd\uff01<br><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/features_img.png?t=1699966569\" /><br><br><ul class=\"bb_ul\"><li><strong>\u7b80\u5355\u6613\u61c2\u7684\u64cd\u4f5c\u65b9\u5f0f</strong> \u901a\u8fc7\u79fb\u52a8\u3001\u65cb\u8f6c\u3001\u62fe\u8d77\u6216\u653e\u4e0b\u6728\u68cd\u6765\u5b8c\u6210\u89e3\u8c1c.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/steam_01.gif?t=1699966569\" /><br><br></li><li>\u63a2\u7d225\u4e2a\u98ce\u683c\u72ec\u7279\u7684\u5730\u533a\uff0c\u89e3\u51b3\u8d85\u8fc7<strong>60</strong>\u4e2a\u5145\u6ee1\u6311\u6218\u548c\u60ca\u559c\u7684\u8c1c\u9898<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/Steam_Landfill.gif?t=1699966569\" /><br><br></li><li>\u6c89\u6d78\u5728\u4e00\u4e2a\u7cbe\u96d5\u7ec6\u7422\u76843D\u4e16\u754c\u4e2d\uff0c\u4eab\u53d7\u7f8e\u5999\u52a8\u4eba\u7684\u539f\u58f0\u97f3\u4e50\u3002<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/steam_03.gif?t=1699966569\" /><br><br></li><li>- \u901a\u8fc7\u63d2\u56fe\uff0c\u63ed\u9732\u72d7\u72d7\u7f57\u4f2f\u6258\u6e29\u99a8\u611f\u4eba\u7684\u8fc7\u53bb\uff0c\u63a2\u5bfb\u4ed6\u6267\u7740\u4e8e\u5b8c\u7f8e\u957f\u68cd\u7684\u539f\u56e0\u3002<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/Steam_Story.gif?t=1699966569\" /></li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/page_bg_generated_v6b.jpg?t=1699966569",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/page.bg.jpg?t=1699966569",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/capsule_231x87.jpg?t=1699966569",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/capsule_184x69.jpg?t=1699966569",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/about_img.png?t=1699966569\" /><br><br>\u300a\u8fc7\u6728\u4e0d\u6c6a\u300b\u662f\u4e00\u6b3e\u6e29\u99a8\u6cbb\u6108\u7684\u89e3\u8c1c\u6e38\u620f\u3002\u4f60\u5c06\u4f34\u968f\u5c0f\u72d7\u7f57\u4f2f\u7279\uff0c\u8e0f\u4e0a\u4e00\u4e2a\u5bfb\u627e\u4ed6\u68a6\u4e2d\u60c5\u201c\u68cd\u201d\u7684\u5192\u9669\u65c5\u7a0b\u3002<br><br>\u6e38\u620f\u73a9\u6cd5\u620f\u5f88\u7b80\u5355\uff1a\u907f\u5f00\u969c\u788d\u7269\u5e76\u89c4\u5212\u4e00\u6761\u901a\u5411\u7ec8\u70b9\u7684\u8def\u5f84\u3002\u6ce8\u610f\u4e86\uff0c\u8fd9\u53ef\u6ca1\u6709\u4f60\u60f3\u7684\u90a3\u4e48\u5bb9\u6613\u3002\u8fd8\u6709\uff0c\u522b\u5fd8\u4e86\u5e26\u7740\u4f60\u7684\u6728\u68cd\uff01<br><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/features_img.png?t=1699966569\" /><br><br><ul class=\"bb_ul\"><li><strong>\u7b80\u5355\u6613\u61c2\u7684\u64cd\u4f5c\u65b9\u5f0f</strong> \u901a\u8fc7\u79fb\u52a8\u3001\u65cb\u8f6c\u3001\u62fe\u8d77\u6216\u653e\u4e0b\u6728\u68cd\u6765\u5b8c\u6210\u89e3\u8c1c.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/steam_01.gif?t=1699966569\" /><br><br></li><li>\u63a2\u7d225\u4e2a\u98ce\u683c\u72ec\u7279\u7684\u5730\u533a\uff0c\u89e3\u51b3\u8d85\u8fc7<strong>60</strong>\u4e2a\u5145\u6ee1\u6311\u6218\u548c\u60ca\u559c\u7684\u8c1c\u9898<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/Steam_Landfill.gif?t=1699966569\" /><br><br></li><li>\u6c89\u6d78\u5728\u4e00\u4e2a\u7cbe\u96d5\u7ec6\u7422\u76843D\u4e16\u754c\u4e2d\uff0c\u4eab\u53d7\u7f8e\u5999\u52a8\u4eba\u7684\u539f\u58f0\u97f3\u4e50\u3002<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/steam_03.gif?t=1699966569\" /><br><br></li><li>- \u901a\u8fc7\u63d2\u56fe\uff0c\u63ed\u9732\u72d7\u72d7\u7f57\u4f2f\u6258\u6e29\u99a8\u611f\u4eba\u7684\u8fc7\u53bb\uff0c\u63a2\u5bfb\u4ed6\u6267\u7740\u4e8e\u5b8c\u7f8e\u957f\u68cd\u7684\u539f\u56e0\u3002<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402380/extras/Steam_Story.gif?t=1699966569\" /></li></ul>",
+    "developers": [
+        "Dead Pixel Tales"
+    ],
+    "fullgame": {
+        "appid": "2334280",
+        "name": "Stick to the Plan"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/header.jpg?t=1699966569",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Stick to the Plan Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Dead Pixel Tales"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_05bab9d2083f165a3b9463a6b600b3cedfd9ce42.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_05bab9d2083f165a3b9463a6b600b3cedfd9ce42.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_129d687b4cae7b14503699834e9da5bb9913e581.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_129d687b4cae7b14503699834e9da5bb9913e581.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_b2d7d016b6e366fea469c8e9e37982a997eb5424.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_b2d7d016b6e366fea469c8e9e37982a997eb5424.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_d0ad1ef15aa5858a71eff2216a1759dbebf36905.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_d0ad1ef15aa5858a71eff2216a1759dbebf36905.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_88867584c28bb1170252ec74b40b72549a572177.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_88867584c28bb1170252ec74b40b72549a572177.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_7233ce9a98296aa2a8a3fe3cdb412059a1aefac7.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_7233ce9a98296aa2a8a3fe3cdb412059a1aefac7.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_24783bd37c780ac70068ccdf8eb3ab2335ad086f.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_24783bd37c780ac70068ccdf8eb3ab2335ad086f.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_0b6f6ced6a291b1f5070f8023b6505165c007de6.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_0b6f6ced6a291b1f5070f8023b6505165c007de6.600x338.jpg?t=1699966569"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_60ea331732564b54198fa2f773bad1df6e6e98fd.1920x1080.jpg?t=1699966569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402380/ss_60ea331732564b54198fa2f773bad1df6e6e98fd.600x338.jpg?t=1699966569"
+        }
+    ],
+    "short_description": "\u8fd9\u662f\u4e00\u6b3e\u8f7b\u677e\u6709\u8da3\u7684\u5c0f\u72d7\u89e3\u8c1c\u6e38\u620f\u3002\u8bb2\u8ff0\u4e86\u4e00\u53ea\u53eb\u7f57\u4f2f\u7279\u7684\u72d7\u72d7\uff0c\u4ed6\u5bf9\u90a3\u4e9b\u8d85~\u7ea7~\u957f~\u7684\u6728\u68cd\u60c5\u6709\u72ec\u949f\uff0c\u800c\u4e14\u5b83\u603b\u662f\u6709\u81ea\u5df1\u7684\u60f3\u6cd5\u3002",
+    "steam_appid": 2402380,
+    "support_info": {
+        "email": "deadpixeltales@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Spanish - Spain, French, Simplified Chinese, Russian, Italian, Portuguese - Portugal, Japanese, German, Korean, Portuguese - Brazil, Spanish - Latin America, Catalan",
+    "type": "demo",
+    "website": null
+}

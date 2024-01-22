@@ -1,0 +1,150 @@
+{
+    "about_the_game": "Being in a wheelchair will not stop you from surviving the zombie apocalypse and reuniting with your friends. You will zoom past hordes of zombies, kill the ones you need to, and find keys to unlock passageways in this retro top-down shooter. Your friends are waiting for you at the Sus Bus.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/page_bg_generated_v6b.jpg?t=1702250216",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/page.bg.jpg?t=1702250216",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/capsule_231x87.jpg?t=1702250216",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/capsule_184x69.jpg?t=1702250216",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Being in a wheelchair will not stop you from surviving the zombie apocalypse and reuniting with your friends. You will zoom past hordes of zombies, kill the ones you need to, and find keys to unlock passageways in this retro top-down shooter. Your friends are waiting for you at the Sus Bus.",
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/header.jpg?t=1702250216",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": false,
+            "id": 256932728,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932728/movie480.mp4?t=1678822210",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932728/movie_max.mp4?t=1678822210"
+            },
+            "name": "Gameplay Death",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932728/movie.293x165.jpg?t=1678822210",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932728/movie480_vp9.webm?t=1678822210",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932728/movie_max_vp9.webm?t=1678822210"
+            }
+        }
+    ],
+    "name": "Get To The Sus Bus",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Get To The Sus Bus - $4.99",
+                    "packageid": 839227,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Get To The Sus Bus"
+        }
+    ],
+    "packages": [
+        839227
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i3-4010U (1.7GHz 2-core)<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i5-6200U (2.3GHz 2-core)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Simple<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_270b474d18f943c79969449f8c30278042f4b103.1920x1080.jpg?t=1702250216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_270b474d18f943c79969449f8c30278042f4b103.600x338.jpg?t=1702250216"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_fec8e0a7e3af0a1fbb7113c64c1bd820d76b7a20.1920x1080.jpg?t=1702250216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_fec8e0a7e3af0a1fbb7113c64c1bd820d76b7a20.600x338.jpg?t=1702250216"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_0a63bc58a78d8056a38398f53c6de02c8826f46d.1920x1080.jpg?t=1702250216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_0a63bc58a78d8056a38398f53c6de02c8826f46d.600x338.jpg?t=1702250216"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_fc18d54db0cc0b5ba53e0ef6a0ea7c9093b299bc.1920x1080.jpg?t=1702250216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_fc18d54db0cc0b5ba53e0ef6a0ea7c9093b299bc.600x338.jpg?t=1702250216"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_3174f6fb1a0de9166332e4fbb3428e07b4812885.1920x1080.jpg?t=1702250216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336660/ss_3174f6fb1a0de9166332e4fbb3428e07b4812885.600x338.jpg?t=1702250216"
+        }
+    ],
+    "short_description": "You will zoom past hordes of zombies, kill the ones you need to, and find keys to unlock passageways in this retro top-down shooter.",
+    "steam_appid": 2336660,
+    "support_info": {
+        "email": "prestige.www.usa@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

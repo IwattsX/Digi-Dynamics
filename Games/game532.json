@@ -1,0 +1,179 @@
+{
+    "about_the_game": "Attention! Identical packages can not be activated on the same account twice!<br>Attention! Identical ships from different purchased bundles are not compensated!<h2 class=\"bb_tag\">This pack includes:</h2><ul class=\"bb_ul\"><li>Improved version of Jericho rank 9 covert ops interceptor \u201cNyx\u201d<br></li><li>Special module \u201cPlasma web Nyx\u201d<br></li><li>Passive module \u201cReaper-8 converter\u201d<br></li><li>Weapon \u201cDeconstructor cannon\u201d<br></li><li>Unique portrait \u201cForgotten\u201d<br></li><li>Unique decor \u201cEyes of the universe\u201d</li></ul><br>Additionally, the pilot receives:<br><ul class=\"bb_ul\"><li>Permanent credit earnings bonus +10%<br></li><li>Paint \u201cEnigma\u201d<br></li><li>Decor \u201cWeb of lies\u201d</li></ul><br>Additionally, the pilot receives the modules:<br><ul class=\"bb_ul\"><li>\u201cOrion\u201d targeting complex<br></li><li>Adaptive Camo<br></li><li>Quantum defence<br></li><li>Shield Booster S<br></li><li>Vernier engines<br></li><li>Emergency barrier<br></li><li>Voltage regulator<br></li><li>EM-diffuser<br></li><li>Adaptive shield<br></li><li>Electronic guidance<br></li><li>Infrared scanner<br></li><li>Overclocked CPU</li></ul><br>Special bonus for everyone who buys the bundle \u2014 Premium license for 90 days!<br><br>This unique machine was first created at the Ambrosia-VII plant. The mysterious Miss Summer promised it to the mercenaries as payment for a series of assignments. However, as it turned out, she had no intention of keeping that promise. \u201cNyx\u201d was in fact destined for pirates under Summer\u2019s control. The pirates were involved in the development of the ship \u2014 their engineers and \u201cdesigners\u201d worked on it.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/page_bg_generated_v6b.jpg?t=1698683356",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/page_bg_generated.jpg?t=1698683356",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/capsule_231x87.jpg?t=1698683356",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/capsule_184x69.jpg?t=1698683356",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "VR Support",
+            "id": 31
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Attention! Identical packages can not be activated on the same account twice!<br>Attention! Identical ships from different purchased bundles are not compensated!<h2 class=\"bb_tag\">This pack includes:</h2><ul class=\"bb_ul\"><li>Improved version of Jericho rank 9 covert ops interceptor \u201cNyx\u201d<br></li><li>Special module \u201cPlasma web Nyx\u201d<br></li><li>Passive module \u201cReaper-8 converter\u201d<br></li><li>Weapon \u201cDeconstructor cannon\u201d<br></li><li>Unique portrait \u201cForgotten\u201d<br></li><li>Unique decor \u201cEyes of the universe\u201d</li></ul><br>Additionally, the pilot receives:<br><ul class=\"bb_ul\"><li>Permanent credit earnings bonus +10%<br></li><li>Paint \u201cEnigma\u201d<br></li><li>Decor \u201cWeb of lies\u201d</li></ul><br>Additionally, the pilot receives the modules:<br><ul class=\"bb_ul\"><li>\u201cOrion\u201d targeting complex<br></li><li>Adaptive Camo<br></li><li>Quantum defence<br></li><li>Shield Booster S<br></li><li>Vernier engines<br></li><li>Emergency barrier<br></li><li>Voltage regulator<br></li><li>EM-diffuser<br></li><li>Adaptive shield<br></li><li>Electronic guidance<br></li><li>Infrared scanner<br></li><li>Overclocked CPU</li></ul><br>Special bonus for everyone who buys the bundle \u2014 Premium license for 90 days!<br><br>This unique machine was first created at the Ambrosia-VII plant. The mysterious Miss Summer promised it to the mercenaries as payment for a series of assignments. However, as it turned out, she had no intention of keeping that promise. \u201cNyx\u201d was in fact destined for pirates under Summer\u2019s control. The pirates were involved in the development of the ship \u2014 their engineers and \u201cdesigners\u201d worked on it.",
+    "developers": [
+        "Star Gem Inc."
+    ],
+    "fullgame": {
+        "appid": "212070",
+        "name": "Star Conflict"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/header.jpg?t=1698683356",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941848,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941848/movie480.mp4?t=1681970584",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941848/movie_max.mp4?t=1681970584"
+            },
+            "name": "Nyx",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941848/movie.293x165.jpg?t=1681970584",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941848/movie480_vp9.webm?t=1681970584",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941848/movie_max_vp9.webm?t=1681970584"
+            }
+        }
+    ],
+    "name": "Star Conflict - Nyx (Deluxe Edition)",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Star Conflict - Nyx (Deluxe Edition) - $49.99",
+                    "packageid": 839498,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy Star Conflict - Nyx (Deluxe Edition)"
+        }
+    ],
+    "packages": [
+        839498
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 512 MB, NVidia / AMD Radeon / Intel (HD 3000, HD 4000) with support for Pixel Shader 3.0 (AMD Radeon X1000 not supported)<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 1024 MB, NVidia GeForce 650 / AMD Radeon HD 5750<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Gaijin Distribution KFT"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_d2944319e8007676e6a52ad9f35915dcec90ffa8.1920x1080.jpg?t=1698683356",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_d2944319e8007676e6a52ad9f35915dcec90ffa8.600x338.jpg?t=1698683356"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_e438c8fe19e58f7354c7568b6b5c5f85fc7fde04.1920x1080.jpg?t=1698683356",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_e438c8fe19e58f7354c7568b6b5c5f85fc7fde04.600x338.jpg?t=1698683356"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_b0ae8f8f902ae09f01409ef3e389b1d0815c8087.1920x1080.jpg?t=1698683356",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_b0ae8f8f902ae09f01409ef3e389b1d0815c8087.600x338.jpg?t=1698683356"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_7e48754d387c5d2d848d6447ad15727449191ecc.1920x1080.jpg?t=1698683356",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_7e48754d387c5d2d848d6447ad15727449191ecc.600x338.jpg?t=1698683356"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_b2cba3828c4b77497b0b1eb6b955e5f432f5daed.1920x1080.jpg?t=1698683356",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337381/ss_b2cba3828c4b77497b0b1eb6b955e5f432f5daed.600x338.jpg?t=1698683356"
+        }
+    ],
+    "short_description": "This pack includes:Improved version of Jericho rank 9 covert ops interceptor \u201cNyx\u201dSpecial module \u201cPlasma web Nyx\u201dPassive module \u201cReaper-8 converter\u201dWeapon \u201cDeconstructor cannon\u201dUnique portrait \u201cForgotten\u201dUnique decor \u201cEyes of the universe\u201dAdditionally, the pilot receives:Permanent credit earnings bonus +10%Paint \u201cEnigma\u201dDecor \u201cWeb of lies",
+    "steam_appid": 2337381,
+    "support_info": {
+        "email": "support@gaijinent.com",
+        "url": "http://support.gaijinent.com"
+    },
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Portugal, Polish, Hungarian, Czech, Ukrainian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://star-conflict.com/"
+}

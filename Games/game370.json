@@ -1,0 +1,106 @@
+{
+    "about_the_game": "If you think the entire universe is limited to the seven wonders of the world, you are sorely mistaken! Just a trip to the Egyptian temple of Abu Gorab is enough to attest to that. Oh, no, we're not talking about the ancient sandy ruins! Rather, about what archaeologists have unearthed at that remote location and what happened to them. One by one, people have begun to mysteriously disappear at the excavation site... Any clue as to where they might have gone? If not, you'll have to think of something on the way! The job forces you to take an unexpected trip and find these poor souls\u2026 wherever they are. Will you solve the mystery and save lives across the realms in this Hidden-Object Puzzle Adventure?<br />\r\n<br />\r\nThis Collector's Edition includes:<br />\r\n<br />\r\n\ud83c\udf0c\tEmbark on a gripping mystery!<br />\r\nPrepare to immerse yourself in a thrilling adventure as you delve deep into the enigma of a professor's disappearance from a renowned research center, setting the stage for a compelling hidden objects quest that will keep you on the edge of your seat.<br />\r\n<br />\r\n\ud83c\udf0c\tJourney through astonishing realms!<br />\r\nVenture across the outer worlds, where you'll encounter a mesmerizing blend of awe-inspiring wonders, occasional turbulence, and a web of mysteries waiting to be unraveled, all of which will challenge your perception of reality.<br />\r\n<br />\r\n\ud83c\udf0c\tBonus chapter extravaganza!<br />\r\nAfter successfully completing the main game, unlock a bonus chapter that allows you to take on the dual roles of an interdimensional medic and a seasoned traveler, enabling you to explore uncharted dimensions and extend your quest into the unknown.<br />\r\n<br />\r\n\ud83c\udf0c\tEngage your mind with puzzles and brain games!<br />\r\nPut your cognitive skills to the test with a wide array of intricate puzzles and unwind with a collection of relaxing mini-games, all while striving to achieve a diverse range of in-game accomplishments that will enhance your overall gaming experience within this exclusive collector's edition!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/page_bg_generated_v6b.jpg?t=1703160282",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/page_bg_generated.jpg?t=1703160282",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/capsule_231x87.jpg?t=1703160282",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/capsule_184x69.jpg?t=1703160282",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "If you think the entire universe is limited to the seven wonders of the world, you are sorely mistaken! Just a trip to the Egyptian temple of Abu Gorab is enough to attest to that. Oh, no, we're not talking about the ancient sandy ruins! Rather, about what archaeologists have unearthed at that remote location and what happened to them. One by one, people have begun to mysteriously disappear at the excavation site... Any clue as to where they might have gone? If not, you'll have to think of something on the way! The job forces you to take an unexpected trip and find these poor souls\u2026 wherever they are. Will you solve the mystery and save lives across the realms in this Hidden-Object Puzzle Adventure?<br />\r\n<br />\r\nThis Collector's Edition includes:<br />\r\n<br />\r\n\ud83c\udf0c\tEmbark on a gripping mystery!<br />\r\nPrepare to immerse yourself in a thrilling adventure as you delve deep into the enigma of a professor's disappearance from a renowned research center, setting the stage for a compelling hidden objects quest that will keep you on the edge of your seat.<br />\r\n<br />\r\n\ud83c\udf0c\tJourney through astonishing realms!<br />\r\nVenture across the outer worlds, where you'll encounter a mesmerizing blend of awe-inspiring wonders, occasional turbulence, and a web of mysteries waiting to be unraveled, all of which will challenge your perception of reality.<br />\r\n<br />\r\n\ud83c\udf0c\tBonus chapter extravaganza!<br />\r\nAfter successfully completing the main game, unlock a bonus chapter that allows you to take on the dual roles of an interdimensional medic and a seasoned traveler, enabling you to explore uncharted dimensions and extend your quest into the unknown.<br />\r\n<br />\r\n\ud83c\udf0c\tEngage your mind with puzzles and brain games!<br />\r\nPut your cognitive skills to the test with a wide array of intricate puzzles and unwind with a collection of relaxing mini-games, all while striving to achieve a diverse range of in-game accomplishments that will enhance your overall gaming experience within this exclusive collector's edition!",
+    "developers": [
+        "Do Games Limited"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/header.jpg?t=1703160282",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988847,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988847/movie480.mp4?t=1703160274",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988847/movie_max.mp4?t=1703160274"
+            },
+            "name": "Maze of Realities: Ride in the Sky Ticket",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988847/movie.293x165.jpg?t=1703160274",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988847/movie480_vp9.webm?t=1703160274",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988847/movie_max_vp9.webm?t=1703160274"
+            }
+        }
+    ],
+    "name": "Maze of Realities: Ride in the Sky Collector's Edition",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>Processor:</strong> 1.7 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Do Games Limited"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_09d208c41d832d94b9afe82389a6f2aa79f7fab6.1920x1080.jpg?t=1703160282",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_09d208c41d832d94b9afe82389a6f2aa79f7fab6.600x338.jpg?t=1703160282"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_d0cbb3ed6aabdddeb9e01f23d8badd0c57f88b78.1920x1080.jpg?t=1703160282",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_d0cbb3ed6aabdddeb9e01f23d8badd0c57f88b78.600x338.jpg?t=1703160282"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_a4aacd25757101d2636e7d99238895ecc21f3dd3.1920x1080.jpg?t=1703160282",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_a4aacd25757101d2636e7d99238895ecc21f3dd3.600x338.jpg?t=1703160282"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_318b0afe0b5c9f7141dd4278a27425069af19599.1920x1080.jpg?t=1703160282",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_318b0afe0b5c9f7141dd4278a27425069af19599.600x338.jpg?t=1703160282"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_7ef4aeb54dd8f6b0c44185f989cae6823cee3eb7.1920x1080.jpg?t=1703160282",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737800/ss_7ef4aeb54dd8f6b0c44185f989cae6823cee3eb7.600x338.jpg?t=1703160282"
+        }
+    ],
+    "short_description": "Join the quest to uncover the truth behind a professor's disappearance in a journey through outer worlds filled with wonder, mystery, and unexpected twists!",
+    "steam_appid": 2737800,
+    "support_info": {
+        "email": "support@dominigames.com",
+        "url": "https://dominigames.com/contact/"
+    },
+    "supported_languages": "English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

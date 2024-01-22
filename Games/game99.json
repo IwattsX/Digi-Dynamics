@@ -1,0 +1,204 @@
+{
+    "about_the_game": "How about a race? Welcome to the world of speed and adrenaline, welcome in Vice City Race! <br />\r\n<br />\r\nThis is the place where you can see what you have never seen before. The main hero is a bunny at the wheel of a car that races with his friends around the city. <br />\r\n<br />\r\nEveryone is properly prepared and equipped, therefore it is also allowed to perform stunts and use Nitrogen for better performance. Your main mission is to help the bunny to reach the finish line first under any condition, even if it means eliminating some participants. <br />\r\n<br />\r\nTogether we are the team!<br />\r\n<br />\r\nGame Features :<br />\r\n- 20 levels<br />\r\n- Daily Rewards<br />\r\n- Max. speed 65km/h",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/page_bg_generated_v6b.jpg?t=1698827666",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/page_bg_generated.jpg?t=1698827666",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/capsule_231x87.jpg?t=1698827666",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/capsule_184x69.jpg?t=1698827666",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "How about a race? Welcome to the world of speed and adrenaline, welcome in Vice City Race! <br />\r\n<br />\r\nThis is the place where you can see what you have never seen before. The main hero is a bunny at the wheel of a car that races with his friends around the city. <br />\r\n<br />\r\nEveryone is properly prepared and equipped, therefore it is also allowed to perform stunts and use Nitrogen for better performance. Your main mission is to help the bunny to reach the finish line first under any condition, even if it means eliminating some participants. <br />\r\n<br />\r\nTogether we are the team!<br />\r\n<br />\r\nGame Features :<br />\r\n- 20 levels<br />\r\n- Daily Rewards<br />\r\n- Max. speed 65km/h",
+    "developers": [
+        "AFabrik"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/header.jpg?t=1698827666",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975620,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975620/movie480.mp4?t=1697477935",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975620/movie_max.mp4?t=1697477935"
+            },
+            "name": "tr",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975620/movie.293x165.jpg?t=1697477935",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975620/movie480_vp9.webm?t=1697477935",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975620/movie_max_vp9.webm?t=1697477935"
+            }
+        }
+    ],
+    "name": "Vice City Race",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Vice City Race - <span class=\"discount_original_price\">$8.99</span> $0.89",
+                    "packageid": 949716,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-90% ",
+                    "price_in_cents_with_discount": 89
+                }
+            ],
+            "title": "Buy Vice City Race"
+        }
+    ],
+    "packages": [
+        949716
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GT 210<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 90,
+        "final": 89,
+        "final_formatted": "$0.89",
+        "initial": 899,
+        "initial_formatted": "$8.99"
+    },
+    "publishers": [
+        "AFabrik"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_9d681f776be5c7df122c587967484b74820af07d.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_9d681f776be5c7df122c587967484b74820af07d.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_7b6afba6c7071a8dea9c3c38c8fdf76bcb95fba6.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_7b6afba6c7071a8dea9c3c38c8fdf76bcb95fba6.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_a643b15be5697ffcaf02762c39b938a7b011e08e.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_a643b15be5697ffcaf02762c39b938a7b011e08e.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_fd3029fcb18ead4ffdb42ddd722bafa2fe2c3339.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_fd3029fcb18ead4ffdb42ddd722bafa2fe2c3339.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_596c659cbeb1272b9d2bf2e382f8db491fe02364.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_596c659cbeb1272b9d2bf2e382f8db491fe02364.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_835dd5f7b328c26776e729f64ca2e9b9dee951fc.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_835dd5f7b328c26776e729f64ca2e9b9dee951fc.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_c2a92285b950e8b6f3f64a0f35b0109457b61033.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_c2a92285b950e8b6f3f64a0f35b0109457b61033.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_b9243e6792b3562b13eb86148bd692fd3d730613.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_b9243e6792b3562b13eb86148bd692fd3d730613.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_52424e955a68f29c9af20c365b8f215b594dff84.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_52424e955a68f29c9af20c365b8f215b594dff84.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_55130971a6607dd1a2aacb42f92d50cac56d26df.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_55130971a6607dd1a2aacb42f92d50cac56d26df.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_e35d9cd756bcec0ba10482d3be57c401379d8b07.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_e35d9cd756bcec0ba10482d3be57c401379d8b07.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_d0c441efda32a59c9c97909b23796da51d37fcd1.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_d0c441efda32a59c9c97909b23796da51d37fcd1.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_643e83704842fc643327e8492c9b7e1531e7af45.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_643e83704842fc643327e8492c9b7e1531e7af45.600x338.jpg?t=1698827666"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_9b43dbf2982f04940687c439f3a8af99342ffc8c.1920x1080.jpg?t=1698827666",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649540/ss_9b43dbf2982f04940687c439f3a8af99342ffc8c.600x338.jpg?t=1698827666"
+        }
+    ],
+    "short_description": "Welcome to the world of speed and adrenaline, welcome in Vice City Race!",
+    "steam_appid": 2649540,
+    "support_info": {
+        "email": "business@atomicfabrik.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "type": "game",
+    "website": null
+}

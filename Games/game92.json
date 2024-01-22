@@ -1,0 +1,106 @@
+{
+    "about_the_game": "Embark on a magical journey with &quot;Grim Potions,&quot; a game that blends alchemy and dice-rolling. As a skilled alchemist, use special dice to brew potent elixirs. But the adventure doesn't stop there - manage your apothecary shop, serving heroes with unique needs.<br><br><strong>Gameplay:</strong><br>Roll dice to match symbols and create various potions. Unlock new dice and recipes as you progress.<br><br><strong>Shop Management:</strong><br>Serve heroes, each with distinct tastes. Build a reputation for your shop's quality.<br><br><strong>Features:</strong><br>Enchanting world with stunning visuals.<br>Explore alchemical adventures in a unique dice game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/page_bg_generated_v6b.jpg?t=1697597566",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/page.bg.jpg?t=1697597566",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/capsule_231x87.jpg?t=1697597566",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/capsule_184x69.jpg?t=1697597566",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on a magical journey with &quot;Grim Potions,&quot; a game that blends alchemy and dice-rolling. As a skilled alchemist, use special dice to brew potent elixirs. But the adventure doesn't stop there - manage your apothecary shop, serving heroes with unique needs.<br><br><strong>Gameplay:</strong><br>Roll dice to match symbols and create various potions. Unlock new dice and recipes as you progress.<br><br><strong>Shop Management:</strong><br>Serve heroes, each with distinct tastes. Build a reputation for your shop's quality.<br><br><strong>Features:</strong><br>Enchanting world with stunning visuals.<br>Explore alchemical adventures in a unique dice game.",
+    "developers": [
+        "Hypnohead"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/header.jpg?t=1697597566",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Grim Potions",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 1Gb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Hypnohead"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q2 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_7817281eeb9cd7b4b4f0a560fb6bdebc2967a414.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_7817281eeb9cd7b4b4f0a560fb6bdebc2967a414.600x338.jpg?t=1697597566"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_8f81feeb8b7c2538061e489d5bd5360fe307df05.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_8f81feeb8b7c2538061e489d5bd5360fe307df05.600x338.jpg?t=1697597566"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_449cf264b290e50d2d42ef8fa04b2d116665c50f.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_449cf264b290e50d2d42ef8fa04b2d116665c50f.600x338.jpg?t=1697597566"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_8c38cb2c5a6e1a36264aa9ab6370266b55c4e3a4.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_8c38cb2c5a6e1a36264aa9ab6370266b55c4e3a4.600x338.jpg?t=1697597566"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_3bf2bf7277fcd15b5c0a70650beedc58ce350c80.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_3bf2bf7277fcd15b5c0a70650beedc58ce350c80.600x338.jpg?t=1697597566"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_1441f83f69cf4c2b88ae38e7b52f86ca41f443a1.1920x1080.jpg?t=1697597566",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649390/ss_1441f83f69cf4c2b88ae38e7b52f86ca41f443a1.600x338.jpg?t=1697597566"
+        }
+    ],
+    "short_description": "Immerse yourself in the magical world of &quot;Grim Potions,&quot; where, as an alchemist, you use special dice to create mystical elixirs. Manage an apothecary shop, serving diverse heroes, and aspire to become a legendary alchemist.",
+    "steam_appid": 2649390,
+    "support_info": {
+        "email": "",
+        "url": "https://twitter.com/HypnoheadStudio"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
+    "type": "game",
+    "website": null
+}

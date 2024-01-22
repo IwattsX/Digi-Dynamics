@@ -1,0 +1,127 @@
+{
+    "about_the_game": "Get ready for an epic journey to defend Broken Lands against hordes of goblins, dwarves, elves and other nasty fiends using a vast arsenal of towers and spells at your command!<br><br>Fight on forests, mountains and wastelands, customizing your defensive strategy with different tower upgrades and specializations! Meteor shower upon your enemies, use Pentagram to scare them and freeze them with Frost Nova. Extract gold from the mines and face legendary monsters on a quest to save the Broken Lands from the Shadow Council!<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Epic defense battles that will hook you for hours!<br></li><li>Full-screen High definition awesome illustrated cartoon art!<br></li><li><strong>10 specialized tower upgrades</strong> to customize your strategy! Ice Seal, Ruler of Heaven, The Elder Bard to name a few.<br></li><li>Take care of the economy by building <strong>Mines and Menhirs</strong><br></li><li>Over 30 different enemies, from Goblins and Dwarves to Elves.<br></li><li>Intense boss fights unusual in a defense game!<br></li><li>Explore map<br></li><li>Visit Damaris' Architect to buy new Tower schemes!<br></li><li>Visit Damaris' Academy and unlock all Skills!<br></li><li>The classic<strong> 25 stage core campaign</strong>: Defend the Broken Lands and build legendary Obsidian Tower of Osgill<br></li><li>Hours of gameplay<br></li><li><strong>Extra game modes</strong> that will challenge your tactical skills to the limit.<br></li><li>In-game encyclopedia with informations about your towers and enemies.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/page_bg_generated_v6b.jpg?t=1704744423",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/page.bg.jpg?t=1704744423",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/capsule_231x87.jpg?t=1704744423",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/capsule_184x69.jpg?t=1704744423",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Get ready for an epic journey to defend Broken Lands against hordes of goblins, dwarves, elves and other nasty fiends using a vast arsenal of towers and spells at your command!<br><br>Fight on forests, mountains and wastelands, customizing your defensive strategy with different tower upgrades and specializations! Meteor shower upon your enemies, use Pentagram to scare them and freeze them with Frost Nova. Extract gold from the mines and face legendary monsters on a quest to save the Broken Lands from the Shadow Council!<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Epic defense battles that will hook you for hours!<br></li><li>Full-screen High definition awesome illustrated cartoon art!<br></li><li><strong>10 specialized tower upgrades</strong> to customize your strategy! Ice Seal, Ruler of Heaven, The Elder Bard to name a few.<br></li><li>Take care of the economy by building <strong>Mines and Menhirs</strong><br></li><li>Over 30 different enemies, from Goblins and Dwarves to Elves.<br></li><li>Intense boss fights unusual in a defense game!<br></li><li>Explore map<br></li><li>Visit Damaris' Architect to buy new Tower schemes!<br></li><li>Visit Damaris' Academy and unlock all Skills!<br></li><li>The classic<strong> 25 stage core campaign</strong>: Defend the Broken Lands and build legendary Obsidian Tower of Osgill<br></li><li>Hours of gameplay<br></li><li><strong>Extra game modes</strong> that will challenge your tactical skills to the limit.<br></li><li>In-game encyclopedia with informations about your towers and enemies.</li></ul>",
+    "developers": [
+        "Kielan xD"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/header.jpg?t=1704744423",
+    "is_free": false,
+    "legal_notice": "Copyright by Dominik Kielanowicz \"Kielan xD\". All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256990731,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990731/movie480.mp4?t=1704498515",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990731/movie_max.mp4?t=1704498515"
+            },
+            "name": "Broken Lands TD - Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990731/movie.293x165.jpg?t=1704498515",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990731/movie480_vp9.webm?t=1704498515",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990731/movie_max_vp9.webm?t=1704498515"
+            }
+        }
+    ],
+    "name": "Broken Lands - Tower Defense",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7 or higher<br></li><li><strong>Processor:</strong> 2.4 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GPU with 512MB VRAM<br></li><li><strong>Storage:</strong> 1000 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10 or higher<br></li><li><strong>Processor:</strong> 2.4 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GPU with 512MB VRAM<br></li><li><strong>Storage:</strong> 1000 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Kielan xD"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "March 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_ea8ce4cfcdeabed988c1aae9e7ba416bc017b837.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_ea8ce4cfcdeabed988c1aae9e7ba416bc017b837.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_726a7cc1a5323f2446062ff3f89c02f047320212.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_726a7cc1a5323f2446062ff3f89c02f047320212.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_6e92b5bac91296734606037ac863a26b747557e8.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_6e92b5bac91296734606037ac863a26b747557e8.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_616d9776c941f878eed7f8b53496f81323902a1f.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_616d9776c941f878eed7f8b53496f81323902a1f.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_8965b8a955c04da21a6e7becb9add0c3ef547902.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_8965b8a955c04da21a6e7becb9add0c3ef547902.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_71345f961d73dc16aadaa3edcc62384e303a17a6.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_71345f961d73dc16aadaa3edcc62384e303a17a6.600x338.jpg?t=1704744423"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_07fb7061a6b85ef995e067d055bec20b05642fa8.1920x1080.jpg?t=1704744423",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734140/ss_07fb7061a6b85ef995e067d055bec20b05642fa8.600x338.jpg?t=1704744423"
+        }
+    ],
+    "short_description": "Get ready for an epic journey to defend Broken Lands against hordes of goblins, dwarves, elves and other nasty fiends using a vast arsenal of towers and spells! Fight on deserts, seas, forests and mountains, customizing your defensive strategy with different tower upgrades and specializations!",
+    "steam_appid": 2734140,
+    "support_info": {
+        "email": "kielanxd@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Japanese, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Turkish",
+    "type": "game",
+    "website": null
+}

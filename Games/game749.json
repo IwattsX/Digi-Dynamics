@@ -1,0 +1,142 @@
+{
+    "about_the_game": "Roll the ball while relaxing to classical music. Collect all the crystals in the level and enter the golden pipe to progress. Don\u2019t hit the spikes or swinging hammers, avoid cannon shots and don\u2019t fall of the platforms. If you don\u2019t collect all of the crystals in level you won\u2019t be able to finish the level by going through the golden pipe. <br />\r\nFeatures: <br />\r\nControl the ball<br />\r\nUnreal engine 5 graphics<br />\r\nKeyboard controls using WASD or arrow keys<br />\r\n8 levels<br />\r\nClassical music<br />\r\nObstacles such as spikes, swinging hammers and cannons<br />\r\nCollectible crystals<br />\r\nFalling into the void will result in a level restart",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/page_bg_generated_v6b.jpg?t=1684169113",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/page_bg_generated.jpg?t=1684169113",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/capsule_231x87.jpg?t=1684169113",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/capsule_184x69.jpg?t=1684169113",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Roll the ball while relaxing to classical music. Collect all the crystals in the level and enter the golden pipe to progress. Don\u2019t hit the spikes or swinging hammers, avoid cannon shots and don\u2019t fall of the platforms. If you don\u2019t collect all of the crystals in level you won\u2019t be able to finish the level by going through the golden pipe. <br />\r\nFeatures: <br />\r\nControl the ball<br />\r\nUnreal engine 5 graphics<br />\r\nKeyboard controls using WASD or arrow keys<br />\r\n8 levels<br />\r\nClassical music<br />\r\nObstacles such as spikes, swinging hammers and cannons<br />\r\nCollectible crystals<br />\r\nFalling into the void will result in a level restart",
+    "developers": [
+        "Inok777"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/header.jpg?t=1684169113",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937708,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937708/movie480.mp4?t=1680193811",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937708/movie_max.mp4?t=1680193811"
+            },
+            "name": "RollerBall",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937708/movie.293x165.jpg?t=1680193811",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937708/movie480_vp9.webm?t=1680193811",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937708/movie_max_vp9.webm?t=1680193811"
+            }
+        }
+    ],
+    "name": "RollerBall",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RollerBall - $0.90",
+                    "packageid": 852828,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 90
+                }
+            ],
+            "title": "Buy RollerBall"
+        }
+    ],
+    "packages": [
+        852828
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> gtx980<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 90,
+        "final_formatted": "$0.90",
+        "initial": 90,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Inok777"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_80f9bc6b922b83fd81521e4be92199ae7091bc50.1920x1080.jpg?t=1684169113",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_80f9bc6b922b83fd81521e4be92199ae7091bc50.600x338.jpg?t=1684169113"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_9355e9124990d7b56235743991769f5e96081bf9.1920x1080.jpg?t=1684169113",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_9355e9124990d7b56235743991769f5e96081bf9.600x338.jpg?t=1684169113"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_5326e70681581e26ea6de81fe26bd2a7e5195430.1920x1080.jpg?t=1684169113",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_5326e70681581e26ea6de81fe26bd2a7e5195430.600x338.jpg?t=1684169113"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_0ac1e31cbcfb16fc639b575aecabfb948ce5049f.1920x1080.jpg?t=1684169113",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_0ac1e31cbcfb16fc639b575aecabfb948ce5049f.600x338.jpg?t=1684169113"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_e558529a4e39c57373ef48172722b2e4ff35e25c.1920x1080.jpg?t=1684169113",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/ss_e558529a4e39c57373ef48172722b2e4ff35e25c.600x338.jpg?t=1684169113"
+        }
+    ],
+    "short_description": "Roll the ball, collect the crystals, avoid obstacles. Don't fall.",
+    "steam_appid": 2372090,
+    "support_info": {
+        "email": "inokprotheus@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

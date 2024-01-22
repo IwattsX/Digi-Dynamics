@@ -1,0 +1,161 @@
+{
+    "about_the_game": "New game with combined genre of strategic survival, Sandbox, and city building simulation. <br>Enjoy the simulation with vast world to adventure with a great number of contents. <br>Build your own economical system to sustain your ideal city of Ratopia.<h2 class=\"bb_tag\">Economically active Ratizens</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_Rats.png?t=1686972544\" /><br>Citizens of Ratopia each owns wealth and characteristics.<br>There is no such thing as a free lunch!<br>Supply jobs and services for Ratizens to make all happy.<h2 class=\"bb_tag\">Create extraordinary Policies</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_City.png?t=1686972544\" /><br>Make a detailed policy to tax them all!<br>Shouldn't the people all work restlessly for more profit?<br>Create or prevent social disasters with own policies.<h2 class=\"bb_tag\">Diverse adventures placed Underworld</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_Biome.png?t=1686972544\" /><br>Explore and find the remains of the great old rats.<br>Bring prosperity to the city through great expeditions.<br>Some might woke up new apex predators, but who cares?",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First settler",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/4b78adffd26c5dbeb0a87504a7e1dcccb8083911.jpg"
+            },
+            {
+                "name": "Job success",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/f1756283af50b358336dd27c760f20d2716da1b2.jpg"
+            },
+            {
+                "name": "A Cheese for a Cheese",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/db2a9a39753594e9b1c4400aa24d3c08be413597.jpg"
+            },
+            {
+                "name": "EUREKA!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/e03d6372fdc0494e894b3b97f1b88cecd03dfa75.jpg"
+            },
+            {
+                "name": "Eternal rest",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/6cfebbb5c5e5edb6669c60ed0e2613e1ce224e45.jpg"
+            },
+            {
+                "name": "I need some rest",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/27f404fa8a1349d2a3ffdd22766000fcbf89c70b.jpg"
+            },
+            {
+                "name": "Follow me!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/1999ac85b257de68ef2205cfe1d2bdc1ff16da61.jpg"
+            },
+            {
+                "name": "Zodiacs",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/6e4768ab54613317494c2e9d90fdcd98c7d030bd.jpg"
+            },
+            {
+                "name": "Delight in Minds",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/9f4b14bf489430ebe824eae41de853be4f856d62.jpg"
+            },
+            {
+                "name": "Railway Empire",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2337200/f879e0344f56b8075cc45c7d3195dc658171c58a.jpg"
+            }
+        ],
+        "total": 14
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/page_bg_generated_v6b.jpg?t=1686972544",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/page_bg_generated.jpg?t=1686972544",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/capsule_231x87.jpg?t=1686972544",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/capsule_184x69.jpg?t=1686972544",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "New game with combined genre of strategic survival, Sandbox, and city building simulation. <br>Enjoy the simulation with vast world to adventure with a great number of contents. <br>Build your own economical system to sustain your ideal city of Ratopia.<h2 class=\"bb_tag\">Economically active Ratizens</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_Rats.png?t=1686972544\" /><br>Citizens of Ratopia each owns wealth and characteristics.<br>There is no such thing as a free lunch!<br>Supply jobs and services for Ratizens to make all happy.<h2 class=\"bb_tag\">Create extraordinary Policies</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_City.png?t=1686972544\" /><br>Make a detailed policy to tax them all!<br>Shouldn't the people all work restlessly for more profit?<br>Create or prevent social disasters with own policies.<h2 class=\"bb_tag\">Diverse adventures placed Underworld</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2337200/extras/Store_Biome.png?t=1686972544\" /><br>Explore and find the remains of the great old rats.<br>Bring prosperity to the city through great expeditions.<br>Some might woke up new apex predators, but who cares?",
+    "developers": [
+        "Cassel Games"
+    ],
+    "fullgame": {
+        "appid": "2244130",
+        "name": "Ratopia"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/header.jpg?t=1686972544",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.11 El Capitan<br></li><li><strong>Processor:</strong> 2.4 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB Video Ram.<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum resolution: 1280x720, recomended FULL HD 1920x1080.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13 High Sierra<br></li><li><strong>Processor:</strong> 3.2 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum resolution: 1280x720, recomended FULL HD 1920x1080.</li></ul>"
+    },
+    "name": "Ratopia Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Window 7, 8, 10 (64-bits)<br></li><li><strong>Processor:</strong> 2.4 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB Video Ram.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum resolution: 1280x720, recomended FULL HD 1920x1080.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Window 10 (64-bits)<br></li><li><strong>Processor:</strong> 3.2 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1GB Video Ram<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum resolution: 1280x720, recomended FULL HD 1920x1080.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Cassel Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_be9f6dd95ce4b2709c088ee060c1684a47a0c0ab.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_be9f6dd95ce4b2709c088ee060c1684a47a0c0ab.600x338.jpg?t=1686972544"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_0221f2b39ec1e4714e00f70f75dd94d9696958f5.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_0221f2b39ec1e4714e00f70f75dd94d9696958f5.600x338.jpg?t=1686972544"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_2a548e48d02a67e6685ca15fea5cb8e3493ece29.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_2a548e48d02a67e6685ca15fea5cb8e3493ece29.600x338.jpg?t=1686972544"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_8adafc4d8d0410461bd331f66e5d9793c5d626cc.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_8adafc4d8d0410461bd331f66e5d9793c5d626cc.600x338.jpg?t=1686972544"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_b62a0eed3552c5d40ea3ff172f5a127bd22ea247.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_b62a0eed3552c5d40ea3ff172f5a127bd22ea247.600x338.jpg?t=1686972544"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_348aa0fa1f9223872434fe7fe872d2313460ed21.1920x1080.jpg?t=1686972544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337200/ss_348aa0fa1f9223872434fe7fe872d2313460ed21.600x338.jpg?t=1686972544"
+        }
+    ],
+    "short_description": "New game with combined genre of strategic survival, Sandbox, and city building simulation. Enjoy the simulation with vast world to adventure with a great number of contents. Build your own economical system to sustain your ideal city of Ratopia.",
+    "steam_appid": 2337200,
+    "support_info": {
+        "email": "casselwolf@naver.com",
+        "url": "https://www.CasselGames.com/"
+    },
+    "supported_languages": "English<strong>*</strong>, Korean, Japanese, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://www.CasselGames.com/"
+}

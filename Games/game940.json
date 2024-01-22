@@ -1,0 +1,85 @@
+{
+    "about_the_game": "Pet Sanctuary is a relaxing game where you take care of your cherished pets. From feeding them fruit to choosing a favorite outfit, you take care of and nature your chosen pet in this bright and joyful world. Plus, with mini games like snake and Simon says, you can earn rewards that your pet will love.<br><br><u>Play minigames to earn items and food to help train your pets.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/SnakeMinigame.gif?t=1682615390\" /><br><br><u>Customize your pets with different skins and items.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/CustomizePet.gif?t=1682615390\" /><br><br><u>Hang out with and interact with your pets.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/PetCat.gif?t=1682615390\" /><br><br><u>Enter your pets in races to unlock new characters, skin, and accessories for your pets</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/SwimRace.gif?t=1682615390\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/page_bg_generated_v6b.jpg?t=1682615390",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/page_bg_generated.jpg?t=1682615390",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/capsule_231x87.jpg?t=1682615390",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/capsule_184x69.jpg?t=1682615390",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Pet Sanctuary is a relaxing game where you take care of your cherished pets. From feeding them fruit to choosing a favorite outfit, you take care of and nature your chosen pet in this bright and joyful world. Plus, with mini games like snake and Simon says, you can earn rewards that your pet will love.<br><br><u>Play minigames to earn items and food to help train your pets.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/SnakeMinigame.gif?t=1682615390\" /><br><br><u>Customize your pets with different skins and items.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/CustomizePet.gif?t=1682615390\" /><br><br><u>Hang out with and interact with your pets.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/PetCat.gif?t=1682615390\" /><br><br><u>Enter your pets in races to unlock new characters, skin, and accessories for your pets</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402690/extras/SwimRace.gif?t=1682615390\" />",
+    "developers": [
+        "Nick F"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/header.jpg?t=1682615390",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Pet Sanctuary",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 2.0) capabilities<br></li><li><strong>Sound Card:</strong> 512 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Nick F"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_3babb40623bbccc9df2e0e932004411f28015bb1.1920x1080.jpg?t=1682615390",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_3babb40623bbccc9df2e0e932004411f28015bb1.600x338.jpg?t=1682615390"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_e99498a8626ecb18c8732ad53afbe5185927ecd0.1920x1080.jpg?t=1682615390",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_e99498a8626ecb18c8732ad53afbe5185927ecd0.600x338.jpg?t=1682615390"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_e75c8fbdab22a838363a0eef18994718f40b9b12.1920x1080.jpg?t=1682615390",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_e75c8fbdab22a838363a0eef18994718f40b9b12.600x338.jpg?t=1682615390"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_1ea3dc8a8318e4ef76c865134a099d78393a8151.1920x1080.jpg?t=1682615390",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_1ea3dc8a8318e4ef76c865134a099d78393a8151.600x338.jpg?t=1682615390"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_8791ecb6377e6673726e766707b59b5a1c02e36e.1920x1080.jpg?t=1682615390",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402690/ss_8791ecb6377e6673726e766707b59b5a1c02e36e.600x338.jpg?t=1682615390"
+        }
+    ],
+    "short_description": "Pet Sanctuary is a relaxing game where you take care of your pets. From feeding them fruit to choosing a favorite outfit, you take care of and nature your chosen pet in this bright and joyful world. Plus, with mini games like Snake and Simon Says, you can earn rewards that your pet will love.",
+    "steam_appid": 2402690,
+    "support_info": {
+        "email": "PetSanctuary1@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

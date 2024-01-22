@@ -1,0 +1,180 @@
+{
+    "about_the_game": "Pasture is an \u2018Action\u2019 farming simulator set in the Northern Territory of Australia. A homage to the rugged people who live and breathe the most challenging and exciting farming lifestyle in the world: Being an NT Pastoralist. Pasture allows gamers from all over the world to experience the highs and lows of being a pastoralist, doing battle with the weather, the markets, and mother nature herself to come out on top as they build their cattle empire. Make no mistake, without the vigilant stewardship of your property, your herd will escape, be predated upon, or perish. Clever management can cause your herd to flourish, your infrastructure to be sound, and your bank account to blossom. This sim lets nature take course whether you are watching it or not. There are the old ways to do things, which you will be taught, but there is always new ground to be broken, and your innovation can mean the difference between boom and bust.<br><br><strong>EXPERIENCE</strong><br>- Mustering<br>- Drafting<br>- Breeding and Genetics<br>- Buying and selling cattle<br>- Building and maintaining your station<br>- Pest Management<br>- Face environmental factors like drought and flooding<br>- Sustainable farming practices<br><br><strong>FEATURES</strong><br>- Pasture's unique herding algorithm allows each cow and bull to be individually different. Whether it be an overly aggressive bull with a wonky horn, a more curious weaner or a timid heifer. Players can recognise the character of their favourite bovine.<br>- Set in the Australian Outback, experience the natural flora being brought to life by photogrammetry scanning.<br><br><strong>TRANSPORT</strong><br>- The iconic Australian Bull Catcher<br>- Helicopters that make for easier mustering<br>- Horses for the true authentic Jackaroos and Jillaroos<br>- Motorbikes, Utes and ATV's<br>- Road Trains",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/page_bg_generated_v6b.jpg?t=1703835147",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/page_bg_generated.jpg?t=1703835147",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/capsule_231x87.jpg?t=1703835147",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/capsule_184x69.jpg?t=1703835147",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "LAN PvP",
+            "id": 47
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Pasture is an \u2018Action\u2019 farming simulator set in the Northern Territory of Australia. A homage to the rugged people who live and breathe the most challenging and exciting farming lifestyle in the world: Being an NT Pastoralist. Pasture allows gamers from all over the world to experience the highs and lows of being a pastoralist, doing battle with the weather, the markets, and mother nature herself to come out on top as they build their cattle empire. Make no mistake, without the vigilant stewardship of your property, your herd will escape, be predated upon, or perish. Clever management can cause your herd to flourish, your infrastructure to be sound, and your bank account to blossom. This sim lets nature take course whether you are watching it or not. There are the old ways to do things, which you will be taught, but there is always new ground to be broken, and your innovation can mean the difference between boom and bust.<br><br><strong>EXPERIENCE</strong><br>- Mustering<br>- Drafting<br>- Breeding and Genetics<br>- Buying and selling cattle<br>- Building and maintaining your station<br>- Pest Management<br>- Face environmental factors like drought and flooding<br>- Sustainable farming practices<br><br><strong>FEATURES</strong><br>- Pasture's unique herding algorithm allows each cow and bull to be individually different. Whether it be an overly aggressive bull with a wonky horn, a more curious weaner or a timid heifer. Players can recognise the character of their favourite bovine.<br>- Set in the Australian Outback, experience the natural flora being brought to life by photogrammetry scanning.<br><br><strong>TRANSPORT</strong><br>- The iconic Australian Bull Catcher<br>- Helicopters that make for easier mustering<br>- Horses for the true authentic Jackaroos and Jillaroos<br>- Motorbikes, Utes and ATV's<br>- Road Trains",
+    "developers": [
+        "Salty Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/header.jpg?t=1703835147",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Pasture: The Livestock Simulator",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or newer<br></li><li><strong>Processor:</strong> 3 GHZ with Turbo Boost<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1650 or equivalent<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Not required<br></li><li><strong>VR Support:</strong> N/A</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or newer<br></li><li><strong>Processor:</strong> 3.5 GHZ with Turbo boost<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 3060 or equivalent<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>VR Support:</strong> N/A</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Salty Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_18b50dbfd69f8f5a5c7295ef28f0f66de246552d.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_18b50dbfd69f8f5a5c7295ef28f0f66de246552d.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_99b43431ec9834e50652a80b940addf3a1eb045e.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_99b43431ec9834e50652a80b940addf3a1eb045e.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_3954ad110a7c4254714ee16ffe9cdbca417275ac.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_3954ad110a7c4254714ee16ffe9cdbca417275ac.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_4681132e128af0a6bcb8a8955fd1e680fb3b3287.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_4681132e128af0a6bcb8a8955fd1e680fb3b3287.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_818cd34f193770a76ad1f03762202674ec6b9d61.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_818cd34f193770a76ad1f03762202674ec6b9d61.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_56e1fcdccb0d13a1bd29ffe1dfa8010ae3fc3821.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_56e1fcdccb0d13a1bd29ffe1dfa8010ae3fc3821.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_da310d5e231460bf9e313a688baeef1443732d24.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_da310d5e231460bf9e313a688baeef1443732d24.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_baa24a3e5f2e5af4fa0ca204c70d46f05cb09dfb.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_baa24a3e5f2e5af4fa0ca204c70d46f05cb09dfb.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_b94c31a622fe8761b58010b3b20acacb6dac4c1c.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_b94c31a622fe8761b58010b3b20acacb6dac4c1c.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 21,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_25f965cf1f3a12ec0ec9081b6d218074618c4323.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_25f965cf1f3a12ec0ec9081b6d218074618c4323.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 22,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_9cc34b9316045301746b2f32a5f6886b8c65e94b.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_9cc34b9316045301746b2f32a5f6886b8c65e94b.600x338.jpg?t=1703835147"
+        },
+        {
+            "id": 23,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_a040e60dd1f6ff88f04b5030e1725705abc32849.1920x1080.jpg?t=1703835147",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371490/ss_a040e60dd1f6ff88f04b5030e1725705abc32849.600x338.jpg?t=1703835147"
+        }
+    ],
+    "short_description": "The weight of your herd rests on your shoulders as you build a cattle empire, set in the Australian Outback",
+    "steam_appid": 2371490,
+    "support_info": {
+        "email": "admin@saltygames.com.au",
+        "url": "http://www.saltygames.com.au"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Simplified Chinese",
+    "type": "game",
+    "website": "http://www.saltygames.com.au"
+}

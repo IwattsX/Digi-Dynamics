@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Customise your police, fire and EMS vehicles further than ever before with the free Visor Lights DLC! <br><br>This pack gives you access to a large variety of visor light types, and allows you to customise them extensively - including colours and light patterns.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649400/extras/FL_VisorLights.gif?t=1698935569\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/page_bg_generated_v6b.jpg?t=1698935569",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/page_bg_generated.jpg?t=1698935569",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/capsule_231x87.jpg?t=1698935569",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/capsule_184x69.jpg?t=1698935569",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Customise your police, fire and EMS vehicles further than ever before with the free Visor Lights DLC! <br><br>This pack gives you access to a large variety of visor light types, and allows you to customise them extensively - including colours and light patterns.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649400/extras/FL_VisorLights.gif?t=1698935569\" />",
+    "developers": [
+        "Nils Jakrins"
+    ],
+    "fullgame": {
+        "appid": "605740",
+        "name": "Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/header.jpg?t=1698935569",
+    "is_free": true,
+    "legal_notice": "Excalibur Publishing \u00a9 2023 - All rights reserved",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Flashing Lights: Visor Lights DLC (Police, Fire, EMS)",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Excalibur Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_611860f69beb49e85fd4b3355439963b12e5f9f1.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_611860f69beb49e85fd4b3355439963b12e5f9f1.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_ed2910d341218342db882bf65c89688eebd4f49d.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_ed2910d341218342db882bf65c89688eebd4f49d.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_af664ce9d107ee69abb31e5237bb3c27cb03054e.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_af664ce9d107ee69abb31e5237bb3c27cb03054e.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_85289cb19d06bbd0b68a2bf2a065b02bcb56e35a.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_85289cb19d06bbd0b68a2bf2a065b02bcb56e35a.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_db98e62eb20375f19c39ce2c3fc3d716cfe3e084.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_db98e62eb20375f19c39ce2c3fc3d716cfe3e084.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_648d4e304f4f72d7d5746479b80c5d8145244d2c.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_648d4e304f4f72d7d5746479b80c5d8145244d2c.600x338.jpg?t=1698935569"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_11ad1a1631510b29f13918d2127100407bab79e3.1920x1080.jpg?t=1698935569",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649400/ss_11ad1a1631510b29f13918d2127100407bab79e3.600x338.jpg?t=1698935569"
+        }
+    ],
+    "short_description": "Customise your police, fire and EMS vehicles further than ever before with the free Visor Lights DLC! This pack gives you access to a large variety of visor light types, and allows you to customise them extensively - including colours and light patterns.",
+    "steam_appid": 2649400,
+    "support_info": {
+        "email": "support@excalibur-publishing.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese, German, Russian, Spanish - Spain, French, Danish, Dutch, Polish, Portuguese - Brazil, Swedish, Traditional Chinese, Italian, Czech, Finnish, Turkish, Greek, Hungarian, Norwegian, Latvian",
+    "type": "dlc",
+    "website": "http://www.excalibur-games.com"
+}

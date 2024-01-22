@@ -1,0 +1,62 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/page_bg_generated_v6b.jpg?t=1703278373",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/page_bg_generated.jpg?t=1703278373",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/capsule_231x87.jpg?t=1703278373",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/capsule_184x69.jpg?t=1703278373",
+    "categories": [
+        {
+            "description": "VR Supported",
+            "id": 53
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/header.jpg?t=1703278373",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Strayed Playtest",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/ss_a1b18a57e4f86762ae5a5dc490cd448b564f20e7.1920x1080.jpg?t=1703278373",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372160/ss_a1b18a57e4f86762ae5a5dc490cd448b564f20e7.600x338.jpg?t=1703278373"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2372160,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

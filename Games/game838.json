@@ -1,0 +1,199 @@
+{
+    "about_the_game": "Backrooms Project: The Lost File - It is a game that delves into the world of Backrooms, where terror, puzzles and a feeling of insecurity go hand in hand, with 10 launch levels, your mission is to find the lost files to know what happens in the Backrooms, find all the secrets and at the same time know how to get out of there.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Cursed Torch",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/22105dec58e18bb3c26d4ba0bc0c195d816ab3c4.jpg"
+            },
+            {
+                "name": "THE LOBBY",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/0df548732be3582bcdf5347dc102b116f9655fcf.jpg"
+            },
+            {
+                "name": "Pistol",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/f22baf0d75fb79cc4a027d0812981341a14ab04e.jpg"
+            },
+            {
+                "name": "Flashlight",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/9978399a90231d14675794156f41a44e712d5257.jpg"
+            },
+            {
+                "name": "Hidden Room",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/49057decaa20a956e6cde13ee5f456c1ae5c012a.jpg"
+            },
+            {
+                "name": "Run for your life!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/96910543a4ce64a415d1fa1cdc82774d7dc2b9f0.jpg"
+            },
+            {
+                "name": "Camera",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/ef7958dacb57fbb0e8e83aaae7c44c7e35a2109c.jpg"
+            },
+            {
+                "name": "Peeper",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/d18944609d1cd9c81f1ad026770e19857220f980.jpg"
+            },
+            {
+                "name": "Welcome Farm",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/6dff70aaa13e2a853cdf62950d2ea3b425df0e3d.jpg"
+            },
+            {
+                "name": "It's so cute",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370680/cb37ce04b7ca12cceac48e074707f92a66c658e0.jpg"
+            }
+        ],
+        "total": 15
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/page_bg_generated_v6b.jpg?t=1682841900",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/page_bg_generated.jpg?t=1682841900",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/capsule_231x87.jpg?t=1682841900",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/capsule_184x69.jpg?t=1682841900",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "Backrooms Project: The Lost File - It is a game that delves into the world of Backrooms, where terror, puzzles and a feeling of insecurity go hand in hand, with 10 launch levels, your mission is to find the lost files to know what happens in the Backrooms, find all the secrets and at the same time know how to get out of there.",
+    "developers": [
+        "xCousito"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/header.jpg?t=1682841900",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942993,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942993/movie480.mp4?t=1682428499",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942993/movie_max.mp4?t=1682428499"
+            },
+            "name": "eng",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942993/movie.293x165.jpg?t=1682428499",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942993/movie480_vp9.webm?t=1682428499",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942993/movie_max_vp9.webm?t=1682428499"
+            }
+        }
+    ],
+    "name": "Backrooms Project: The lost file",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Backrooms Project: The lost file - $9.99",
+                    "packageid": 852313,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Backrooms Project: The lost file"
+        }
+    ],
+    "packages": [
+        852313
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8 / 10 / 11 - 64 bit<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 650<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>VR Support:</strong> No<br></li><li><strong>Additional Notes:</strong> The requirements may change in future updates.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8 / 10 / 11 - 64 bit<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 760<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>VR Support:</strong> No<br></li><li><strong>Additional Notes:</strong> The requirements may change in future updates.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "xCousito"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_1e982bd0fa4da06705517e301d33783757070ec7.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_1e982bd0fa4da06705517e301d33783757070ec7.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_aa1f46d7af914c187648a61e3a012c0499f4f749.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_aa1f46d7af914c187648a61e3a012c0499f4f749.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_1ff89aa05834be564c6d76e7e34ada69c5f1e744.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_1ff89aa05834be564c6d76e7e34ada69c5f1e744.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_4921d47d23a0f930c0e368529c1cf3570920d84d.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_4921d47d23a0f930c0e368529c1cf3570920d84d.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_cda70c99681853c6f4df8ed95aeed1ff706079d7.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_cda70c99681853c6f4df8ed95aeed1ff706079d7.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_9b442c70e8c781a8f58cbd4734fa8e1c58f4221f.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_9b442c70e8c781a8f58cbd4734fa8e1c58f4221f.600x338.jpg?t=1682841900"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_c1abefd524d3535ca097c4ab8be686cbebca8329.1920x1080.jpg?t=1682841900",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370680/ss_c1abefd524d3535ca097c4ab8be686cbebca8329.600x338.jpg?t=1682841900"
+        }
+    ],
+    "short_description": "Backrooms Project: The Lost File - it's a horror exploration game, with many puzzles",
+    "steam_appid": 2370680,
+    "support_info": {
+        "email": "",
+        "url": "https://twitter.com/xCousitoDev"
+    },
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,110 @@
+{
+    "about_the_game": "Step into the shoes of one of an elite mercenary wielding powerful abilities and firepower in <strong>Aphelion Headhunters</strong>, a <strong>Third-Person PVE Hero Shooter</strong> featuring high octane combat and specially crafted abilities and perks. Play as either the Hellion or the Sunslinger, two highly trained Headhunters seeking to the claim the bounty on the head of a notorious Raider and his army of minions. Each of the Headhunters features their own distinct playstyles, abilities and suite of selectable upgrades, offering high replayability and thoughtful buildcrafting.<h2 class=\"bb_tag\"><strong>Abilities</strong></h2>Each character in Aphelion Headhunters features One Weapon, Three Active abilities and a Passive Ability. Active Abilities are powerful skills that can be used at any time while off cooldown, offering fun and unique gameplay advantages. Passive Abilities are charged up in response to certain triggers, and once ready, provide special boons that further compliment their unique playstyle.<h2 class=\"bb_tag\"><strong>The Sunslinger</strong></h2>A deadly marksman wielding a rapid fire SMG and the destructive power of the sun in the palm of his hand, the Sunslinger burns down his enemies in a hail of gunfire. Able to blind enemies, hurl fireballs and reload his weapon at the speed of light, the Sunslinger is a deadly foe and a master of dishing out high damage in a short time.<h2 class=\"bb_tag\"><strong>The Hellion</strong></h2>A close range brawler wielding a shotgun and mysterious yet powerful psionic abilities, the Hellion gets up close and personal and stays there until her enemies are demolished at her feet. Able to weave the power of psionics into swords, shields and bursts of telekinetic fury that stuns opponents, the Hellion is able to keep herself alive by dealing damage, granting her a useful overshield so that she can keep on fighting.<h2 class=\"bb_tag\"><strong>Perks System</strong></h2>The unique abilities featured by both characters can be further augmented using a selection of specifcally crafted perks, enabling players to tailor their experience to fit their playstyle. Choosing up to 3 perks from a total pool of 8, players can make the characters their own, and enjoy hours of replayability with different perks and builds.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/page_bg_generated_v6b.jpg?t=1683576291",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/page.bg.jpg?t=1683576291",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/capsule_231x87.jpg?t=1683576291",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/capsule_184x69.jpg?t=1683576291",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Step into the shoes of one of an elite mercenary wielding powerful abilities and firepower in <strong>Aphelion Headhunters</strong>, a <strong>Third-Person PVE Hero Shooter</strong> featuring high octane combat and specially crafted abilities and perks. Play as either the Hellion or the Sunslinger, two highly trained Headhunters seeking to the claim the bounty on the head of a notorious Raider and his army of minions. Each of the Headhunters features their own distinct playstyles, abilities and suite of selectable upgrades, offering high replayability and thoughtful buildcrafting.<h2 class=\"bb_tag\"><strong>Abilities</strong></h2>Each character in Aphelion Headhunters features One Weapon, Three Active abilities and a Passive Ability. Active Abilities are powerful skills that can be used at any time while off cooldown, offering fun and unique gameplay advantages. Passive Abilities are charged up in response to certain triggers, and once ready, provide special boons that further compliment their unique playstyle.<h2 class=\"bb_tag\"><strong>The Sunslinger</strong></h2>A deadly marksman wielding a rapid fire SMG and the destructive power of the sun in the palm of his hand, the Sunslinger burns down his enemies in a hail of gunfire. Able to blind enemies, hurl fireballs and reload his weapon at the speed of light, the Sunslinger is a deadly foe and a master of dishing out high damage in a short time.<h2 class=\"bb_tag\"><strong>The Hellion</strong></h2>A close range brawler wielding a shotgun and mysterious yet powerful psionic abilities, the Hellion gets up close and personal and stays there until her enemies are demolished at her feet. Able to weave the power of psionics into swords, shields and bursts of telekinetic fury that stuns opponents, the Hellion is able to keep herself alive by dealing damage, granting her a useful overshield so that she can keep on fighting.<h2 class=\"bb_tag\"><strong>Perks System</strong></h2>The unique abilities featured by both characters can be further augmented using a selection of specifcally crafted perks, enabling players to tailor their experience to fit their playstyle. Choosing up to 3 perks from a total pool of 8, players can make the characters their own, and enjoy hours of replayability with different perks and builds.",
+    "developers": [
+        "Shellshock Gameworks"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/header.jpg?t=1683576291",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937698,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937698/movie480.mp4?t=1682394959",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937698/movie_max.mp4?t=1682394959"
+            },
+            "name": "Aphelion Headhunters Beta Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937698/movie.293x165.jpg?t=1682394959",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937698/movie480_vp9.webm?t=1682394959",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937698/movie_max_vp9.webm?t=1682394959"
+            }
+        }
+    ],
+    "name": "Aphelion Headhunters",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> GTX 1660</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Shellshock Gameworks"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_5ac4b988e8478f11d0edacc9426e543906234933.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_5ac4b988e8478f11d0edacc9426e543906234933.600x338.jpg?t=1683576291"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_cb9070426781e3333d9a71545ddeac28cbac80f4.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_cb9070426781e3333d9a71545ddeac28cbac80f4.600x338.jpg?t=1683576291"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_e7a4b976e159fbcb896b567cf8f133e9269a244e.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_e7a4b976e159fbcb896b567cf8f133e9269a244e.600x338.jpg?t=1683576291"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_d3a1a2d541d8ee06fe94115fcfe8578808a06147.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_d3a1a2d541d8ee06fe94115fcfe8578808a06147.600x338.jpg?t=1683576291"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_b329d6d98c4eb40fe411141d497f08a5cc9f2a90.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_b329d6d98c4eb40fe411141d497f08a5cc9f2a90.600x338.jpg?t=1683576291"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_8e27694b118518d29ba1cf8e4a597482477f4df8.1920x1080.jpg?t=1683576291",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372440/ss_8e27694b118518d29ba1cf8e4a597482477f4df8.600x338.jpg?t=1683576291"
+        }
+    ],
+    "short_description": "Aphelion Headhunters is a Third-Person PVE Hero Shooter featuring two unique player characters, each with their own distinct playstyle, abilities and suite of selectable upgrades.",
+    "steam_appid": 2372440,
+    "support_info": {
+        "email": "aphelionheadhunters@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

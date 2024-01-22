@@ -1,0 +1,101 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Ready to race? Go! </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_Race.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li>Stunt, Push, and Rush to the end as fast as you can!<br></li><li>Win tracks and models. Race as much as you want with a lot of fun!</li></ul><h2 class=\"bb_tag\">Craft your racing tracks</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditTrack.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Edit tracks or create new ones from scratch In any theme (cars, beach, bedroom, workshop...)<br></li><li> Add jumps, decorations, and obstacles.<br></li><li> Use funny models as checkpoints and direction signs.</li></ul><h2 class=\"bb_tag\">Create your characters and opponents</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditCharacter.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Choose a normal or favorite character, or bring any idea you can imagine to life \u2013 like a creature with a robot body and two animal heads. You choose!</li></ul><h2 class=\"bb_tag\">Build new Vehicles</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditVehicle.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Choose from classical options like karts, buggies, racing cars, and trucks,<br></li><li> Or go for more funny ones like a bath vehicle, a sofa car, or a tiger rover. Anything is possible!</li></ul><h2 class=\"bb_tag\">Wishlist now!</h2><ul class=\"bb_ul\"><li>Click the Wishlist button now to get access to the demo and game ASAP!</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/page_bg_generated_v6b.jpg?t=1704535190",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/page_bg_generated.jpg?t=1704535190",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/capsule_231x87.jpg?t=1704535190",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/capsule_184x69.jpg?t=1704535190",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Ready to race? Go! </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_Race.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li>Stunt, Push, and Rush to the end as fast as you can!<br></li><li>Win tracks and models. Race as much as you want with a lot of fun!</li></ul><h2 class=\"bb_tag\">Craft your racing tracks</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditTrack.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Edit tracks or create new ones from scratch In any theme (cars, beach, bedroom, workshop...)<br></li><li> Add jumps, decorations, and obstacles.<br></li><li> Use funny models as checkpoints and direction signs.</li></ul><h2 class=\"bb_tag\">Create your characters and opponents</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditCharacter.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Choose a normal or favorite character, or bring any idea you can imagine to life \u2013 like a creature with a robot body and two animal heads. You choose!</li></ul><h2 class=\"bb_tag\">Build new Vehicles</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637080/extras/CraftyRacer_EditVehicle.gif?t=1704535190\" /><br><ul class=\"bb_ul\"><li> Choose from classical options like karts, buggies, racing cars, and trucks,<br></li><li> Or go for more funny ones like a bath vehicle, a sofa car, or a tiger rover. Anything is possible!</li></ul><h2 class=\"bb_tag\">Wishlist now!</h2><ul class=\"bb_ul\"><li>Click the Wishlist button now to get access to the demo and game ASAP!</li></ul>",
+    "developers": [
+        "Peterclark"
+    ],
+    "genres": [
+        {
+            "description": "Racing",
+            "id": "9"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/header.jpg?t=1704535190",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    },
+    "name": "Crafty Racer",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Peterclark"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q2 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_b2c0b5eca8c4e1157676266c18882294f4e849ce.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_b2c0b5eca8c4e1157676266c18882294f4e849ce.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_cd4f0800e431e926a6b59ab16a72e5470a3228ce.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_cd4f0800e431e926a6b59ab16a72e5470a3228ce.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_82014882276a0a9ba7c3f2ca7b5df4004fcdf112.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_82014882276a0a9ba7c3f2ca7b5df4004fcdf112.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_c11b3f265608a72b020875786a2f7305869682eb.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_c11b3f265608a72b020875786a2f7305869682eb.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_c942e617f0dc80c7e4aa945e16a94116f651bbd8.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_c942e617f0dc80c7e4aa945e16a94116f651bbd8.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_4855fa1883bac53396537cbbb27b36a44aa49ea8.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_4855fa1883bac53396537cbbb27b36a44aa49ea8.600x338.jpg?t=1704535190"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_0ee6cbb68645cd9dc57c937f643ff88dd5b40735.1920x1080.jpg?t=1704535190",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637080/ss_0ee6cbb68645cd9dc57c937f643ff88dd5b40735.600x338.jpg?t=1704535190"
+        }
+    ],
+    "short_description": "Stunt, push, and rush to the end! Win models and change anything as you want! Your tracks, vehicles, characters, checkpoints, opponents, ... anything!",
+    "steam_appid": 2637080,
+    "support_info": {
+        "email": "cm.3d.designer@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Thai, Turkish, Vietnamese, Hindi, Persian, Swahili",
+    "type": "game",
+    "website": null
+}

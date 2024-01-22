@@ -1,0 +1,97 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Story</h2>After the death of his best friend, Kaj has had time to reflect on the last 7 years and started to notice that some things don't add up. There may be more to Iris's death than meets the eye. Now, Kaj is very close to figuring out the truth but needs your help to put together the final pieces and finally lay it all to rest.<h2 class=\"bb_tag\">I made it for you!</h2>Kaj has carefully constructed his own world just for you to ensure you can see the full picture. He has even taken the effort to recreate some of the most important memories he has so you can relive them for yourself, even though his memory may not always be 100% accurate.<h2 class=\"bb_tag\">Gameplay</h2>The gameplay changes with each passing chapter. The only constants are that each is played from a first-person perspective, and that each chapter will bring you closer to the truth. In some chapters, you may serve the undeath their final meal, place a tattoo on yourself, or harvest your own food on your spaceship.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/page_bg_generated_v6b.jpg?t=1701091629",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/page_bg_generated.jpg?t=1701091629",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/capsule_231x87.jpg?t=1701091629",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/capsule_184x69.jpg?t=1701091629",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Story</h2>After the death of his best friend, Kaj has had time to reflect on the last 7 years and started to notice that some things don't add up. There may be more to Iris's death than meets the eye. Now, Kaj is very close to figuring out the truth but needs your help to put together the final pieces and finally lay it all to rest.<h2 class=\"bb_tag\">I made it for you!</h2>Kaj has carefully constructed his own world just for you to ensure you can see the full picture. He has even taken the effort to recreate some of the most important memories he has so you can relive them for yourself, even though his memory may not always be 100% accurate.<h2 class=\"bb_tag\">Gameplay</h2>The gameplay changes with each passing chapter. The only constants are that each is played from a first-person perspective, and that each chapter will bring you closer to the truth. In some chapters, you may serve the undeath their final meal, place a tattoo on yourself, or harvest your own food on your spaceship.",
+    "developers": [
+        "Chloe Vaelin"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/header.jpg?t=1701091629",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Lasting Moonlight",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Chloe Vaelin"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_326a0a7769d48621eba0f74e6e6523e956f23a52.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_326a0a7769d48621eba0f74e6e6523e956f23a52.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_92ffd66e3a99eb1186ebfddb61db10e7dd5cc4c8.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_92ffd66e3a99eb1186ebfddb61db10e7dd5cc4c8.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_9c7ea26c9256353c5db92660d5706aa9367626fe.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_9c7ea26c9256353c5db92660d5706aa9367626fe.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_973b77c6129053f19065811f3876c099264a5223.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_973b77c6129053f19065811f3876c099264a5223.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_7f2b02fa6e050fb6f47f5c6f014c5eb747132f08.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_7f2b02fa6e050fb6f47f5c6f014c5eb747132f08.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_11d4a9760b87aba4be22498ec71641ebf54f465c.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_11d4a9760b87aba4be22498ec71641ebf54f465c.600x338.jpg?t=1701091629"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_04e5055bb71feb26f32ebe624763d4ed716cb3fe.1920x1080.jpg?t=1701091629",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372430/ss_04e5055bb71feb26f32ebe624763d4ed716cb3fe.600x338.jpg?t=1701091629"
+        }
+    ],
+    "short_description": "A story-driven first-person experience about someone trying to hold onto the past. After the death of his best friend, he is forced to confront reality, which sends him into a spiral of emotions and regrets.",
+    "steam_appid": 2372430,
+    "support_info": {
+        "email": "cloevanwennen@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,164 @@
+{
+    "about_the_game": "Shuttle World is a first person open world sandbox game, integrating exploration, construction, survival, entertainment and other elements. Players can embark on adventures alone in the game, exploring the entire vast planet! Various free gameplay, welcome to download<br />\r\n<br />\r\nbuild<br />\r\n<br />\r\nBuilding factories and upgrading technology on the planet, there are countless precious natural resources on these continents that you can mine and use.<br />\r\n<br />\r\nexplore<br />\r\n<br />\r\nSearch for new resources in the mainland and make good use of all resources.<br />\r\n<br />\r\nBasic gameplay<br />\r\n<br />\r\nOpen World: Explore the vast world and search for valuable natural resources scattered across the continent!<br />\r\n<br />\r\n\u2022 Factory construction: experience the factory construction from the first person perspective, constantly transform and add automation technology, and finally build a large factory that can produce qualified industrial parts!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/page_bg_generated_v6b.jpg?t=1686780563",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/page_bg_generated.jpg?t=1686780563",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/capsule_231x87.jpg?t=1686780563",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/capsule_184x69.jpg?t=1686780563",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Shuttle World is a first person open world sandbox game, integrating exploration, construction, survival, entertainment and other elements. Players can embark on adventures alone in the game, exploring the entire vast planet! Various free gameplay, welcome to download<br />\r\n<br />\r\nbuild<br />\r\n<br />\r\nBuilding factories and upgrading technology on the planet, there are countless precious natural resources on these continents that you can mine and use.<br />\r\n<br />\r\nexplore<br />\r\n<br />\r\nSearch for new resources in the mainland and make good use of all resources.<br />\r\n<br />\r\nBasic gameplay<br />\r\n<br />\r\nOpen World: Explore the vast world and search for valuable natural resources scattered across the continent!<br />\r\n<br />\r\n\u2022 Factory construction: experience the factory construction from the first person perspective, constantly transform and add automation technology, and finally build a large factory that can produce qualified industrial parts!",
+    "developers": [
+        "Starry Sky Team"
+    ],
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/header.jpg?t=1686780563",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256952928,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256952928/movie480.mp4?t=1686780556",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256952928/movie_max.mp4?t=1686780556"
+            },
+            "name": "\u7a7f\u68ad\u4e16\u754c",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256952928/movie.293x165.jpg?t=1686780556",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256952928/movie480_vp9.webm?t=1686780556",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256952928/movie_max_vp9.webm?t=1686780556"
+            }
+        }
+    ],
+    "name": "Shuttle World",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u7a7f\u68ad\u4e16\u754c - $11.99",
+                    "packageid": 839365,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1199
+                }
+            ],
+            "title": "Buy Shuttle World"
+        }
+    ],
+    "packages": [
+        839365
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> i5-3570 3.4 GHz 4 Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 770 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> i5-3570 3.4 GHz 4 Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 770 8GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1199,
+        "final_formatted": "$11.99",
+        "initial": 1199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Starry Sky Team"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 23, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_988a7f87c7a927192a6ef24806490d4b6a38b800.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_988a7f87c7a927192a6ef24806490d4b6a38b800.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_c4793e73e45ef04130f3c7cfe23ca9bd36aeb36d.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_c4793e73e45ef04130f3c7cfe23ca9bd36aeb36d.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_e2e583c5d30cb2135074b177f35a084f322facee.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_e2e583c5d30cb2135074b177f35a084f322facee.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_db2a1bc81de412f081a828e865b04c177fa8ba6a.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_db2a1bc81de412f081a828e865b04c177fa8ba6a.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_3807d0e06130207f2a402bf86721c430fe11efee.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_3807d0e06130207f2a402bf86721c430fe11efee.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_a0031276913cc8a66f552b5d7649a92af2e4c8a6.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_a0031276913cc8a66f552b5d7649a92af2e4c8a6.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_4351abc408e2aafbed4061c7d4229074dca7ac39.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_4351abc408e2aafbed4061c7d4229074dca7ac39.600x338.jpg?t=1686780563"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_ded0cca69f602a16a91cdb2c131b9c26a5f1a98a.1920x1080.jpg?t=1686780563",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337000/ss_ded0cca69f602a16a91cdb2c131b9c26a5f1a98a.600x338.jpg?t=1686780563"
+        }
+    ],
+    "short_description": "Shuttle World is a first person open world sandbox game, integrating exploration, construction, survival, entertainment and other elements. Players can embark on adventures alone in the game, exploring the entire vast planet! Various free gameplay, welcome to download...",
+    "steam_appid": 2337000,
+    "support_info": {
+        "email": "1706308062@qq.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese<strong>*</strong>, English, German, Korean, French<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,89 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Synopsis</h2>The history of Tian Zhao, the concubine of the concubine, has a deep relationship with Emperor Tian Zhao. He once had a life -saving grace on His Majesty, and his pets have endured for many years. In the first year of Tian Zhao, he was renamed the noble concubine. The following year, he gave birth to the Crown Prince and the concubine of the emperor.<br><br>The world is envious. Only Su Bowl knows that under the favor, it is a huge cage that trapped her freedom. The man's means are tough, just to force her to obediently.<h2 class=\"bb_tag\"> Game gameplay </h2>         Common turn -based RGP games. Players can control the female lead to promote the main plot in the game. They can also explore decryption everywhere, or perform some branch plots.<h2 class=\"bb_tag\"> Character introduction </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334470/extras/\u5fae\u7b11\u526f\u672c.png?t=1691934701\" /><br>Weak heroine<br>Su Boin, who lost his parents since he was a child, was left by a female doctor, and his footprints were all over the world. After the female doctor died,<br>Su Bowl was hidden from the forest until his appearance.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/page_bg_generated_v6b.jpg?t=1691934701",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/page_bg_generated.jpg?t=1691934701",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/capsule_231x87.jpg?t=1691934701",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/capsule_184x69.jpg?t=1691934701",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Synopsis</h2>The history of Tian Zhao, the concubine of the concubine, has a deep relationship with Emperor Tian Zhao. He once had a life -saving grace on His Majesty, and his pets have endured for many years. In the first year of Tian Zhao, he was renamed the noble concubine. The following year, he gave birth to the Crown Prince and the concubine of the emperor.<br><br>The world is envious. Only Su Bowl knows that under the favor, it is a huge cage that trapped her freedom. The man's means are tough, just to force her to obediently.<h2 class=\"bb_tag\"> Game gameplay </h2>         Common turn -based RGP games. Players can control the female lead to promote the main plot in the game. They can also explore decryption everywhere, or perform some branch plots.<h2 class=\"bb_tag\"> Character introduction </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2334470/extras/\u5fae\u7b11\u526f\u672c.png?t=1691934701\" /><br>Weak heroine<br>Su Boin, who lost his parents since he was a child, was left by a female doctor, and his footprints were all over the world. After the female doctor died,<br>Su Bowl was hidden from the forest until his appearance.",
+    "developers": [
+        "\u5b64\u5355\u5de5\u4f5c\u5ba4"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/header.jpg?t=1691934701",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "\u56da\u7262",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows7<br></li><li><strong>Processor:</strong> I3 1220<br></li><li><strong>Graphics:</strong> 512\u663e\u5b58<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u5b64\u5355\u5de5\u4f5c\u5ba4"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_865685189f7c0f10386bd4cf103358d449eb5803.1920x1080.jpg?t=1691934701",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_865685189f7c0f10386bd4cf103358d449eb5803.600x338.jpg?t=1691934701"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_9a066d390dc35c491899d72b0b273cdc76b5ccc7.1920x1080.jpg?t=1691934701",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_9a066d390dc35c491899d72b0b273cdc76b5ccc7.600x338.jpg?t=1691934701"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_6694b6f9e6182d2aff413941a02463c772ded63e.1920x1080.jpg?t=1691934701",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_6694b6f9e6182d2aff413941a02463c772ded63e.600x338.jpg?t=1691934701"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_b2723edc17000a2b13aa1e5bdf88a924c5219728.1920x1080.jpg?t=1691934701",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_b2723edc17000a2b13aa1e5bdf88a924c5219728.600x338.jpg?t=1691934701"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_7ae75487076e8e3e497383c8d6edcff4909af26a.1920x1080.jpg?t=1691934701",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334470/ss_7ae75487076e8e3e497383c8d6edcff4909af26a.600x338.jpg?t=1691934701"
+        }
+    ],
+    "short_description": "The history of Tianzhao, the concubine of the concubine, has a deep relationship with Emperor Tian Zhao. He once had a life -saving grace on His Majesty. The world is envious. Only Su Bowl knows that under the favor, it is a huge cage that trapped her freedom.",
+    "steam_appid": 2334470,
+    "support_info": {
+        "email": "984957002@qq.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese",
+    "type": "game",
+    "website": null
+}

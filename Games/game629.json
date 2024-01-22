@@ -1,0 +1,107 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Features<h2 class=\"bb_tag\"><ul class=\"bb_ul\"><li>This is a 2D action game with puzzle elements.<br></li><li>Players can manipulate time to deal with obstacles and enemies. Let's make use of this ability to progress through the game.<br></li><li>Aim for the goal somewhere on the stage within the time limit.<br></li><li>By collecting items, players will gain new abilities and possibilities.<br></li><li>You can create and play your own stages.</li></ul><h2 class=\"bb_tag\">About Time Manipulation:</h2><ul class=\"bb_ul\"><li>Reverse: Time will be rewound.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_reverse.gif?t=1694243017\" /><br></li><li>Slow: Time will slow down.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_slow.gif?t=1694243017\" /><br></li><li>Stop: Time will stop and the player will become invincible, but after all TP is used up and the ability ends, time manipulation cannot be used for a certain period of time.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_stop.gif?t=1694243017\" /></li></ul><h2 class=\"bb_tag\">About the Editor:</h2><ul class=\"bb_ul\"><li>You can create stages by placing blocks, enemies, and gimmicks.<br></li><li>Created stages can be uploaded through the network.<br></li><li>You can download and play stages created by other users.</li></ul><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_edit.gif?t=1694243017\" /></h2></h2>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/page_bg_generated_v6b.jpg?t=1694243017",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/page_bg_generated.jpg?t=1694243017",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/capsule_231x87.jpg?t=1694243017",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/capsule_184x69.jpg?t=1694243017",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Features<h2 class=\"bb_tag\"><ul class=\"bb_ul\"><li>This is a 2D action game with puzzle elements.<br></li><li>Players can manipulate time to deal with obstacles and enemies. Let's make use of this ability to progress through the game.<br></li><li>Aim for the goal somewhere on the stage within the time limit.<br></li><li>By collecting items, players will gain new abilities and possibilities.<br></li><li>You can create and play your own stages.</li></ul><h2 class=\"bb_tag\">About Time Manipulation:</h2><ul class=\"bb_ul\"><li>Reverse: Time will be rewound.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_reverse.gif?t=1694243017\" /><br></li><li>Slow: Time will slow down.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_slow.gif?t=1694243017\" /><br></li><li>Stop: Time will stop and the player will become invincible, but after all TP is used up and the ability ends, time manipulation cannot be used for a certain period of time.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_stop.gif?t=1694243017\" /></li></ul><h2 class=\"bb_tag\">About the Editor:</h2><ul class=\"bb_ul\"><li>You can create stages by placing blocks, enemies, and gimmicks.<br></li><li>Created stages can be uploaded through the network.<br></li><li>You can download and play stages created by other users.</li></ul><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335480/extras/timek_atg_edit.gif?t=1694243017\" /></h2></h2>",
+    "developers": [
+        "T.G.digitalsoft"
+    ],
+    "fullgame": {
+        "appid": "2292410",
+        "name": "TimeK"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/header.jpg?t=1694243017",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "TimeK Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "T.G.digitalsoft"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 26, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_9db6107ce1b9334ee98a535e696d3a11434af692.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_9db6107ce1b9334ee98a535e696d3a11434af692.600x338.jpg?t=1694243017"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_158ddf7b4b3cea246eb34759875ce7c7e13b49f1.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_158ddf7b4b3cea246eb34759875ce7c7e13b49f1.600x338.jpg?t=1694243017"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_e4bbc0498358b9ce0d19443f874c87dba8cee373.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_e4bbc0498358b9ce0d19443f874c87dba8cee373.600x338.jpg?t=1694243017"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_9cf0a2a5ba426e58255c5c7f2ad1544046a24cf4.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_9cf0a2a5ba426e58255c5c7f2ad1544046a24cf4.600x338.jpg?t=1694243017"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_502fecadb4e1e566d4069411fca77a54d3ef0a8e.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_502fecadb4e1e566d4069411fca77a54d3ef0a8e.600x338.jpg?t=1694243017"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_1ba2cb7fd77eab52744ed6b377e2feffcd519cd8.1920x1080.jpg?t=1694243017",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335480/ss_1ba2cb7fd77eab52744ed6b377e2feffcd519cd8.600x338.jpg?t=1694243017"
+        }
+    ],
+    "short_description": "This game is a side-scrolling puzzle action game where the player controls time to navigate through obstacles and enemies while collecting items and reaching the goal.",
+    "steam_appid": 2335480,
+    "support_info": {
+        "email": "t.g.digitalsoft@gmail.ocm",
+        "url": "http://tgdigitalsoft.com/timek/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Japanese, Thai, Turkish, Portuguese - Brazil, Polish, Russian, Korean",
+    "type": "demo",
+    "website": "http://tgdigitalsoft.com/timek/"
+}

@@ -1,0 +1,141 @@
+{
+    "about_the_game": "<strong>Witchcraft: Candy Hunt</strong> is an old-school shooter game with charming pixel art graphics that will take you on a Halloween adventure. Fly on a broomstick and battle your way through three exciting levels, each one featuring unique spooky creatures such as pumpkin monsters, evil crows and ghosts. With three different modes of difficulty to choose from, our game provides a fun and enjoyable experience for players of all levels. Whether you're a beginner or an experienced player, Witchcraft: Candy Hunt is the perfect game for all ages.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373360/extras/Pumpkin.gif?t=1693937628\" /><br><br><strong>Join the witch on a magical journey and help save Halloween from spooky creatures in this charming old-school shooter game!</strong><br><br>The game offers three difficulty modes for players of all skill levels:<br>- The Rainbow mode is the easiest and is recommended for young or inexperienced new players. With fewer monsters and less aggressive enemies, it's the perfect way to ease into the game<br>- The Moderate difficulty is a balanced option that is designed to be fun and challenging for most players<br>- The Hostile mode gives the player a real challenge. With more enemies and a greater level of difficulty, it's the perfect choice for experienced players who want to put their skills to the test<br><br><strong>Casual arcade action</strong><br>Experience non-stop action with infinite lives and checkpoints in Witchcraft: Candy Hunt! Choose from five types of powerful spells to help you defeat spooky creatures, including powerful blue bullets, laser green spells, homing yellow bullets, large wave pink spells, and double bullet purple spells. With each type of spell providing a unique advantage, you'll have the tools you need to overcome the toughest challenges in the game.<br><br><strong>The levels</strong><br>Explore three distinct levels \u2013 the Forest, Graveyard, and Castle \u2013 each with its own unique look and feel. Encounter many monsters along the way, each with their own set of powers, making every level a new and exciting challenge. As you progress, you'll face mini-bosses and bosses at the end of each level, each with their own distinct patterns and multiple phases to conquer. It's up to you to understand and overcome their challenges to progress through the game.<br><br>Get ready to experience a world full of spooky creatures and thrilling battles, and emerge victorious as the ultimate witch of Halloween!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/page_bg_generated_v6b.jpg?t=1693937628",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/page_bg_generated.jpg?t=1693937628",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/capsule_231x87.jpg?t=1693937628",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/capsule_184x69.jpg?t=1693937628",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<strong>Witchcraft: Candy Hunt</strong> is an old-school shooter game with charming pixel art graphics that will take you on a Halloween adventure. Fly on a broomstick and battle your way through three exciting levels, each one featuring unique spooky creatures such as pumpkin monsters, evil crows and ghosts. With three different modes of difficulty to choose from, our game provides a fun and enjoyable experience for players of all levels. Whether you're a beginner or an experienced player, Witchcraft: Candy Hunt is the perfect game for all ages.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373360/extras/Pumpkin.gif?t=1693937628\" /><br><br><strong>Join the witch on a magical journey and help save Halloween from spooky creatures in this charming old-school shooter game!</strong><br><br>The game offers three difficulty modes for players of all skill levels:<br>- The Rainbow mode is the easiest and is recommended for young or inexperienced new players. With fewer monsters and less aggressive enemies, it's the perfect way to ease into the game<br>- The Moderate difficulty is a balanced option that is designed to be fun and challenging for most players<br>- The Hostile mode gives the player a real challenge. With more enemies and a greater level of difficulty, it's the perfect choice for experienced players who want to put their skills to the test<br><br><strong>Casual arcade action</strong><br>Experience non-stop action with infinite lives and checkpoints in Witchcraft: Candy Hunt! Choose from five types of powerful spells to help you defeat spooky creatures, including powerful blue bullets, laser green spells, homing yellow bullets, large wave pink spells, and double bullet purple spells. With each type of spell providing a unique advantage, you'll have the tools you need to overcome the toughest challenges in the game.<br><br><strong>The levels</strong><br>Explore three distinct levels \u2013 the Forest, Graveyard, and Castle \u2013 each with its own unique look and feel. Encounter many monsters along the way, each with their own set of powers, making every level a new and exciting challenge. As you progress, you'll face mini-bosses and bosses at the end of each level, each with their own distinct patterns and multiple phases to conquer. It's up to you to understand and overcome their challenges to progress through the game.<br><br>Get ready to experience a world full of spooky creatures and thrilling battles, and emerge victorious as the ultimate witch of Halloween!",
+    "developers": [
+        "PixelCrown Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/header.jpg?t=1693937628",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939008,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939008/movie480.mp4?t=1680380570",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939008/movie_max.mp4?t=1680380570"
+            },
+            "name": "Mini trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939008/movie.293x165.jpg?t=1680380570",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939008/movie480_vp9.webm?t=1680380570",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939008/movie_max_vp9.webm?t=1680380570"
+            }
+        }
+    ],
+    "name": "Witchcraft: Candy Hunt",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Celeron G1820 / AMD Athlon II X3 455<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Celeron G1820 / AMD Athlon II X3 455<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "PixelCrown Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 5, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_c9ac730f6f4d651ab455ff2435fe1f717852ee64.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_c9ac730f6f4d651ab455ff2435fe1f717852ee64.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_d3b31d4b8eb026c9e683c36b8583f73637dfa489.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_d3b31d4b8eb026c9e683c36b8583f73637dfa489.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_ceeb6b5a14dee579550bbcabfd25cad0b37a1ded.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_ceeb6b5a14dee579550bbcabfd25cad0b37a1ded.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_14b57c0e11b7f4f4039b3678b30c81d4d487823a.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_14b57c0e11b7f4f4039b3678b30c81d4d487823a.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_58e7c1f93adb2b7d8984775756f74d7ae28db162.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_58e7c1f93adb2b7d8984775756f74d7ae28db162.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_b5cf6c7c6f0c34a9672868630bade56e33957e2a.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_b5cf6c7c6f0c34a9672868630bade56e33957e2a.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_da3f65c4a85f5a24900984e1c7c562670c69f1ea.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_da3f65c4a85f5a24900984e1c7c562670c69f1ea.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_5115c5183a00025e98414f2a4be37bd5fa9204cf.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_5115c5183a00025e98414f2a4be37bd5fa9204cf.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_409774ca44390d4843205f57031086bc42684d3a.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_409774ca44390d4843205f57031086bc42684d3a.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_f106911a54617aee1e8309ee2d99657d9f860d07.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_f106911a54617aee1e8309ee2d99657d9f860d07.600x338.jpg?t=1693937628"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_46beb0000b18878e58d116f25c7289ded410e1b6.1920x1080.jpg?t=1693937628",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373360/ss_46beb0000b18878e58d116f25c7289ded410e1b6.600x338.jpg?t=1693937628"
+        }
+    ],
+    "short_description": "Witchcraft: Candy Hunt is an old-school shooter game with charming pixel art graphics that will take you on a Halloween adventure. Fly on a broomstick and battle your way through three exciting levels, each one featuring unique spooky creatures such as pumpkin monsters, evil crows and ghosts.",
+    "steam_appid": 2373360,
+    "support_info": {
+        "email": "contact@pixelcrown.net",
+        "url": "https://www.pixelcrown.net/"
+    },
+    "supported_languages": "English, French",
+    "type": "game",
+    "website": "https://www.pixelcrown.net/"
+}

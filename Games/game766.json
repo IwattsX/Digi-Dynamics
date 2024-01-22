@@ -1,0 +1,140 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">ABOUT GAME</h2><br>RTS have become more accessible! Tired of a bunch of units? Need a million clicks per second for low league? Time to try out a new game.<br><br><strong>MUSHROOTS </strong>is a new round in the world of the RTS genre. A variety of mechanics and different modes allow you to completely customize the game for yourself.<br>Take control of a race of intelligent mushrooms. Build a huge colonial system and lead your civilization to planetary domination.<h2 class=\"bb_tag\">DIFFERENCE FROM OTHERS</h2><ul class=\"bb_ul\"><li>some aspects of RTS have been simplified;<br></li><li>hundreds of different buildings;<br></li><li>various game modes;<br></li><li>new gameplay mechanics;<br></li><li>dozens of cards;<br></li><li>strategy, not speed.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/page_bg_generated_v6b.jpg?t=1705053773",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/page_bg_generated.jpg?t=1705053773",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/capsule_231x87.jpg?t=1705053773",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/capsule_184x69.jpg?t=1705053773",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">ABOUT GAME</h2><br>RTS have become more accessible! Tired of a bunch of units? Need a million clicks per second for low league? Time to try out a new game.<br><br><strong>MUSHROOTS </strong>is a new round in the world of the RTS genre. A variety of mechanics and different modes allow you to completely customize the game for yourself.<br>Take control of a race of intelligent mushrooms. Build a huge colonial system and lead your civilization to planetary domination.<h2 class=\"bb_tag\">DIFFERENCE FROM OTHERS</h2><ul class=\"bb_ul\"><li>some aspects of RTS have been simplified;<br></li><li>hundreds of different buildings;<br></li><li>various game modes;<br></li><li>new gameplay mechanics;<br></li><li>dozens of cards;<br></li><li>strategy, not speed.</li></ul>",
+    "developers": [
+        "Ducklings Studio"
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/header.jpg?t=1705053773",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux<br></li><li><strong>Processor:</strong> Potato<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Potato<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> Potato</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac<br></li><li><strong>Processor:</strong> Intel / Rosetta<br></li><li><strong>Graphics:</strong> Potato<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> Potato</li></ul>"
+    },
+    "name": "Mushroots",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> Potato<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Potato<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> Potato</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Ducklings Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_5bf547493ea7773d5c41572dcb3bf4fe7e788924.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_5bf547493ea7773d5c41572dcb3bf4fe7e788924.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_9f25c2e7e27551a71c09406ff9c30ad4279ec8da.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_9f25c2e7e27551a71c09406ff9c30ad4279ec8da.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_0272a87642aaedb1754ee63a0f2df1e169741c99.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_0272a87642aaedb1754ee63a0f2df1e169741c99.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_c49b5cd0d9d6cd2ac726fb85badf2e46200c9db6.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_c49b5cd0d9d6cd2ac726fb85badf2e46200c9db6.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_8d7fb6e2c40772a1d7acb3b4df4bfe40a80955fb.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_8d7fb6e2c40772a1d7acb3b4df4bfe40a80955fb.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_e315d3c8f910ae76287c826017e3e454ab5c0b67.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_e315d3c8f910ae76287c826017e3e454ab5c0b67.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_20d626876339e0b6f593b2dcc92606a60a3d8e03.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_20d626876339e0b6f593b2dcc92606a60a3d8e03.600x338.jpg?t=1705053773"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_754a3dea1b476687ee11f738e4ac583a054a0f48.1920x1080.jpg?t=1705053773",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372400/ss_754a3dea1b476687ee11f738e4ac583a054a0f48.600x338.jpg?t=1705053773"
+        }
+    ],
+    "short_description": "New RTS for everyone!",
+    "steam_appid": 2372400,
+    "support_info": {
+        "email": "the.ducklings.studio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

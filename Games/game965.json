@@ -1,0 +1,53 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402120/capsule_231x87.jpg?t=1686935238",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402120/capsule_184x69.jpg?t=1686935238",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Lucas Molina"
+    ],
+    "fullgame": {
+        "appid": "1895970",
+        "name": "Robotherapy"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402120/header.jpg?t=1686935238",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Robotherapy Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Lucas Molina"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 16, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2402120,
+    "support_info": {
+        "email": "lucas@lucasmolinagames.com",
+        "url": "http://lucasmolinagames.com/"
+    },
+    "type": "demo",
+    "website": null
+}

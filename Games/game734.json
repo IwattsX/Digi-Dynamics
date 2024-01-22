@@ -1,0 +1,171 @@
+{
+    "about_the_game": "THE SECRET OF A DREAM is a blend of click adventure &amp; first-person puzzle game.<br />\r\nThe story of a man who is lost in his dream, He must find the mystery of repeating <br />\r\nhis dream and escape from this strange cycle.<br />\r\n<br />\r\n- A story full of mystery.<br />\r\n- For fans of first person puzzle &amp; click adventure games.<br />\r\n- A short game focused on a multi-part story with some light puzzle solving.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/page_bg_generated_v6b.jpg?t=1684433456",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/page_bg_generated.jpg?t=1684433456",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/capsule_231x87.jpg?t=1684433456",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/capsule_184x69.jpg?t=1684433456",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "THE SECRET OF A DREAM is a blend of click adventure &amp; first-person puzzle game.<br />\r\nThe story of a man who is lost in his dream, He must find the mystery of repeating <br />\r\nhis dream and escape from this strange cycle.<br />\r\n<br />\r\n- A story full of mystery.<br />\r\n- For fans of first person puzzle &amp; click adventure games.<br />\r\n- A short game focused on a multi-part story with some light puzzle solving.",
+    "developers": [
+        "Dream Games"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/header.jpg?t=1684433456",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941248,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941248/movie480.mp4?t=1684433447",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941248/movie_max.mp4?t=1684433447"
+            },
+            "name": "Game intro",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941248/movie.293x165.jpg?t=1684433447",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941248/movie480_vp9.webm?t=1684433447",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941248/movie_max_vp9.webm?t=1684433447"
+            }
+        }
+    ],
+    "name": "Secret of a Dream",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Secret of a Dream - $3.99",
+                    "packageid": 853052,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Secret of a Dream"
+        }
+    ],
+    "packages": [
+        853052
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 64-bit only<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> DX 9.0c video card with 256 MB VRAM and shader model 3.0 support DirectX: Version 9.0c<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher, 64-bit only<br></li><li><strong>Processor:</strong> Intel or higher<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> DX 9.0c video card with 256 MB VRAM and shader model 3.0 support DirectX<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1000 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Strategy First"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 18, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_434d13dee589d6434fafcfaf3efb9e5bb70bd322.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_434d13dee589d6434fafcfaf3efb9e5bb70bd322.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_af535b8b875cdc4bdd3cf61504b8dab01feeb3c7.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_af535b8b875cdc4bdd3cf61504b8dab01feeb3c7.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_9e55ded0f9c5843264425393681f84c5e3bef814.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_9e55ded0f9c5843264425393681f84c5e3bef814.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_971a7eb8b7357c637e15b47a4163c74bec6966cc.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_971a7eb8b7357c637e15b47a4163c74bec6966cc.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_df5c632125a7a7a95547480d4bd142666d2c0b3e.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_df5c632125a7a7a95547480d4bd142666d2c0b3e.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_d23b39b19a5d65e2b32295b025bb7ccdacfd2651.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_d23b39b19a5d65e2b32295b025bb7ccdacfd2651.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_be1bd48d80dbd178f1f79550c993e0ee47343d8f.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_be1bd48d80dbd178f1f79550c993e0ee47343d8f.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_ac0edd7d19586d537d616777944bcdc4e76c7779.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_ac0edd7d19586d537d616777944bcdc4e76c7779.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_7b2fad4bae3c788b9bb58a0e7f7111d77adfabc9.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_7b2fad4bae3c788b9bb58a0e7f7111d77adfabc9.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_16352de3efe72e0680976ea7405cacfd6156ac32.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_16352de3efe72e0680976ea7405cacfd6156ac32.600x338.jpg?t=1684433456"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_932db488c9704a720a52f4b686fb8ca6c6462e7b.1920x1080.jpg?t=1684433456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372770/ss_932db488c9704a720a52f4b686fb8ca6c6462e7b.600x338.jpg?t=1684433456"
+        }
+    ],
+    "short_description": "The secret of a dream is a blend of click adventure &amp; first person puzzle game. You play as a young man named Peter, He does not know where he is...",
+    "steam_appid": 2372770,
+    "support_info": {
+        "email": "",
+        "url": "http://strategyfirst.com/products/support.html"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

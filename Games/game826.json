@@ -1,0 +1,147 @@
+{
+    "about_the_game": "Farming Tractor is a VR adventure game that lets players experience real-life driving and farming on farm. In addition to growing plants, feeding animals, and other farm activities, players can now enjoy two new categories: Modern Drone Farming and Risky Roads.<br />\r\n<br />\r\nIn Modern Drone Farming, players can operate a flying drone to survey the farm area, sprinkle pest control, and even shoot wild animals. This new feature provides a realistic drone operating experience for players.<br />\r\n<br />\r\nIn Risky Roads, players will face thrilling adventures as they navigate their tractor through risky off-road paths while completing various tasks.<br />\r\n<br />\r\nFurthermore, we have also added a new feature that lets players experience night farming. With the backdrop of a dark and stormy night, players can immerse themselves in the sound of chirping crickets and the occasional flash of lightning.<br />\r\n<br />\r\nAs always, players can access a tutorial to better understand the game, and enjoy nature-themed music and unique graphics animations. <br />\r\n<br />\r\n<br />\r\nFeatures: <br />\r\n- Grow and harvest crops<br />\r\n- Watering plants<br />\r\n- Modern Farming irrigation<br />\r\n- Scientific Drone Farming<br />\r\n- Feed animals<br />\r\n- Dark and stormy night in farm<br />\r\n- Adventure on risky surrounding roads<br />\r\n- Nature music in background<br />\r\n- Unique and excellent graphics animations<br />\r\n- Real tractor driving<br />\r\n- Tutorial for understand game<br />\r\n<br />\r\nJoin our community on Discord to stay updated on the latest news and events!<br />\r\nDISCORD LINK : https://discord.com/invite/jWm6fx58",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/page_bg_generated_v6b.jpg?t=1684135614",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/page.bg.jpg?t=1684135614",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/capsule_231x87.jpg?t=1684135614",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/capsule_184x69.jpg?t=1684135614",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Farming Tractor is a VR adventure game that lets players experience real-life driving and farming on farm. In addition to growing plants, feeding animals, and other farm activities, players can now enjoy two new categories: Modern Drone Farming and Risky Roads.<br />\r\n<br />\r\nIn Modern Drone Farming, players can operate a flying drone to survey the farm area, sprinkle pest control, and even shoot wild animals. This new feature provides a realistic drone operating experience for players.<br />\r\n<br />\r\nIn Risky Roads, players will face thrilling adventures as they navigate their tractor through risky off-road paths while completing various tasks.<br />\r\n<br />\r\nFurthermore, we have also added a new feature that lets players experience night farming. With the backdrop of a dark and stormy night, players can immerse themselves in the sound of chirping crickets and the occasional flash of lightning.<br />\r\n<br />\r\nAs always, players can access a tutorial to better understand the game, and enjoy nature-themed music and unique graphics animations. <br />\r\n<br />\r\n<br />\r\nFeatures: <br />\r\n- Grow and harvest crops<br />\r\n- Watering plants<br />\r\n- Modern Farming irrigation<br />\r\n- Scientific Drone Farming<br />\r\n- Feed animals<br />\r\n- Dark and stormy night in farm<br />\r\n- Adventure on risky surrounding roads<br />\r\n- Nature music in background<br />\r\n- Unique and excellent graphics animations<br />\r\n- Real tractor driving<br />\r\n- Tutorial for understand game<br />\r\n<br />\r\nJoin our community on Discord to stay updated on the latest news and events!<br />\r\nDISCORD LINK : https://discord.com/invite/jWm6fx58",
+    "developers": [
+        "LM Game Studio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/header.jpg?t=1684135614",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939228,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939228/movie480.mp4?t=1683866585",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939228/movie_max.mp4?t=1683866585"
+            },
+            "name": "VR Tractor Farming",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939228/movie.293x165.jpg?t=1683866585",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939228/movie480_vp9.webm?t=1683866585",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939228/movie_max_vp9.webm?t=1683866585"
+            }
+        }
+    ],
+    "name": "VR Tractor Farming",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "VR Tractor Farming - $7.99",
+                    "packageid": 852580,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 799
+                }
+            ],
+            "title": "Buy VR Tractor Farming"
+        }
+    ],
+    "packages": [
+        852580
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7-4770 equivalent or greater<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 or equivalent<br></li><li><strong>Storage:</strong> 4 GB available space GB available space<br></li><li><strong>VR Support:</strong> SteamVR, Oculus Touch, Valve Index Or Better</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7-4770 equivalent or greater<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070<br></li><li><strong>Storage:</strong> 4 GB available space GB available space<br></li><li><strong>VR Support:</strong> SteamVR, Oculus Touch, Valve Index Or Better</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 799,
+        "final_formatted": "$7.99",
+        "initial": 799,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "LM Game Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 11, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_59fa895df5c013989bebf42d536e4c0dd89bbf80.1920x1080.jpg?t=1684135614",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_59fa895df5c013989bebf42d536e4c0dd89bbf80.600x338.jpg?t=1684135614"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_80f3f8a4d4efb76caea27976a75a9f34cd0dbb0b.1920x1080.jpg?t=1684135614",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_80f3f8a4d4efb76caea27976a75a9f34cd0dbb0b.600x338.jpg?t=1684135614"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_ffa6e039722f2e15d68da3fdf2f0cbbb7d4320db.1920x1080.jpg?t=1684135614",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_ffa6e039722f2e15d68da3fdf2f0cbbb7d4320db.600x338.jpg?t=1684135614"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_3f23b6b4e8e2b902d5b26ea1cab4e40614e48b9c.1920x1080.jpg?t=1684135614",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_3f23b6b4e8e2b902d5b26ea1cab4e40614e48b9c.600x338.jpg?t=1684135614"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_6e0998b40e9309757a3c4b8a6b5cc1fa00da500d.1920x1080.jpg?t=1684135614",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371480/ss_6e0998b40e9309757a3c4b8a6b5cc1fa00da500d.600x338.jpg?t=1684135614"
+        }
+    ],
+    "short_description": "Immersive experience in &quot;Farming Tractor&quot; VR game that lets you tractor driving and farming activity in open world like growing crops, feeding animals, and watering plants, modern drone farming and drive through risky road. Day &amp; night view experience the farming in darkness, rain and a full moon.",
+    "steam_appid": 2371480,
+    "support_info": {
+        "email": "info@lmstudio.games",
+        "url": "https://lmstudio.games/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://lmstudio.games/"
+}
