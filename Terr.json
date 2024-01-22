@@ -1,0 +1,49 @@
+{
+    "apps": [
+        {
+            "id": [
+                105600
+            ],
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_sm_120.jpg?t=1666290860",
+            "link": "https://store.steampowered.com/app/105600/Terraria/?snr=1_7_15__13",
+            "name": "Terraria",
+            "price": "$9.99"
+        },
+        {
+            "id": [
+                1202130
+            ],
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1202130/capsule_sm_120.jpg?t=1705481743",
+            "link": "https://store.steampowered.com/app/1202130/Starship_Troopers_Terran_Command/?snr=1_7_15__13",
+            "name": "Starship Troopers: Terran Command",
+            "price": "$29.99"
+        },
+        {
+            "id": [
+                1593030
+            ],
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593030/capsule_sm_120.jpg?t=1696515065",
+            "link": "https://store.steampowered.com/app/1593030/Terra_Nil/?snr=1_7_15__13",
+            "name": "Terra Nil",
+            "price": "$24.99"
+        },
+        {
+            "id": [
+                2091330
+            ],
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2091330/capsule_sm_120.jpg?t=1689006197",
+            "link": "https://store.steampowered.com/app/2091330/The_Long_Dark_Tales_from_the_Far_Territory/?snr=1_7_15__13",
+            "name": "The Long Dark: Tales from the Far Territory",
+            "price": "$13.99"
+        },
+        {
+            "id": [
+                1176470
+            ],
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1176470/capsule_sm_120.jpg?t=1704854095",
+            "link": "https://store.steampowered.com/app/1176470/Terra_Invicta/?snr=1_7_15__13",
+            "name": "Terra Invicta",
+            "price": "$27.99"
+        }
+    ]
+}
