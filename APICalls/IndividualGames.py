@@ -1,5 +1,6 @@
 import requests
-
+from decouple import config
+import json
 # Gets game info based off appids 
 # NOTE: Using this for if the user types a game into the form, it will get the information if it isn't present in the database. 
 
@@ -18,11 +19,18 @@ def get_game_info(appid, api_key):
             developer = game_info.get('developers', [])
             publisher = game_info.get('publishers', [])
 
-            print(f"Game: {game_info['name']}")
-            print(f"Developer(s): {', '.join(developer)}")
-            print(f"Publisher(s): {', '.join(publisher)}")
+            with open("IndividualGame.json", 'w') as outfile:
+                json.dump(game_info, outfile, sort_keys=True, indent=4)
+
+            print(f"Game: {game_info['name'].encode('utf-8')}")
+            print(f"Developer(s): {', '.join(developer)}".encode('utf-8'))
+            print(f"Publisher(s): {', '.join(publisher)}".encode('utf-8'))
             print("\n")
         else:
             print(f"Failed to retrieve data for appid {appid}")
     else:
         print(f"Failed to make the API request. Status code: {details_response.status_code}")
+
+if __name__ == '__main__':
+    KEY = config("STEAM_API_KEY")
+    get_game_info(1176470, KEY)
