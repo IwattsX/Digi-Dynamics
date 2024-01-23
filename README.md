@@ -27,10 +27,16 @@ Database system class with
   <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
 
 # TODO
-- [x] Decide On Final Project Plan
-- [x] Added a steam web API
 - [ ] Apply steam web API with a database
 - [ ] Figure out the schema of steam game market
+- [ ] Use Django in order to build a website
+- [ ] Django has a built in database we can use if need be (Note: Optional can use other databases if need be)
+- [ ] 
+
+# Done
+- [x] Decide On Final Project Plan
+- [x] Added a steam web API
+- [x] Saw templates on how each APICall works within APICalls/
 
 # Types from steam web API
 <ul>
