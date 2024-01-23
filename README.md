@@ -4,6 +4,28 @@ Database system class with
 - Alfred Newsome
 - Isaac Watts
 
+# HOW TO RUN
+<a href="https://docs.djangoproject.com/en/5.0/">https://docs.djangoproject.com/en/5.0/ </a>
+<ol>
+  <li>Check version:</li>
+  ```
+  python -m django --version
+  ```
+  <li>Use Django to start a project</li>
+  ```
+  django-admin startproject mysite
+  ```
+  or if that doesn't work use  
+  ```
+  python -m django-admin startproject mysite
+  ```
+  <li>Run django</li>
+  ```
+  python manage.py runserver
+  ```
+  <li>Put this URL into the page</li>
+  <a href = "http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>
+</ol>
 # TODO
 - [x] Decide On Final Project Plan
 - [x] Added a steam web API
