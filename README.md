@@ -6,12 +6,12 @@ Database system class with
 
 # HOW TO RUN
 <a href="https://docs.djangoproject.com/en/5.0/">https://docs.djangoproject.com/en/5.0/ </a>
-<ol>
-  <li>Check version:</li>
+
+1) Check version:
   ```
   python -m django --version
   ```
-  <li>Use Django to start a project</li>
+2) Use Django to start a project
   ```
   django-admin startproject mysite
   ```
@@ -19,13 +19,13 @@ Database system class with
   ```
   python -m django-admin startproject mysite
   ```
-  <li>Run django</li>
+3) Run django
   ```
   python manage.py runserver
   ```
-  <li>Put this URL into the page</li>
-  <a href = "http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>
-</ol>
+4) Put this URL into the page:
+  <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
+
 # TODO
 - [x] Decide On Final Project Plan
 - [x] Added a steam web API
