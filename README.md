@@ -21,13 +21,26 @@
   ```
   python -m django-admin startproject mysite
   ```
-3) Run django
+3) Run django **(START HERE when you pull this code)**
   ```
   python manage.py runserver
+  ```
+  or 
+  ```
+  py -m manage runserver
   ```
 4) Put this URL into the page:
   <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
 
+5) Note: if you need any help with finding a command, use
+```
+python manage.py --help
+```
+or 
+```
+py -m manage --help
+```
+Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
 # TODO
 - [ ] Apply steam web API with a database
 - [ ] Figure out the schema of steam game market
