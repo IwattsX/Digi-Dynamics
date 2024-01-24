@@ -17,6 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+# USING MAIN FOLDER FOR THIS 
+# Admin uses a super user, use the link:
+# http://127.0.0.1:8000/admin/ to access it
+# This will have a page making the sql databases into human readable formats
 
 urlpatterns = [
     path('admin/', admin.site.urls),
