@@ -1,14 +1,57 @@
 # Digi-Dynamics
-Database system class with 
+**Name**: Steam Scout <br>
+**Collaborators**:  
 - Hunter Smith
 - Alfred Newsome
 - Isaac Watts
+- Tamia
 
+# HOW TO RUN
+<a href="https://docs.djangoproject.com/en/5.0/">https://docs.djangoproject.com/en/5.0/ </a>
+
+1) Check version:
+  ```
+  python -m django --version
+  ```
+2) Use Django to start a project
+  ```
+  django-admin startproject mysite
+  ```
+  or if that doesn't work use  
+  ```
+  python -m django-admin startproject mysite
+  ```
+3) Run django **(START HERE when you pull this code)**
+  ```
+  python manage.py runserver
+  ```
+  or 
+  ```
+  py -m manage runserver
+  ```
+4) Put this URL into the page:
+  <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
+
+5) Note: if you need any help with finding a command, use
+```
+python manage.py --help
+```
+or 
+```
+py -m manage --help
+```
+Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
 # TODO
-- [x] Decide On Final Project Plan
-- [x] Added a steam web API
 - [ ] Apply steam web API with a database
 - [ ] Figure out the schema of steam game market
+- [ ] Use Django in order to build a website
+- [ ] Django has a built in database we can use if need be (Note: Optional can use other databases if need be)
+- [ ] 
+
+# Done
+- [x] Decide On Final Project Plan
+- [x] Added a steam web API
+- [x] Saw templates on how each APICall works within APICalls/
 
 # Types from steam web API
 <ul>
