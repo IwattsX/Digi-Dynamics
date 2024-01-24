@@ -1,8 +1,10 @@
 # Digi-Dynamics
-Database system class with 
+**Name**: Steam Scout <br>
+**Collaborators**:  
 - Hunter Smith
 - Alfred Newsome
 - Isaac Watts
+- Tamia
 
 # HOW TO RUN
 <a href="https://docs.djangoproject.com/en/5.0/">https://docs.djangoproject.com/en/5.0/ </a>

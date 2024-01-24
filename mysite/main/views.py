@@ -9,7 +9,7 @@ from django.http import HttpResponse
 
 def index(response):
     my_dict = dict()
-    my_dict["game"] = "Baldur's Gate III"
+    my_dict["game"] = ["Baldur's Gate III", "Terraria"]
     return render(response, "main/base.html", my_dict)
 
 def home(response):

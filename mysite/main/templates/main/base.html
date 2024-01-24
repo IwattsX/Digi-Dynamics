@@ -6,6 +6,15 @@
     <title>Document</title>
 </head>
 <body>
+
+    <ul>
+
+        {% for names in game %}
+            <li>{{ names }}</li>
+        {% endfor %}
+
+    </ul>
+    
     <p>Base template</p>
     <h2>The game name is {{game}} </h2>
 </body>
