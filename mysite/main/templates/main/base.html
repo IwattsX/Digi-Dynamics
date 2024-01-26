@@ -38,32 +38,32 @@
             <!-- Links -->
             <ul class="navbar-nav">
                 <li>
-                    <a class="nav-item nav-link active" href="#Home" data-bs-toggle="collapse"
+                    <a class="nav-item nav-link active" href="{% url 'home' %}" data-bs-toggle="collapse"
                         data-bs-target=".navbar-collapse" onclick="opentab('Home')"> Home</a>
                 </li>
 
                 <li>
-                    <a class="nav-item nav-link" href="#Games" data-bs-toggle="collapse"
+                    <a class="nav-item nav-link" href="{% url 'games' %}" data-bs-toggle="collapse"
                         data-bs-target=".navbar-collapse" onclick="opentab('Games')">Games</a>
                 </li>
 
                 <li>
-                <a class="nav-item nav-link" href="#DLC" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                <a class="nav-item nav-link" href="{% url 'DLC' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                     onclick="opentab('DLC')">DLC</a>
                 </li>
 
 
                 <li>
-                    <a class="nav-item nav-link" href="#Demos" data-bs-toggle="collapse"
+                    <a class="nav-item nav-link" href="{% url 'demo' %}" data-bs-toggle="collapse"
                         data-bs-target=".navbar-collapse" onclick="opentab('Demos')">Demos</a>
                 </li>
 
                 <li>
-                <a class="nav-item nav-link" href="#Music" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                <a class="nav-item nav-link" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                     onclick="opentab('Music')">Music</a>
                 </li>
                     <li>
-                    <a class="nav-item nav-link" href="#User" data-bs-toggle="collapse"
+                    <a class="nav-item nav-link" href="{% url 'user' %}" data-bs-toggle="collapse"
                         data-bs-target=".navbar-collapse" onclick="opentab('Users')">Users</a>
                 </li>
             </ul>
