@@ -43,7 +43,7 @@ py -m manage --help
 Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
 # TODO
 - [ ] Apply steam web API with a database
-- [ ] Figure out the schema of steam game market
+- [X] Figure out the schema of steam game market
 - [ ] Use Django in order to build a website
 - [ ] Django has a built in database we can use if need be (Note: Optional can use other databases if need be)
 - [ ] 
@@ -62,11 +62,14 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 </ul>
 
 # Database
-<b>Schema</b>
+<b>Game Schema</b>
 <table>
   <tr>
+    <th>Type</th>
     <th>Name</th>
-    <th>DLC</th>
+    <th>SteamAppID<th>
+    <th>Support Info<th>
+    <th>DLC ("dlc")</th>
     <th>Microtransations</th>
     <th>Subsriptions</th>
     <th>Franchise</th>
@@ -81,18 +84,90 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
     <th>Release_data</th>
     <th>Top Seller</th>
     <th>ControllerSupport</th>
-    <th>Images</th>
-    <th>Trailers</th>
-    <th> *Platform</tr>
-    <th> *languages </th>
-    <th> *tags </th>
+    <th>Image</th>
+    <th>Highlight</th>
+    <th>Trailer</th>
+    <th>Age Requirement</th>
+    <th>Platform ("platforms")</tr>
+    <th>languages ("supported languages") </th>
+    <th>tags ("categories") </th>
+    <th>Detailed Description</th>
+    <th>Short Description</th>
+    <th>Website<th>
   </tr>
 </table>
-- Note: Any thing with a * may be an issue
+<br><br>
+<b>Music Schema</b>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Base_price</th>
+    <th>Current_Price</th>
+    <th>Developer </th>
+    <th>Publisher</th>
+    <th>Release_data</th>
+    <th>ControllerSupport</th>
+    <th>Image</th>
+    <th>SteamAppID<th>
+    <th>Support Info<th>
+    <th>Website<th>
+    <th>Detailed Description<th>
+    <th>Short Description<th>
+    <th>Age Requirement</th>
+    <th>Platform ("platforms")</tr>
+    <th>languages ("supported languages") </th>
+  </tr>
+</table>
+<br><br>
+<b>DLC Schema</b>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Base_price</th>
+    <th>Current_Price</th>
+    <th>Developer </th>
+    <th>Publisher</th>
+    <th>Release_data</th>
+    <th>ControllerSupport</th>
+    <th>Image</th>
+    <th>SteamAppID<th>
+    <th>Support Info<th>
+    <th>Website<th>
+    <th>Detailed Description<th>
+    <th>Short Description<th>
+    <th>Age Requirement</th>
+    <th>Platform ("platforms")</tr>
+    <th>languages ("supported languages") </th>
+    <th>tags ("categories") </th>
+  </tr>
+</table>
+<br><br>
+<b>Demo Schema</b>
+<table>
+  <tr>
+    <th>SteamAppID<th>
+    <th>Support Info<th>
+    <th>Name</th>
+    <th>Base_price</th>
+    <th>Current_Price</th>
+    <th>Developer </th>
+    <th>Publisher</th>
+    <th>Release_data</th>
+    <th>Images</th>
+    <th>Website<th>
+    <th>Age Requirement<th>
+    <th>Detailed Description<th>
+    <th>Short Description<th>
+    <th>Platform ("platforms")</tr>
+    <th>languages ("supported languages") </th>
+    <th>tags ("categories") </th>
+  </tr>
+</table>
+- Note: Any thing with a * may be an issue <br>
+- Note: Some Schema for Games table I did not see in JSON but were apart of our original idea. Examples include Microtransactions and Franchise.
 
 ```
-PrimaryKey: ?
-CompositeKey: ?
+PrimaryKey: SteamAppID
 ForeignKey: ?
 ```
 # Project Ideas
