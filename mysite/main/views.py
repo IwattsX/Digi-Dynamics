@@ -7,10 +7,28 @@ from django.http import HttpResponse
 # dictionary will have variable tokens so that way you can put them into the application.
 # NOTE: Use this aspect of django to render informationf from the database
 
-def index(response):
+def base(response):
     my_dict = dict()
     my_dict["game"] = ["Baldur's Gate III", "Terraria"]
     return render(response, "main/base.html", my_dict)
 
 def home(response):
     return render(response, "main/home.html", {})
+
+def games(response):
+    return render(response, "main/games.html", {})
+
+
+def music(response):
+    return render(response, "main/music.html", {})
+
+
+def DLC(response):
+    return render(response, "main/DLC.html", {})
+
+
+def demo(response):
+    return render(response, "main/demo.html", {})
+
+def user(response):
+    return render(response, "main/user.html", {})
