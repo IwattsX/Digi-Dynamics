@@ -1,21 +1,79 @@
+<!-- base.html -->
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.png' %}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link href="{% static 'CSS/styles.css' %}" rel="stylesheet">
+
+    <style>
+        body {
+    background-color: black;
+    height: 15vh;
+    align-items: center;
+    }
+    nav .navbar-nav a:hover{
+    color:blueviolet !important;
+}
+
+    </style>
+
 </head>
+
 <body>
+    <h1>Steam Scouts</h1>
 
-    <ul>
 
-        {% for names in game %}
-            <li>{{ names }}</li>
-        {% endfor %}
+    <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white;">
+        <div class="container-fluid">
+            <!-- Links -->
+            <ul class="navbar-nav">
+                <li>
+                    <a class="nav-item nav-link active" href="#Home" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse" onclick="opentab('Home')"> Home</a>
+                </li>
 
-    </ul>
-    
-    <p>Base template</p>
-    <h2>The game name is {{game}} </h2>
+                <li>
+                    <a class="nav-item nav-link" href="#Games" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse" onclick="opentab('Games')">Games</a>
+                </li>
+
+                <li>
+                <a class="nav-item nav-link" href="#DLC" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    onclick="opentab('DLC')">DLC</a>
+                </li>
+
+
+                <li>
+                    <a class="nav-item nav-link" href="#Demos" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse" onclick="opentab('Demos')">Demos</a>
+                </li>
+
+                <li>
+                <a class="nav-item nav-link" href="#Music" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    onclick="opentab('Music')">Music</a>
+                </li>
+                    <li>
+                    <a class="nav-item nav-link" href="#User" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse" onclick="opentab('Users')">Users</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="content">
+        {% block content %}{% endblock %}
+    </div>
+
 </body>
+
 </html>
