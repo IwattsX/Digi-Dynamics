@@ -10,5 +10,5 @@ urlpatterns = [
     path("DLC/", views.DLC, name="DLC"),
     path("music/", views.music, name="music"),
     path("demo/", views.demo, name="demo"),
-    path("/user", views.user, name="user"),
+    path("user/", views.user, name="user"),
 ]
