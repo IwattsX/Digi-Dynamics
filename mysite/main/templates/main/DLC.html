@@ -2,5 +2,14 @@
 {% extends 'main/base.html' %}
 
 {% block content %}
-    <p><span style="color: orange"> DLC </span></p>
+    <div class="container-fluid" style="background-color: white; margin-left: 20px;  margin-top: 10px;">
+        <div style="padding-top: 10px;">
+            <form method="get" actions="/games/">
+                {% csrf_token %}
+                {{ form.as_ul }}
+
+                <button type="submit" name="Search" style=> SEARCH </button>
+            </form>
+        </div>
+    </div>
 {% endblock %}
