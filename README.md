@@ -1,5 +1,5 @@
 # Digi-Dynamics
-**Name**: Steam Scout <br>
+**Name**: Steam Scout 
 **Collaborators**:  
 - Hunter Smith
 - Alfred Newsome
@@ -30,7 +30,7 @@
   py -m manage runserver
   ```
 4) Put this URL into the page:
-  <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
+  <a href = "http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>
 
 5) Note: if you need any help with finding a command, use
 ```
@@ -65,113 +65,129 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 <b>Game Schema</b>
 <table>
   <tr>
-    <th>Type</th>
-    <th>Name</th>
-    <th>SteamAppID<th>
-    <th>Support Info<th>
-    <th>DLC ("dlc")</th>
-    <th>Microtransations</th>
-    <th>Subsriptions</th>
-    <th>Franchise</th>
-    <th>Base_price</th>
-    <th>Current_Price</th>
-    <th>Country</th>
-    <th>Developer </th>
-    <th>Publisher</th>
-    <th>Genre</th>
-    <th>Rating</th>
-    <th>Review</th>
-    <th>Release_data</th>
-    <th>Top Seller</th>
-    <th>ControllerSupport</th>
-    <th>Image</th>
-    <th>Highlight</th>
-    <th>Trailer</th>
-    <th>Age Requirement</th>
-    <th>Platform ("platforms")</tr>
-    <th>languages ("supported languages") </th>
-    <th>tags ("categories") </th>
-    <th>Detailed Description</th>
-    <th>Short Description</th>
-    <th>Website<th>
+
+    -Type
+    -Name
+    -SteamAppID
+    -Support Info
+    -DLC ("dlc")
+    -Base_price
+    -Current_Price
+    -Developer 
+    -Publisher
+    -Genre
+    -Release_data
+    -Top Seller
+    -ControllerSupport
+    -Image
+    -Highlight
+    -Trailer
+    -Age Requirement
+    -Platform ("platforms")
+    -languages ("supported languages") 
+    -tags ("categories") 
+    -Detailed Description
+    -Short Description
+    -Website
   </tr>
 </table>
-<br><br>
+
 <b>Music Schema</b>
+
 <table>
   <tr>
-    <th>Name</th>
-    <th>Base_price</th>
-    <th>Current_Price</th>
-    <th>Developer </th>
-    <th>Publisher</th>
-    <th>Release_data</th>
-    <th>ControllerSupport</th>
-    <th>Image</th>
-    <th>SteamAppID<th>
-    <th>Support Info<th>
-    <th>Website<th>
-    <th>Detailed Description<th>
-    <th>Short Description<th>
-    <th>Age Requirement</th>
-    <th>Platform ("platforms")</tr>
-    <th>languages ("supported languages") </th>
+
+    -Name
+    -Base_price
+    -Current_Price
+    -Developer 
+    -Publisher
+    -Release_data
+    -ControllerSupport
+    -Image
+    -SteamAppID
+    -Support Info
+    -Website
+    -Detailed Description
+    -Short Description
+    -Age Requirement
+    -Platform ("platforms")
+    -languages ("supported languages")
   </tr>
 </table>
-<br><br>
+
 <b>DLC Schema</b>
+
 <table>
   <tr>
-    <th>Name</th>
-    <th>Base_price</th>
-    <th>Current_Price</th>
-    <th>Developer </th>
-    <th>Publisher</th>
-    <th>Release_data</th>
-    <th>ControllerSupport</th>
-    <th>Image</th>
-    <th>SteamAppID<th>
-    <th>Support Info<th>
-    <th>Website<th>
-    <th>Detailed Description<th>
-    <th>Short Description<th>
-    <th>Age Requirement</th>
-    <th>Platform ("platforms")</tr>
-    <th>languages ("supported languages") </th>
-    <th>tags ("categories") </th>
+
+    -Name
+    -Base_price
+    -Current_Price
+    -Developer 
+    -Publisher
+    -Release_data
+    -ControllerSupport
+    -Image
+    -SteamAppID
+    -Support Info
+    -Website
+    -Detailed Description
+    -Short Description
+    -Age Requirement
+    -Platform ("platforms")
+    -languages ("supported languages") 
+    -tags ("categories") 
   </tr>
 </table>
-<br><br>
+
 <b>Demo Schema</b>
+
 <table>
   <tr>
-    <th>SteamAppID<th>
-    <th>Support Info<th>
-    <th>Name</th>
-    <th>Base_price</th>
-    <th>Current_Price</th>
-    <th>Developer </th>
-    <th>Publisher</th>
-    <th>Release_data</th>
-    <th>Images</th>
-    <th>Website<th>
-    <th>Age Requirement<th>
-    <th>Detailed Description<th>
-    <th>Short Description<th>
-    <th>Platform ("platforms")</tr>
-    <th>languages ("supported languages") </th>
-    <th>tags ("categories") </th>
+
+    -SteamAppID
+    -Support Info
+    -Name
+    -Base_price
+    -Current_Price
+    -Developer 
+    -Publisher
+    -Release_data
+    -Images
+    -Website
+    -Age Requirement
+    -Detailed Description
+    -Short Description
+    -Platform ("platforms")
+    -languages ("supported languages") 
+    -tags ("categories") 
+
   </tr>
 </table>
-- Note: Any thing with a * may be an issue <br>
-- Note: Some Schema for Games table I did not see in JSON but were apart of our original idea. Examples include Microtransactions and Franchise.
+
+<b>Movie Schema</b>
+
+<table>
+  <tr>
+
+    -SteamAppID (foreign key)
+    -Support Info
+    -Highlight
+    -Trailer
+    -480p
+    -"max" resolution
+
+  </tr>
+</table>
+- Note: Any thing with a * may be an issue 
 
 ```
 PrimaryKey: SteamAppID
 ForeignKey: ?
 ```
 # Project Ideas
-- [x] Steam Game Market
+- [x] Steam Game Search Engine
 
 # Dependencies
 - Django==5.0.1
