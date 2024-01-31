@@ -2,7 +2,7 @@ from django import forms
 
 class Games(forms.Form):
     name = forms.CharField(label="Name", max_length=200)
-    NSFW = forms.BooleanField(required=False, label="NSFW")
+    #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):
     name = forms.CharField(label="Song name", max_length=200)

@@ -2,8 +2,8 @@
 {% extends 'main/base.html' %}
 
 {% block content %}
-    <div class="container-fluid" style="background-color: white; margin-left: 20px;  margin-top: 10px;">
-        <div style="padding-top: 10px;">
+    <div class="container-fluid" style="background-color: transparent; margin-left: 20px;  margin-top: 20px; width: 500px; color: white; margin: 30px;">
+        <div style="padding: 10px;" >
             <form method="get" actions="/games/">
                 {% csrf_token %}
                 {{ form.as_ul }}
