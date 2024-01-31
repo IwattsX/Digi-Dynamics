@@ -63,123 +63,98 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 
 # Database
 <b>Game Schema</b>
-<table>
-  <tr>
+- Type
+- Name
+- SteamAppID
+- Support Info
+- DLC ("dlc")
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Genre
+- Release_data
+- Top Seller
+- ControllerSupport
+- Image
+- Highlight
+- Trailer
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
+- Detailed Description
+- Short Description
+- Website
 
-    -Type
-    -Name
-    -SteamAppID
-    -Support Info
-    -DLC ("dlc")
-    -Base_price
-    -Current_Price
-    -Developer 
-    -Publisher
-    -Genre
-    -Release_data
-    -Top Seller
-    -ControllerSupport
-    -Image
-    -Highlight
-    -Trailer
-    -Age Requirement
-    -Platform ("platforms")
-    -languages ("supported languages") 
-    -tags ("categories") 
-    -Detailed Description
-    -Short Description
-    -Website
-  </tr>
-</table>
 
 <b>Music Schema</b>
-
-<table>
-  <tr>
-
-    -Name
-    -Base_price
-    -Current_Price
-    -Developer 
-    -Publisher
-    -Release_data
-    -ControllerSupport
-    -Image
-    -SteamAppID
-    -Support Info
-    -Website
-    -Detailed Description
-    -Short Description
-    -Age Requirement
-    -Platform ("platforms")
-    -languages ("supported languages")
-  </tr>
-</table>
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- ControllerSupport
+- Image
+- SteamAppID
+- Support Info
+- Website
+- Detailed Description
+- Short Description
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages")
 
 <b>DLC Schema</b>
 
-<table>
-  <tr>
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- ControllerSupport
+- Image
+- SteamAppID
+- Support Info
+- Website
+- Detailed Description
+- Short Description
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
 
-    -Name
-    -Base_price
-    -Current_Price
-    -Developer 
-    -Publisher
-    -Release_data
-    -ControllerSupport
-    -Image
-    -SteamAppID
-    -Support Info
-    -Website
-    -Detailed Description
-    -Short Description
-    -Age Requirement
-    -Platform ("platforms")
-    -languages ("supported languages") 
-    -tags ("categories") 
-  </tr>
-</table>
 
 <b>Demo Schema</b>
+- SteamAppID
+- Support Info
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- Images
+- Website
+- Age Requirement
+- Detailed Description
+- Short Description
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
 
-<table>
-  <tr>
-
-    -SteamAppID
-    -Support Info
-    -Name
-    -Base_price
-    -Current_Price
-    -Developer 
-    -Publisher
-    -Release_data
-    -Images
-    -Website
-    -Age Requirement
-    -Detailed Description
-    -Short Description
-    -Platform ("platforms")
-    -languages ("supported languages") 
-    -tags ("categories") 
-
-  </tr>
-</table>
 
 <b>Movie Schema</b>
+- SteamAppID (foreign key)
+- Support Info
+- Highlight
+- Trailer
+- 480p
+- "max" resolution
 
-<table>
-  <tr>
 
-    -SteamAppID (foreign key)
-    -Support Info
-    -Highlight
-    -Trailer
-    -480p
-    -"max" resolution
-
-  </tr>
-</table>
 - Note: Any thing with a * may be an issue 
 
 ```
