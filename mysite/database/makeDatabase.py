@@ -40,7 +40,7 @@ cursor.execute(create_table_query)
 
 # Example: insert data
 insert_data_query = """
-INSERT INTO your_table_name (name, age) VALUES ('John Doe', 25);
+INSERT INTO your_table_name (name, age) VALUES ('Jane Doe', 12);
 """
 cursor.execute(insert_data_query)
 

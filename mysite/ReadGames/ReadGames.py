@@ -7,7 +7,7 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-GamesDir = f"{BASE_DIR}\Games"
+GamesDir = f"{BASE_DIR}/Games"
 
 
 
@@ -22,7 +22,7 @@ dictTypes = {
     "demo" : 0,
 }
 for file in os.listdir(GamesDir):
-    filePath = f"{GamesDir}\{file}"
+    filePath = f"{GamesDir}/{file}"
     with open(filePath, 'r') as inputFile:
         temp = json.load(inputFile)
         typeOfJSON = temp['type']
