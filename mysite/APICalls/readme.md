@@ -1,0 +1,2 @@
+STEAM_API_KEY = "API KEY HERE"
+

@@ -1,5 +1,5 @@
 # Digi-Dynamics
-**Name**: Steam Scout <br>
+**Name**: Steam Scout 
 **Collaborators**:  
 - Hunter Smith
 - Alfred Newsome
@@ -30,7 +30,7 @@
   py -m manage runserver
   ```
 4) Put this URL into the page:
-  <a href = "http://127.0.0.1:8000/"><br>http://127.0.0.1:8000/</a>
+  <a href = "http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>
 
 5) Note: if you need any help with finding a command, use
 ```
@@ -43,7 +43,7 @@ py -m manage --help
 Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
 # TODO
 - [ ] Apply steam web API with a database
-- [ ] Figure out the schema of steam game market
+- [X] Figure out the schema of steam game market
 - [ ] Use Django in order to build a website
 - [ ] Django has a built in database we can use if need be (Note: Optional can use other databases if need be)
 - [ ] 
@@ -62,38 +62,110 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 </ul>
 
 # Database
-<b>Schema</b>
-<table>
-  <tr>
-    <th>Name</th>
-    <th>DLC</th>
-    <th>Microtransations</th>
-    <th>Subsriptions</th>
-    <th>Franchise</th>
-    <th>Base_price</th>
-    <th>Current_Price</th>
-    <th>Country</th>
-    <th>Developer </th>
-    <th>Publisher</th>
-    <th>Genre</th>
-    <th>Rating</th>
-    <th>Review</th>
-    <th>Release_data</th>
-    <th>Top Seller</th>
-    <th>ControllerSupport</th>
-    <th>Images</th>
-    <th>Trailers</th>
-    <th> *Platform</tr>
-    <th> *languages </th>
-    <th> *tags </th>
-  </tr>
-</table>
-- Note: Any thing with a * may be an issue
+<b>Game Schema</b>
+- Type
+- Name
+- SteamAppID
+- Support Info
+- DLC ("dlc")
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Genre
+- Release_data
+- Top Seller
+- ControllerSupport
+- Image
+- Highlight
+- Trailer
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
+- Detailed Description
+- Short Description
+- Website
+
+
+<b>Music Schema</b>
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- ControllerSupport
+- Image
+- SteamAppID
+- Support Info
+- Website
+- Detailed Description
+- Short Description
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages")
+
+<b>DLC Schema</b>
+
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- ControllerSupport
+- Image
+- SteamAppID
+- Support Info
+- Website
+- Detailed Description
+- Short Description
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
+
+
+<b>Demo Schema</b>
+- SteamAppID
+- Support Info
+- Name
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- Images
+- Website
+- Age Requirement
+- Detailed Description
+- Short Description
+- Platform ("platforms")
+- languages ("supported languages") 
+- tags ("categories") 
+
+
+<b>Movie Schema</b>
+- SteamAppID (foreign key)
+- Support Info
+- Highlight
+- Trailer
+- 480p
+- "max" resolution
+
+
+- Note: Any thing with a * may be an issue 
 
 ```
-PrimaryKey: ?
-CompositeKey: ?
+PrimaryKey: SteamAppID
 ForeignKey: ?
 ```
 # Project Ideas
-- [x] Steam Game Market
+- [x] Steam Game Search Engine
+
+# Dependencies
+- Django==5.0.1
+- beautifulsoup4==4.12.3
+- python-steam-api==1.2.2
+- mySQL: https://dev.mysql.com/downloads/file/?id=526407 

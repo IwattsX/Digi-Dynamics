@@ -33,4 +33,4 @@ def get_game_info(appid, api_key):
 
 if __name__ == '__main__':
     KEY = config("STEAM_API_KEY")
-    get_game_info(1176470, KEY)
+    get_game_info(1086940, KEY)
