@@ -22,6 +22,7 @@
             background-color: black;
             height: 15vh;
             align-items: center;
+            overflow-x: hidden;
         }
         nav .navbar-nav a:hover{
             color:blueviolet !important;
@@ -75,13 +76,75 @@
         .content-wrap {
             padding-bottom: 2.5rem;    /* Footer height */
         }
+        .header {
+            margin-left: 20px;
+            margin-top: 10px;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        .column.side {
+            width: 25%;
+        }
+        .column {
+            margin-top: 20px;
+            float: left;
+            width: 33.33%;
+            padding: 15px;
+            color: rgb(255, 255, 255)
+        }
+        .column.middle {
+            width: 50%;
+        }
+        .column h2 {
+            text-align: center;
+        }
+        .column p {
+            text-align: center;
+        }
+        .row::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .verticalleft {
+            margin-top: 40px;
+            border-left: 4px solid white;
+            height: 600px;
+            position: absolute;
+            left: 25%;
+        }
+        .verticalright {
+            margin-top: 40px;
+            border-left: 4px solid white;
+            height: 600px;
+            position: absolute;
+            left: 75%;
+        }
+        @media screen and (max-width:600px) {
+            .column {
+            width: 100%;
+            }
+        }
+        form { 
+            margin: 0 auto; 
+            width:1750px;
+            background-color: transparent;
+            margin-top: 20px;
+            color: white; 
+            text-align: center;
+        }
+
     </style>
 
 </head>
     <div>
         <div>
             <body>
-                <h1 style = "margin-left: 20px; margin-top: 10px;">Steam Scouts</h1>
+                <!-- Header -->
+                <h1 class = "header">Steam Scouts</h1>
+
+
+                <!-- Nav Bar -->
                 <div style = "margin-left: 20px; margin-right: 20px; margin-top: 10px;">
                     <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white; width: 100%;">
                         <div class="container-fluid" style = "font-size: 25px;"> 
@@ -124,8 +187,34 @@
                 <div id="content">
                 {% block content %}{% endblock %}
                 </div>
-
         </div>
+
+        <!-- Content Columns -->
+        <div class="row">
+            <div class="column side">
+              <h2>Column 1 (Info)</h2>
+              <p>placeholder</p>
+            </div>
+            
+            <!-- Left side vertical line -->
+            <div class="verticalleft"></div>
+            
+            <div class="column middle">
+              <h2>Column 2 (Game Information Display)</h2>
+              <p>placeholder</p>
+            </div>
+
+            <!-- Right side vertical line-->
+            <div class="verticalright"></div>
+
+            <div class="column side">
+              <h2>Column 3 (More info)</h2>
+              <p>placeholder</p>
+            </div>
+          </div>
+
+
+        <!-- Footer -->
         <footer>
             <div class="footer-container">      
             <a class="link footer-left" href="{% url 'home' %}">Steam Scouts</a>
