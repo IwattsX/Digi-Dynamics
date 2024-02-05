@@ -1,0 +1,100 @@
+about_the_game
+The Dungeon Drafters Soundtrack is a gem crafted with passion, offering a chiptune-style sound that perfectly captures the essence of the game.<br />
+<br />
+The music strikes a perfect balance with combat and exploration tracks, creating a thrilling and upbeat atmosphere throughout. With 76 tracks spread over two discs, the album is a testament to the talented composers who created it. <br />
+<br />
+Whether you're a hardcore gamer or simply love great music, this soundtrack is sure to impress with its masterful sound and immersive experience.
+------------------------
+background
+https://cdn.akamai.steamstatic.com/steam/apps/2371360/page_bg_generated_v6b.jpg?t=1683014328
+------------------------
+background_raw
+https://cdn.akamai.steamstatic.com/steam/apps/2371360/page.bg.jpg?t=1683014328
+------------------------
+capsule_image
+https://cdn.akamai.steamstatic.com/steam/apps/2371360/capsule_231x87.jpg?t=1683014328
+------------------------
+capsule_imagev5
+https://cdn.akamai.steamstatic.com/steam/apps/2371360/capsule_184x69.jpg?t=1683014328
+------------------------
+categories
+[{'description': 'Additional High-Quality Audio', 'id': 50}]
+------------------------
+content_descriptors
+{'ids': [], 'notes': None}
+------------------------
+detailed_description
+The Dungeon Drafters Soundtrack is a gem crafted with passion, offering a chiptune-style sound that perfectly captures the essence of the game.<br />
+<br />
+The music strikes a perfect balance with combat and exploration tracks, creating a thrilling and upbeat atmosphere throughout. With 76 tracks spread over two discs, the album is a testament to the talented composers who created it. <br />
+<br />
+Whether you're a hardcore gamer or simply love great music, this soundtrack is sure to impress with its masterful sound and immersive experience.
+------------------------
+developers
+['Manalith Studios']
+------------------------
+fullgame
+{'appid': '1824580', 'name': 'Dungeon Drafters'}
+------------------------
+header_image
+https://cdn.akamai.steamstatic.com/steam/apps/2371360/header.jpg?t=1683014328
+------------------------
+is_free
+False
+------------------------
+legal_notice
+DANGEN ENTERTAINMENT is a trademark of Dangen Entertainment. <br />
+Copyright © 2023 Dangen Entertainment. All rights reserved.
+------------------------
+linux_requirements
+[]
+------------------------
+mac_requirements
+[]
+------------------------
+name
+Dungeon Drafters Soundtrack
+------------------------
+package_groups
+[{'description': '', 'display_type': 0, 'is_recurring_subscription': 'false', 'name': 'default', 'save_text': '', 'selection_text': 'Select a purchase option', 'subs': [{'can_get_free_license': '0', 'is_free_license': False, 'option_description': '', 'option_text': 'Dungeon Drafters Soundtrack - $9.99', 'packageid': 852532, 'percent_savings': 0, 'percent_savings_text': ' ', 'price_in_cents_with_discount': 999}], 'title': 'Buy Dungeon Drafters Soundtrack'}]
+------------------------
+packages
+[852532]
+------------------------
+pc_requirements
+{'minimum': '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong> 442 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 3 GB available space<br></li><li><strong>Additional Notes:</strong> Includes .mp3, .wav, and .flac formats.</li></ul>'}
+------------------------
+platforms
+{'linux': True, 'mac': True, 'windows': True}
+------------------------
+price_overview
+{'currency': 'USD', 'discount_percent': 0, 'final': 999, 'final_formatted': '$9.99', 'initial': 999, 'initial_formatted': ''}
+------------------------
+publishers
+['DANGEN Entertainment']
+------------------------
+release_date
+{'coming_soon': False, 'date': 'Apr 27, 2023'}
+------------------------
+required_age
+0
+------------------------
+screenshots
+[{'id': 0, 'path_full': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_80456c7d85201317294d6b36a5e760807f27b7f0.1920x1080.jpg?t=1683014328', 'path_thumbnail': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_80456c7d85201317294d6b36a5e760807f27b7f0.600x338.jpg?t=1683014328'}, {'id': 1, 'path_full': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_b9477cfa9114da5873b8ed4fad19af4919fcb2f6.1920x1080.jpg?t=1683014328', 'path_thumbnail': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_b9477cfa9114da5873b8ed4fad19af4919fcb2f6.600x338.jpg?t=1683014328'}, {'id': 2, 'path_full': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_cb7fd6870729432001294abd640c876426f452a1.1920x1080.jpg?t=1683014328', 'path_thumbnail': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_cb7fd6870729432001294abd640c876426f452a1.600x338.jpg?t=1683014328'}, {'id': 3, 'path_full': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_65130fb56176e0827c71a01bafdcfa3810bf6025.1920x1080.jpg?t=1683014328', 'path_thumbnail': 'https://cdn.akamai.steamstatic.com/steam/apps/2371360/ss_65130fb56176e0827c71a01bafdcfa3810bf6025.600x338.jpg?t=1683014328'}]
+------------------------
+short_description
+Dungeon Drafters Official Soundtrack features 76 tracks from the game, thrilling and upbeat atmosphere that perfectly captures the essence of the game.
+------------------------
+steam_appid
+2371360
+------------------------
+support_info
+{'email': 'game@dungeondrafters.com', 'url': ''}
+------------------------
+type
+music
+------------------------
+website
+https://home.dungeondrafters.com/
+------------------------
+{'game': 71, 'music': 1, 'dlc': 23, 'demo': 19}
