@@ -29,6 +29,14 @@ CREATE TABLE IF NOT EXISTS your_table_name (
     age INT
 );
 """
+
+create_table_game = """
+CREATE TABLE IF NOT EXISTS games (
+    id INT PRIMARY_KEY,
+    name VARCHAR(255) NOT NULL,
+    header_image VARCHAR(255) NOT NULL,
+};
+"""
 # create_table_games = """
 # CREATE TABLE IF NOT EXISTS games (
 #     appID INT PRIMARY_KEY,
@@ -40,7 +48,7 @@ cursor.execute(create_table_query)
 
 # Example: insert data
 insert_data_query = """
-INSERT INTO your_table_name (name, age) VALUES ('Jane Doe', 12);
+INSERT INTO your_table_name (name, age) VALUES ('John Doe', 25);
 """
 cursor.execute(insert_data_query)
 
