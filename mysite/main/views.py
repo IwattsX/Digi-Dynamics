@@ -27,24 +27,21 @@ syntax: response.GET.get(key, default)
 
 def games(response):
     name = ""
-    nsfw = "NO"
     form = Games()
+    # This if statement will never run bc the response.method will be "GET"
     if response.method == "POST":
         if form.is_valid():
             form = Games(response.POST)
         return render(response, "main/games.html", {})
             
-    else:
+    elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
         name = response.GET.get('name', 'No NAME')
-        if response.GET.get('NSFW'):
-            nsfw = response.GET['NSFW']
 
     return_dict = {
         "form": form,
         "name" : name,
-        "NSFW" : "no" if nsfw == 'NO' else "YES",
     }
 
     

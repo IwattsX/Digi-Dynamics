@@ -168,4 +168,5 @@ ForeignKey: ?
 - Django==5.0.1
 - beautifulsoup4==4.12.3
 - python-steam-api==1.2.2
+- mysql-connector-python==8.3.0
 - mySQL: https://dev.mysql.com/downloads/file/?id=526407 

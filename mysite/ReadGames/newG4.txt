@@ -1,0 +1,394 @@
+{'about_the_game': 'The Christmas Demon Is HERE Every Christmas she breaks out '
+                   'of her icy tomb and goes hunting for blood. Unfortunately, '
+                   "you're her only target. Gameplay The House Stuck at home, "
+                   'use what you have around you to thrwart her attack! '
+                   'Perhaps you may lower the AC so low that she refreezes, or '
+                   "maybe you'll burn her to the ground. This map contains 12 "
+                   'unique endings! Some involve her death, some yours, and '
+                   "many more! Once you've proven your skill, you can unlock "
+                   'the nightmare mode. A much more challenging house map with '
+                   'randomized enemies, a stronger AI, and so much more. The '
+                   'nightmare mode is challenging, but so are your treasures '
+                   'at the end of each round. The School Much like the house, '
+                   "this time you're stuck at school after hours when she "
+                   "attacks. Perhaps you'll hide in a locker or knock her with "
+                   "a dodgeball. Maybe you'll find a way to scare her to "
+                   'death. This map also contains brand new endings and a '
+                   'nightmare mode! You can expect each round to last a few '
+                   "minutes, you'll be challenged with moving around, hunting "
+                   'her down, and solving puzzles all the way through. But '
+                   'thats not all... Every Christmas a new map (and more) will '
+                   'be released FOR FREE! Stay tuned!'}
+{'about_the_game': 'The Christmas Demon Is HERE Every Christmas she breaks out '
+                   'of her icy tomb and goes hunting for blood. Unfortunately, '
+                   "you're her only target. Gameplay The House Stuck at home, "
+                   'use what you have around you to thrwart her attack! '
+                   'Perhaps you may lower the AC so low that she refreezes, or '
+                   "maybe you'll burn her to the ground. This map contains 12 "
+                   'unique endings! Some involve her death, some yours, and '
+                   "many more! Once you've proven your skill, you can unlock "
+                   'the nightmare mode. A much more challenging house map with '
+                   'randomized enemies, a stronger AI, and so much more. The '
+                   'nightmare mode is challenging, but so are your treasures '
+                   'at the end of each round. The School Much like the house, '
+                   "this time you're stuck at school after hours when she "
+                   "attacks. Perhaps you'll hide in a locker or knock her with "
+                   "a dodgeball. Maybe you'll find a way to scare her to "
+                   'death. This map also contains brand new endings and a '
+                   'nightmare mode! You can expect each round to last a few '
+                   "minutes, you'll be challenged with moving around, hunting "
+                   'her down, and solving puzzles all the way through. But '
+                   'thats not all... Every Christmas a new map (and more) will '
+                   'be released FOR FREE! Stay tuned!',
+ 'pc_requirements': {'minimum': 'Minimum: Requires a 64-bit processor and '
+                                'operating system OS *: Windows 7 Processor: '
+                                'Intel Core i3-6100U Memory: 4 GB RAM',
+                     'recommended': 'Recommended: Requires a 64-bit processor '
+                                    'and operating system'}}
+{'about_the_game': 'The Christmas Demon Is HERE Every Christmas she breaks out '
+                   'of her icy tomb and goes hunting for blood. Unfortunately, '
+                   "you're her only target. Gameplay The House Stuck at home, "
+                   'use what you have around you to thrwart her attack! '
+                   'Perhaps you may lower the AC so low that she refreezes, or '
+                   "maybe you'll burn her to the ground. This map contains 12 "
+                   'unique endings! Some involve her death, some yours, and '
+                   "many more! Once you've proven your skill, you can unlock "
+                   'the nightmare mode. A much more challenging house map with '
+                   'randomized enemies, a stronger AI, and so much more. The '
+                   'nightmare mode is challenging, but so are your treasures '
+                   'at the end of each round. The School Much like the house, '
+                   "this time you're stuck at school after hours when she "
+                   "attacks. Perhaps you'll hide in a locker or knock her with "
+                   "a dodgeball. Maybe you'll find a way to scare her to "
+                   'death. This map also contains brand new endings and a '
+                   'nightmare mode! You can expect each round to last a few '
+                   "minutes, you'll be challenged with moving around, hunting "
+                   'her down, and solving puzzles all the way through. But '
+                   'thats not all... Every Christmas a new map (and more) will '
+                   'be released FOR FREE! Stay tuned!',
+ 'pc_requirements': {'minimum': 'Minimum: Requires a 64-bit processor and '
+                                'operating system OS *: Windows 7 Processor: '
+                                'Intel Core i3-6100U Memory: 4 GB RAM',
+                     'recommended': 'Recommended: Requires a 64-bit processor '
+                                    'and operating system'},
+ 'short_description': 'When the clock strikes midnight, the Christmas demon '
+                      'will be at your door. Trapped at home, you must '
+                      "discover what's around you to survive the night and "
+                      'thwart her terror.'}
+{'about_the_game': 'Welcome to Dubai Simulator, the ultimate city-building '
+                   'game where you get to design and develop your very own '
+                   'virtual metropolis in the heart of the Middle East. Create '
+                   'and Design With Dubai Simulator, you have the power to '
+                   'create a stunning cityscape, with iconic landmarks and '
+                   'breathtaking skylines. Start by building residential '
+                   'areas, commercial zones, and industrial districts, then '
+                   'add cultural institutions, sports arenas, and other '
+                   'attractions to make your city stand out from the crowd. '
+                   'Use your imagination to make Dubai your very own. Manage '
+                   'and Grow Managing your city is no easy task. Keep your '
+                   'citizens happy by providing essential services such as '
+                   'schools, hospitals, and public transportation. Maintain a '
+                   'healthy economy by attracting businesses and managing your '
+                   "city's finances. Expand your city by building new "
+                   'districts and attracting more residents and tourists. '
+                   "Become a Leader In Dubai Simulator, you're not just a city "
+                   "planner, you're a leader. Take on challenges such as "
+                   'natural disasters, traffic congestion, and pollution, and '
+                   'make the tough decisions to keep your city on track. Work '
+                   'with other leaders in the region to build strong '
+                   'relationships and drive regional development. Make Your '
+                   'Mark With stunning graphics, realistic simulation '
+                   'mechanics, and a vibrant virtual world to explore, Dubai '
+                   'Dream City is the ultimate city-building experience. So '
+                   'what are you waiting for? Create your dream city and make '
+                   'your mark on the world.'}
+{'about_the_game': 'Welcome to Dubai Simulator, the ultimate city-building '
+                   'game where you get to design and develop your very own '
+                   'virtual metropolis in the heart of the Middle East. Create '
+                   'and Design With Dubai Simulator, you have the power to '
+                   'create a stunning cityscape, with iconic landmarks and '
+                   'breathtaking skylines. Start by building residential '
+                   'areas, commercial zones, and industrial districts, then '
+                   'add cultural institutions, sports arenas, and other '
+                   'attractions to make your city stand out from the crowd. '
+                   'Use your imagination to make Dubai your very own. Manage '
+                   'and Grow Managing your city is no easy task. Keep your '
+                   'citizens happy by providing essential services such as '
+                   'schools, hospitals, and public transportation. Maintain a '
+                   'healthy economy by attracting businesses and managing your '
+                   "city's finances. Expand your city by building new "
+                   'districts and attracting more residents and tourists. '
+                   "Become a Leader In Dubai Simulator, you're not just a city "
+                   "planner, you're a leader. Take on challenges such as "
+                   'natural disasters, traffic congestion, and pollution, and '
+                   'make the tough decisions to keep your city on track. Work '
+                   'with other leaders in the region to build strong '
+                   'relationships and drive regional development. Make Your '
+                   'Mark With stunning graphics, realistic simulation '
+                   'mechanics, and a vibrant virtual world to explore, Dubai '
+                   'Dream City is the ultimate city-building experience. So '
+                   'what are you waiting for? Create your dream city and make '
+                   'your mark on the world.',
+ 'pc_requirements': {'minimum': 'Minimum: OS: Windows 10 64-bit Processor: '
+                                'Inter Core i3-7100 or AMD Ryzen 3 1200 '
+                                'Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX '
+                                '1050 / AMD Radeon RX 570 4GB Storage: 40 GB '
+                                'available space',
+                     'recommended': 'Recommended: OS: Windows 10 64-bit '
+                                    'Processor: Intel Core i7-4770K or AMD '
+                                    'Ryzen 5 2600X Graphics: NVIDIA GeForce '
+                                    'GTX 1660 Ti 6GB / AMD Radeon RX 5600 XT '
+                                    '8GB DirectX: Version 11 Storage: 40 GB '
+                                    'available space'}}
+{'about_the_game': 'Welcome to Dubai Simulator, the ultimate city-building '
+                   'game where you get to design and develop your very own '
+                   'virtual metropolis in the heart of the Middle East. Create '
+                   'and Design With Dubai Simulator, you have the power to '
+                   'create a stunning cityscape, with iconic landmarks and '
+                   'breathtaking skylines. Start by building residential '
+                   'areas, commercial zones, and industrial districts, then '
+                   'add cultural institutions, sports arenas, and other '
+                   'attractions to make your city stand out from the crowd. '
+                   'Use your imagination to make Dubai your very own. Manage '
+                   'and Grow Managing your city is no easy task. Keep your '
+                   'citizens happy by providing essential services such as '
+                   'schools, hospitals, and public transportation. Maintain a '
+                   'healthy economy by attracting businesses and managing your '
+                   "city's finances. Expand your city by building new "
+                   'districts and attracting more residents and tourists. '
+                   "Become a Leader In Dubai Simulator, you're not just a city "
+                   "planner, you're a leader. Take on challenges such as "
+                   'natural disasters, traffic congestion, and pollution, and '
+                   'make the tough decisions to keep your city on track. Work '
+                   'with other leaders in the region to build strong '
+                   'relationships and drive regional development. Make Your '
+                   'Mark With stunning graphics, realistic simulation '
+                   'mechanics, and a vibrant virtual world to explore, Dubai '
+                   'Dream City is the ultimate city-building experience. So '
+                   'what are you waiting for? Create your dream city and make '
+                   'your mark on the world.',
+ 'pc_requirements': {'minimum': 'Minimum: OS: Windows 10 64-bit Processor: '
+                                'Inter Core i3-7100 or AMD Ryzen 3 1200 '
+                                'Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX '
+                                '1050 / AMD Radeon RX 570 4GB Storage: 40 GB '
+                                'available space',
+                     'recommended': 'Recommended: OS: Windows 10 64-bit '
+                                    'Processor: Intel Core i7-4770K or AMD '
+                                    'Ryzen 5 2600X Graphics: NVIDIA GeForce '
+                                    'GTX 1660 Ti 6GB / AMD Radeon RX 5600 XT '
+                                    '8GB DirectX: Version 11 Storage: 40 GB '
+                                    'available space'},
+ 'short_description': "In Dubai Simulator, you'll have the chance to design "
+                      'and build your dream city, complete with towering '
+                      'skyscrapers, bustling streets, luxurious resorts, and '
+                      'awe-inspiring landmarks.'}
+{'about_the_game': '🌟 Hey Kids! Get ready for an Epic Adventure in "TerraKids" '
+                   '- the most exciting and colorful game ever! Join Fuzzo in '
+                   'a magical journey across the world, from metropol streets '
+                   'to icy tundras, and learn amazing things about our planet! '
+                   '🌍 🎮 Game Features: Magical World: Discover different '
+                   'ecosystems like oceans, deserts, and mountains! Each world '
+                   'is packed with fun challenges and secret surprises! '
+                   'Eco-Hero Adventures: Help clean up pollution, plant trees, '
+                   'and save adorable animals! Learn how to care for our '
+                   'Earth! Cool Collectibles: Find hidden eco-friendly items '
+                   'and uncover fascinating facts about plants and animals! '
+                   'Family Fun: With simple controls and vibrant graphics, '
+                   '"TerraKids" is perfect for young explorers aged 3 to 7! 🌈 '
+                   'Dive into "TerraKids" for endless fun and learning! Let\'s '
+                   'make our world a better place, one game at a time! 🌟'}
+{'about_the_game': '🌟 Hey Kids! Get ready for an Epic Adventure in "TerraKids" '
+                   '- the most exciting and colorful game ever! Join Fuzzo in '
+                   'a magical journey across the world, from metropol streets '
+                   'to icy tundras, and learn amazing things about our planet! '
+                   '🌍 🎮 Game Features: Magical World: Discover different '
+                   'ecosystems like oceans, deserts, and mountains! Each world '
+                   'is packed with fun challenges and secret surprises! '
+                   'Eco-Hero Adventures: Help clean up pollution, plant trees, '
+                   'and save adorable animals! Learn how to care for our '
+                   'Earth! Cool Collectibles: Find hidden eco-friendly items '
+                   'and uncover fascinating facts about plants and animals! '
+                   'Family Fun: With simple controls and vibrant graphics, '
+                   '"TerraKids" is perfect for young explorers aged 3 to 7! 🌈 '
+                   'Dive into "TerraKids" for endless fun and learning! Let\'s '
+                   'make our world a better place, one game at a time! 🌟',
+ 'pc_requirements': {'minimum': 'Minimum: Requires a 64-bit processor and '
+                                'operating system OS *: Windows 8/10 '
+                                'Processor: AMD Ryzen 3 1200 /Intel Core '
+                                'i3-7100 Memory: 8 GB RAM Graphics: AMD Radeon '
+                                'RX 550 4GB / Nvidia GTX 750 DirectX: Version '
+                                '11 Storage: 4 GB available space',
+                     'recommended': 'Recommended: Requires a 64-bit processor '
+                                    'and operating system'}}
+{'about_the_game': '🌟 Hey Kids! Get ready for an Epic Adventure in "TerraKids" '
+                   '- the most exciting and colorful game ever! Join Fuzzo in '
+                   'a magical journey across the world, from metropol streets '
+                   'to icy tundras, and learn amazing things about our planet! '
+                   '🌍 🎮 Game Features: Magical World: Discover different '
+                   'ecosystems like oceans, deserts, and mountains! Each world '
+                   'is packed with fun challenges and secret surprises! '
+                   'Eco-Hero Adventures: Help clean up pollution, plant trees, '
+                   'and save adorable animals! Learn how to care for our '
+                   'Earth! Cool Collectibles: Find hidden eco-friendly items '
+                   'and uncover fascinating facts about plants and animals! '
+                   'Family Fun: With simple controls and vibrant graphics, '
+                   '"TerraKids" is perfect for young explorers aged 3 to 7! 🌈 '
+                   'Dive into "TerraKids" for endless fun and learning! Let\'s '
+                   'make our world a better place, one game at a time! 🌟',
+ 'pc_requirements': {'minimum': 'Minimum: Requires a 64-bit processor and '
+                                'operating system OS *: Windows 8/10 '
+                                'Processor: AMD Ryzen 3 1200 /Intel Core '
+                                'i3-7100 Memory: 8 GB RAM Graphics: AMD Radeon '
+                                'RX 550 4GB / Nvidia GTX 750 DirectX: Version '
+                                '11 Storage: 4 GB available space',
+                     'recommended': 'Recommended: Requires a 64-bit processor '
+                                    'and operating system'},
+ 'short_description': 'Join Fuzzo in TerraKids for an epic eco-adventure! '
+                      'Explore vibrant worlds, learn about our planet, and '
+                      'become an Earth hero. Perfect for young explorers aged '
+                      "3-7. Let's make the world better, one game at a time!"}
+{'about_the_game': 'INVISIBLE FLOW throws you into a top-down mystery-solving '
+                   'journey, offering a dynamic story for adventure lovers and '
+                   'challenge seekers! Get ready your plane and fly to Lush '
+                   'Palm island! ❓🌴✈️🌴❓ So, you’re in John’s shoes. You’ve got '
+                   "pretty much reasons to think something's up on Lush Palms. "
+                   'Nothing to be heard from your sis for weeks, who’s working '
+                   'there, the rumors say locals are running away, the '
+                   'military base there is out of control…Time to jump into '
+                   'the action, investigate who’s (or what?🤔) behind this all! '
+                   '💨☢️💨 And how will you achieve this all? Following these '
+                   'steps: 🧩 Solve story-related puzzles that will lead you to '
+                   'the answer - what’s the enigmatic invisible flow lurking '
+                   'around? 🔍 Search and uncover hidden notes, local history, '
+                   'and tasks along the way - explore every corner! 🔫 Fight '
+                   'your way to the answers! Prepare to confront the '
+                   'Gasmentis, tough adversaries. Upgrade your weapons using '
+                   'found blueprints to face them. 🔦Craft and discover various '
+                   'tools to make your mission easier. 🛠️Obtain resources! '
+                   'Prove yourself here! 🗿 Be curious and unravel the mystery '
+                   'of Lush Palms! 🏝️🎮🏝️ What’s more? ⚫️We made author’s '
+                   'comics inserts to make sure the game is more versatile! '
+                   '⚫️So we did with the story! We wrote it ourselves and hope '
+                   'we did it well. ⚫️No AI-generated elements - everything '
+                   'you see in the game is created by our team. ⚫️Therefore '
+                   'each corner of the island is carefully designed for you to '
+                   'enjoy the location as you explore. ⚫️As you near the end, '
+                   "there's a tough decision. Choose wisely how to wrap up the "
+                   "game! 🐕🏠🎮🏠🐕 Aaaand a few modest words about us… We're "
+                   'Danylo🧑 and Andriy 🧔, the geek duo behind the DOG HAD '
+                   "HOUSE studio. We've got loads of experience from big "
+                   'studios, working on different projects, all tied to game '
+                   'creation, character design and 2D/3D modeling. Pretty much '
+                   'the whole package you need to know to kickstart your own '
+                   'indie project, right? That’s what we thought! We hope '
+                   'you’ll enjoy our first common project!🐾'}
+{'about_the_game': 'INVISIBLE FLOW throws you into a top-down mystery-solving '
+                   'journey, offering a dynamic story for adventure lovers and '
+                   'challenge seekers! Get ready your plane and fly to Lush '
+                   'Palm island! ❓🌴✈️🌴❓ So, you’re in John’s shoes. You’ve got '
+                   "pretty much reasons to think something's up on Lush Palms. "
+                   'Nothing to be heard from your sis for weeks, who’s working '
+                   'there, the rumors say locals are running away, the '
+                   'military base there is out of control…Time to jump into '
+                   'the action, investigate who’s (or what?🤔) behind this all! '
+                   '💨☢️💨 And how will you achieve this all? Following these '
+                   'steps: 🧩 Solve story-related puzzles that will lead you to '
+                   'the answer - what’s the enigmatic invisible flow lurking '
+                   'around? 🔍 Search and uncover hidden notes, local history, '
+                   'and tasks along the way - explore every corner! 🔫 Fight '
+                   'your way to the answers! Prepare to confront the '
+                   'Gasmentis, tough adversaries. Upgrade your weapons using '
+                   'found blueprints to face them. 🔦Craft and discover various '
+                   'tools to make your mission easier. 🛠️Obtain resources! '
+                   'Prove yourself here! 🗿 Be curious and unravel the mystery '
+                   'of Lush Palms! 🏝️🎮🏝️ What’s more? ⚫️We made author’s '
+                   'comics inserts to make sure the game is more versatile! '
+                   '⚫️So we did with the story! We wrote it ourselves and hope '
+                   'we did it well. ⚫️No AI-generated elements - everything '
+                   'you see in the game is created by our team. ⚫️Therefore '
+                   'each corner of the island is carefully designed for you to '
+                   'enjoy the location as you explore. ⚫️As you near the end, '
+                   "there's a tough decision. Choose wisely how to wrap up the "
+                   "game! 🐕🏠🎮🏠🐕 Aaaand a few modest words about us… We're "
+                   'Danylo🧑 and Andriy 🧔, the geek duo behind the DOG HAD '
+                   "HOUSE studio. We've got loads of experience from big "
+                   'studios, working on different projects, all tied to game '
+                   'creation, character design and 2D/3D modeling. Pretty much '
+                   'the whole package you need to know to kickstart your own '
+                   'indie project, right? That’s what we thought! We hope '
+                   'you’ll enjoy our first common project!🐾',
+ 'pc_requirements': {'minimum': 'Minimum: OS *: Windows 7 or later Processor: '
+                                'Intel Core i5 2.6GHz or similar Memory: 6 GB '
+                                'RAM Graphics: GeForce GTX 700 series or '
+                                'similar DirectX: Version 11 Storage: 2 GB '
+                                'available space Additional Notes: 64-bit '
+                                'operating system is required',
+                     'recommended': 'Recommended: OS *: Windows 7 or later '
+                                    'Processor: Intel Core i5-6600 3.3GHz or '
+                                    'similar Memory: 8 GB RAM Graphics: '
+                                    'GeForce GTX 1050 series or similar '
+                                    'Storage: 2 GB available space Additional '
+                                    'Notes: 64-bit operating system is '
+                                    'required'}}
+{'about_the_game': 'INVISIBLE FLOW throws you into a top-down mystery-solving '
+                   'journey, offering a dynamic story for adventure lovers and '
+                   'challenge seekers! Get ready your plane and fly to Lush '
+                   'Palm island! ❓🌴✈️🌴❓ So, you’re in John’s shoes. You’ve got '
+                   "pretty much reasons to think something's up on Lush Palms. "
+                   'Nothing to be heard from your sis for weeks, who’s working '
+                   'there, the rumors say locals are running away, the '
+                   'military base there is out of control…Time to jump into '
+                   'the action, investigate who’s (or what?🤔) behind this all! '
+                   '💨☢️💨 And how will you achieve this all? Following these '
+                   'steps: 🧩 Solve story-related puzzles that will lead you to '
+                   'the answer - what’s the enigmatic invisible flow lurking '
+                   'around? 🔍 Search and uncover hidden notes, local history, '
+                   'and tasks along the way - explore every corner! 🔫 Fight '
+                   'your way to the answers! Prepare to confront the '
+                   'Gasmentis, tough adversaries. Upgrade your weapons using '
+                   'found blueprints to face them. 🔦Craft and discover various '
+                   'tools to make your mission easier. 🛠️Obtain resources! '
+                   'Prove yourself here! 🗿 Be curious and unravel the mystery '
+                   'of Lush Palms! 🏝️🎮🏝️ What’s more? ⚫️We made author’s '
+                   'comics inserts to make sure the game is more versatile! '
+                   '⚫️So we did with the story! We wrote it ourselves and hope '
+                   'we did it well. ⚫️No AI-generated elements - everything '
+                   'you see in the game is created by our team. ⚫️Therefore '
+                   'each corner of the island is carefully designed for you to '
+                   'enjoy the location as you explore. ⚫️As you near the end, '
+                   "there's a tough decision. Choose wisely how to wrap up the "
+                   "game! 🐕🏠🎮🏠🐕 Aaaand a few modest words about us… We're "
+                   'Danylo🧑 and Andriy 🧔, the geek duo behind the DOG HAD '
+                   "HOUSE studio. We've got loads of experience from big "
+                   'studios, working on different projects, all tied to game '
+                   'creation, character design and 2D/3D modeling. Pretty much '
+                   'the whole package you need to know to kickstart your own '
+                   'indie project, right? That’s what we thought! We hope '
+                   'you’ll enjoy our first common project!🐾',
+ 'pc_requirements': {'minimum': 'Minimum: OS *: Windows 7 or later Processor: '
+                                'Intel Core i5 2.6GHz or similar Memory: 6 GB '
+                                'RAM Graphics: GeForce GTX 700 series or '
+                                'similar DirectX: Version 11 Storage: 2 GB '
+                                'available space Additional Notes: 64-bit '
+                                'operating system is required',
+                     'recommended': 'Recommended: OS *: Windows 7 or later '
+                                    'Processor: Intel Core i5-6600 3.3GHz or '
+                                    'similar Memory: 8 GB RAM Graphics: '
+                                    'GeForce GTX 1050 series or similar '
+                                    'Storage: 2 GB available space Additional '
+                                    'Notes: 64-bit operating system is '
+                                    'required'},
+ 'short_description': "Dig deep into the Invisible Flow, where you'll "
+                      'investigate once-chill Lush Palms island! Gather '
+                      'resources, craft tools and explore the vast map to '
+                      'survive among the Gasmentis. Solve puzzles and unravel '
+                      'the ties between the local lab and the eerie gas '
+                      "lurking around. Find out who's behind it!💨🏝️"}
+{'about_the_game': 'Run a Café is a game where you do just that, run a Café! '
+                   'Make drinks from regular coffee, to iced flavored coffees '
+                   'and even serve food! Manage your inventory and time '
+                   'efficiently to ensure you maximize every customer! Start '
+                   'from nothing and build a full scale, dine-in Café! Keep an '
+                   'eye on your money and your Café ratings! Too low of '
+                   'ratings or running out of money causes you to close up '
+                   "shop and it's game over!"}
