@@ -18,7 +18,7 @@ from pprint import pprint
 game_number = 0
 
 
-def Game_Handler(game : dict()):
+def Game_Handler(game : dict):
     # Only elements we care about for the most part
     game_res = dict()
 
@@ -63,19 +63,19 @@ def Game_Handler(game : dict()):
     #     print(k)
     #     print("------------------------")
 
-def DLC_Handler(DLC:dict()):
+def DLC_Handler(DLC:dict):
     for k, v in DLC.items():
         print(k)
         print(v)
         print("------------------------")
 
-def Music_Handler(Music : dict()):
+def Music_Handler(Music : dict):
     for k, v in Music.items():
         print(k)
         print(v)
         print("------------------------")
 
-def Demo_Handler(Demo: dict()):
+def Demo_Handler(Demo: dict):
     for k, v in Demo.items():
         print(k)
         print(v)
