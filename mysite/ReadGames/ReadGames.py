@@ -22,7 +22,7 @@ def Game_Handler(game : dict):
     # Only elements we care about for the most part
     game_res = dict()
 
-    Elements = ["about_the_game", "pc_requirements", "short_description"]
+    Elements = ["about_the_game", "pc_requirements", "short_description", ""]
 
     for elem in Elements:
         game_elem = game.get(elem)
@@ -42,7 +42,8 @@ def Game_Handler(game : dict):
                 soup = BeautifulSoup(game.get(elem, None), features='html.parser')
                 temp = ' '.join(soup.stripped_strings)
                 game_res[elem] = temp
-        pprint(game_res)
+    pprint(game_res)
+    return game_res
 
     
 
@@ -101,6 +102,8 @@ dictTypes = {
 }
 for file in os.listdir(GamesDir):
     filePath = f"{GamesDir}/{file}"
+
+    print(filePath)
     with open(filePath, 'r') as inputFile:
         temp = json.load(inputFile)
         typeOfData = temp['type']
