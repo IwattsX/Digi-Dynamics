@@ -43,6 +43,7 @@ def Game_Handler(game : dict):
                 temp = ' '.join(soup.stripped_strings)
                 game_res[elem] = temp
     pprint(game_res)
+    
     return game_res
 
     
