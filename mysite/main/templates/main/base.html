@@ -14,6 +14,9 @@
     <title>{% block title%} SS_Home {% endblock %}</title>
 
     <link rel="stylesheet" href="{% static 'css/styles.css' %}" >
+    <!--<link rel="stylesheet" href="{% static 'css/w3.css' %}" > -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+    
 
 </head>
     <div>
@@ -30,32 +33,32 @@
                             <!-- Links -->
                             <ul class="navbar-nav">
                                 <li>
-                                    <a class="nav-item nav-link active" href="{% url 'home' %}" data-bs-toggle="collapse"
+                                    <a class="nav-item nav-link active font-effect-fire" href="{% url 'home' %}" data-bs-toggle="collapse"
                                         data-bs-target=".navbar-collapse" onclick="opentab('Home')"> Home</a>
                                 </li>
 
                                 <li>
-                                    <a class="nav-item nav-link" href="{% url 'games' %}" data-bs-toggle="collapse"
+                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'games' %}" data-bs-toggle="collapse"
                                         data-bs-target=".navbar-collapse" onclick="opentab('Games')">Games</a>
                                 </li>
 
                                 <li>
-                                <a class="nav-item nav-link" href="{% url 'DLC' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                                <a class="nav-item nav-link font-effect-fire" href="{% url 'DLC' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                                     onclick="opentab('DLC')">DLC</a>
                                 </li>
 
 
                                 <li>
-                                    <a class="nav-item nav-link" href="{% url 'demo' %}" data-bs-toggle="collapse"
+                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'demo' %}" data-bs-toggle="collapse"
                                         data-bs-target=".navbar-collapse" onclick="opentab('Demos')">Demos</a>
                                 </li>
 
                                 <li>
-                                <a class="nav-item nav-link" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                                <a class="nav-item nav-link font-effect-fire" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                                     onclick="opentab('Music')">Music</a>
                                 </li>
                                     <li>
-                                    <a class="nav-item nav-link" href="{% url 'user' %}" data-bs-toggle="collapse"
+                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'user' %}" data-bs-toggle="collapse"
                                         data-bs-target=".navbar-collapse" onclick="opentab('Users')">Users</a>
                                 </li>
                             </ul>
