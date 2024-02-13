@@ -117,12 +117,6 @@ form {
     width:1750px;
     background-color: transparent;
     margin-top: 20px;
-    color:white; 
+    color: white; 
     text-align: center;
-}
-input {
-    width: 20%;
-}
-.button{
-    margin-top: 10px;
 }

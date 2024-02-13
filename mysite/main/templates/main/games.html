@@ -7,11 +7,11 @@
 {% block content %}
     <div class="container-fluid">
         <div style="padding: 10px;" >
-            <form method="get" actions="/games/">
+            <form class = "searchbar" method="get" actions="/games/">
                 {% csrf_token %}
                 {{ form.as_ul }}
 
-                <button type="submit" name="Search" style=> SEARCH </button>
+                <button class="button" type="submit" name="Search" style=> SEARCH </button>
             </form>
         </div>
     </div>
