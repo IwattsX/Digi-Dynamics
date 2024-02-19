@@ -9,10 +9,31 @@ def create_Table(create_table_query: str):
     # Finished with Executing queries
     close_connection(cursor=cursor, connection=connection)
 
+# MAY CHANGE Release_Date to DATE type
+# Platform may be split between 3 boolean fields
+# windows, linux, mac
+
 table_Queries = [
     """
     CREATE TABLE IF NOT EXISTS Games(
-    id CHAR(7) PRIMARY KEY
+    id CHAR(7) PRIMARY KEY, 
+    Name VARCHAR(255),
+    support_info VARCHAR(255),
+    Contains_DLC BIT(1),
+    Base_price INT,
+    Curr_price INT,
+    Deveoper VARCHAR(255),
+    Publisher VARCHAR(255),
+    Genre VARCHAR(255), 
+    Release_Date VARCHAR(255),
+    Required_age INT, 
+    Controller_Support Bit(1),
+    Website VARCHAR(255),
+    Short_description VARCHAR(255),
+    Detailed_description TEXT,
+    Supported_languages VARCHAR(255),
+    PLATFORM VARCHAR(255),
+    Header_image VARCHAR(255)
     );
     """,
 
