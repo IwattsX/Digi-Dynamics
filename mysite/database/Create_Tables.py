@@ -72,7 +72,23 @@ table_Queries = [
 
     """
     CREATE TABLE IF NOT EXISTS Music(
-    id CHAR(7) PRIMARY KEY
+    id CHAR(7) PRIMARY KEY,
+    Name VARCHAR(255),
+    Support_info VARCHAR(255),
+    Base_price INT,
+    Current_price INT,
+    Developer VARCHAR(255),
+    Publisher VARCHAR(255),
+    Release_date VARCHAR(255),
+    Required_Age INT,
+    Controller_support Bit(1),
+    Website VARCHAR(255),
+    Short_description VARCHAR(255),
+    Detailed_description TEXT, 
+    Supported_languages VARCHAR(255),
+    PLATFORM VARCHAR(255),
+    Fullgame_id char(7),
+    Header_image VARCHAR(255)
     );
     """
 ]
