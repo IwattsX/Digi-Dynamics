@@ -12,6 +12,7 @@ def create_Table(create_table_query: str):
 # MAY CHANGE Release_Date to DATE type
 # Platform may be split between 3 boolean fields
 # windows, linux, mac
+# Did not include Price overview for demo since it should always be 0.
 
 table_Queries = [
     """
@@ -45,7 +46,21 @@ table_Queries = [
 
     """
     CREATE TABLE IF NOT EXISTS Demo(
-    id CHAR(7) PRIMARY KEY
+    id CHAR(7) PRIMARY KEY,
+    Name VARCHAR(255),
+    Support_Info VARCHAR(255),
+    Developer VARCHAR(255),
+    Publisher VARCHAR(255),
+    Release_Date VARCHAR(255),
+    Required_Age INT,
+    Controller_Support Bit(1),
+    Website VARCHAR(255),
+    Short_description VARCHAR(255),
+    Detailed_description TEXT,
+    Supported_languages VARCHAR(255),
+    PLATFORM VARCHAR(255),
+    Header_image VARCHAR(255),
+    Fullgame_id char(7)
     )
     """,
 
