@@ -19,7 +19,7 @@ def get_game_info(appid, api_key):
             developer = game_info.get('developers', [])
             publisher = game_info.get('publishers', [])
 
-            with open("IndividualGame.json", 'w') as outfile:
+            with open("CODDLC.json", 'w') as outfile:
                 json.dump(game_info, outfile, sort_keys=True, indent=4)
 
             print(f"Game: {game_info['name'].encode('utf-8')}")
@@ -33,4 +33,6 @@ def get_game_info(appid, api_key):
 
 if __name__ == '__main__':
     KEY = config("STEAM_API_KEY")
-    get_game_info(1086940, KEY)
+    # get_game_info(1086940, KEY)
+    # get_game_info(1938090, KEY)
+    get_game_info(2053671, KEY)

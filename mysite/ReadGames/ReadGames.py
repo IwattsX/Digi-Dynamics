@@ -1,49 +1,117 @@
-# python file for reading all the games inside of Games folder and putting it into a dictionary
-
-
 from bs4 import BeautifulSoup
 import json 
 import os
 from pathlib import Path
 from pprint import pprint
+
+# Python file for handling all the date inside of the Games Folder
+
 # All files have a "minimum" in them
 # However PC_requirements seems to be the only thing that matters
 # Both a minimum and a recommended
 # Since steam is primarily for PC and we can just use linux: windows: and Mac: keys
 # to determine if the game supports those OS's
 
+"""
+    NOTE: I don't see Controller Support anywhere so dropping the column
+
+    Order of mySQL columns to not get confused
+    id, Name, support_info, Contains_DLC, Base_price, 
+    Curr_price, Developer, Publisher, Genres, Coming_soon, 
+    Release_Date, Required_age, Website, Short_description, 
+    Detailed_description, Supported_languages, PLATFORM, Header_image
+
+    Will need to convert most of this to string
+    DLC is of type list but convert to a string using 
+
+    Note if sometimes price_overview is NULL, so assume either it is 0 or "coming soon" and possibly doesn't have a price yet
+
+    Base_price = price_overview.initial
+    current_price = price_overview.final
+
+    Developers and Publishers are list types
+
+    Genres will be a list type
+
+    release_date and Coming Soon under:
+    release_date['date']
+    release_date['coming_soon']
+
+    platforms.x
+    x = 
+    windows: ... BOOL
+    linux: ...
+    mac: ...
+
+    header_image
 
 
-    
-game_number = 0
+    NOTE: Most of these things need a BeutifulSoup HTML.parser
+
+
+"""
 
 
 def Game_Handler(game : dict):
     # Only elements we care about for the most part
     game_res = dict()
 
-    Elements = ["about_the_game", "pc_requirements", "short_description", ""]
 
-    for elem in Elements:
-        game_elem = game.get(elem)
-        if game_elem:
-            if "requirements" in elem:
-                MinSoup = BeautifulSoup(game_elem.get('minimum', ""), features='html.parser')
-                recommended = BeautifulSoup(game_elem.get('recommended', ""), features='html.parser')
-
-                minSoupStr = ' '.join(MinSoup.stripped_strings)
-                recommendedStr = ' '.join(recommended.stripped_strings)
-
-                game_res[elem] = {
-                    "minimum": minSoupStr,
-                    "recommended" : recommendedStr
-                }
-            else:
-                soup = BeautifulSoup(game.get(elem, None), features='html.parser')
-                temp = ' '.join(soup.stripped_strings)
-                game_res[elem] = temp
-    pprint(game_res)
+    Elements = ["steam_appid","name", "support_info", "dlc", 
+                "price_overview", "developers", "publishers", "genres", 
+                "release_date", "required_age", "website", "short_description", 
+                "detailed_description", "supported_languages", "platforms", "header_image", 
+                "controller_support"]
     
+    for elem in Elements:
+        game_val = game.get(elem)
+
+        if game_val:
+            if elem == "price_overview":
+                game_res["Base_price"] = game_val.get("initial", None)
+                game_res["Current_price"] = game_val.get("final", None)
+            
+            elif elem in ["developers", "publishers"]:
+                game_res[elem] = ", ".join(e for e in game_val)
+            
+            elif elem == "genres":
+                genres = [genre.get("description") for genre in game_val if genre]
+                game_res[elem] = ", ".join(genres)
+
+            elif elem == "release_date":
+                coming_soon = game_val.get("coming_soon")
+                date = game_val.get("date")
+
+                game_res["coming_soon"] = coming_soon
+                game_res['date'] = date
+
+            elif elem == "platforms":
+                game_res["windows"] = game_val.get("windows", False)
+                game_res["linux"] = game_val.get("linux", False)
+                game_res["mac"] = game_val.get("mac", False)
+
+                # print(f"Windows: {game_res["windows"]}\nLinux: {game_res["linux"]}\nmac {game_res["mac"]}")
+            elif elem == "support_info":
+                game_res[elem] = game_val.get("email")
+            
+            elif elem == "steam_appid":
+                # Need to convert the steam id to string not int when inserting into mySQL
+                game_res[elem] = str(game_val)
+            
+            elif elem == "controller_support":
+                game_res["controller_support"] = game_val
+            elif elem in ["detailed_description", "short_description"]:
+                soup = BeautifulSoup(game_val, features='html.parser')
+                temp = ''.join(soup.stripped_strings)
+                game_res[elem] = temp
+
+            elif type(game_val) == str and "http" not in game_val:
+                soup = BeautifulSoup(game_val, features='html.parser')
+                temp = ''.join(soup.stripped_strings)
+                game_res[elem] = temp
+            else:
+                game_res[elem] = game_val    
+    pprint(game_res)
     return game_res
 
     
@@ -84,54 +152,54 @@ def Demo_Handler(Demo: dict):
         print("------------------------")
 
 
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+if __name__ == '__main__':
+    # Build paths inside the project like this: BASE_DIR / 'subdir'.
+    BASE_DIR = Path(__file__).resolve().parent.parent
 
-GamesDir = f"{BASE_DIR}/Games"
-
-
-
-# print(GamesDir)
+    GamesDir = f"{BASE_DIR}/Games"
 
 
 
-dictTypes = {
-    "game" : 0,
-    "music" : 0,
-    "dlc" : 0,
-    "demo" : 0,
-}
-for file in os.listdir(GamesDir):
-    filePath = f"{GamesDir}/{file}"
+    # print(GamesDir)
 
-    print(filePath)
-    with open(filePath, 'r') as inputFile:
-        temp = json.load(inputFile)
-        typeOfData = temp['type']
-        dictTypes[temp['type']] += 1
 
-        if typeOfData == "game":
-            Game_Handler(temp)
-            break
+
+    dictTypes = {
+        "game" : 0,
+        "music" : 0,
+        "dlc" : 0,
+        "demo" : 0,
+    }
+    for file in os.listdir(GamesDir):
+        filePath = f"{GamesDir}/{file}"
+
+        print(filePath)
+        with open(filePath, 'r') as inputFile:
+            temp = json.load(inputFile)
+            typeOfData = temp['type']
+            dictTypes[temp['type']] += 1
+
+            if typeOfData == "game":
+                Game_Handler(temp)
+                
+            elif typeOfData == "music":
+                continue
+                Music_Handler(temp)
+                
             
-        elif typeOfData == "music":
-            continue
-            Music_Handler(temp)
+            elif typeOfData == "dlc":
+                continue
+                DLC_Handler(temp)
             
-        
-        elif typeOfData == "dlc":
-            continue
-            DLC_Handler(temp)
-        
-        
-        elif typeOfData == "demo":
-            continue
-            Demo_Handler(temp)
             
+            elif typeOfData == "demo":
+                continue
+                Demo_Handler(temp)
+                
 
-        # print(temp['name'])
-        # print(typeOfData)
+            # print(temp['name'])
+            # print(typeOfData)
 
 
 
-print(dictTypes)
+    print(dictTypes)
