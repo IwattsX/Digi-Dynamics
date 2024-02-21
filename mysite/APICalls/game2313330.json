@@ -1,0 +1,189 @@
+{
+    "about_the_game": "TerraTech Worlds is an open-world, survival craft builder, set on an uncharted alien planet. As a freelance Prospector, you\u2019ll explore, mine, build, craft and battle your way through natural hazards and very real enemies, to harness the power of your environment. Play solo or with friends, via 6 player online co-op (PvE), and get ready to adventure across alien frontiers, conquer natural hazards, build epic factory bases and battle AI enemies as you build your way toward planetary mastery. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Explore.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>EXPLORE</strong></h2>Explore a 300km\u00b2 planet with no loading, no streaming and no limits, populated by rich and diverse environment biomes , with a day/night cycle, dynamic weather, dangerous plant life, hostile enemy factions and bases, and more. Venture deep into strange forests, dodge lightning storms, soar high above treacherous terrain and traverse rivers and oceans. The world is yours to explore.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Build.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>DESIGN, CRAFT &amp; BUILD</strong></h2>Create and customise vehicles, bases and factories in a limitless possibility space, to overcome any challenge you encounter, using an intuitive modular building system. Add new Blocks to your ever-expanding collection and unlock more building opportunities. <br><br>Whether you mine your own resources or steal them from others, you can use them to craft, design, construct and continually upgrade your creations in your own unique style, to take on the huge variety of challenges the harsh wilderness will throw at you.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Mine.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>MINE &amp; TERRAFORM</strong></h2>Expand and consolidate your planetary infrastructure by extracting precious resources, transporting them back to base before refining and crafting them into advanced building materials and progressing to automated production lines.<br><br>Specialise your tech builds for efficient manual resource extraction before upgrading to automated exploitation. Resculpt the landscape to suit your needs with free-form terraforming tools.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Battle.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>COMBAT &amp; DEFENSE</strong></h2>Encounter and overcome a diverse range of enemy Techs as you expand your territory, scavenging and researching new blocks to upgrade your combat capability. Experiment with ever-more powerful and specialised combat builds, and team up with your fellow Prospectors to raid enemy bases and push back the frontier.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Co-op.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>CO-OP PvE</strong></h2>For the best chance of survival on this lawless alien frontier, it pays to build, explore and battle together. Define your role and design a unique build with complete creative freedom to express your own play style by combining block abilities - as part of a team of up to six allied Prospectors. Battle side-by-side to take down the toughest of enemies and work as one to build complex, automated bases.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/page_bg_generated_v6b.jpg?t=1707828014",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/page_bg_generated.jpg?t=1707828014",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/capsule_231x87.jpg?t=1707828014",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/capsule_184x69.jpg?t=1707828014",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2540300,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h1>Roadmap</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/TTW_Roadmap_624x1196__1_.jpg?t=1707828014\" /></p><br><h1>About the Game</h1>TerraTech Worlds is an open-world, survival craft builder, set on an uncharted alien planet. As a freelance Prospector, you\u2019ll explore, mine, build, craft and battle your way through natural hazards and very real enemies, to harness the power of your environment. Play solo or with friends, via 6 player online co-op (PvE), and get ready to adventure across alien frontiers, conquer natural hazards, build epic factory bases and battle AI enemies as you build your way toward planetary mastery. <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Explore.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>EXPLORE</strong></h2>Explore a 300km\u00b2 planet with no loading, no streaming and no limits, populated by rich and diverse environment biomes , with a day/night cycle, dynamic weather, dangerous plant life, hostile enemy factions and bases, and more. Venture deep into strange forests, dodge lightning storms, soar high above treacherous terrain and traverse rivers and oceans. The world is yours to explore.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Build.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>DESIGN, CRAFT &amp; BUILD</strong></h2>Create and customise vehicles, bases and factories in a limitless possibility space, to overcome any challenge you encounter, using an intuitive modular building system. Add new Blocks to your ever-expanding collection and unlock more building opportunities. <br><br>Whether you mine your own resources or steal them from others, you can use them to craft, design, construct and continually upgrade your creations in your own unique style, to take on the huge variety of challenges the harsh wilderness will throw at you.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Mine.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>MINE &amp; TERRAFORM</strong></h2>Expand and consolidate your planetary infrastructure by extracting precious resources, transporting them back to base before refining and crafting them into advanced building materials and progressing to automated production lines.<br><br>Specialise your tech builds for efficient manual resource extraction before upgrading to automated exploitation. Resculpt the landscape to suit your needs with free-form terraforming tools.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Battle.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>COMBAT &amp; DEFENSE</strong></h2>Encounter and overcome a diverse range of enemy Techs as you expand your territory, scavenging and researching new blocks to upgrade your combat capability. Experiment with ever-more powerful and specialised combat builds, and team up with your fellow Prospectors to raid enemy bases and push back the frontier.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2313330/extras/Co-op.gif?t=1707828014\" /><h2 class=\"bb_tag\"><strong>CO-OP PvE</strong></h2>For the best chance of survival on this lawless alien frontier, it pays to build, explore and battle together. Define your role and design a unique build with complete creative freedom to express your own play style by combining block abilities - as part of a team of up to six allied Prospectors. Battle side-by-side to take down the toughest of enemies and work as one to build complex, automated bases.",
+    "developers": [
+        "Payload Studios"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/header.jpg?t=1707828014",
+    "is_free": false,
+    "legal_notice": "\u00a9 2023 Payload Studios",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256950463,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950463/movie480.mp4?t=1686519151",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950463/movie_max.mp4?t=1686519151"
+            },
+            "name": "TerraTech Worlds - Announce Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256950463/movie.293x165.jpg?t=1686519151",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950463/movie480_vp9.webm?t=1686519151",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950463/movie_max_vp9.webm?t=1686519151"
+            }
+        }
+    ],
+    "name": "TerraTech Worlds",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 4-core CPU @ 3.4Ghz or similar<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB<br></li><li><strong>Additional Notes:</strong> Minimum requirements may change over the course of development.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Core i7-9700K or AMD Ryzen 3700X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> nVidia Geforce RTX2060 Super or Radeon RX 5700 XT<br></li><li><strong>Additional Notes:</strong> Minimum requirements may change over the course of development.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Payload Studios"
+    ],
+    "ratings": {
+        "dejus": {
+            "banned": "0",
+            "descriptors": "Viol\u00eancia",
+            "rating": "10",
+            "rating_generated": "1",
+            "required_age": "10",
+            "use_age_gate": "0"
+        },
+        "steam_germany": {
+            "banned": "0",
+            "descriptors": "Gewalt",
+            "rating": "12",
+            "rating_generated": "1",
+            "required_age": "12",
+            "use_age_gate": "0"
+        }
+    },
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_b818143ac83e3fda1a77010fed1e24d297fa9f69.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_b818143ac83e3fda1a77010fed1e24d297fa9f69.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_c8362b6eb7c5623554691e92705a46c1640471cd.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_c8362b6eb7c5623554691e92705a46c1640471cd.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_94b575f60b13ffaae71a987f91e8877b3a9d122f.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_94b575f60b13ffaae71a987f91e8877b3a9d122f.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_69f265240e52c6213bc1013c5bf0cd6452f7422f.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_69f265240e52c6213bc1013c5bf0cd6452f7422f.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_8c5096ec3989b7b7a0700cf3971fee853baf1c44.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_8c5096ec3989b7b7a0700cf3971fee853baf1c44.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_6425076bd11b61fe9d48f083f93fc2858dddd058.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_6425076bd11b61fe9d48f083f93fc2858dddd058.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_f4d654bba27124c469a31fce7ed52b6928aa230a.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_f4d654bba27124c469a31fce7ed52b6928aa230a.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_ce87a30099933aa7bf8629ea23dbdc7f6c1173e9.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_ce87a30099933aa7bf8629ea23dbdc7f6c1173e9.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_4333f2b34b04d0d293913b8513153df105a61d11.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_4333f2b34b04d0d293913b8513153df105a61d11.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_1aa8978c1c4a4bce00f490d13ab53f485384f08c.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_1aa8978c1c4a4bce00f490d13ab53f485384f08c.600x338.jpg?t=1707828014"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_ce982f6bf4ed06cbdab450746ec41cf498b4a403.1920x1080.jpg?t=1707828014",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2313330/ss_ce982f6bf4ed06cbdab450746ec41cf498b4a403.600x338.jpg?t=1707828014"
+        }
+    ],
+    "short_description": "TerraTech Worlds is an open-world, PvE survival game set on an uncharted alien planet. Explore, mine, build, craft and battle your way through natural hazards and dangerous enemies, to harness the power of your environment. Play solo or up to 6 friends via online co-op, and get ready for adventure!",
+    "steam_appid": 2313330,
+    "support_info": {
+        "email": "help@terratechworlds.com",
+        "url": "https://www.terratechworlds.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.terratechworlds.com"
+}

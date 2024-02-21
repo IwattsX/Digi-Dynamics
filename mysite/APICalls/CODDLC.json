@@ -1,0 +1,195 @@
+{
+    "about_the_game": "Support U.S. and U.K. military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Protector Pack for Call of Duty\u00ae: Modern Warfare\u00ae II and Call of Duty\u00ae: Warzone\u2122 2.0.<br />\r\n<br />\r\nThe Endowment pack includes:<br />\r\n<br />\r\n- 'The Protector\u2019s Companion' Assault Rifle Weapon Blueprint<br />\r\n- 'Duty Calls' Sniper Rifle Weapon Blueprint<br />\r\n- 'Frontline Stripes' Vehicle Skin<br />\r\n- 'The Protector' Operator Skin<br />\r\n- 'Tagged' Weapon Charm<br />\r\n- 'Ready for Anything' Animated Calling Card<br />\r\n- 'Mermen' Static Calling Card<br />\r\n- 'Seeing Double' Animated Emblem<br />\r\n- 1 Hour XP Token<br />\r\n- 1 Hour Weapon XP Token<br />\r\n<br />\r\nThe full purchase price for this special item, less VAT, will be donated to the Call of Duty Endowment (a charity registered in USA, EIN: 37-1589072). The Call of Duty Endowment provides grants to registered UK charities and not-for-profits in the US which places unemployed and underemployed veterans in the U.S. and U.K. into high-quality jobs*. By purchasing this pack, you will directly contribute to the Endowment\u2019s mission.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/page_bg_generated_v6b.jpg?t=1680225883",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/page.bg.jpg?t=1680225883",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/capsule_231x87.jpg?t=1680225883",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/capsule_184x69.jpg?t=1680225883",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Support U.S. and U.K. military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Protector Pack for Call of Duty\u00ae: Modern Warfare\u00ae II and Call of Duty\u00ae: Warzone\u2122 2.0.<br />\r\n<br />\r\nThe Endowment pack includes:<br />\r\n<br />\r\n- 'The Protector\u2019s Companion' Assault Rifle Weapon Blueprint<br />\r\n- 'Duty Calls' Sniper Rifle Weapon Blueprint<br />\r\n- 'Frontline Stripes' Vehicle Skin<br />\r\n- 'The Protector' Operator Skin<br />\r\n- 'Tagged' Weapon Charm<br />\r\n- 'Ready for Anything' Animated Calling Card<br />\r\n- 'Mermen' Static Calling Card<br />\r\n- 'Seeing Double' Animated Emblem<br />\r\n- 1 Hour XP Token<br />\r\n- 1 Hour Weapon XP Token<br />\r\n<br />\r\nThe full purchase price for this special item, less VAT, will be donated to the Call of Duty Endowment (a charity registered in USA, EIN: 37-1589072). The Call of Duty Endowment provides grants to registered UK charities and not-for-profits in the US which places unemployed and underemployed veterans in the U.S. and U.K. into high-quality jobs*. By purchasing this pack, you will directly contribute to the Endowment\u2019s mission.",
+    "developers": [
+        "Infinity Ward",
+        "Raven Software",
+        "Beenox",
+        "Treyarch",
+        "High Moon Studios",
+        "Sledgehammer Games",
+        "Activision Shanghai",
+        "Demonware",
+        "Toys for Bob"
+    ],
+    "fullgame": {
+        "appid": "1938090",
+        "name": "Call of Duty\u00ae"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/header.jpg?t=1680225883",
+    "is_free": false,
+    "legal_notice": "*For more information please see https://www.callofdutyendowment.org/partners.<br />\r\n<br />\r\nActivision may update, replace, or remove this in-game content at any time.<br />\r\n<br />\r\nThis pack is not cross-platform supported and may be accessible on Steam only.<br />\r\n<br />\r\n\u00a9 2022 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY WARZONE and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. This product contains software technology licensed from Id Software ('Id Technology'). Id Technology \u00a9 1999-2022 Id Software, Inc. \u00a9 2022 The Call of Duty Endowment and Activision Publishing, Inc. The Call of Duty Endowment logos are trademarks of The Call of Duty Endowment.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256913207,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256913207/movie480.mp4?t=1666976408",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256913207/movie_max.mp4?t=1666976408"
+            },
+            "name": "C.O.D.E. Protector Pack - Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256913207/movie.293x165.jpg?t=1666976408",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256913207/movie480_vp9.webm?t=1666976408",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256913207/movie_max_vp9.webm?t=1666976408"
+            }
+        }
+    ],
+    "name": "Call of Duty Endowment (C.O.D.E.) - Protector Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Call of Duty Endowment (C.O.D.E.) - Protector Pack - $9.99",
+                    "packageid": 733715,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Call of Duty Endowment (C.O.D.E.) - Protector Pack"
+        }
+    ],
+    "packages": [
+        733715
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 64 Bit (latest update)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-6100 / Core\u2122 i5-2500K or AMD Ryzen\u2122 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 960 or AMD Radeon\u2122 RX 470 - DirectX 12.0 compatible system<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 125 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 64 Bit (latest update) or Windows\u00ae 11 64 Bit (latest update)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-6600K / Core\u2122 i7-4770 or AMD Ryzen\u2122 5 1400<br></li><li><strong>Memory:</strong> 12 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 1060 or AMD Radeon\u2122 RX 580 - DirectX 12.0 compatible system<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 125 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "ratings": {
+        "dejus": {
+            "banned": "0",
+            "descriptors": "",
+            "rating": "l",
+            "rating_generated": "1",
+            "required_age": "0",
+            "use_age_gate": "0"
+        }
+    },
+    "recommendations": {
+        "total": 410
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 28, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/ss_9a4a5079f45c24d4458b78bbedc0b30fd3483829.1920x1080.jpg?t=1680225883",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/ss_9a4a5079f45c24d4458b78bbedc0b30fd3483829.600x338.jpg?t=1680225883"
+        }
+    ],
+    "short_description": "Support U.S. and U.K. military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Protector Pack for Call of Duty\u00ae: Modern Warfare\u00ae II and Call of Duty\u00ae: Warzone\u2122 2.0.",
+    "steam_appid": 2053671,
+    "support_info": {
+        "email": "",
+        "url": "https://support.activision.com/"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Japanese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Arabic, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://www.callofduty.com/modernwarfare2"
+}

@@ -3,6 +3,8 @@ import json
 import os
 from pathlib import Path
 from pprint import pprint
+from database.InsertIntoSteam import Games
+
 
 # Python file for handling all the date inside of the Games Folder
 
@@ -16,7 +18,7 @@ from pprint import pprint
     NOTE: I don't see Controller Support anywhere so dropping the column
 
     Order of mySQL columns to not get confused
-    id, Name, support_info, Contains_DLC, Base_price, 
+    id, Name, support_info, DLC, Base_price, 
     Curr_price, Developer, Publisher, Genres, Coming_soon, 
     Release_Date, Required_age, Website, Short_description, 
     Detailed_description, Supported_languages, PLATFORM, Header_image
@@ -109,9 +111,14 @@ def Game_Handler(game : dict):
                 soup = BeautifulSoup(game_val, features='html.parser')
                 temp = ''.join(soup.stripped_strings)
                 game_res[elem] = temp
+            
+            elif elem == 'dlc':
+                DLCs = [str(dlc) for dlc in game_val]
+                game_res[elem] = ", ".join(DLCs)
+            
             else:
                 game_res[elem] = game_val    
-    pprint(game_res)
+    # pprint(game_res)
     return game_res
 
     
@@ -152,6 +159,22 @@ def Demo_Handler(Demo: dict):
         print("------------------------")
 
 
+# Handle all incoming data from the API
+def Data_Handler(Data : dict):
+    case = Data.get('type', None)
+    if case == "game":
+        Game_Handler(Data)
+        
+    elif case == "music":
+        Music_Handler(Data)
+          
+    elif case == "dlc":
+        DLC_Handler(Data)
+     
+    elif case == "demo":
+        Demo_Handler(Data)
+
+
 if __name__ == '__main__':
     # Build paths inside the project like this: BASE_DIR / 'subdir'.
     BASE_DIR = Path(__file__).resolve().parent.parent
@@ -180,7 +203,32 @@ if __name__ == '__main__':
             dictTypes[temp['type']] += 1
 
             if typeOfData == "game":
-                Game_Handler(temp)
+                Game_dict = Game_Handler(temp)
+
+                insert_this = Games(
+                    Game_dict.get('steam_appid'),
+                    Game_dict.get('name'),
+                    Game_dict.get('support_info'),
+                    Game_dict.get('dlc'), 
+                    Game_dict.get('Base_price'),
+                    Game_dict.get("Current_price"),
+                    Game_dict.get("developers"),
+                    Game_dict.get("publishers"),
+                    Game_dict.get("genres"),
+                    Game_dict.get("coming_soon"),
+                    Game_dict.get('date'),
+                    Game_dict.get("required_age"),
+                    Game_dict.get("controller_support"),
+                    Game_dict.get("website"),
+                    Game_dict.get("short_description"),
+                    Game_dict.get("detailed_description"),
+                    Game_dict.get("supported_languages"),
+                    Game_dict.get("windows"),
+                    Game_dict.get("linux"),
+                    Game_dict.get("mac"),
+                    Game_dict.get("header_image")
+                )
+
                 
             elif typeOfData == "music":
                 continue

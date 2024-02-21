@@ -1,0 +1,192 @@
+{
+    "about_the_game": "With a steady step and a light spirit, your adventure starts to\u2026 uh\u2026 wait a second. <br><br>Another crystal shortage?! My train was canceled? Just my luck! Between that and the robots that are attacking us\u2026 <br><br>Hey, since you\u2019re here, why don\u2019t you investigate all that? Yes, yes! You\u2019re the perfect fit for that mission. Go ahead! We\u2019re looking at you! <br><br>Terra Memoria welcomes you with open arms: six lovable characters, an investigation through all ages, a world with crazy inhabitants, and cozy music\u2026 a little RPG with exploration, fighting, construction, and puzzles. <br><br>Visit the past and present to discover who controls the crystals, why the ancient machines are attacking, and how everything is linked (nooo, really?\ud83d\ude31)<h2 class=\"bb_tag\">Main characteristics </h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_1.gif?t=1707297094\" /><br><br>Set up your camp with the handyman and the blacksmith while the summoner and the sorcerer cook tonight\u2019s dinner. By the fireside, stories of a shapeshifter and the tunes of a bard resonate. That\u2019s how another day of travel with your new friends ends. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_2.gif?t=1707297094\" /><br><br>Discover a cute little RPG and its world that combines 3D and pixel art, as well as its authentic music crafted with love. <br><br>What\u2019s important is the journey! Take your time, take every path, and befriend eccentric citizens (why are they so weird?). <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_3.gif?t=1707297094\" /><br><br>Use a unique construction tool to change the world and solve puzzles. Buildings and decorations\u2009\u2013\u2009craft everything and construct a village! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_5.gif?t=1707297094\" /><br><br>A local recipe, the mayor\u2019s portrait, or a real false treasure map? Every piece of information is good to add to this participatory publication. <br><br>Will you find the clues hidden there?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/page_bg_generated_v6b.jpg?t=1707297094",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/page.bg.jpg?t=1707297094",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/capsule_231x87.jpg?t=1707297094",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/capsule_184x69.jpg?t=1707297094",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "demos": [
+        {
+            "appid": 2794020,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h1>More from us</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fa8bT6frb8e\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TEM_Discord.png?t=1707297094\" /></a></p><br><h1>About the Game</h1>With a steady step and a light spirit, your adventure starts to\u2026 uh\u2026 wait a second. <br><br>Another crystal shortage?! My train was canceled? Just my luck! Between that and the robots that are attacking us\u2026 <br><br>Hey, since you\u2019re here, why don\u2019t you investigate all that? Yes, yes! You\u2019re the perfect fit for that mission. Go ahead! We\u2019re looking at you! <br><br>Terra Memoria welcomes you with open arms: six lovable characters, an investigation through all ages, a world with crazy inhabitants, and cozy music\u2026 a little RPG with exploration, fighting, construction, and puzzles. <br><br>Visit the past and present to discover who controls the crystals, why the ancient machines are attacking, and how everything is linked (nooo, really?\ud83d\ude31)<h2 class=\"bb_tag\">Main characteristics </h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_1.gif?t=1707297094\" /><br><br>Set up your camp with the handyman and the blacksmith while the summoner and the sorcerer cook tonight\u2019s dinner. By the fireside, stories of a shapeshifter and the tunes of a bard resonate. That\u2019s how another day of travel with your new friends ends. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_2.gif?t=1707297094\" /><br><br>Discover a cute little RPG and its world that combines 3D and pixel art, as well as its authentic music crafted with love. <br><br>What\u2019s important is the journey! Take your time, take every path, and befriend eccentric citizens (why are they so weird?). <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_3.gif?t=1707297094\" /><br><br>Use a unique construction tool to change the world and solve puzzles. Buildings and decorations\u2009\u2013\u2009craft everything and construct a village! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1912750/extras/TeM_600px_5.gif?t=1707297094\" /><br><br>A local recipe, the mayor\u2019s portrait, or a real false treasure map? Every piece of information is good to add to this participatory publication. <br><br>Will you find the clues hidden there?",
+    "developers": [
+        "La Moutarde"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/header.jpg?t=1707297094",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256997095,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256997095/movie480.mp4?t=1706536798",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256997095/movie_max.mp4?t=1706536798"
+            },
+            "name": "Release Window Trailer + SNF",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256997095/movie.293x165.jpg?t=1706536798",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256997095/movie480_vp9.webm?t=1706536798",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256997095/movie_max_vp9.webm?t=1706536798"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256964905,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256964905/movie480.mp4?t=1692623594",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256964905/movie_max.mp4?t=1692623594"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256964905/movie.293x165.jpg?t=1692623594",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256964905/movie480_vp9.webm?t=1692623594",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256964905/movie_max_vp9.webm?t=1692623594"
+            }
+        }
+    ],
+    "name": "Terra Memoria",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> TBC</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Dear Villagers"
+    ],
+    "ratings": {
+        "dejus": {
+            "banned": "0",
+            "descriptors": "Viol\u00eancia fantasiosa",
+            "rating": "10",
+            "rating_generated": "1",
+            "required_age": "10",
+            "use_age_gate": "0"
+        },
+        "steam_germany": {
+            "banned": "0",
+            "descriptors": "Fantasy-Gewalt",
+            "rating": "12",
+            "rating_generated": "1",
+            "required_age": "12",
+            "use_age_gate": "0"
+        }
+    },
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_bac8a02c15b82143d4a11add1b5f0053776922dc.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_bac8a02c15b82143d4a11add1b5f0053776922dc.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_0e029b8b1599c0d155b5b67e7c85e5b41999760a.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_0e029b8b1599c0d155b5b67e7c85e5b41999760a.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_d924e678852549dbe49086b13051b243f9ccce4c.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_d924e678852549dbe49086b13051b243f9ccce4c.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_70bdeb254ba47751e251ea7eaa7db5ac2c2df5cb.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_70bdeb254ba47751e251ea7eaa7db5ac2c2df5cb.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_32630b715fbad253c0ac740d7e406f30d8794092.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_32630b715fbad253c0ac740d7e406f30d8794092.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_1eb7a7ab50b9f18f8744ff59587a0b2ecf9b322b.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_1eb7a7ab50b9f18f8744ff59587a0b2ecf9b322b.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_0e2a7690dd0b4d158a0a05979f5112fd130b9266.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_0e2a7690dd0b4d158a0a05979f5112fd130b9266.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_ec8c6bda822c3a3177bc8f5ade2058686f3f51bb.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_ec8c6bda822c3a3177bc8f5ade2058686f3f51bb.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_bc21866308e6bfce64caf478996f4e642b206353.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_bc21866308e6bfce64caf478996f4e642b206353.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_77fb00dede4e2e5e6befa6ebae25413ff8a2541e.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_77fb00dede4e2e5e6befa6ebae25413ff8a2541e.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_a4ebd74f069ff7805d527ab61468ef3f8f8e9310.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_a4ebd74f069ff7805d527ab61468ef3f8f8e9310.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_74fdeb0da18b585a7447e1d26a56a9a8cdf4c13c.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_74fdeb0da18b585a7447e1d26a56a9a8cdf4c13c.600x338.jpg?t=1707297094"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_66b7059e52f8e1bf241a42a975435d81830306d4.1920x1080.jpg?t=1707297094",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1912750/ss_66b7059e52f8e1bf241a42a975435d81830306d4.600x338.jpg?t=1707297094"
+        }
+    ],
+    "short_description": "A shortage of magic crystals and the sudden awakening of ancient robots leads six new friends on an incredible investigation across Terra \u2013 a cozy and fantastic world that combines 3D and pixel art.",
+    "steam_appid": 1912750,
+    "support_info": {
+        "email": "support@lamoutarde.io",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+    "type": "game",
+    "website": null
+}
