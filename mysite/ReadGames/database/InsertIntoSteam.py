@@ -36,8 +36,28 @@ class Games():
                         "Short_description", "Detailed_description", "Supported_languages", "windows", "linux", "mac", "Header_image"]
 
         self.insert()
+    
+    def inDB(self, cursor):
+        query = """SELECT id from Games WHERE id = %s"""
+        cursor.execute(query, (self.Insert_dict['id'],))  # Corrected here
+
+        res = cursor.fetchone()
+        if res:
+            return True
+        else:
+            return False
 
     def insert(self):
+
+        connection = connect()
+        cursor = connection.cursor()
+
+        if(self.inDB(cursor)):
+            print("Already inserted into the table")
+            self.close(connection=connection, cursor=cursor)
+            return
+        
+
         Insert_query = f"""
         INSERT INTO Games 
         ({', '.join(self.columns)}) 
@@ -67,11 +87,13 @@ class Games():
         );
         """
 
-        connection = connect()
-        cursor = connection.cursor()
-
         cursor.execute(Insert_query, self.Insert_dict)
         connection.commit()  # Commit changes to the database
+
+        self.close(connection, cursor)
+
+    def close(self,connection, cursor):
+        close_connection(connection=connection, cursor=cursor, )
 
     # ... (other methods)
 
