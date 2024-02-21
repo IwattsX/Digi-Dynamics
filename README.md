@@ -30,7 +30,7 @@ STEAM_API_KEY= "<YOUR_API_KEY>"
 Get this from <a href="https://steamcommunity.com/dev/apikey">https://steamcommunity.com/dev/apikey</a>
 
 
-mysite/database/.env
+mysite/ReadGames/database/.env
 ```
 uname = "<Your_Uname>"
 pass = "<your_pass>"

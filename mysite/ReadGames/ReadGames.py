@@ -15,12 +15,10 @@ from database.InsertIntoSteam import Games
 # to determine if the game supports those OS's
 
 """
-    NOTE: I don't see Controller Support anywhere so dropping the column
-
     Order of mySQL columns to not get confused
     id, Name, support_info, DLC, Base_price, 
     Curr_price, Developer, Publisher, Genres, Coming_soon, 
-    Release_Date, Required_age, Website, Short_description, 
+    Release_Date, Required_age, Controller_support, Website, Short_description, 
     Detailed_description, Supported_languages, PLATFORM, Header_image
 
     Will need to convert most of this to string

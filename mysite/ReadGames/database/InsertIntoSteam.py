@@ -1,6 +1,5 @@
-from .Connect_DB import connect, close_connection
+from .Connect_DB  import connect, close_connection
 
-from .Connect_DB import connect, close_connection
 
 class Games():
     def __init__(self, id : str, name : str, support_info : str, dlc : str, Base_price : int, Current_price : int, Developer : str, Publisher,
