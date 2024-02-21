@@ -23,18 +23,18 @@
         <div>
             <body>
                 <!-- Header -->
-                <h1 class = "header">Steam Scouts</h1>
+                <h1 class = "header" id="title" onclick="homeChange()">Steam Scouts</h1>
 
 
                 <!-- Nav Bar -->
-                <div style = "margin-left: 20px; margin-right: 20px; margin-top: 10px;">
+                <div style = "margin-left: 20px; margin-right: 20px; margin-top: 10px; display: block;">
                     <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white; width: 100%;">
                         <div class="container-fluid" style = "font-size: 25px;"> 
                             <!-- Links -->
                             <ul class="navbar-nav">
                                 <li>
                                     <a class="nav-item nav-link active font-effect-fire" href="{% url 'home' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" onclick="opentab('Home')"> Home</a>
+                                        data-bs-target=".navbar-collapse" onclick="opentab('Home');"> Home</a>
                                 </li>
 
                                 <li>
@@ -112,6 +112,10 @@
         </div>
         </footer>
     <div>
+      
+    <button onclick="myFunction()">Click me!</button>
+
+    <script src="{% static 'js/base.js' %}"></script>
 
 </body>
 
