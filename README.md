@@ -88,31 +88,9 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
   <li>DLC</li>
 </ul>
 
-# Database
-<b>Game Schema</b>
-- Type
-- Name
-- SteamAppID
-- Support Info
-- DLC ("dlc")
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Genre
-- Release_data
-- Top Seller
-- ControllerSupport
-- Image
-- Highlight
-- Trailer
-- Age Requirement
-- Platform ("platforms")
-- languages ("supported languages") 
-- tags ("categories") 
-- Detailed Description
-- Short Description
-- Website
+# Database Tables
+<b>Games</b>
+![alt "Games Table"](./descTables/Games.png)
 
 
 <b>Music Schema</b>
