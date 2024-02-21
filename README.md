@@ -4,6 +4,7 @@
 
 # Prereqs
 - Python version: 3.12
+- python-decouple==3.8
 - Django==5.0.1
 - beautifulsoup4==4.12.3
 - python-steam-api==1.2.2
@@ -11,15 +12,40 @@
 - mySQL: https://dev.mysql.com/downloads/file/?id=526407 
 
 Install all prereqs (except mySQL, that needs to be done through the URL)
+
+Install Individually
+- Decouple
+```
+py -m pip install python-decouple
+```
+
+- Django
+```
+py -m pip install Django
+```
+- beutifulsoup4
+```
+py -m pip install beautifulsoup4
+```
+
+- python-steam-api
+```
+py -m pip install python-steam-api
+```
+
+- mysql-connector-python
+```
+py -m pip install mysql-connector-python
+```
+
+or 
+**Install all of it with**
 ```
 py -m pip install -r requirements.txt
 ```
 
-or 
-Install Individually
-```
-py -m pip install <package>
-```
+
+
 
 NOTE: You are going to have to create 2 .env files in mysite/APICalls and mysite/database
 
@@ -36,6 +62,7 @@ uname = "<Your_Uname>"
 pass = "<your_pass>"
 database = "steam"
 ```
+
 Note: uname will run the SQL through 'uname'@'localhost', I named my database "steam" 
 
 
