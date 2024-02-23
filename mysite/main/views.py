@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from .forms import Games, Demo, DLC, Music
-# from database import Connect_DB
+from .models import select, Games_Model
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -29,6 +29,7 @@ syntax: response.GET.get(key, default)
 def games(response):
     name = ""
     form = Games()
+    games = []
     # This if statement will never run bc the response.method will be "GET"
     if response.method == "POST":
         if form.is_valid():
@@ -38,11 +39,18 @@ def games(response):
     elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
-        name = response.GET.get('name', 'No NAME')
+        name = response.GET.get('name', None)
+        
+        Games_res = select("games", whereClause=f"name REGEXP '^{name}'")
+        for row in Games_res:
+            G_obj = Games_Model(*row)
+            games.append(G_obj)
+
 
     return_dict = {
         "form": form,
         "name" : name,
+        "games" : games
     }
 
     
