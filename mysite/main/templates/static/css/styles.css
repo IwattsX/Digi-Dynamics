@@ -82,6 +82,7 @@ footer {
 }
 .column.middle {
     width: 60%;
+    color:rgb(0, 238, 255);
 }
 .column h2 {
     text-align: center;

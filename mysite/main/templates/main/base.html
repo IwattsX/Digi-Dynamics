@@ -14,6 +14,7 @@
     <title>{% block title%} SS_Home {% endblock %}</title>
     <!--<link rel="stylesheet" href="{% static 'css/w3.css' %}" > -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
     <link rel="stylesheet" href="{% static 'css/styles.css' %}" >
     
 
@@ -22,7 +23,7 @@
         <div>
             <body>
                 <!-- Header -->
-                <h1 class = "header" id="title" onclick="homeChange()">Steam Scouts</h1>
+                <h1 class = "header" id="title" onclick="titleChange();">Steam Scouts</h1>
 
 
                 <!-- Nav Bar -->
@@ -33,32 +34,32 @@
                             <ul class="navbar-nav">
                                 <li>
                                     <a class="nav-item nav-link active font-effect-fire" href="{% url 'home' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" onclick="opentab('Home');"> Home</a>
+                                        data-bs-target=".navbar-collapse" id="home" onclick="homeBtn();">Home</a>
                                 </li>
 
                                 <li>
                                     <a class="nav-item nav-link font-effect-fire" href="{% url 'games' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" onclick="opentab('Games')">Games</a>
+                                        data-bs-target=".navbar-collapse" id="games" onclick="opentab('Games')">Games</a>
                                 </li>
 
                                 <li>
                                 <a class="nav-item nav-link font-effect-fire" href="{% url 'DLC' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                                    onclick="opentab('DLC')">DLC</a>
+                                    id="dlc" onclick="opentab('DLC')">DLC</a>
                                 </li>
 
 
                                 <li>
                                     <a class="nav-item nav-link font-effect-fire" href="{% url 'demo' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" onclick="opentab('Demos')">Demos</a>
+                                        data-bs-target=".navbar-collapse" id="demo" onclick="opentab('Demos')">Demos</a>
                                 </li>
 
                                 <li>
                                 <a class="nav-item nav-link font-effect-fire" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                                    onclick="opentab('Music')">Music</a>
+                                    id="music" onclick="opentab('Music')">Music</a>
                                 </li>
                                     <li>
                                     <a class="nav-item nav-link font-effect-fire" href="{% url 'user' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" onclick="opentab('Users')">Users</a>
+                                        data-bs-target=".navbar-collapse" id="user" onclick="opentab('Users')">Users</a>
                                 </li>
                             </ul>
                         </div>
@@ -73,8 +74,8 @@
         <!-- Content Columns -->
         <div class="row">
             <div class="column side">
-              <h2>Column 1 (Info)</h2>
-              <p>placeholder</p>
+              <h2 style="color:rgb(0, 238, 255)">Column 1 (Info)</h2>
+              <p></p>
               {% block leftCol %} {% endblock %}
             </div>
             
@@ -92,7 +93,7 @@
             <div class="verticalright"></div>
 
             <div class="column side">
-              <h2>Column 3 (More info)</h2>
+              <h2 style="color:rgb(0, 238, 255)"    >Column 3 (More info)</h2>
               <p>placeholder</p>
             </div>
           </div>
@@ -112,9 +113,15 @@
         </div>
         </footer>
     <div>
+    <script>
+        setInterval(myFunction(), 1000);
+    
+    </script>
+        
+
       
 
-    <script src="{% static 'js/base.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/base.js' %}"></script>
 
 </body>
 
