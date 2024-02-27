@@ -20,7 +20,7 @@ body {
     display: block;
 }
 nav .navbar-nav a:hover{
-    color:red !important;
+    color:yellow !important;
 }
 li a{
     display: inline;

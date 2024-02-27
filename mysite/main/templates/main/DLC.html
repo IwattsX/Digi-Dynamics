@@ -4,16 +4,18 @@
 {% block title%} SS_DLC {% endblock %}
 
 {% block content %}
-    <div class="container-fluid">
-        <div style="padding: 10px;" >
-            <form method="get" actions="/games/">
-                {% csrf_token %}
-                {{ form.as_ul }}
+    <body onload="dlcActive()">
+        <div class="container-fluid">
+            <div style="padding: 10px;" >
+                <form method="get" actions="/games/">
+                    {% csrf_token %}
+                    {{ form.as_ul }}
 
-                <button class="button" type="submit" name="Search" style=> SEARCH </button>
-            </form>
+                    <button class="button" type="submit" name="Search" style=> SEARCH </button>
+                </form>
+            </div>
         </div>
-    </div>
+    </body>
 {% endblock %}
 
 {% block middleCol %}
