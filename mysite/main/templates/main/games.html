@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block leftCol %} 
-    {% for game in games %}
+    {% for game in games|slice:"12" %}
         <p style="color: white;">{{game.name}}</h1>
     {% endfor %}
 {% endblock %}

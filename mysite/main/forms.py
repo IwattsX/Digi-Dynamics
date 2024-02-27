@@ -1,14 +1,38 @@
 from django import forms
 
 class Games(forms.Form):
-    name = forms.CharField(label="Game name", max_length=200)
+    name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter Game Name",
+            }
+        ),
+    )
     #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):
-    name = forms.CharField(label="Song name", max_length=200)
+    name = forms.CharField(label="Song name", max_length=200, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter Soundtrack Name",
+            }
+        ),
+    )
 
 class DLC(forms.Form):
-    name = forms.CharField(label="DLC name", max_length=200)
+    name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter DLC Name",
+            }
+        ),
+    )
 
 class Demo(forms.Form):
-    name = forms.CharField(label="Demo name", max_length=200)
+    name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter Demo Name",
+            }
+        ),
+    )
