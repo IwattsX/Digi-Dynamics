@@ -13,12 +13,18 @@ body {
 }
 
 /* Nav Bar  --------------------------------------------------------- */
+.navdiv{
+    margin-left: 200px;  
+    margin-right: 0px; 
+    margin-top: 10px; 
+    display: block;
+}
 nav .navbar-nav a:hover{
-    color:blueviolet !important;
+    color:red !important;
 }
 li a{
     display: inline;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-right: 60px;
 }
 
@@ -66,16 +72,17 @@ footer {
 /* header --------------------------------------------------------- */ 
 .header {
     margin-left: 20px;
-    margin-top: 10px;
+    margin-top: 15px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(0, 238, 255)  !important;
+    color: black  !important;
+    
 }
 
 /* Coloumns  ---------------------------------------------------------*/
 .column.side {
     width: 20%;
-    color:rgb(0, 238, 255);
+    color: red;
 }
 .column {
     margin-top: 20px;
@@ -102,19 +109,26 @@ footer {
 
 /* Vertical Columns --------------------------------------------------------- */
 .verticalleft {
-    margin-top: 40px;
+    margin-top: 0px;
     border-left: 4px solid white;
-    height: 600px;
+    height: 600px;  
     position: absolute;
     left: 20%;
 }
 .verticalright {
-    margin-top: 40px;
+    margin-top: 0px;
     border-left: 4px solid white;
     height: 600px;
     position: absolute;
     left: 80%;
 }
+hr.line{
+    border: 2px solid white; 
+    background: white;
+    background-color: white;
+    opacity: 100%;
+    
+} 
 @media screen and (max-width:600px) {
     .column {
     width: 100%;

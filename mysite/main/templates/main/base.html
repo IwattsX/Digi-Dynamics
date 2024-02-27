@@ -23,12 +23,12 @@
         <div>
             <body>
                 <!-- Header -->
-                <h1 class = "header" id="title" style=>Steam Scouts</h1>
+                <h1 class = "header font-effect-neon" id="title">Steam Scouts</h1>
 
 
                 <!-- Nav Bar -->
-                <div style = "margin-left: 20px; margin-right: 20px; margin-top: 10px; display: block;">
-                    <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white; width: 100%;">
+                <div class ="navdiv">
+                    <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white; width: 88%;">
                         <div class="container-fluid" style = "font-size: 25px;"> 
                             <!-- Links -->
                             <ul class="navbar-nav">
@@ -71,10 +71,14 @@
                 </div>
         </div>
 
+        <hr>
         <!-- Content Columns -->
+
+        <!-- Left Column -->
         <div class="row">
+            <hr class = "line"> <!-- Line on top of columns -->
             <div class="column side">
-              <h2>Column 1 (Info)</h2>
+              <h2>Column 1 (remove)</h2>
               <p></p>
               {% block leftCol %} {% endblock %}
             </div>
@@ -82,6 +86,7 @@
             <!-- Left side vertical line -->
             <div class="verticalleft"></div>
             
+        <!-- Middle Column -->
             <div class="column middle">
                 {% block middleCol %}
                 {% endblock %}
@@ -92,8 +97,9 @@
             <!-- Right side vertical line-->
             <div class="verticalright"></div>
 
+        <!-- Right Column -->
             <div class="column side">
-              <h2>Column 3 (More info)</h2>
+              <h2>Column 3 (remove)</h2>
               <p></p>
             </div>
           </div>
