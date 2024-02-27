@@ -19,9 +19,3 @@ let user = document.getElementById("user");
 function homeBtn(){
     home.classList.add("font-effect-fire");
 }
- 
-//On Title Click
-function titleChange(){
-    alert("hi");
-    document.getElementById("title").classList.add("font-effect-fire");
-}

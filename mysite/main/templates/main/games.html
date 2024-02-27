@@ -1,7 +1,6 @@
 <!--games.html-->
 {% extends 'main/base.html' %}
 
-
 {% block title%} SS_games {% endblock %}
 
 {% block content %}
@@ -18,7 +17,7 @@
 {% endblock %}
 
 {% block leftCol %} 
-    {% for game in games|slice:":12" %}
+    {% for game in games %}
         <p style="color: white;">{{game.name}}</h1>
     {% endfor %}
 {% endblock %}

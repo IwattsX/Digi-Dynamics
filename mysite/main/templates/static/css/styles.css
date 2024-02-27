@@ -1,6 +1,4 @@
-/* nav .navbar-nav li a{
-    color: white !important;
-} */
+
 body {
     background-image: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-color: black;
@@ -9,6 +7,12 @@ body {
     overflow-x: hidden;
     
 }
+.page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+/* Nav Bar  --------------------------------------------------------- */
 nav .navbar-nav a:hover{
     color:blueviolet !important;
 }
@@ -17,6 +21,8 @@ li a{
     margin-left: 150px;
     margin-right: 60px;
 }
+
+/* Footer  ---------------------------------------------------------*/
 footer {
     text-align: center;
     position: absolute;
@@ -53,25 +59,23 @@ footer {
     overflow: hidden;
 }
 
-.page-container {
-    position: relative;
-    min-height: 100vh;
-}
-
 .content-wrap {
     padding-bottom: 2.5rem;    /* Footer height */
 }
 
-
+/* header --------------------------------------------------------- */ 
 .header {
     margin-left: 20px;
     margin-top: 10px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(255, 255, 255)  !important;
+    color: rgb(0, 238, 255)  !important;
 }
+
+/* Coloumns  ---------------------------------------------------------*/
 .column.side {
     width: 20%;
+    color:rgb(0, 238, 255);
 }
 .column {
     margin-top: 20px;
@@ -95,6 +99,8 @@ footer {
     display: table;
     clear: both;
 }
+
+/* Vertical Columns --------------------------------------------------------- */
 .verticalleft {
     margin-top: 40px;
     border-left: 4px solid white;
@@ -114,6 +120,8 @@ footer {
     width: 100%;
     }
 }
+
+/* Input Form CSS --------------------------------------------------------- */
 form { 
     margin: 0 auto; 
     width:1750px;
@@ -122,9 +130,19 @@ form {
     color:white; 
     text-align: center;
 }
-input {
+input[type=text] {
     width: 20%;
+    padding: 4px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(0, 238, 255);
+    border-radius: 4px;
+    background-color: #000000;
+    color: white;
 }
 .button{
     margin-top: 10px;
+    background-color: rgb(0, 238, 255);
+    font-size: 10px;
+    border-radius: 50%  ;
 }
