@@ -40,7 +40,48 @@ class Games_Model():
     def __init__(self,  id : str, name : str, support_info : str, dlc : str, Base_price : int, Current_price : int, Developer : str, Publisher,
                  Genre : str, Coming_soon : bool, Release_Date : str, Required_age : int, Controller_support : str, Website : str, Short_desc : str,
                  Detailed_desc : str, Supported_languages : str, windows : bool, linux : bool, mac : bool, Header_image : str):
+        self.id = id
         self.name = name
+        self.support_info = support_info
+        self.dlc = dlc
+
+        # Price info
+        if not Current_price is None:
+            self.Current_price = Current_price/100
+        else:
+            self.Current_price = Current_price
+        
+        if not Base_price is None:
+            self.Base_price = Base_price/100
+        else:
+            self.Base_price = Base_price
+
+        # Dev and pub INFO
+        self.Developers = Developer
+        self.Publishers = Publisher
+
+        self.Genre = Genre
+
+        # Release Information
+        self.Coming_soon = Coming_soon
+        self.Release_Date = Release_Date
+
+        self.Required_age = Required_age
+        self.Controller_support = Controller_support
+        self.Website = Website
+
+        #Descriptions
+        self.short_desc = Short_desc
+        self.Detailed_desc = Detailed_desc
+
+        self.Supported_languages = Supported_languages
+
+        # Platforms
+        self.windows = windows
+        self.linux = linux
+        self.mac = mac
+
+        self.Header_image = Header_image
 
 
 # Example here

@@ -20,15 +20,29 @@
 
 {% block leftCol %} 
     {% for game in games|slice:"11" %}
-        <p style="color: white;">{{game.name}}</h1>
+        <a href="https://store.steampowered.com/app/{{game.id}}" style="text-decoration: none;"><p style="color: white;">{{game.name}}</p></a>
     {% endfor %}
 {% endblock %}
 
 
 {% block middleCol %}
     <h1 style="text-align: center;">Games Column</h1>
+    {% for game in games|slice:"11" %}
+        <p style="color:white">{{game.short_desc}}</p>
+    {% endfor %}
 {% endblock %}
 
+{% block rightCol %}
+    {% for game in games|slice:"11" %}
+        {% if game.Current_price is None %}
+            <p style="color:white">No Price Found</p>
+        {% else %}
+        <p style="color: white;">${{game.Current_price}}</p>
+        {% endif %}
+        
+    {% endfor %}
+
+{% endblock %}
 
 <!--IF NEED TO ACCESS THESE AT ALL-->
         <!-- <h1 style="color: red;"> {{ name }} </h1>
