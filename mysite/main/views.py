@@ -41,7 +41,7 @@ def games(response):
         print(response.GET)
         name = response.GET.get('name', None)
         
-        Games_res = select("games", whereClause=f"name REGEXP '^{name}'")
+        Games_res = select("Games", whereClause=f"name REGEXP '^{name}'")
         for row in Games_res:
             G_obj = Games_Model(*row)
             games.append(G_obj)
