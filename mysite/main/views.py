@@ -50,7 +50,8 @@ def games(response):
     return_dict = {
         "form": form,
         "name" : name,
-        "games" : games
+        "games" : games,
+        "display": "none" if len(games) == 0 else "block"
     }
 
     

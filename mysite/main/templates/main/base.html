@@ -16,10 +16,27 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
     <link rel="stylesheet" href="{% static 'css/styles.css' %}" >
+
+    <style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+        background-color: black;
+        opacity: 0.77;
+        color:white;
+    }
+</style>
+    </style>
     
 
 </head>
-    <div>
         <div>
             <body>
                 <!-- Header -->
@@ -67,47 +84,19 @@
                 </div>
 
                 <div id="content">
-                {% block content %}{% endblock %}
+                    {% block content %}{% endblock %}
                 </div>
         </div>
 
         <hr>
         <!-- Content Columns -->
-
-        <!-- Left Column -->
-        <div class="row">
-            <hr class = "line"> <!-- Line on top of columns -->
-            <div class="column side">
-              <h2>Column 1 (remove)</h2>
-              <p></p>
-              {% block leftCol %} {% endblock %}
-            </div>
-            
-            <!-- Left side vertical line -->
-            <div class="verticalleft"></div>
-            
-        <!-- Middle Column -->
-            <div class="column middle">
-                {% block middleCol %}
-                {% endblock %}
-              <!-- <h2>Column 2 (Game Information Display)</h2>
-              <p>placeholder</p> -->
-            </div>
-
-            <!-- Right side vertical line-->
-            <div class="verticalright"></div>
-
-        <!-- Right Column -->
-            <div class="column side">
-              <h2>Column 3 (remove)</h2>
-              {% block rightCol %}
-              {% endblock %}
-            </div>
-          </div>
+        <div>
+            {% block tables %}{% endblock %}
+        </div>
 
 
         <!-- Footer -->
-        <footer>
+        <!-- <footer>
             <div class="footer-container">      
             <a class="link footer-left" href="{% url 'home' %}">Steam Scouts</a>
             <a class="link footer-right" href="mailto:someone@example.com">Contact</a>
@@ -118,8 +107,9 @@
             2024 &copy by Steam Scouts
             </p>
         </div>
-        </footer>
-    <div>
+        </footer> -->
+
+    
         
 
       

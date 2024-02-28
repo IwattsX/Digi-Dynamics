@@ -3,6 +3,10 @@ function myFunction() {
     alert("Hello change!");
 }
 
+function onClickGameForm(){
+    alert("Clicked form");
+}
+
 //navbar
 
 //navbar variable
