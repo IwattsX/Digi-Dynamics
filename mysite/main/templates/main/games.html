@@ -4,14 +4,19 @@
 {% block title%} SS_games {% endblock %}
 
 {% block content %}
-    <body onload="gamesActive()">
+    <body>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                gamesActive();
+            });
+        </script>
         <div class="container-fluid">
             <div style="padding: 10px;" >
                 <form class = "searchbar" method="get" actions="/games/">
                     {% csrf_token %}
                     {{ form.as_ul }}
 
-                    <button class="button" type="submit" name="Search" onclick="onClickGameForm()"> SEARCH </button>
+                    <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button>
                 </form>
             </div>
         </div>
@@ -20,8 +25,9 @@
 
 
 {% block tables %}
-    <table>
-        <tbody style="display: {{ display }}">
+    {% if display == 'block' %}
+    <table id = "table_games">
+        <tbody>
             <tr>
                 <th>Name</th>
                 <th>Description</th>
@@ -40,6 +46,7 @@
             {% endfor %}
         </tbody>
     </table>
+    {% endif %}
 {% endblock %}
 
 
