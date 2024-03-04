@@ -35,10 +35,20 @@
             </tr>      
             {% for game in games %}
                 <tr>
-                    <td>{{game.name}}</td>
+                    <td>{{game.name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
+                        steam link
+                    </a></td>
                     <td>{{game.short_desc}}</td>
                     {% if game.Current_price is None %}
-                    <td>No Price Found</td>
+                    
+                        {% if game.Coming_soon %}
+                            <td>Game is coming soon!</td>
+                        {% elif game.Release_Date %}
+                            <td>Releasing: {{game.Release_Date}}</td>
+                        {% else %}
+                            <td>FREE</td>
+                        {% endif %}
+
                     {% else %}
                         <td>${{game.Current_price}}</td>
                     {% endif %}

@@ -63,7 +63,8 @@ table_Queries = [
     Supported_languages VARCHAR(255),
     PLATFORM VARCHAR(255),
     Header_image VARCHAR(255),
-    Fullgame_id char(7)
+    Fullgame_id char(7),
+    FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     )
     """,
 
@@ -91,7 +92,8 @@ table_Queries = [
     Supported_languages VARCHAR(255),
     PLATFORM VARCHAR(255),
     Fullgame_id char(7),
-    Header_image VARCHAR(255)
+    Header_image VARCHAR(255),
+    FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     );
     """
 ]
