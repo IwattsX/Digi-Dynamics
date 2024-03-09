@@ -5,6 +5,7 @@ class Games(forms.Form):
             attrs={
                 "class": "searchForm",
                 "placeholder": "Enter Game Name",
+                "id": "placeholderName"
             }
         ),
     )

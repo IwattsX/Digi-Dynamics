@@ -42,3 +42,6 @@ function userActive(){
     user.classList.remove("font-effect-fire");
     
 }
+
+//Placeholder Functions
+function 

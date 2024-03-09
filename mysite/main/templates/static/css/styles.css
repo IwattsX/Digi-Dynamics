@@ -169,4 +169,21 @@ input[type=text] {
 .searchForm{
     text-align: center;
 }
+.gameTable tr{
+    text-align: center;
+    color:blue;
+    
+}
+/* Tables */
+tr:hover{
+    background-color: white;
+}
+.gameName{
+    padding: 20px;
+    text-align: center;
+}
+.gameName a {
+    color:rgb(0, 238, 255);
+}
+ 
 

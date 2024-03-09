@@ -15,7 +15,12 @@
                 <form class = "searchbar" method="get" actions="/games/">
                     {% csrf_token %}
                     {{ form.as_ul }}
-
+                    <select class="genreTag" style="height:25px;width:70px">
+                        <option>Name</option>
+                        <option value="G">Genre</option>
+                        <option value="P">Publisher</option>
+                        <option value="Y">Date</option>
+                    </select>
                     <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button>
                 </form>
             </div>
@@ -35,8 +40,8 @@
             </tr>      
             {% for game in games %}
                 <tr>
-                    <td>{{game.name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
-                        steam link
+                    <td class="gameName">{{game.name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
+                        Steam Link
                     </a></td>
                     <td>{{game.short_desc}}</td>
                     {% if game.Current_price is None %}
