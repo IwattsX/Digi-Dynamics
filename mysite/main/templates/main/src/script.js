@@ -1,1 +1,0 @@
-// For the frontend future of the website

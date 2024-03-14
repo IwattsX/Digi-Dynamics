@@ -1,1 +1,0 @@
-This is an API call that uses this url 'http://api.steampowered.com/ISteamApps/GetAppList/v0002/' to acquire a lot of games from it. 
