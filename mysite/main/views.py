@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from .forms import Games, Demo, DLC, Music
-from .models import select, Games_Model
+from .models import select
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -41,10 +41,13 @@ def games(response):
         print(response.GET)
         name = response.GET.get('name', None)
         
-        Games_res = select("Games", whereClause=f"name REGEXP '^{name}'")
+        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", whereClause=f"name REGEXP '^{name}'")
         for row in Games_res:
-            G_obj = Games_Model(*row)
-            games.append(G_obj)
+            if not row.get("Base_price") is None:
+                row["Base_price"] = row["Base_price"]/100
+            if not row.get("Current_price") is None:
+                row["Current_price"] = row["Current_price"]/100
+            games.append(row)
 
 
     return_dict = {
