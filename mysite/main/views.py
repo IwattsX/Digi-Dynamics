@@ -41,7 +41,8 @@ def games(response):
         print(response.GET)
         name = response.GET.get('name', None)
         
-        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", whereClause=f"name REGEXP '^{name}'")
+        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
+        whereClause=f"Name REGEXP '^{name}'")
         for row in Games_res:
             if not row.get("Base_price") is None:
                 row["Base_price"] = row["Base_price"]/100
