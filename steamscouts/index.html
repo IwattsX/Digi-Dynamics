@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Insert to DB</title>
+    <style>
+        .inputData{
+            float: left;
+            margin-left: 10px;
+        }
+        textarea{
+            height:100px;
+        }
+        .buttonSize{
+            width: 125px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Use this form to insert rows in Games table</h2>
+    <form method = "POST" action = "game_insert_form.php">
+        <div class="inputData">
+        <label>Steam ID</label><br>
+        <input type = "text" name="ID" required><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Game Name</label><br>
+        <input type = "text" name="name" required><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Support Info</label><br>
+        <input type = "text" name="supportInfo"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Game has DLC?</label><br>
+        <select name = "containsDLC" required class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Base Price</label><br>
+        <input type = "number" name="bPrice" step="0.01"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Current Price</label><br>
+        <input type = "number" name = "cPrice" step="0.01"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Developer</label><br>
+        <input type = "text" name = "developer"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Publisher</label><br>
+        <input type = "text" name = "publisher"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Genre</label><br>
+        <input type = "text" name = "genre"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Coming Soon?</label><br>
+        <select name = "comingSoon" class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select> <br><br>
+        </div>
+
+        <br><br><br><br><br><br>
+        
+        <div class="inputData">
+        <label>Release Date</label><br>
+        <input type = "text" name = "date"><br><br>
+         </div>
+
+        <div class="inputData">
+        <label>Age Requirement</label><br>
+        <input type = "number" name = "reqAge"><br><br>
+        </div>
+
+        <div class="inputData">
+        <label>Controller Support:</label><br>
+        <select name = "cSupport" class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Website</label><br>
+        <input type = "text" name = "web"><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Short Description</label><br>
+        <textarea name="sDescription"></textarea><br><br>
+    </div>
+        
+        <div class="inputData">
+        <label>Detailed Description</label><br>
+        <textarea name="dDescription"></textarea><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Supported Languages</label><br>
+        <input type = "text" name="sLanguage"><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Available on Windows?</label><br>
+        <select name = "windows" class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Available on Linux?</label><br>
+        <select name = "linux" class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Available on Mac?</label><br>
+        <select name = "mac" class="buttonSize">
+            <option value="Y">Yes</option>
+            <option value="N">No</option>
+        </select><br><br>
+    </div>
+
+        <div class="inputData">
+        <label>Header Image Url</label><br>
+        <input type = "text" name="header"><br> <br>
+        </div>
+
+        <br><br>
+        <div style="margin-top: 200px; text-align: center;">
+        <input type = "submit" value = "Insert Record" style="width: 200px; height: 100px;">
+        </div>
+    </form>
+</body>
+</html>
