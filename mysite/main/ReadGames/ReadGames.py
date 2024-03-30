@@ -2,54 +2,12 @@ from bs4 import BeautifulSoup
 import json 
 import os
 from pathlib import Path
-from pprint import pprint
-from database.InsertIntoSteam import Games
+from database.InsertIntoSteam import Games, Music
 
+# comment this out when we won't use it anymore for debugging
+from pprint import pprint
 
 # Python file for handling all the date inside of the Games Folder
-
-# All files have a "minimum" in them
-# However PC_requirements seems to be the only thing that matters
-# Both a minimum and a recommended
-# Since steam is primarily for PC and we can just use linux: windows: and Mac: keys
-# to determine if the game supports those OS's
-
-"""
-    Order of mySQL columns to not get confused
-    id, Name, support_info, DLC, Base_price, 
-    Curr_price, Developer, Publisher, Genres, Coming_soon, 
-    Release_Date, Required_age, Controller_support, Website, Short_description, 
-    Detailed_description, Supported_languages, PLATFORM, Header_image
-
-    Will need to convert most of this to string
-    DLC is of type list but convert to a string using 
-
-    Note if sometimes price_overview is NULL, so assume either it is 0 or "coming soon" and possibly doesn't have a price yet
-
-    Base_price = price_overview.initial
-    current_price = price_overview.final
-
-    Developers and Publishers are list types
-
-    Genres will be a list type
-
-    release_date and Coming Soon under:
-    release_date['date']
-    release_date['coming_soon']
-
-    platforms.x
-    x = 
-    windows: ... BOOL
-    linux: ...
-    mac: ...
-
-    header_image
-
-
-    NOTE: Most of these things need a BeutifulSoup HTML.parser
-
-
-"""
 
 
 def Game_Handler(game : dict):
@@ -115,28 +73,9 @@ def Game_Handler(game : dict):
                 game_res[elem] = ", ".join(DLCs)
             
             else:
-                game_res[elem] = game_val    
+                game_res[elem] = game_val
     # pprint(game_res)
     return game_res
-
-    
-
-
-    # game_number += 1
-    # for elem in Elements:
-    #     print(game_number)
-    #     if game.get(elem):
-    #         print(game[elem])
-    #     else:
-    #         print("THIS IS A NONETYPE")
-        
-
-    # soup  = BeautifulSoup(game.get("about_the_game", "Nothing here"),"html.parser")
-    # text_without_code = "".join(soup.stripped_strings)
-    # game["about_the_game"] = text_without_code
-    # for k, v in game.items():
-    #     print(k)
-    #     print("------------------------")
 
 def DLC_Handler(DLC:dict):
     for k, v in DLC.items():
@@ -144,11 +83,95 @@ def DLC_Handler(DLC:dict):
         print(v)
         print("------------------------")
 
+"""
+- SteamAppID
+- Name 
+- Base_price
+- Current_Price
+- Developer 
+- Publisher
+- Release_data
+- ControllerSupport
+- Image
+- Support Info
+- Website
+- Detailed Description
+- Short Description
+- Age Requirement
+- Platform ("platforms")
+- languages ("supported languages")
+- fullgame.appid 
+"""
+
+
 def Music_Handler(Music : dict):
-    for k, v in Music.items():
-        print(k)
-        print(v)
-        print("------------------------")
+    # pprint(Music)
+    music_res = dict()
+    Elements = ["steam_appid","name", "support_info", 
+                "price_overview", "developers", "publishers", 
+                "release_date", "required_age", "website", "short_description", 
+                "detailed_description", "supported_languages", "platforms", "header_image", 
+                "controller_support", "fullgame"]
+    for elem in Elements:
+        music_val = Music.get(elem)
+
+        if music_val:
+            if elem == "price_overview":
+                music_res["Base_price"] = music_val.get("initial", None)
+                music_res["Current_price"] = music_val.get("final", None)
+            
+            elif elem == "fullgame":
+                music_res[elem] = music_val.get("appid", None)
+
+            elif elem in ["developers", "publishers"]:
+                music_res[elem] = ", ".join(e for e in music_val)
+            
+            elif elem == "genres":
+                genres = [genre.get("description") for genre in music_val if genre]
+                music_res[elem] = ", ".join(genres)
+
+            elif elem == "release_date":
+                coming_soon = music_val.get("coming_soon")
+                date = music_val.get("date")
+
+                music_res["coming_soon"] = coming_soon
+                music_res['date'] = date
+
+            elif elem == "platforms":
+                music_res["windows"] = music_val.get("windows", False)
+                music_res["linux"] = music_val.get("linux", False)
+                music_res["mac"] = music_val.get("mac", False)
+
+                # print(f"Windows: {game_res["windows"]}\nLinux: {game_res["linux"]}\nmac {game_res["mac"]}")
+            elif elem == "support_info":
+                music_res[elem] = music_val.get("email")
+            
+            elif elem == "steam_appid":
+                # Need to convert the steam id to string not int when inserting into mySQL
+                music_res[elem] = str(music_val)
+            
+            elif elem == "controller_support":
+                music_res["controller_support"] = music_val
+            
+            elif elem in ["detailed_description", "short_description"]:
+                soup = BeautifulSoup(music_val, features='html.parser')
+                temp = ''.join(soup.stripped_strings)
+                music_res[elem] = temp
+
+            elif type(music_val) == str and "http" not in music_val:
+                soup = BeautifulSoup(music_val, features='html.parser')
+                temp = ''.join(soup.stripped_strings)
+                music_res[elem] = temp
+            
+            elif elem == 'dlc':
+                DLCs = [str(dlc) for dlc in music_val]
+                music_res[elem] = ", ".join(DLCs)
+            
+            else:
+                music_res[elem] = music_val
+    # pprint(music_res)
+    return music_res
+
 
 def Demo_Handler(Demo: dict):
     for k, v in Demo.items():
@@ -194,7 +217,7 @@ if __name__ == '__main__':
     for file in os.listdir(GamesDir):
         filePath = f"{GamesDir}/{file}"
 
-        print(filePath)
+        # print(filePath)
         with open(filePath, 'r') as inputFile:
             temp = json.load(inputFile)
             typeOfData = temp['type']
@@ -203,7 +226,7 @@ if __name__ == '__main__':
             if typeOfData == "game":
                 Game_dict = Game_Handler(temp)
 
-                insert_this = Games(
+                Games(
                     Game_dict.get('steam_appid'),
                     Game_dict.get('name'),
                     Game_dict.get('support_info'),
@@ -229,10 +252,31 @@ if __name__ == '__main__':
 
                 
             elif typeOfData == "music":
-                continue
-                Music_Handler(temp)
-                
-            
+                Music_dict = Music_Handler(temp)
+
+                Music(
+                    Music_dict.get("steam_appid"),
+                    Music_dict.get("name"),
+                    Music_dict.get("support_info"),
+                    Music_dict.get("Base_price"),
+                    Music_dict.get("Current_price"),
+                    Music_dict.get("developers"),
+                    Music_dict.get("publishers"),
+                    Music_dict.get("coming_soon"),
+                    Music_dict.get("date"),
+                    Music_dict.get("required_age"),
+                    Music_dict.get("controller_support"),
+                    Music_dict.get("website"),
+                    Music_dict.get("short_description"),
+                    Music_dict.get("detailed_description"),
+                    Music_dict.get("supported_languages"),
+                    Music_dict.get("windows"),
+                    Music_dict.get("linux"),
+                    Music_dict.get("mac"),
+                    Music_dict.get("header_image"),
+                    Music_dict.get("fullgame"),
+                )
+
             elif typeOfData == "dlc":
                 continue
                 DLC_Handler(temp)
