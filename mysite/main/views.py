@@ -11,7 +11,7 @@ from .models import select
 
 def base(response):
     my_dict = dict()
-    my_dict["game"] = ["Baldur's Gate III", "Terraria"]
+    # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
     return render(response, "main/base.html", my_dict)
 
 def home(response):
@@ -64,13 +64,26 @@ def games(response):
 
 def music(response):
     form = Music()
-    if response.method == "POST":
-        form = Music(response.POST)
-        if form.is_valid():
-            pass
-    else:
-        pass
-    return render(response, "main/music.html", {'form' : form})
+    Music_list = []
+    if response.method == "GET":
+        print("Get response for music")
+        print(response.GET)
+        Song_name = response.GET.get('name', None)
+
+        Games_res = select("Music", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
+        whereClause=f"Name REGEXP '{Song_name}'")
+        for row in Games_res:
+            if not row.get("Base_price") is None:
+                row["Base_price"] = row["Base_price"]/100
+            if not row.get("Current_price") is None:
+                row["Current_price"] = row["Current_price"]/100
+            Music_list.append(row)
+    return_dict = {
+        'form' : form,
+        "musics" : Music_list,
+        "display": "none" if len(Music_list) == 0 else "block"
+    }
+    return render(response, "main/music.html", return_dict)
 
 
 def dlc_view(response):

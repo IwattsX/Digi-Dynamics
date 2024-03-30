@@ -5,7 +5,7 @@
     <body onload="musicActive()">
         <div class="container-fluid">
             <div style="padding: 10px;" >
-                <form method="get" actions="/games/">
+                <form method="get" actions="/musics/">
                     {% csrf_token %}
                     {{ form.as_ul }}
                     
@@ -16,8 +16,42 @@
     </body>
 {% endblock %}
 
-{% block middleCol %}
-    <h1 style="text-align: center;">Music Column</h1>
+
+{% block tables %}
+    {% if display == 'block' %}
+    <table id = "table_musics">
+        <tbody>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>      
+            {% for music in musics %}
+                <tr>
+                    <td class="musicName">{{music.Name}}<br><a href="https://store.steampowered.com/app/{{ music.id }}">
+                        Steam Link
+                    </a></td>
+                    <td>{{music.Short_description}}</td>
+                    {% if music.Current_price is None %}
+
+                        {% if not music.Base_price is None%}
+                            <td> ${{ music.Base_price }} </td>
+                        {% elif music.Coming_soon %}
+                            <td>music is coming soon!</td>
+                        {% elif music.Release_Date %}
+                            <td>Releasing: {{music.Release_Date}}</td>
+                        {% else %}
+                            <td>FREE</td>
+                        {% endif %}
+
+                    {% else %}
+                        <td>${{music.Current_price}}</td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
 {% endblock %}
 
 <!--HOW TO PUT A YT vid on here, may use this for Youtube instead-->

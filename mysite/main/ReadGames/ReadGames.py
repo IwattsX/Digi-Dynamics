@@ -9,6 +9,11 @@ from pprint import pprint
 
 # Python file for handling all the date inside of the Games Folder
 
+# For trailers or how steam calls it "Movies"
+# TODO: Make this work with the Games_Hander for the Movies Data
+def Movie_Handler(Movies : dict):
+    pass
+
 
 def Game_Handler(game : dict):
     # Only elements we care about for the most part
@@ -194,6 +199,10 @@ def Data_Handler(Data : dict):
      
     elif case == "demo":
         Demo_Handler(Data)
+    
+    # # edge case when the Steam Web API gives me a type movie
+    # elif case == "movie":
+    #     Movie_Handler(Data)
 
 
 if __name__ == '__main__':
