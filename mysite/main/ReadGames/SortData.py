@@ -12,9 +12,10 @@ GamesDir = f"{BASE_DIR}/Games"
 
 Data_dir = f"{BASE_DIR}/ReadGames/Data"
 
-
-
-FoldersInData = os.listdir(Data_dir)
+for folder in ["game", "music", "dlc", "demo"]:
+    folder_path = f"{Data_dir}/{folder}"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
 
 if __name__ == '__main__':
     for file in os.listdir(GamesDir):
@@ -25,4 +26,7 @@ if __name__ == '__main__':
             typeOfData = temp['type']
             
             if typeOfData in ["game", "music", "dlc", "demo"]:
-                shutil.copy(filePath, f"{Data_dir}/{typeOfData}")
+                if os.path.exists(f"{Data_dir}/{typeOfData}/{file}"):
+                    print("This file has already been copied")
+                else:
+                    shutil.copy(filePath, f"{Data_dir}/{typeOfData}")
