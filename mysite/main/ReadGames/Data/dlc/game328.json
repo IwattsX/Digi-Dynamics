@@ -1,0 +1,148 @@
+{
+    "about_the_game": "Fantasy-themed RPG BGM created with orchestral soundtracks, evoking the imagery of forests, meadows, and lush green landscapes.<br />\r\n<br />\r\nThis music will immerse your game in an enchanting fantasy world, making you feel like wandering through the fields endlessly.<br />\r\n<br />\r\nAll tracks are designed to seamlessly loop.<br />\r\n<br />\r\n*******************************************<br />\r\n\u25cfAudio: 6 Tracks<br />\r\n<br />\r\n\u25cfThemes in mind for each tracks<br />\r\nDLC_RPGFMPG_01: Gentle, powerful<br />\r\nDLC_RPGFMPG_02: Calm, Beautiful<br />\r\nDLC_RPGFMPG_03: Melancholy, Dusk<br />\r\nDLC_RPGFMPG_04: Mysterious, Enigmatic, Night<br />\r\nDLC_RPGFMPG_05: Slight Sadness, Powerful, Fantastical<br />\r\nDLC_RPGFMPG_06: Slight Sadness, Powerful, Life<br />\r\n<br />\r\n*******************************************<br />\r\n<br />\r\n<br />\r\n\u30fbThis pack is for use in RPG Maker Series or the engine of your choice.<br />\r\n\u30fbOK to be used in Commercial projects made in RPG Maker<br />\r\n\u30fbRights must be indicated when using assets.<br />\r\n\u30fbYou may modify some of the assets (but not redistribute them) for your own game use only.<br />\r\n\u30fbAll copyrights, neighboring rights, and all other rights to this material belong to the creator or a third party authorized by the creator.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/page_bg_generated_v6b.jpg?t=1704935185",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/page_bg_generated.jpg?t=1704935185",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/capsule_231x87.jpg?t=1704935185",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/capsule_184x69.jpg?t=1704935185",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Fantasy-themed RPG BGM created with orchestral soundtracks, evoking the imagery of forests, meadows, and lush green landscapes.<br />\r\n<br />\r\nThis music will immerse your game in an enchanting fantasy world, making you feel like wandering through the fields endlessly.<br />\r\n<br />\r\nAll tracks are designed to seamlessly loop.<br />\r\n<br />\r\n*******************************************<br />\r\n\u25cfAudio: 6 Tracks<br />\r\n<br />\r\n\u25cfThemes in mind for each tracks<br />\r\nDLC_RPGFMPG_01: Gentle, powerful<br />\r\nDLC_RPGFMPG_02: Calm, Beautiful<br />\r\nDLC_RPGFMPG_03: Melancholy, Dusk<br />\r\nDLC_RPGFMPG_04: Mysterious, Enigmatic, Night<br />\r\nDLC_RPGFMPG_05: Slight Sadness, Powerful, Fantastical<br />\r\nDLC_RPGFMPG_06: Slight Sadness, Powerful, Life<br />\r\n<br />\r\n*******************************************<br />\r\n<br />\r\n<br />\r\n\u30fbThis pack is for use in RPG Maker Series or the engine of your choice.<br />\r\n\u30fbOK to be used in Commercial projects made in RPG Maker<br />\r\n\u30fbRights must be indicated when using assets.<br />\r\n\u30fbYou may modify some of the assets (but not redistribute them) for your own game use only.<br />\r\n\u30fbAll copyrights, neighboring rights, and all other rights to this material belong to the creator or a third party authorized by the creator.",
+    "developers": [
+        "F.Takumi",
+        "Gotcha Gotcha Games"
+    ],
+    "fullgame": {
+        "appid": "1096900",
+        "name": "RPG Maker MZ"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Education",
+            "id": "54"
+        },
+        {
+            "description": "Web Publishing",
+            "id": "59"
+        },
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/header.jpg?t=1704935185",
+    "is_free": false,
+    "legal_notice": "\u00a9Gotcha Gotcha Games Inc. \u00a9F.Takumi",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988673,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988673/movie480.mp4?t=1704935178",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988673/movie_max.mp4?t=1704935178"
+            },
+            "name": "PV",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988673/movie.293x165.jpg?t=1704935178",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988673/movie480_vp9.webm?t=1704935178",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988673/movie_max_vp9.webm?t=1704935178"
+            }
+        }
+    ],
+    "name": "RPG Maker MZ - RPG Field Music Pack Green",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RPG Maker MZ - RPG Field Music Pack Green - $8.99",
+                    "packageid": 980132,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 899
+                }
+            ],
+            "title": "Buy RPG Maker MZ - RPG Field Music Pack Green"
+        }
+    ],
+    "packages": [
+        980132
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 899,
+        "final_formatted": "$8.99",
+        "initial": 899,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Gotcha Gotcha Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 10, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/ss_e11419d74aac97dd1c2d656dbe713a0c47e3d465.1920x1080.jpg?t=1704935185",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739380/ss_e11419d74aac97dd1c2d656dbe713a0c47e3d465.600x338.jpg?t=1704935185"
+        }
+    ],
+    "short_description": "Fantasy-themed RPG BGM created with orchestral soundtracks, evoking the imagery of forests, meadows, and lush green landscapes. This music will immerse your game in an enchanting fantasy world, making you feel like wandering through the fields endlessly.",
+    "steam_appid": 2739380,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgmakerofficial.com/en/contactform/"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "dlc",
+    "website": "https://rpgmakerofficial.com/product/makerofficialdlc/"
+}

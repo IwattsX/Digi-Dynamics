@@ -1,0 +1,158 @@
+{
+    "about_the_game": "<strong> Even if you don't play games often,<br>You might be able to see the ending an hour after you pick up this game.</strong><h2 class=\"bb_tag\">Introduction</h2>&quot;Hoshi_no_Natchan&quot; is a retro style pixel art 2D action game.<br>This game was created so that even people who are not very good at games can experience the fun of clearing the game.<br><ul class=\"bb_ul\"><li>Wow you went ahead!<br></li><li>You jump well!<br></li><li> You are great at collecting stars!<br></li><li> It's cool when you fight the enemy!<br></li><li> It's cute even if you make a mistake!<br></li><li> Even if you get game over, you keep trying and don't give up!<br></li><li>Let's hope you reach the goal! </li></ul>I would be happy if you could think, &quot;Games are fun!&quot; through this game.<h2 class=\"bb_tag\">What kind of game is it? </h2>It is a 2D action game that mainly uses the <strong>control key</strong>, <strong>jump button</strong> and <strong>attack button</strong>.<br>Aim for the goal star and move forward through the four stages.<br>There will also be enemies that will block Hoshi_no_Natchan's path.<br>Defeat them by stepping on them or attacking them.<h2 class=\"bb_tag\"> Features? </h2><ul class=\"bb_ul\"><li>Flick away</li></ul>If you defeat an enemy with an attack, you can send the enemy flying.<br>It often happens that the enemy you bounce back hits another enemy...<br><br><ul class=\"bb_ul\"><li>Energy Dash</li></ul>Defeating enemies will increase your dash energy.<br>Having dash energy will make you dash faster for a short time.<h2 class=\"bb_tag\">FOR SUPER PLAYERS</h2>If you are confident in your ability, try reducing vitality, stock, and time from the options.<br>This game is easy to clear, so you can play with a high score (or low score) or aim for a clear time.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/page_bg_generated_v6b.jpg?t=1704038440",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/page_bg_generated.jpg?t=1704038440",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/capsule_231x87.jpg?t=1704038440",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/capsule_184x69.jpg?t=1704038440",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong> Even if you don't play games often,<br>You might be able to see the ending an hour after you pick up this game.</strong><h2 class=\"bb_tag\">Introduction</h2>&quot;Hoshi_no_Natchan&quot; is a retro style pixel art 2D action game.<br>This game was created so that even people who are not very good at games can experience the fun of clearing the game.<br><ul class=\"bb_ul\"><li>Wow you went ahead!<br></li><li>You jump well!<br></li><li> You are great at collecting stars!<br></li><li> It's cool when you fight the enemy!<br></li><li> It's cute even if you make a mistake!<br></li><li> Even if you get game over, you keep trying and don't give up!<br></li><li>Let's hope you reach the goal! </li></ul>I would be happy if you could think, &quot;Games are fun!&quot; through this game.<h2 class=\"bb_tag\">What kind of game is it? </h2>It is a 2D action game that mainly uses the <strong>control key</strong>, <strong>jump button</strong> and <strong>attack button</strong>.<br>Aim for the goal star and move forward through the four stages.<br>There will also be enemies that will block Hoshi_no_Natchan's path.<br>Defeat them by stepping on them or attacking them.<h2 class=\"bb_tag\"> Features? </h2><ul class=\"bb_ul\"><li>Flick away</li></ul>If you defeat an enemy with an attack, you can send the enemy flying.<br>It often happens that the enemy you bounce back hits another enemy...<br><br><ul class=\"bb_ul\"><li>Energy Dash</li></ul>Defeating enemies will increase your dash energy.<br>Having dash energy will make you dash faster for a short time.<h2 class=\"bb_tag\">FOR SUPER PLAYERS</h2>If you are confident in your ability, try reducing vitality, stock, and time from the options.<br>This game is easy to clear, so you can play with a high score (or low score) or aim for a clear time.",
+    "developers": [
+        "\u3042\u3042\u3044\u30a6\u30a7\u30a2"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/header.jpg?t=1704038440",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987895,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987895/movie480.mp4?t=1702871077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987895/movie_max.mp4?t=1702871077"
+            },
+            "name": "Trailer01",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987895/movie.293x165.jpg?t=1702871077",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987895/movie480_vp9.webm?t=1702871077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987895/movie_max_vp9.webm?t=1702871077"
+            }
+        }
+    ],
+    "name": "Hoshi_no_Natchan",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Hoshi_no_Natchan - $3.99",
+                    "packageid": 978207,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Hoshi_no_Natchan"
+        }
+    ],
+    "packages": [
+        978207
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows7 SP1<br></li><li><strong>Processor:</strong> 2.66GHz\u4ee5\u4e0a<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "\u3042\u3042\u3044\u30a6\u30a7\u30a2"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_2661d827cc486262c0a335aeeda9cbf0be76c728.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_2661d827cc486262c0a335aeeda9cbf0be76c728.600x338.jpg?t=1704038440"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_c3ef40926ff953b5c4e698b080fbf17689b6f118.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_c3ef40926ff953b5c4e698b080fbf17689b6f118.600x338.jpg?t=1704038440"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_f7dfd6fe9093f96ce562c18e5a79eff477f8ea38.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_f7dfd6fe9093f96ce562c18e5a79eff477f8ea38.600x338.jpg?t=1704038440"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_775a45603cf6e7338403f1bfdf969c02fcfe0b3a.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_775a45603cf6e7338403f1bfdf969c02fcfe0b3a.600x338.jpg?t=1704038440"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_a1a7dc1001378be3779dd6d93523213d82677ddb.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_a1a7dc1001378be3779dd6d93523213d82677ddb.600x338.jpg?t=1704038440"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_d36a362eb8ed1b9d42f49f995d74c1988e483ca4.1920x1080.jpg?t=1704038440",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733640/ss_d36a362eb8ed1b9d42f49f995d74c1988e483ca4.600x338.jpg?t=1704038440"
+        }
+    ],
+    "short_description": "This is a pixel art 2D action game. Use dash, jump and attack to reach the goal. There are no complicated operations or material collection, so you can start playing right away. It's an easy and kindness game.",
+    "steam_appid": 2733640,
+    "support_info": {
+        "email": "aaiware.contactdesk.gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Indonesian<strong>*</strong>, Ukrainian<strong>*</strong>, Dutch<strong>*</strong>, Greek<strong>*</strong>, Swedish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Thai<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Turkish<strong>*</strong>, Norwegian<strong>*</strong>, Hungarian<strong>*</strong>, Finnish<strong>*</strong>, Bulgarian<strong>*</strong>, Vietnamese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Icelandic<strong>*</strong>, Irish<strong>*</strong>, Azerbaijani<strong>*</strong>, Assamese<strong>*</strong>, Afrikaans<strong>*</strong>, Amharic<strong>*</strong>, Albanian<strong>*</strong>, Armenian<strong>*</strong>, Igbo<strong>*</strong>, Uyghur<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Uzbek<strong>*</strong>, Urdu<strong>*</strong>, Estonian<strong>*</strong>, Odia<strong>*</strong>, Kazakh<strong>*</strong>, Catalan<strong>*</strong>, Kannada<strong>*</strong>, Galician<strong>*</strong>, K'iche'<strong>*</strong>, Kyrgyz<strong>*</strong>, Khmer<strong>*</strong>, Croatian<strong>*</strong>, Gujarati<strong>*</strong>, Quechua<strong>*</strong>, Xhosa<strong>*</strong>, Konkani<strong>*</strong>, Sindhi<strong>*</strong>, Sinhala<strong>*</strong>, Georgian<strong>*</strong>, Scots<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Swahili<strong>*</strong>, Zulu<strong>*</strong>, Serbian<strong>*</strong>, Sotho<strong>*</strong>, Sorani<strong>*</strong>, Tajik<strong>*</strong>, Tatar<strong>*</strong>, Tamil<strong>*</strong>, Dari<strong>*</strong>, Cherokee<strong>*</strong>, Tswana<strong>*</strong>, Tigrinya<strong>*</strong>, Telugu<strong>*</strong>, Turkmen<strong>*</strong>, Nepali<strong>*</strong>, Hausa<strong>*</strong>, Basque<strong>*</strong>, Valencian<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Hindi<strong>*</strong>, Filipino<strong>*</strong>, Hebrew<strong>*</strong>, Belarusian<strong>*</strong>, Bangla<strong>*</strong>, Persian<strong>*</strong>, Bosnian<strong>*</strong>, Maori<strong>*</strong>, Macedonian<strong>*</strong>, Malayalam<strong>*</strong>, Marathi<strong>*</strong>, Maltese<strong>*</strong>, Malay<strong>*</strong>, Mongolian<strong>*</strong>, Yoruba<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Kinyarwanda<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

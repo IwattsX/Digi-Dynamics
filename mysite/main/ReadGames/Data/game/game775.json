@@ -1,0 +1,193 @@
+{
+    "about_the_game": "Introducing Pedro's Eggventure, the thrilling first-person and 2D action-adventure game that'll have you hooked! Embark on an epic quest as you navigate through diverse environments in search of the elusive EGG. Unleash your skills and strategy as you face the fierce boss dragon in an unforgettable showdown. Designed for single-player action, this captivating game offers a smooth gaming experience with minimal system requirements. Get ready to embark on the ultimate Eggventure and return home victorious!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Welcome to Pedros Adventure",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/68de72d06114c2622760135ceb0652a0934e7988.jpg"
+            },
+            {
+                "name": "You read my Comic!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/021981b980a5beca6d18f32a469b71e76c5d30d4.jpg"
+            },
+            {
+                "name": "You Finished my level!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/8462332744c04df6cb1c8be342cacfb85e732bb4.jpg"
+            },
+            {
+                "name": "You Finished off the boss! noice",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/615b30a6c89592d34e4fa35fa0f169514e0472fe.jpg"
+            },
+            {
+                "name": "YOU CHEATED ",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/64085216e6121946e0b83b416d939186deece037.jpg"
+            },
+            {
+                "name": "Completed Pedros Journey for now.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/cdc2ec973021137c03130200701d4d246efcfd39.jpg"
+            },
+            {
+                "name": "Hit the Target! Noooice",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371550/f42cf05c3ec006d04eb5c5055ab06ad681d5b713.jpg"
+            }
+        ],
+        "total": 7
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/page_bg_generated_v6b.jpg?t=1685344153",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/page.bg.jpg?t=1685344153",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/capsule_231x87.jpg?t=1685344153",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/capsule_184x69.jpg?t=1685344153",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Roadmap</h1><p>Unfortunately there is no roadmap.  Our game will be made as is please leave a review.  Tell us what we might of done differently to captivate you.</p><br><h1>About the Game</h1>Introducing Pedro's Eggventure, the thrilling first-person and 2D action-adventure game that'll have you hooked! Embark on an epic quest as you navigate through diverse environments in search of the elusive EGG. Unleash your skills and strategy as you face the fierce boss dragon in an unforgettable showdown. Designed for single-player action, this captivating game offers a smooth gaming experience with minimal system requirements. Get ready to embark on the ultimate Eggventure and return home victorious!",
+    "developers": [
+        "Breakfast Crew"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/header.jpg?t=1685344153",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937547,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937547/movie480.mp4?t=1684963131",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937547/movie_max.mp4?t=1684963131"
+            },
+            "name": "Intro",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937547/movie.293x165.jpg?t=1684963131",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937547/movie480_vp9.webm?t=1684963131",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937547/movie_max_vp9.webm?t=1684963131"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256948838,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948838/movie480.mp4?t=1684963127",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948838/movie_max.mp4?t=1684963127"
+            },
+            "name": "GamePlay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256948838/movie.293x165.jpg?t=1684963127",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948838/movie480_vp9.webm?t=1684963127",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948838/movie_max_vp9.webm?t=1684963127"
+            }
+        }
+    ],
+    "name": "Pedros Eggventure",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 - Windows 11<br></li><li><strong>Processor:</strong> Intel and AMD<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11 and DX12- Capable GPUs<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "MHC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_a88c51421bf6f97f61e2f116289086d045c94d99.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_a88c51421bf6f97f61e2f116289086d045c94d99.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_f3a21002d08549763dba4a9b5f51d70ca946a050.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_f3a21002d08549763dba4a9b5f51d70ca946a050.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_af10f1a0f7550d177caf5d19f371e70f79e85fae.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_af10f1a0f7550d177caf5d19f371e70f79e85fae.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_0bad93fae7460c819e5207da70978659a7721c53.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_0bad93fae7460c819e5207da70978659a7721c53.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_eaa5602057d2857eb7474e72721f9a66d5aea5b2.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_eaa5602057d2857eb7474e72721f9a66d5aea5b2.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_f6d55bb2360c1dc15e512e4c6939b3f5f7676dc4.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_f6d55bb2360c1dc15e512e4c6939b3f5f7676dc4.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_c16f2a9018ac751df45125f4be4efc9683cb6bd0.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_c16f2a9018ac751df45125f4be4efc9683cb6bd0.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_418ff528819e2da555692dbced846c668fc54361.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_418ff528819e2da555692dbced846c668fc54361.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_bd983d42942f12f90574ccd5296180e2c2d90bac.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_bd983d42942f12f90574ccd5296180e2c2d90bac.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_ac747fad72d67f490de7536896d997a606969381.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_ac747fad72d67f490de7536896d997a606969381.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_c61edb66b4ef1420c45b8eba63354022e59c416a.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_c61edb66b4ef1420c45b8eba63354022e59c416a.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_571acc6bd69be8d547d0e2d3b53f42b6214aa0ae.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_571acc6bd69be8d547d0e2d3b53f42b6214aa0ae.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_b71e57aaa091c0d97a14b83f341d2807bb684b75.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_b71e57aaa091c0d97a14b83f341d2807bb684b75.600x338.jpg?t=1685344153"
+        },
+        {
+            "id": 21,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_155be3d237af992b66496ba51bffaeac702e09c4.1920x1080.jpg?t=1685344153",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/ss_155be3d237af992b66496ba51bffaeac702e09c4.600x338.jpg?t=1685344153"
+        }
+    ],
+    "short_description": "we are doing this game for a project at &quot;univercity&quot;. we hope you enjoy this game that we made. we have everything you would want, a main character who totally does not look like Pedro Pascal, a dragon, a run for your life and just some good old egg puns. - Ms Maddy of Breakfast Crew",
+    "steam_appid": 2371550,
+    "support_info": {
+        "email": "",
+        "url": "https://www.therookies.co/projects/46326"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

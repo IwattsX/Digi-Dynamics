@@ -1,0 +1,159 @@
+{
+    "about_the_game": "Towerbloom blends roguelike unpredictability, tower defense ingenuity, and real-time strategic mastery in a streamlined way. Navigate a dynamic battlefield where each decision shapes your experience and your cursor is the true hero.<h2 class=\"bb_tag\"><strong>Prepare Your Core</strong></h2>Gear up for an interstellar showdown! Choose your core, active tech ability, biome, and battle layout. Gather resources while battling waves of intergalactic abominations hell-bent on stopping your progress.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649890/extras/Core.gif?t=1702223307\" /><h2 class=\"bb_tag\"><strong>Build Powerful Towers</strong></h2>Choose from a diverse range of towers with distinct abilities to fortify your core. Explore an array of tower typologies, each with its unique strengths and statuses. Discover how they synergize with one another and complement your chosen core and tech ability for a truly formidable defense.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649890/extras/Gameplay.gif?t=1702223307\" /><h2 class=\"bb_tag\"><strong>Use Your Cursor Wisely</strong></h2>Victory hinges on the strategic dance of your mouse cursor. Hover over towers to amplify their destructive skill, swiftly collect the enemy's spilled puddles of blood, or employ active tech abilities to seize the advantage. Sharpen your cursor skills, for in Towerbloom, you and your mouse hold the power to sway the delicate balance between victory and defeat.<h2 class=\"bb_tag\"><strong>Enhance Your Abilities</strong></h2>Select unique abilities for tailored experiences, and explore a vast range of upgrades that complement towers and tech abilities. Elevate your skill points to refine synergy and strategy in combat, forging diverse builds to conquer the galaxy in countless ways.<br><br><br><a href=\"https://store.steampowered.com/app/2649890/Towerbloom/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2649890/Towerbloom/</a>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/page_bg_generated_v6b.jpg?t=1702223307",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/page.bg.jpg?t=1702223307",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/capsule_231x87.jpg?t=1702223307",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/capsule_184x69.jpg?t=1702223307",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>DISCORD</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FRBwTHd2xW6\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649890/extras/tb-discord.png?t=1702223307\" /></a></p><br><h1>About the Game</h1>Towerbloom blends roguelike unpredictability, tower defense ingenuity, and real-time strategic mastery in a streamlined way. Navigate a dynamic battlefield where each decision shapes your experience and your cursor is the true hero.<h2 class=\"bb_tag\"><strong>Prepare Your Core</strong></h2>Gear up for an interstellar showdown! Choose your core, active tech ability, biome, and battle layout. Gather resources while battling waves of intergalactic abominations hell-bent on stopping your progress.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649890/extras/Core.gif?t=1702223307\" /><h2 class=\"bb_tag\"><strong>Build Powerful Towers</strong></h2>Choose from a diverse range of towers with distinct abilities to fortify your core. Explore an array of tower typologies, each with its unique strengths and statuses. Discover how they synergize with one another and complement your chosen core and tech ability for a truly formidable defense.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649890/extras/Gameplay.gif?t=1702223307\" /><h2 class=\"bb_tag\"><strong>Use Your Cursor Wisely</strong></h2>Victory hinges on the strategic dance of your mouse cursor. Hover over towers to amplify their destructive skill, swiftly collect the enemy's spilled puddles of blood, or employ active tech abilities to seize the advantage. Sharpen your cursor skills, for in Towerbloom, you and your mouse hold the power to sway the delicate balance between victory and defeat.<h2 class=\"bb_tag\"><strong>Enhance Your Abilities</strong></h2>Select unique abilities for tailored experiences, and explore a vast range of upgrades that complement towers and tech abilities. Elevate your skill points to refine synergy and strategy in combat, forging diverse builds to conquer the galaxy in countless ways.<br><br><br><a href=\"https://store.steampowered.com/app/2649890/Towerbloom/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2649890/Towerbloom/</a>",
+    "developers": [
+        "Tissue Inu"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/header.jpg?t=1702223307",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987934,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987934/movie480.mp4?t=1702223300",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987934/movie_max.mp4?t=1702223300"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987934/movie.293x165.jpg?t=1702223300",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987934/movie480_vp9.webm?t=1702223300",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987934/movie_max_vp9.webm?t=1702223300"
+            }
+        }
+    ],
+    "name": "Towerbloom",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core or Similar<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 700 Series or Similar<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> Intel i5 2.6 GHz or Similar<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 900 Series or Similar<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Tissue Inu"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_e442752f5c3e275745ba78a1cd25fdf26100e3c0.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_e442752f5c3e275745ba78a1cd25fdf26100e3c0.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_a4cba24ef9abdfcbdc71b20e6a72e0e6b5eda5c8.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_a4cba24ef9abdfcbdc71b20e6a72e0e6b5eda5c8.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_a54b990908b750fccd86391fa4feedb72ff4e1ba.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_a54b990908b750fccd86391fa4feedb72ff4e1ba.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_225be0b25ff75fa32cc4aa7f3ad1cfbd2d010620.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_225be0b25ff75fa32cc4aa7f3ad1cfbd2d010620.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_256747a40736503d25d234f062e8f5878da6b83f.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_256747a40736503d25d234f062e8f5878da6b83f.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_77086eef5fa324ac5b86ebabe25839154d1ca1fa.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_77086eef5fa324ac5b86ebabe25839154d1ca1fa.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_dc2555faa4f50209fe68df3d68e73069ce1f3882.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_dc2555faa4f50209fe68df3d68e73069ce1f3882.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_bb6523fe49c0738004f9473b5bb3b52f15151754.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_bb6523fe49c0738004f9473b5bb3b52f15151754.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_d1e38f4cbfaf5d80a115a17da1d68327f7a6433d.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_d1e38f4cbfaf5d80a115a17da1d68327f7a6433d.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_00f259d05d29ef2a7b76a2dc1a3f110ff8704915.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_00f259d05d29ef2a7b76a2dc1a3f110ff8704915.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_ee76d24da090ffeb4f06819167d8aedba98bc4cd.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_ee76d24da090ffeb4f06819167d8aedba98bc4cd.600x338.jpg?t=1702223307"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_c6de447a901478facfa914fb27bd126389f82dff.1920x1080.jpg?t=1702223307",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649890/ss_c6de447a901478facfa914fb27bd126389f82dff.600x338.jpg?t=1702223307"
+        }
+    ],
+    "short_description": "Towerbloom is a pathless roguelite tower defense with reactive gameplay. Employ countless outlandish strategies and supercharge your towers by hovering over them to vanquish enemies.",
+    "steam_appid": 2649890,
+    "support_info": {
+        "email": "tissueinu@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Spanish - Spain, Japanese, Korean, Simplified Chinese",
+    "type": "game",
+    "website": "https://www.tissueinu.com/"
+}

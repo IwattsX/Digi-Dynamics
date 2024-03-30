@@ -1,0 +1,96 @@
+{
+    "about_the_game": "Indulge in a symphony of passion and elegance with House of Jigsaw: Romance DLC! Step into a world of love and tender beauty as you race against time to piece together enchanting, flower-themed puzzles. This DLC adds a touch of romantic allure to the House of Jigsaw universe, inviting you to show your puzzle-solving prowess amidst a garden of vibrant blossoms!<br><br>Prepare for a puzzle-solving adventure that celebrates the enduring magic of love in a way that is truly unforgettable. Can you solve the flower jigsaws in the shortest amount of time? Show your results on the community page.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649710/extras/Features-english.png?t=1698757977\" /><br><br><ul class=\"bb_ul\"><li>Step into a world of love <br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/page_bg_generated_v6b.jpg?t=1698757977",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/page.bg.jpg?t=1698757977",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/capsule_231x87.jpg?t=1698757977",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/capsule_184x69.jpg?t=1698757977",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Indulge in a symphony of passion and elegance with House of Jigsaw: Romance DLC! Step into a world of love and tender beauty as you race against time to piece together enchanting, flower-themed puzzles. This DLC adds a touch of romantic allure to the House of Jigsaw universe, inviting you to show your puzzle-solving prowess amidst a garden of vibrant blossoms!<br><br>Prepare for a puzzle-solving adventure that celebrates the enduring magic of love in a way that is truly unforgettable. Can you solve the flower jigsaws in the shortest amount of time? Show your results on the community page.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649710/extras/Features-english.png?t=1698757977\" /><br><br><ul class=\"bb_ul\"><li>Step into a world of love <br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "developers": [
+        "Graphium Studio"
+    ],
+    "fullgame": {
+        "appid": "2607920",
+        "name": "House of Jigsaw: Happy puzzling, Happy home"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/header.jpg?t=1698757977",
+    "is_free": false,
+    "legal_notice": "\u00a9Denda Games 2023<br />\r\n\u00a9Graphium Studio 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "House of Jigsaw: Romance",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Denda Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Feb 14, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_85cea060ea909a1d57d6421debeab9046d094da7.1920x1080.jpg?t=1698757977",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_85cea060ea909a1d57d6421debeab9046d094da7.600x338.jpg?t=1698757977"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_035cce02419d79d19065de5685ecf43d1e6776b3.1920x1080.jpg?t=1698757977",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_035cce02419d79d19065de5685ecf43d1e6776b3.600x338.jpg?t=1698757977"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_609fc21ba86c420d1b449994bd8482470df24e3b.1920x1080.jpg?t=1698757977",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_609fc21ba86c420d1b449994bd8482470df24e3b.600x338.jpg?t=1698757977"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_15c202a1911cb3ac5cb70f33932572517f22d009.1920x1080.jpg?t=1698757977",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_15c202a1911cb3ac5cb70f33932572517f22d009.600x338.jpg?t=1698757977"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_f7a7e101073a1f47eaa38831f796d47ec7c1d4d0.1920x1080.jpg?t=1698757977",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649710/ss_f7a7e101073a1f47eaa38831f796d47ec7c1d4d0.600x338.jpg?t=1698757977"
+        }
+    ],
+    "short_description": "Prepare for a puzzle-solving adventure that celebrates the enduring magic of love in a way that is truly unforgettable.",
+    "steam_appid": 2649710,
+    "support_info": {
+        "email": "helpdesk@denda.com",
+        "url": "https://www.denda.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://denda-corporate.com/"
+}

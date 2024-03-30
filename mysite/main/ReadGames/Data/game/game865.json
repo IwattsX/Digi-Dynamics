@@ -1,0 +1,113 @@
+{
+    "about_the_game": "2D side view action game!! <br />\r\nThere are two stages with a normal stage with<br />\r\n conversation events and a hard stage with a time limit! !! <br />\r\nWhich one will you play?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/page_bg_generated_v6b.jpg?t=1681513638",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/page.bg.jpg?t=1681513638",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/capsule_231x87.jpg?t=1681513638",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/capsule_184x69.jpg?t=1681513638",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "2D side view action game!! <br />\r\nThere are two stages with a normal stage with<br />\r\n conversation events and a hard stage with a time limit! !! <br />\r\nWhich one will you play?",
+    "developers": [
+        "NarrativeArea"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/header.jpg?t=1681513638",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937697,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937697/movie480.mp4?t=1680126860",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937697/movie_max.mp4?t=1680126860"
+            },
+            "name": "Connect far away tale",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937697/movie.293x165.jpg?t=1680126860",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937697/movie480_vp9.webm?t=1680126860",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937697/movie_max_vp9.webm?t=1680126860"
+            }
+        }
+    ],
+    "name": "Connect Far Away tale",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "NarrativeArea"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_96556b0281871c166635085d2a4928185843d3c3.1920x1080.jpg?t=1681513638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_96556b0281871c166635085d2a4928185843d3c3.600x338.jpg?t=1681513638"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_e0e753043ef439983c3a0d084c4bd301f7aa5467.1920x1080.jpg?t=1681513638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_e0e753043ef439983c3a0d084c4bd301f7aa5467.600x338.jpg?t=1681513638"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_becd2c5a902f8521ad3da689e309cb8c44670cdc.1920x1080.jpg?t=1681513638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_becd2c5a902f8521ad3da689e309cb8c44670cdc.600x338.jpg?t=1681513638"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_68ae7483bd569ff0e82e2e2f100506590f168c18.1920x1080.jpg?t=1681513638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_68ae7483bd569ff0e82e2e2f100506590f168c18.600x338.jpg?t=1681513638"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_beb60dbfbc8bd5456e3a6be0cc3d21f2516c7e8a.1920x1080.jpg?t=1681513638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370300/ss_beb60dbfbc8bd5456e3a6be0cc3d21f2516c7e8a.600x338.jpg?t=1681513638"
+        }
+    ],
+    "short_description": "Leap to evade!! Action game!!",
+    "steam_appid": 2370300,
+    "support_info": {
+        "email": "we3refga@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

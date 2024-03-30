@@ -1,0 +1,67 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371760/capsule_231x87.jpg?t=1681069652",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371760/capsule_184x69.jpg?t=1681069652",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "notes": "Depiction of sex scenes between supernatural beings and humans."
+    },
+    "detailed_description": "",
+    "developers": [
+        "Andrealphus Games"
+    ],
+    "fullgame": {
+        "appid": "2370140",
+        "name": "My Demonic Romance"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371760/header.jpg?t=1681069652",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "My Demonic Romance Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Andrealphus Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 9, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2371760,
+    "support_info": {
+        "email": "",
+        "url": "https://discord.gg/PT6VxWQ"
+    },
+    "type": "demo",
+    "website": null
+}

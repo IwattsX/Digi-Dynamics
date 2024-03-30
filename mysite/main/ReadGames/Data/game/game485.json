@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Welcome to the world of Bright kingdom \u2013 an exciting strategic defense game where your kingdom is under attack by hordes of enemies, and your task is to ensure its survival! Become the hero of your kingdom, using loyal soldiers and magic to fend off waves of enemies.<br><br><strong>Game Features:</strong><br><br><ul class=\"bb_ul\"><li>Dynamic Gameplay: Feel the tension of battle in real-time! You'll need to make quick decisions, summoning soldiers and using magic at the right moment. Only you can manage the defense of the kingdom in this dynamic challenge.<br></li><li>Enemy Hordes: Enemy hordes are attacking your castle from all sides! Send your soldiers into battle to stop wave after wave of enemies, using various types of troops for effective defense. Each battle is a new trial, and only the best will survive.<br></li><li>Engaging Gameplay: Summon diverse soldiers, each with unique skills. Choose a strategy suitable for each situation \u2013 from archers shooting from a distance to mighty knights slowing down enemies. Each level presents new challenges that require smart planning and execution.<br></li><li>Magic at Your Disposal: Use magical spells to turn the tide of battle in your favor. Summon meteors, slow down enemies, or restore the health of your soldiers. Magic is your additional weapon in the struggle for the survival of the kingdom.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/page_bg_generated_v6b.jpg?t=1704174098",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/page_bg_generated.jpg?t=1704174098",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/capsule_231x87.jpg?t=1704174098",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/capsule_184x69.jpg?t=1704174098",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to the world of Bright kingdom \u2013 an exciting strategic defense game where your kingdom is under attack by hordes of enemies, and your task is to ensure its survival! Become the hero of your kingdom, using loyal soldiers and magic to fend off waves of enemies.<br><br><strong>Game Features:</strong><br><br><ul class=\"bb_ul\"><li>Dynamic Gameplay: Feel the tension of battle in real-time! You'll need to make quick decisions, summoning soldiers and using magic at the right moment. Only you can manage the defense of the kingdom in this dynamic challenge.<br></li><li>Enemy Hordes: Enemy hordes are attacking your castle from all sides! Send your soldiers into battle to stop wave after wave of enemies, using various types of troops for effective defense. Each battle is a new trial, and only the best will survive.<br></li><li>Engaging Gameplay: Summon diverse soldiers, each with unique skills. Choose a strategy suitable for each situation \u2013 from archers shooting from a distance to mighty knights slowing down enemies. Each level presents new challenges that require smart planning and execution.<br></li><li>Magic at Your Disposal: Use magical spells to turn the tide of battle in your favor. Summon meteors, slow down enemies, or restore the health of your soldiers. Magic is your additional weapon in the struggle for the survival of the kingdom.</li></ul>",
+    "developers": [
+        "Lynx Lore Interactive"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/header.jpg?t=1704174098",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988786,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988786/movie480.mp4?t=1702728880",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988786/movie_max.mp4?t=1702728880"
+            },
+            "name": "Bright kingdom",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988786/movie.293x165.jpg?t=1702728880",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988786/movie480_vp9.webm?t=1702728880",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988786/movie_max_vp9.webm?t=1702728880"
+            }
+        }
+    ],
+    "name": "Bright kingdom",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Bright kingdom - $29.99",
+                    "packageid": 978274,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Bright kingdom"
+        }
+    ],
+    "packages": [
+        978274
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E6320 (2*1866) or equivalent<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 90 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Lynx Lore Interactive"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_607e00f8d8a3923054b9fd9bd5182355ac098d16.1920x1080.jpg?t=1704174098",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_607e00f8d8a3923054b9fd9bd5182355ac098d16.600x338.jpg?t=1704174098"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_fcf6a316a9480c2a072136851c12ea7a6871fdda.1920x1080.jpg?t=1704174098",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_fcf6a316a9480c2a072136851c12ea7a6871fdda.600x338.jpg?t=1704174098"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_c360daf3e0001c901edc2936e4a6194e26fd2d8c.1920x1080.jpg?t=1704174098",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_c360daf3e0001c901edc2936e4a6194e26fd2d8c.600x338.jpg?t=1704174098"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_382ca9f538e725f13f4b91c4f9b25399f6aeb36d.1920x1080.jpg?t=1704174098",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_382ca9f538e725f13f4b91c4f9b25399f6aeb36d.600x338.jpg?t=1704174098"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_d5c865681e7bf5273f621c4e0ce285012d7fdea7.1920x1080.jpg?t=1704174098",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733850/ss_d5c865681e7bf5273f621c4e0ce285012d7fdea7.600x338.jpg?t=1704174098"
+        }
+    ],
+    "short_description": "Bright kingdom \u2013 a strategy game with magic and soldiers, where you defend the kingdom from enemies",
+    "steam_appid": 2733850,
+    "support_info": {
+        "email": "galesoozka@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,185 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402540/extras/store_capsule_main_english.png?t=1700660982\" /><br>\u2261[\u3002\u3002]\u2261 Crabby will never cry, and Rock n\u2019 Roll will never die! Crab Rhapsody (vol.1) (\u87f9\u87f9\u72c2\u60f3\u66f2 vol.1) is a musical action-roguelite with fast-paced combat and original soundtracks. As a devoted Rock n\u2019 Roll crab fan, you will pick up and wield powerful instrumental weapons with two claws, and climb the dangerous concert tower to rescue your favorite crab bands from a group of mysterious figures trying to wipe out crab music.<br><br>Youtube: @CrabRhapsody<br>Twitter: @CrabRhapsody<br><br><strong><h2 class=\"bb_tag\">10 Musical Weapons &amp; Duo-Claw Wielding</h2></strong><br>From Crouching Tiger Flute Spear to Pink Sweat Heart Gatling bass machine gun, Claw Tech CEO will deliver various strong and unique musical weapons with interactive instrumental sounds and mechanics. Wield two weapons at the same time for maximum fun and Rock it\ud83e\udd18!<br><br><strong><h2 class=\"bb_tag\">Build Your Interactive Crab Band for Background Music</h2></strong><br>Free a band crab = New instrument is added to your band, featuring Heavy Rock, Jazz, and Techno. And you can customize your own band!<br><br><strong><h2 class=\"bb_tag\">Procedural-Generated Levels</h2></strong><br>Generated levels in three vertical worlds promise a never-dull combat experience. Dynamic lighting changes from daytime to night.<br><br><strong><h2 class=\"bb_tag\">10 Interesting Enemies + 4 Unique Boss Combats + Knockback Pressure System</h2></strong><br>10 Enemies and 4 Boss fights, all with different attack patterns, keeping it challenging and fun. But be careful, higher pressure will make you get knockbacked harder, crabby\u2019s tiny heart can not take too much pressure. <br><br><strong><h2 class=\"bb_tag\">Fantastic In-game Concert!!</h2></strong><br>An exciting concert hosted by the crab bands to celebrate the Rock hero (YOU!)  of Crabtopia!<br><br><i>(p.s. This is a USC Games student game project)</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/page_bg_generated_v6b.jpg?t=1700660982",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/page.bg.jpg?t=1700660982",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/capsule_231x87.jpg?t=1700660982",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/capsule_184x69.jpg?t=1700660982",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402540/extras/store_capsule_main_english.png?t=1700660982\" /><br>\u2261[\u3002\u3002]\u2261 Crabby will never cry, and Rock n\u2019 Roll will never die! Crab Rhapsody (vol.1) (\u87f9\u87f9\u72c2\u60f3\u66f2 vol.1) is a musical action-roguelite with fast-paced combat and original soundtracks. As a devoted Rock n\u2019 Roll crab fan, you will pick up and wield powerful instrumental weapons with two claws, and climb the dangerous concert tower to rescue your favorite crab bands from a group of mysterious figures trying to wipe out crab music.<br><br>Youtube: @CrabRhapsody<br>Twitter: @CrabRhapsody<br><br><strong><h2 class=\"bb_tag\">10 Musical Weapons &amp; Duo-Claw Wielding</h2></strong><br>From Crouching Tiger Flute Spear to Pink Sweat Heart Gatling bass machine gun, Claw Tech CEO will deliver various strong and unique musical weapons with interactive instrumental sounds and mechanics. Wield two weapons at the same time for maximum fun and Rock it\ud83e\udd18!<br><br><strong><h2 class=\"bb_tag\">Build Your Interactive Crab Band for Background Music</h2></strong><br>Free a band crab = New instrument is added to your band, featuring Heavy Rock, Jazz, and Techno. And you can customize your own band!<br><br><strong><h2 class=\"bb_tag\">Procedural-Generated Levels</h2></strong><br>Generated levels in three vertical worlds promise a never-dull combat experience. Dynamic lighting changes from daytime to night.<br><br><strong><h2 class=\"bb_tag\">10 Interesting Enemies + 4 Unique Boss Combats + Knockback Pressure System</h2></strong><br>10 Enemies and 4 Boss fights, all with different attack patterns, keeping it challenging and fun. But be careful, higher pressure will make you get knockbacked harder, crabby\u2019s tiny heart can not take too much pressure. <br><br><strong><h2 class=\"bb_tag\">Fantastic In-game Concert!!</h2></strong><br>An exciting concert hosted by the crab bands to celebrate the Rock hero (YOU!)  of Crabtopia!<br><br><i>(p.s. This is a USC Games student game project)</i>",
+    "developers": [
+        "You Liang",
+        "Sanketh Bhat",
+        "Evan Carcaterra",
+        "Yuefeng He",
+        "Di Wen",
+        "Celine Tang",
+        "Paul Youn"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/header.jpg?t=1700660982",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942276,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942276/movie480.mp4?t=1682610333",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942276/movie_max.mp4?t=1682610333"
+            },
+            "name": "Crab Rhapsody (Vol.1) Tralier",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942276/movie.293x165.jpg?t=1682610333",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942276/movie480_vp9.webm?t=1682610333",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942276/movie_max_vp9.webm?t=1682610333"
+            }
+        }
+    ],
+    "name": "Crab Rhapsody (Vol.1)",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Win 7+<br></li><li><strong>Processor:</strong> Intel i5+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 450 GTS / Radeon HD 5750 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Win 7+<br></li><li><strong>Processor:</strong> Intel i5+<br></li><li><strong>Graphics:</strong> Nvidia GTX 460 / Radeon HD 7800 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Team Crabby"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_d5a63d525d055def436859a810c0ff2d398d1f7c.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_d5a63d525d055def436859a810c0ff2d398d1f7c.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_a3bcb9efe4c9bb2d288b24bd02d9df6985eb495e.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_a3bcb9efe4c9bb2d288b24bd02d9df6985eb495e.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_370709769c11e4aa328a02776769ba888ca2008a.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_370709769c11e4aa328a02776769ba888ca2008a.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_3706a2d21cedfaebdcc34df5ee80633be1e650e0.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_3706a2d21cedfaebdcc34df5ee80633be1e650e0.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0a666026943bd05206c7786bc98f7db4c66f480c.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0a666026943bd05206c7786bc98f7db4c66f480c.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_77635c438b951400e3eed572d20fb53be0e21941.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_77635c438b951400e3eed572d20fb53be0e21941.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_d5f223391e22384fb94d55389e95f9656925ddf2.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_d5f223391e22384fb94d55389e95f9656925ddf2.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_2f16628993f724c1cf55b39e83abe2eee513f057.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_2f16628993f724c1cf55b39e83abe2eee513f057.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_c0dced4aa5b4a1cba4affb9c4fb77282735530be.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_c0dced4aa5b4a1cba4affb9c4fb77282735530be.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_fe66a95ae57b820db1314ca9ed42e5887048429b.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_fe66a95ae57b820db1314ca9ed42e5887048429b.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0b7beaa13de1d36722245c3a7d84684ca36bb9ab.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0b7beaa13de1d36722245c3a7d84684ca36bb9ab.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_e8a1063dcc3fb84ba69f2567416fde2428152107.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_e8a1063dcc3fb84ba69f2567416fde2428152107.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_9d127dde4abb05109eb9479174bf17c3325a100a.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_9d127dde4abb05109eb9479174bf17c3325a100a.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_519b5df4954943f2a923d0211b3e3b2f9d8e5647.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_519b5df4954943f2a923d0211b3e3b2f9d8e5647.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_aab5cbbc558bde4fe2a3bcbdf2eb311f211d9f1a.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_aab5cbbc558bde4fe2a3bcbdf2eb311f211d9f1a.600x338.jpg?t=1700660982"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0453bc668b08e0c03faea8fb82a7f3a1369a2d9a.1920x1080.jpg?t=1700660982",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402540/ss_0453bc668b08e0c03faea8fb82a7f3a1369a2d9a.600x338.jpg?t=1700660982"
+        }
+    ],
+    "short_description": "\u2261[\u3002\u3002]\u2261 Crabby will never cry, and Rock n\u2019 Roll will never die! Crab Rhapsody (vol.1) (\u87f9\u87f9\u72c2\u60f3\u66f2 vol.1) is a musical action-roguelite with fast-paced combat and original soundtracks.",
+    "steam_appid": 2402540,
+    "support_info": {
+        "email": "crabrhapsody@gmail.com",
+        "url": "https://www.crabrhapsody.com/contact"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.crabrhapsody.com/"
+}

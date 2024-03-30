@@ -1,0 +1,155 @@
+{
+    "about_the_game": "Get ready for an epic adventure with Fun 2 Box, a cooperative family game that lets you and a friend drive some sick boxes through challenging levels filled with riddles, puzzles, amusing robots, and other laughable creatures.<br />\r\n<br />\r\nWork together to solve each level and unlock new challenges as you explore the game's fun and thrilling world.<br />\r\nIn Fun 2 Box, you'll need to use your brain skills to overcome obstacles and amusing creatures that stand in your way. With each level, the puzzles become more challenging, requiring you and your friend to collaborate and strategize to succeed.<br />\r\n<br />\r\nWith its engaging gameplay and exciting challenges, Fun 2 Box is the perfect game for families who love a good brain teaser and a fun adventure. And trust us, they won't stand a chance against your mad skills and sick moves! <br />\r\nSo, join the fun and show those bots <br />\r\nwho's the boss with Fun 2 Box!<br />\r\n<br />\r\nStay tuned for updates on the game's availability on consoles!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/page_bg_generated_v6b.jpg?t=1680858468",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/page_bg_generated.jpg?t=1680858468",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/capsule_231x87.jpg?t=1680858468",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/capsule_184x69.jpg?t=1680858468",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Get ready for an epic adventure with Fun 2 Box, a cooperative family game that lets you and a friend drive some sick boxes through challenging levels filled with riddles, puzzles, amusing robots, and other laughable creatures.<br />\r\n<br />\r\nWork together to solve each level and unlock new challenges as you explore the game's fun and thrilling world.<br />\r\nIn Fun 2 Box, you'll need to use your brain skills to overcome obstacles and amusing creatures that stand in your way. With each level, the puzzles become more challenging, requiring you and your friend to collaborate and strategize to succeed.<br />\r\n<br />\r\nWith its engaging gameplay and exciting challenges, Fun 2 Box is the perfect game for families who love a good brain teaser and a fun adventure. And trust us, they won't stand a chance against your mad skills and sick moves! <br />\r\nSo, join the fun and show those bots <br />\r\nwho's the boss with Fun 2 Box!<br />\r\n<br />\r\nStay tuned for updates on the game's availability on consoles!",
+    "developers": [
+        "PapaCubec Games"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/header.jpg?t=1680858468",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937950,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937950/movie480.mp4?t=1680858459",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937950/movie_max.mp4?t=1680858459"
+            },
+            "name": "Fun2box_0",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937950/movie.293x165.jpg?t=1680858459",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937950/movie480_vp9.webm?t=1680858459",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937950/movie_max_vp9.webm?t=1680858459"
+            }
+        }
+    ],
+    "name": "Fun 2 Box",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit only<br></li><li><strong>Processor:</strong> Intel Core i5-2500K / AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660 or AMD Radeon HD 7950<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit only<br></li><li><strong>Processor:</strong> Intel i5-8400 / AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 2070 / AMD RX 5700<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "PapaCubec Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_8c24cafd74a4bb30705a0b561091b60cdcb51118.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_8c24cafd74a4bb30705a0b561091b60cdcb51118.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_1d7619c5bed145b7f6e94c2e1807281e6f8b1fe5.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_1d7619c5bed145b7f6e94c2e1807281e6f8b1fe5.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_962b6a2367173dbc9791c461d589847cbf500001.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_962b6a2367173dbc9791c461d589847cbf500001.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_0e9e4b30fe8b160d5ffca28bc60f62f3572e7bfc.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_0e9e4b30fe8b160d5ffca28bc60f62f3572e7bfc.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_37000d7f7d16589494598bfafc8fbeeaccdd3d3f.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_37000d7f7d16589494598bfafc8fbeeaccdd3d3f.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_b31fbe63998ec7c73f4574a12782f005d3313f40.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_b31fbe63998ec7c73f4574a12782f005d3313f40.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_b381501e545db729257fe8aba277def5265c076d.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_b381501e545db729257fe8aba277def5265c076d.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_626f6baf497d7316b80d0062cee64038af04d96f.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_626f6baf497d7316b80d0062cee64038af04d96f.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_db27acf273e990ddeebc4b4c543732323a236589.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_db27acf273e990ddeebc4b4c543732323a236589.600x338.jpg?t=1680858468"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_963027416b6edd7aa6ddaa7eefcf0114c2189f18.1920x1080.jpg?t=1680858468",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371690/ss_963027416b6edd7aa6ddaa7eefcf0114c2189f18.600x338.jpg?t=1680858468"
+        }
+    ],
+    "short_description": "Drive fun boxes through challenging levels filled with riddles, puzzles, and ridiculous creatures. Perfect game for families who love a good brain teaser and a hilarious adventure. Get ready for a fun-tastic trip with Fun 2 Box!",
+    "steam_appid": 2371690,
+    "support_info": {
+        "email": "papacubecsup@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

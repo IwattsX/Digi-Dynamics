@@ -1,0 +1,167 @@
+{
+    "about_the_game": "This pack contains 7 visuals.<br><br>The visuals are the following:<br><ul class=\"bb_ul\"><li><strong>Pearls</strong>: Glowing pearls and particles slowly rising.<br></li><li><strong>Through the Gate</strong>: A harp in a marble garden, playing in the night.<br></li><li><strong>Lightning Conductor</strong>: Robotic hands with lightning at the fingertips.<br></li><li><strong>Quanta Eternal</strong>: Dodecahedron with layers that rotate.<br></li><li><strong>Spectrum Pillars</strong>: Metallic screws that rotate and glow sticking up from the ground.<br></li><li><strong>Interstellar Lighthouse</strong>: A lighthouse that beam out pretty patterns at night.<br></li><li><strong>The Visitor</strong>: A strange vessel explores a space station.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/page_bg_generated_v6b.jpg?t=1688228088",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/page_bg_generated.jpg?t=1688228088",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/capsule_231x87.jpg?t=1688228088",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/capsule_184x69.jpg?t=1688228088",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This pack contains 7 visuals.<br><br>The visuals are the following:<br><ul class=\"bb_ul\"><li><strong>Pearls</strong>: Glowing pearls and particles slowly rising.<br></li><li><strong>Through the Gate</strong>: A harp in a marble garden, playing in the night.<br></li><li><strong>Lightning Conductor</strong>: Robotic hands with lightning at the fingertips.<br></li><li><strong>Quanta Eternal</strong>: Dodecahedron with layers that rotate.<br></li><li><strong>Spectrum Pillars</strong>: Metallic screws that rotate and glow sticking up from the ground.<br></li><li><strong>Interstellar Lighthouse</strong>: A lighthouse that beam out pretty patterns at night.<br></li><li><strong>The Visitor</strong>: A strange vessel explores a space station.</li></ul>",
+    "developers": [
+        "Vovoid Media Technologies AB"
+    ],
+    "fullgame": {
+        "appid": "1740670",
+        "name": "VZX Creative"
+    },
+    "genres": [
+        {
+            "description": "Animation & Modeling",
+            "id": "51"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Utilities",
+            "id": "57"
+        },
+        {
+            "description": "Video Production",
+            "id": "58"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/header.jpg?t=1688228088",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256955997,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955997/movie480.mp4?t=1688228080",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955997/movie_max.mp4?t=1688228080"
+            },
+            "name": "The Next Generation - Showcase",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955997/movie.293x165.jpg?t=1688228080",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955997/movie480_vp9.webm?t=1688228080",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955997/movie_max_vp9.webm?t=1688228080"
+            }
+        }
+    ],
+    "name": "VZX Creative Visual Pack: The Next Generation",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "VZX Creative Visual Pack: The Next Generation - $5.99",
+                    "packageid": 838850,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy VZX Creative Visual Pack: The Next Generation"
+        }
+    ],
+    "packages": [
+        838850
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad core 64-bit x86<br></li><li><strong>Graphics:</strong> OpenGL 4.6 discrete GPU<br></li><li><strong>Sound Card:</strong> WASAPI-compatible soundcard</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad core 64-bit x86<br></li><li><strong>Graphics:</strong> OpenGL 4.6 discrete GPU<br></li><li><strong>Sound Card:</strong> WASAPI-compatible soundcard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Vovoid Media Technologies AB"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_afcb68c04d92c83788258cc9ecf753710a948499.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_afcb68c04d92c83788258cc9ecf753710a948499.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_cb8930c09bdb6bdc838f331b729ee4b3f787213d.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_cb8930c09bdb6bdc838f331b729ee4b3f787213d.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_596125b115a6cf126dc3d7b37d3e44f0b8916173.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_596125b115a6cf126dc3d7b37d3e44f0b8916173.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_fde1e947300f20065146ad94190d41e54bf7b740.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_fde1e947300f20065146ad94190d41e54bf7b740.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_8aeda135bb61c1e92c38e17edbe5e8082bb0de49.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_8aeda135bb61c1e92c38e17edbe5e8082bb0de49.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_bd0b6d95fff2c932c57e4651da1a9dc5ebd3b1a7.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_bd0b6d95fff2c932c57e4651da1a9dc5ebd3b1a7.600x338.jpg?t=1688228088"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_3fe0ad96feef0dacd9a03a5257f7b7269fadd3b5.1920x1080.jpg?t=1688228088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335520/ss_3fe0ad96feef0dacd9a03a5257f7b7269fadd3b5.600x338.jpg?t=1688228088"
+        }
+    ],
+    "short_description": "7 visuals for VZX Pro Player. All based on more advanced materials and environments.",
+    "steam_appid": 2335520,
+    "support_info": {
+        "email": "support@vovoid.com",
+        "url": "https://www.vzx-visualizer.com/"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://www.vzx-visualizer.com"
+}

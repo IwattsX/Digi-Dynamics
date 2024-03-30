@@ -1,0 +1,117 @@
+{
+    "about_the_game": "It's pirates against British sailors (or each other) in this real-time strategy city-building game. Gather resources, build cities, drink rum, fight enemies, explore the sea, and discover new islands.<br><br><br><strong>BUILD YOUR OWN COLONY</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif11.gif?t=1698406415\" /><br><br><br><strong>GATHER RESOURCES</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif12.gif?t=1698406415\" /><br><br><br><strong>FIGHT THE ENEMIES</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif13.gif?t=1698406415\" /><br><br><br><strong>BUILD BOATS</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif14.gif?t=1698406415\" /><br><br><br><strong>DISCOVER NEW ISLANDS</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif15.gif?t=1698406415\" /><h2 class=\"bb_tag\"></h2>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/page_bg_generated_v6b.jpg?t=1698406415",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/page.bg.jpg?t=1698406415",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/capsule_231x87.jpg?t=1698406415",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/capsule_184x69.jpg?t=1698406415",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "It's pirates against British sailors (or each other) in this real-time strategy city-building game. Gather resources, build cities, drink rum, fight enemies, explore the sea, and discover new islands.<br><br><br><strong>BUILD YOUR OWN COLONY</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif11.gif?t=1698406415\" /><br><br><br><strong>GATHER RESOURCES</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif12.gif?t=1698406415\" /><br><br><br><strong>FIGHT THE ENEMIES</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif13.gif?t=1698406415\" /><br><br><br><strong>BUILD BOATS</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif14.gif?t=1698406415\" /><br><br><br><strong>DISCOVER NEW ISLANDS</strong><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371900/extras/gif15.gif?t=1698406415\" /><h2 class=\"bb_tag\"></h2>",
+    "developers": [
+        "Cutlass Studios"
+    ],
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/header.jpg?t=1698406415",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256938181,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938181/movie480.mp4?t=1687527543",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938181/movie_max.mp4?t=1687527543"
+            },
+            "name": "01",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938181/movie.293x165.jpg?t=1687527543",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938181/movie480_vp9.webm?t=1687527543",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938181/movie_max_vp9.webm?t=1687527543"
+            }
+        }
+    ],
+    "name": "Pirate Plight",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Win 7, 8, 10<br></li><li><strong>Processor:</strong> Intel: Core i3-530<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVidia: GeForce 9600GT<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Cutlass Studios"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_2356b44ad9ed56ca1fd35f4ef17ee81e61f7ad7f.1920x1080.jpg?t=1698406415",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_2356b44ad9ed56ca1fd35f4ef17ee81e61f7ad7f.600x338.jpg?t=1698406415"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_42ab05df80cb55b407c251c79529484084e2ace2.1920x1080.jpg?t=1698406415",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_42ab05df80cb55b407c251c79529484084e2ace2.600x338.jpg?t=1698406415"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_5d628affa2d37d969aa9409bed24eda942fb7662.1920x1080.jpg?t=1698406415",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_5d628affa2d37d969aa9409bed24eda942fb7662.600x338.jpg?t=1698406415"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_3230bcf6aed351ad5bef99418eae698fe9e12282.1920x1080.jpg?t=1698406415",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_3230bcf6aed351ad5bef99418eae698fe9e12282.600x338.jpg?t=1698406415"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_7a88cec24fad714ef654516449572f2c96a9fda3.1920x1080.jpg?t=1698406415",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371900/ss_7a88cec24fad714ef654516449572f2c96a9fda3.600x338.jpg?t=1698406415"
+        }
+    ],
+    "short_description": "It's pirates against British sailors (or each other) in this real-time strategy city-building game. Gather resources, build cities, drink rum, fight enemies, explore the sea, and discover new islands.",
+    "steam_appid": 2371900,
+    "support_info": {
+        "email": "cutlassstudios1@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Czech, Japanese, Italian<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

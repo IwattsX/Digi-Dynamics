@@ -1,0 +1,163 @@
+{
+    "about_the_game": "A horror visual novel set in a world where wizards have replaced psychologists.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/1.png?t=1682753820\" /><br>&quot;Don't beg for Help&quot; is a creepy visual novel about a love triangle between Jill, Jack, and Paul. In an attempt to solve her problems, Jill turns to the wizard Keino for help, but his intervention leads to unexpected and terrible consequences for all three.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/2.png?t=1682753820\" /><br>The plot is reminiscent of &quot;Tales from the Crypt&quot; and contains 10 different endings, each of which is unique and contains insane twists. If you're a horror fan, &quot;Don't beg for Help&quot; is an excellent choice with a rich plot, a gloomy atmosphere, and a successful mix of magic and reality.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/3.png?t=1682753820\" /><br>Key features:<br><ul class=\"bb_ul\"><li>10 unique endings<br></li><li>Mix of horror, humor and love triangle<br></li><li>Story in style of &quot;Tales from the Crypt&quot;</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/page_bg_generated_v6b.jpg?t=1682753820",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/page_bg_generated.jpg?t=1682753820",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/capsule_231x87.jpg?t=1682753820",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/capsule_184x69.jpg?t=1682753820",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Contains text descriptions of violent scenes."
+    },
+    "controller_support": "full",
+    "detailed_description": "A horror visual novel set in a world where wizards have replaced psychologists.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/1.png?t=1682753820\" /><br>&quot;Don't beg for Help&quot; is a creepy visual novel about a love triangle between Jill, Jack, and Paul. In an attempt to solve her problems, Jill turns to the wizard Keino for help, but his intervention leads to unexpected and terrible consequences for all three.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/2.png?t=1682753820\" /><br>The plot is reminiscent of &quot;Tales from the Crypt&quot; and contains 10 different endings, each of which is unique and contains insane twists. If you're a horror fan, &quot;Don't beg for Help&quot; is an excellent choice with a rich plot, a gloomy atmosphere, and a successful mix of magic and reality.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336540/extras/3.png?t=1682753820\" /><br>Key features:<br><ul class=\"bb_ul\"><li>10 unique endings<br></li><li>Mix of horror, humor and love triangle<br></li><li>Story in style of &quot;Tales from the Crypt&quot;</li></ul>",
+    "developers": [
+        "Kosmo Cat"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/header.jpg?t=1682753820",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> HD Graphics or better<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> HD Graphics or better<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256938240,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938240/movie480.mp4?t=1680722355",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938240/movie_max.mp4?t=1680722355"
+            },
+            "name": "Don't Beg For Help. Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938240/movie.293x165.jpg?t=1680722355",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938240/movie480_vp9.webm?t=1680722355",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938240/movie_max_vp9.webm?t=1680722355"
+            }
+        }
+    ],
+    "name": "Don't Beg for Help",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Don't Beg for Help - $0.99",
+                    "packageid": 839186,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Don't Beg for Help"
+        }
+    ],
+    "packages": [
+        839186
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Kosmo Cat"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_30e6be7a8ca58c57ccc8850a005d0595bd2e49a2.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_30e6be7a8ca58c57ccc8850a005d0595bd2e49a2.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_b3c3f71d3e1bb6d2604625f6071d78ab08b4353e.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_b3c3f71d3e1bb6d2604625f6071d78ab08b4353e.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_5f06e3cbdf6099a7083c4ae28df6dd303b7e058a.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_5f06e3cbdf6099a7083c4ae28df6dd303b7e058a.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_227027abda736024b043f3c28587bf1519049fa5.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_227027abda736024b043f3c28587bf1519049fa5.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_fef8ba18597c23c9f3432d58b40bae9f9666e06c.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_fef8ba18597c23c9f3432d58b40bae9f9666e06c.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_15defae14feaf9ab8bcbb979612351b78ba8082f.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_15defae14feaf9ab8bcbb979612351b78ba8082f.600x338.jpg?t=1682753820"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_ab221ce7a8dc49353808fc245d5b54b12b701198.1920x1080.jpg?t=1682753820",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336540/ss_ab221ce7a8dc49353808fc245d5b54b12b701198.600x338.jpg?t=1682753820"
+        }
+    ],
+    "short_description": "A horror visual novel game with &quot;Tales from the Crypt&quot; style plot.",
+    "steam_appid": 2336540,
+    "support_info": {
+        "email": "cat@kosmo.top",
+        "url": ""
+    },
+    "supported_languages": "English, Russian, Ukrainian",
+    "type": "game",
+    "website": null
+}

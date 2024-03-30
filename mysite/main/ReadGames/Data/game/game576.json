@@ -1,0 +1,217 @@
+{
+    "about_the_game": "The toughest school sim in the yard finally makes its PC debut, ahead of its bigger brother following later this year! For the 1st time ever, the original touch-screen concept has been adapted for a controller and a higher resolution display.<br><br>The prison from <i>Hard Time</i> has closed down and re-opened as a school, but the challenge to survive and thrive remains the same! Live every hour of every day in real-time - from getting out of bed in the morning to attending a timetable full of classes, as you explore a city filled with interactive props. Picking up knowledge from each class helps you answer real questions in each subject, as you work towards the grades you need to graduate. But with over 100 fellow students walking the halls, an equally important popularity contest decides whether your days are filled with fun or fear.<br><br>Fully unlocked as standard, you can start with a character of your own creation and save your changes to every other to make the world your own.<br><br><ul class=\"bb_ul\"><li>Manage your health to survive every hour of every day in real-time!<br></li><li>Gather the clues you need to answer real questions in each subject!<br></li><li>Develop unique relationships with hundreds of other characters!<br></li><li>Fend off bullies with a combat system inspired by wrestling!<br></li><li>Explore a city beyond the school gates on your way home!<br></li><li>Use hundreds of interactive props to get through each day!<br></li><li>Manage your finances to pay your way in a real economy!<br></li><li>Watch every other student grow up each year alongside yourself!<br></li><li>Save your changes to each character to make the world your own!</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/page_bg_generated_v6b.jpg?t=1694247313",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/page_bg_generated.jpg?t=1694247313",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/capsule_231x87.jpg?t=1694247313",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/capsule_184x69.jpg?t=1694247313",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "Potentially violent encounters with other characters, using props as weapons.\r\n\r\nRomantic relationships between consenting characters may include hugging & kissing."
+    },
+    "controller_support": "full",
+    "detailed_description": "The toughest school sim in the yard finally makes its PC debut, ahead of its bigger brother following later this year! For the 1st time ever, the original touch-screen concept has been adapted for a controller and a higher resolution display.<br><br>The prison from <i>Hard Time</i> has closed down and re-opened as a school, but the challenge to survive and thrive remains the same! Live every hour of every day in real-time - from getting out of bed in the morning to attending a timetable full of classes, as you explore a city filled with interactive props. Picking up knowledge from each class helps you answer real questions in each subject, as you work towards the grades you need to graduate. But with over 100 fellow students walking the halls, an equally important popularity contest decides whether your days are filled with fun or fear.<br><br>Fully unlocked as standard, you can start with a character of your own creation and save your changes to every other to make the world your own.<br><br><ul class=\"bb_ul\"><li>Manage your health to survive every hour of every day in real-time!<br></li><li>Gather the clues you need to answer real questions in each subject!<br></li><li>Develop unique relationships with hundreds of other characters!<br></li><li>Fend off bullies with a combat system inspired by wrestling!<br></li><li>Explore a city beyond the school gates on your way home!<br></li><li>Use hundreds of interactive props to get through each day!<br></li><li>Manage your finances to pay your way in a real economy!<br></li><li>Watch every other student grow up each year alongside yourself!<br></li><li>Save your changes to each character to make the world your own!</li></ul>",
+    "developers": [
+        "MDickie"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/header.jpg?t=1694247313",
+    "is_free": false,
+    "legal_notice": "Copyright \u00a9 MDickie 2015",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256933014,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933014/movie480.mp4?t=1689236330",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933014/movie_max.mp4?t=1689236330"
+            },
+            "name": "Mobile Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933014/movie.293x165.jpg?t=1689236330",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933014/movie480_vp9.webm?t=1689236330",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933014/movie_max_vp9.webm?t=1689236330"
+            }
+        }
+    ],
+    "name": "School Days",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "School Days - $4.99",
+                    "packageid": 839145,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy School Days"
+        }
+    ],
+    "packages": [
+        839145
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 1gHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2gHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "MDickie"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_6fa80eb20fc8a40f11239ad3ab741f58217c6020.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_6fa80eb20fc8a40f11239ad3ab741f58217c6020.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_0420334051210d1df11e4e69732c330b28c6547d.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_0420334051210d1df11e4e69732c330b28c6547d.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_661d55009a4cf319199e6c058eac35766e07c0a2.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_661d55009a4cf319199e6c058eac35766e07c0a2.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_0a6858c3e73443e6b45516b06ceaf110514804a1.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_0a6858c3e73443e6b45516b06ceaf110514804a1.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_c3b9f8106e67278ae57aa677e70d040ecefce920.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_c3b9f8106e67278ae57aa677e70d040ecefce920.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_bc1d270482307d2a9a42a3ccf994b061daae81f5.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_bc1d270482307d2a9a42a3ccf994b061daae81f5.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_40044b13ce3076219e1ce2c869e17bfcd75e6881.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_40044b13ce3076219e1ce2c869e17bfcd75e6881.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_75c3c7cfedb9359de1cca2a57d2118ebbdfdc41b.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_75c3c7cfedb9359de1cca2a57d2118ebbdfdc41b.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_976b2dc374ab2979a982b5f82bbd13be4f371562.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_976b2dc374ab2979a982b5f82bbd13be4f371562.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_56d75320767ec086ea3284863526d8b1c344ed7c.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_56d75320767ec086ea3284863526d8b1c344ed7c.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_ee25e8a83a7553d38b57ea3392bad51b64d702b5.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_ee25e8a83a7553d38b57ea3392bad51b64d702b5.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_7f43808b5db642a830564c24cff1b5700d865e9c.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_7f43808b5db642a830564c24cff1b5700d865e9c.600x338.jpg?t=1694247313"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_1164db6f328c35631b5c67849dbde135168d1919.1920x1080.jpg?t=1694247313",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336420/ss_1164db6f328c35631b5c67849dbde135168d1919.600x338.jpg?t=1694247313"
+        }
+    ],
+    "short_description": "Go back to school and attend a schedule full of classes in time to pick up the knowledge you need to pass each test! But with hundreds of fellow students walking the halls, an equally important popularity contest decides whether your days are filled with fun or fear...",
+    "steam_appid": 2336420,
+    "support_info": {
+        "email": "Mat@MDickie.com",
+        "url": "http://www.MDickie.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://www.MDickie.com"
+}

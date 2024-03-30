@@ -1,0 +1,230 @@
+{
+    "about_the_game": "Saddle up drivers, because the Farm Machinery DLC for American Truck Simulator has arrived! Transport everything from trusty tractors to forage harvesters across scenic virtual highways and roads. <br><br>Featuring 2 in-game brands, Owl &amp; Greenler, you'll be able to deliver a variety of unique cargoes on Lowboy, Dropdeck or Flatbed trailers to a number of agriculture-related industries large and small across the country.<br><br>This DLC includes:<br><ul class=\"bb_ul\"><li>Sprayer <br></li><li>Crawler Tractor <br></li><li>Forage Harvester <br></li><li>Fertilizer Spreader <br></li><li>Grain Trailer<br></li><li>Autonomous Tractor <br></li><li>Hay Baler <br></li><li>Seeding Unit <br></li><li>Disc Harrow</li></ul><br>Naturally, we couldn't let you go driving without some themed cabin accessories for your cabin either! <br><br>Cabin Accessories<br><ul class=\"bb_ul\"><li>Lunch Kit<br></li><li>Scarecrow <br></li><li>Straw Hat <br></li><li>Stuffed Autonomous Tractor <br></li><li>Harvester Toy </li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/page_bg_generated_v6b.jpg?t=1701374854",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/page_bg_generated.jpg?t=1701374854",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/capsule_231x87.jpg?t=1701374854",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/capsule_184x69.jpg?t=1701374854",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Saddle up drivers, because the Farm Machinery DLC for American Truck Simulator has arrived! Transport everything from trusty tractors to forage harvesters across scenic virtual highways and roads. <br><br>Featuring 2 in-game brands, Owl &amp; Greenler, you'll be able to deliver a variety of unique cargoes on Lowboy, Dropdeck or Flatbed trailers to a number of agriculture-related industries large and small across the country.<br><br>This DLC includes:<br><ul class=\"bb_ul\"><li>Sprayer <br></li><li>Crawler Tractor <br></li><li>Forage Harvester <br></li><li>Fertilizer Spreader <br></li><li>Grain Trailer<br></li><li>Autonomous Tractor <br></li><li>Hay Baler <br></li><li>Seeding Unit <br></li><li>Disc Harrow</li></ul><br>Naturally, we couldn't let you go driving without some themed cabin accessories for your cabin either! <br><br>Cabin Accessories<br><ul class=\"bb_ul\"><li>Lunch Kit<br></li><li>Scarecrow <br></li><li>Straw Hat <br></li><li>Stuffed Autonomous Tractor <br></li><li>Harvester Toy </li></ul>",
+    "developers": [
+        "SCS Software"
+    ],
+    "fullgame": {
+        "appid": "270880",
+        "name": "American Truck Simulator"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/header.jpg?t=1701374854",
+    "is_free": false,
+    "legal_notice": "\u00a9 2016 SCS Software. All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission.<br />\r\n<br />\r\nFreightliner is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o.<br />\r\nThe MACK trademarks and designs are registered rights of the AB Volvo Group and are used pursuant to a license.<br />\r\nThe VOLVO trademarks (word and device), other related trademarks, if applicable, and the Volvo designs are licensed by the AB Volvo Group.<br />\r\nInternational\u00ae and all International Truck trademarks are trademarks licensed by INTERNATIONAL TRUCK INTELLECTUAL PROPERTY COMPANY, LLC.<br />\r\nWestern Star is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256985601,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256985601/movie480.mp4?t=1701336512",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256985601/movie_max.mp4?t=1701336512"
+            },
+            "name": "American Truck Simulator - Farm Machinery DLC Video Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256985601/movie.293x165.jpg?t=1701336512",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256985601/movie480_vp9.webm?t=1701336512",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256985601/movie_max_vp9.webm?t=1701336512"
+            }
+        }
+    ],
+    "name": "American Truck Simulator - Farm Machinery",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "American Truck Simulator - Farm Machinery - $4.99",
+                    "packageid": 946099,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy American Truck Simulator - Farm Machinery"
+        }
+    ],
+    "packages": [
+        946099
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SCS Software"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 30, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_7af626393602ffe7ef995fa2f78c192ac9b8e526.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_7af626393602ffe7ef995fa2f78c192ac9b8e526.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_3afbb705f66ecef4f5e3165cf967dd88ca13380b.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_3afbb705f66ecef4f5e3165cf967dd88ca13380b.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_408766b572852f866ef2e7ecf5d9d7ceb4486630.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_408766b572852f866ef2e7ecf5d9d7ceb4486630.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_daa71044501782f31b81b6dd9e47eb5692dae7e9.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_daa71044501782f31b81b6dd9e47eb5692dae7e9.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_8b08875164b3635303809fd1d3b898aa3b679a2c.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_8b08875164b3635303809fd1d3b898aa3b679a2c.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_97d944d317f4fb2e482d55bd6812e56f59264cd7.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_97d944d317f4fb2e482d55bd6812e56f59264cd7.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_77e5b25342a87f111d262d2ea6114a9dff86c867.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_77e5b25342a87f111d262d2ea6114a9dff86c867.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_7eb82de1ac54851c0921afa5813a1c53289e40c3.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_7eb82de1ac54851c0921afa5813a1c53289e40c3.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_1c58bc5b483109d593210e5e43e2c476d59252b3.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_1c58bc5b483109d593210e5e43e2c476d59252b3.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_bdd45f8627e5a0a0a5653c046b64bbbfd776b1e8.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_bdd45f8627e5a0a0a5653c046b64bbbfd776b1e8.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_a1b6bf1aaea334718286418f694a8f7cd46c8afd.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_a1b6bf1aaea334718286418f694a8f7cd46c8afd.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_17168d10942705cff701dee47212f18b43d3afb2.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_17168d10942705cff701dee47212f18b43d3afb2.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_25b6aea48d7920793df718bd2060af22b06f0107.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_25b6aea48d7920793df718bd2060af22b06f0107.600x338.jpg?t=1701374854"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_b652767fa882a7097e29d7d880932d33cbb42356.1920x1080.jpg?t=1701374854",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638630/ss_b652767fa882a7097e29d7d880932d33cbb42356.600x338.jpg?t=1701374854"
+        }
+    ],
+    "short_description": "Saddle up drivers, because the Farm Machinery DLC for American Truck Simulator has arrived! Transport everything from trusty tractors to forage harvesters across scenic virtual highways and roads.",
+    "steam_appid": 2638630,
+    "support_info": {
+        "email": "support@americantrucksimulator.com",
+        "url": "https://americantrucksimulator.com/support.php"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Turkish, Ukrainian, Traditional Chinese",
+    "type": "dlc",
+    "website": "https://americantrucksimulator.com/"
+}

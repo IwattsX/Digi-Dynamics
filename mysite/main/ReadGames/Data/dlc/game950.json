@@ -1,0 +1,128 @@
+{
+    "about_the_game": "Worn at the beginning of WW2 during the bleak winter weather, the Jericho Cap worked to keep the Soviet soldiers warm so they could continue the fight.<br />\r\n<br />\r\nThis downloadable content contains:<br />\r\nThe Jericho Cap \u2013 this is a new version of the Budyonovka hat \u2013 a pinnacle of the Communist uniforms during the Russian Civil War. When the temperature drops, the flaps come down to shield the crews\u2019 ears and neck from the harshest weather.<br />\r\n(Available to  the Soviet Commander, Infantry and Recon units)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/page_bg_generated_v6b.jpg?t=1702988654",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/page_bg_generated.jpg?t=1702988654",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/capsule_231x87.jpg?t=1702988654",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/capsule_184x69.jpg?t=1702988654",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Worn at the beginning of WW2 during the bleak winter weather, the Jericho Cap worked to keep the Soviet soldiers warm so they could continue the fight.<br />\r\n<br />\r\nThis downloadable content contains:<br />\r\nThe Jericho Cap \u2013 this is a new version of the Budyonovka hat \u2013 a pinnacle of the Communist uniforms during the Russian Civil War. When the temperature drops, the flaps come down to shield the crews\u2019 ears and neck from the harshest weather.<br />\r\n(Available to  the Soviet Commander, Infantry and Recon units)",
+    "developers": [
+        "Black Matter Pty Ltd"
+    ],
+    "fullgame": {
+        "appid": "686810",
+        "name": "Hell Let Loose"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/header.jpg?t=1702988654",
+    "is_free": true,
+    "legal_notice": "Hell Let Loose \u00a9 2019 Black Matter Pty. Published under licence by Team17 Digital Limited. Team17 is a trademark or registered trademark of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Hell Let Loose - Jericho Cap",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Core i5-6600/AMD Ryzen 3 1300X<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 4GB/AMD Radeon R9 380 4GB<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Core i5-8400/AMD Ryzen 5 2600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 6GB /AMD Radeon RX 590 8GB<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Team17"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_f5d961d6a3730095a4d9a3885ffc4b146abf2fa1.1920x1080.jpg?t=1702988654",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_f5d961d6a3730095a4d9a3885ffc4b146abf2fa1.600x338.jpg?t=1702988654"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_30857a3a9ced9ff4c0160b5c290453d6c5bb0707.1920x1080.jpg?t=1702988654",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_30857a3a9ced9ff4c0160b5c290453d6c5bb0707.600x338.jpg?t=1702988654"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_636337311d7d656f10111bc366f2f8cd959e2bcb.1920x1080.jpg?t=1702988654",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_636337311d7d656f10111bc366f2f8cd959e2bcb.600x338.jpg?t=1702988654"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_fcdbe08ff53b1a13867e7a921645bb7fa9e4453d.1920x1080.jpg?t=1702988654",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401900/ss_fcdbe08ff53b1a13867e7a921645bb7fa9e4453d.600x338.jpg?t=1702988654"
+        }
+    ],
+    "short_description": "Worn at the beginning of WW2 during the bleak winter weather, the Jericho Cap worked to keep the Soviet soldiers warm so they could continue the fight. (Available to the Soviet Commander, Infantry, Armour and Recon units)",
+    "steam_appid": 2401900,
+    "support_info": {
+        "email": "help@team17support.com",
+        "url": "https://www.team17.com/"
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Polish, Portuguese - Brazil, Traditional Chinese, Korean, Japanese",
+    "type": "dlc",
+    "website": "https://www.hellletloose.com/"
+}

@@ -1,0 +1,150 @@
+{
+    "about_the_game": "Elephant Games invites you to take on the newest spine-tingling mystery in the Ms. Holmes series! <br />\r\n<br />\r\nWhen heiress Olivia Cubitt disappears just before her wedding, your friend Oscar Watson knows just who to call! Everyone close to Olivia has received strange letters with encryptions of dancing figures. Your Uncle Sherlock once dealt with a similar case, and when you discover his case files have been stolen, it\u2019s clear foul work is at play! Can you discover what ties your case to your famous ancestors and stop those behind the dancing men once and for all? Find out in this gripping Hidden-Object Puzzle Adventure!<br />\r\n<br />\r\nThis is a special Collector's Edition release full of exclusive extras you won\u2019t find in the standard version!<br />\r\n<br />\r\nThis is a Hidden Object Puzzle Adventure game, meaning a specific genre of story-driven, point &amp; click adventures. Throughout the game, players are tasked to find a list of objects hidden within a particular scene, and to occasionally complete various mini-games/puzzles.  <br />\r\n<br />\r\nThe Collector\u2019s Edition includes:<br />\r\n<br />\r\n\u2022\tInvestigate a string of mysterious illnesses in the Bonus Chapter!<br />\r\n\u2022\tReplay your favorite HOPs and mini-games and earn achievements! <br />\r\n\u2022\tFind tons of collectibles and search for magnifiers to unlock the Secret Room!<br />\r\n\u2022\tEnjoy exclusive wallpapers, screensavers, music, and more!<br />\r\n\u2022\tNever get lost with the strategy guide!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/page_bg_generated_v6b.jpg?t=1685719882",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/page_bg_generated.jpg?t=1685719882",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/capsule_231x87.jpg?t=1685719882",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/capsule_184x69.jpg?t=1685719882",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Elephant Games invites you to take on the newest spine-tingling mystery in the Ms. Holmes series! <br />\r\n<br />\r\nWhen heiress Olivia Cubitt disappears just before her wedding, your friend Oscar Watson knows just who to call! Everyone close to Olivia has received strange letters with encryptions of dancing figures. Your Uncle Sherlock once dealt with a similar case, and when you discover his case files have been stolen, it\u2019s clear foul work is at play! Can you discover what ties your case to your famous ancestors and stop those behind the dancing men once and for all? Find out in this gripping Hidden-Object Puzzle Adventure!<br />\r\n<br />\r\nThis is a special Collector's Edition release full of exclusive extras you won\u2019t find in the standard version!<br />\r\n<br />\r\nThis is a Hidden Object Puzzle Adventure game, meaning a specific genre of story-driven, point &amp; click adventures. Throughout the game, players are tasked to find a list of objects hidden within a particular scene, and to occasionally complete various mini-games/puzzles.  <br />\r\n<br />\r\nThe Collector\u2019s Edition includes:<br />\r\n<br />\r\n\u2022\tInvestigate a string of mysterious illnesses in the Bonus Chapter!<br />\r\n\u2022\tReplay your favorite HOPs and mini-games and earn achievements! <br />\r\n\u2022\tFind tons of collectibles and search for magnifiers to unlock the Secret Room!<br />\r\n\u2022\tEnjoy exclusive wallpapers, screensavers, music, and more!<br />\r\n\u2022\tNever get lost with the strategy guide!",
+    "developers": [
+        "Elephant Ar"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/header.jpg?t=1685719882",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 13.1/12.4/11.6/10.15<br></li><li><strong>Processor:</strong> 2.5 GHz (INTEL ONLY)<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942128,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942128/movie480.mp4?t=1685719874",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942128/movie_max.mp4?t=1685719874"
+            },
+            "name": "MH4_vid",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942128/movie.293x165.jpg?t=1685719874",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942128/movie480_vp9.webm?t=1685719874",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942128/movie_max_vp9.webm?t=1685719874"
+            }
+        }
+    ],
+    "name": "Ms Holmes: The Case of the Dancing Men Collector's Edition",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Ms Holmes: The Case of the Dancing Men Collector's Edition - $13.99",
+                    "packageid": 864467,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1399
+                }
+            ],
+            "title": "Buy Ms Holmes: The Case of the Dancing Men Collector's Edition"
+        }
+    ],
+    "packages": [
+        864467
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP/Windows Vista/Windows 7/Windows 8<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2389 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1399,
+        "final_formatted": "$13.99",
+        "initial": 1399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Big Fish Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_86271aa4e467238f160582239cd665a1ff783c7b.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_86271aa4e467238f160582239cd665a1ff783c7b.600x338.jpg?t=1685719882"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_c2d5c4794297c09f54f041c09b03ab3fde29694e.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_c2d5c4794297c09f54f041c09b03ab3fde29694e.600x338.jpg?t=1685719882"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_18ee2c56aa9d36e1ba4654f023e01703d6feb139.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_18ee2c56aa9d36e1ba4654f023e01703d6feb139.600x338.jpg?t=1685719882"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_2c6ba63edd1c1d1fa1c79a78dd265fc185a68031.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_2c6ba63edd1c1d1fa1c79a78dd265fc185a68031.600x338.jpg?t=1685719882"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_dcc1bd3c8f11a98263702ddcffbb03ecf529976c.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_dcc1bd3c8f11a98263702ddcffbb03ecf529976c.600x338.jpg?t=1685719882"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_359e45ffcd763fd2320900f591de03bf8f91faf0.1920x1080.jpg?t=1685719882",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402760/ss_359e45ffcd763fd2320900f591de03bf8f91faf0.600x338.jpg?t=1685719882"
+        }
+    ],
+    "short_description": "When strange letters with dancing figures arrive just before an heiress mysteriously disappears, you know the similarities to your Uncle Sherlock\u2019s old case are no mere coincidence. Can you crack the code and stop those behind the dancing men for good?",
+    "steam_appid": 2402760,
+    "support_info": {
+        "email": "support@bigfishgames.zendesk.com",
+        "url": "https://bigfishgames.zendesk.com/hc/en-us/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

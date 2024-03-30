@@ -1,0 +1,155 @@
+{
+    "about_the_game": "Peace is Your Destiny is a relaxing trip across an everlasting and colorful ocean. Clear islands by rolling your cube to match colored tiles. You will uncover surprises along the way towards a calmer and <strong>chill mindset</strong>. Created for players to enjoy calming puzzles and retreat into a<strong> beautiful minimalist world</strong>.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/ezgif.com-video-to-gif__1_.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Specially Designed for the People who Suffering from <strong>Anxiety or Stress</strong></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_2.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Simple tile matching gameplay that is easy to learn but<strong> hard to master</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_3.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Endless islands to complete -<strong> built to generate millions of unique layouts and color combinations</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_4.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Colorful<strong> minimalist visuals</strong> that constantly change as you play.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_5.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Hidden secrets to discover along the <strong>journey</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_8.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Having Stress or Anxiety just play<strong> Peace is Your Destiny</strong></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/Peace_is_Your_Destiny.png?t=1681533815\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/page_bg_generated_v6b.jpg?t=1681533815",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/page.bg.jpg?t=1681533815",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/capsule_231x87.jpg?t=1681533815",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/capsule_184x69.jpg?t=1681533815",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Peace is Your Destiny is a relaxing trip across an everlasting and colorful ocean. Clear islands by rolling your cube to match colored tiles. You will uncover surprises along the way towards a calmer and <strong>chill mindset</strong>. Created for players to enjoy calming puzzles and retreat into a<strong> beautiful minimalist world</strong>.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/ezgif.com-video-to-gif__1_.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Specially Designed for the People who Suffering from <strong>Anxiety or Stress</strong></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_2.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Simple tile matching gameplay that is easy to learn but<strong> hard to master</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_3.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Endless islands to complete -<strong> built to generate millions of unique layouts and color combinations</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_4.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Colorful<strong> minimalist visuals</strong> that constantly change as you play.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_5.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Hidden secrets to discover along the <strong>journey</strong>.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/gif_8.gif?t=1681533815\" /><br><br><ul class=\"bb_ul\"><li>Having Stress or Anxiety just play<strong> Peace is Your Destiny</strong></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2373080/extras/Peace_is_Your_Destiny.png?t=1681533815\" />",
+    "developers": [
+        "Destiny"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/header.jpg?t=1681533815",
+    "is_free": false,
+    "legal_notice": "Having Stress or Anxiety just play Peace is Your Destiny",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937788,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937788/movie480.mp4?t=1679982603",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937788/movie_max.mp4?t=1679982603"
+            },
+            "name": "Peace is Your Destiny",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937788/movie.293x165.jpg?t=1679982603",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937788/movie480_vp9.webm?t=1679982603",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937788/movie_max_vp9.webm?t=1679982603"
+            }
+        }
+    ],
+    "name": "Peace is Your Destiny",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Peace is Your Destiny - $4.99",
+                    "packageid": 853157,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Peace is Your Destiny"
+        }
+    ],
+    "packages": [
+        853157
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8 or 10<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX950<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Any Sound Card Will Do!</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Destiny"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_b89835e694ca97bb05874b1116bd42e9edcdf9aa.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_b89835e694ca97bb05874b1116bd42e9edcdf9aa.600x338.jpg?t=1681533815"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_111ded86515024ddc2da4096f3ee7f65ed73caf2.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_111ded86515024ddc2da4096f3ee7f65ed73caf2.600x338.jpg?t=1681533815"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_e2ee57a71c1c1daff07fd6b436a7b03304d558a3.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_e2ee57a71c1c1daff07fd6b436a7b03304d558a3.600x338.jpg?t=1681533815"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_a25507557a701bed01ea2f3db390c5f770dbf48f.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_a25507557a701bed01ea2f3db390c5f770dbf48f.600x338.jpg?t=1681533815"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_fe4e280ccb6110c2a25d77a944174c7a8333c179.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_fe4e280ccb6110c2a25d77a944174c7a8333c179.600x338.jpg?t=1681533815"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_3786f19e9a1576c28a2c5b55d862aaffd98eccdc.1920x1080.jpg?t=1681533815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373080/ss_3786f19e9a1576c28a2c5b55d862aaffd98eccdc.600x338.jpg?t=1681533815"
+        }
+    ],
+    "short_description": "Peace is Your Destiny is a relaxing trip across an everlasting and colorful ocean. Clear islands by rolling your cube to match colored tiles. You will uncover surprises along the way towards a calmer and chill mindset. Its will Remove your anxiety and you will enter the world of Peace.",
+    "steam_appid": 2373080,
+    "support_info": {
+        "email": "lhead6231@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,201 @@
+{
+    "about_the_game": "DLC &quot;SL80 Sayaka Special&quot; will bring a new car to your collection - SL80 Sayaka Special. This is Sayka Shimoda's - top Japanese female drifter - personal car, inspired by iconic &quot;Initial D&quot; manga. This car will look and run simply amazing on any location, for sure: from East Touge to Red Rock.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/page_bg_generated_v6b.jpg?t=1700734631",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/page_bg_generated.jpg?t=1700734631",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/capsule_231x87.jpg?t=1700734631",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/capsule_184x69.jpg?t=1700734631",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Remote Play on Phone",
+            "id": 41
+        },
+        {
+            "description": "Remote Play on Tablet",
+            "id": 42
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "DLC &quot;SL80 Sayaka Special&quot; will bring a new car to your collection - SL80 Sayaka Special. This is Sayka Shimoda's - top Japanese female drifter - personal car, inspired by iconic &quot;Initial D&quot; manga. This car will look and run simply amazing on any location, for sure: from East Touge to Red Rock.",
+    "developers": [
+        "CarX Technologies, LLC"
+    ],
+    "fullgame": {
+        "appid": "635260",
+        "name": "CarX Drift Racing Online"
+    },
+    "genres": [
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/header.jpg?t=1700734631",
+    "is_free": false,
+    "legal_notice": "2017 CarX Technologies, LLC",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256984376,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984376/movie480.mp4?t=1700734559",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984376/movie_max.mp4?t=1700734559"
+            },
+            "name": "SL80 Sayaka Special",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256984376/movie.293x165.jpg?t=1700734559",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984376/movie480_vp9.webm?t=1700734559",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984376/movie_max_vp9.webm?t=1700734559"
+            }
+        }
+    ],
+    "name": "CarX Drift Racing Online - SL80 Sayaka Special",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "CarX Drift Racing Online - SL80 Sayaka Special - $4.99",
+                    "packageid": 945939,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy CarX Drift Racing Online - SL80 Sayaka Special"
+        }
+    ],
+    "packages": [
+        945939
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "CarX Technologies, LLC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_32668858fcead19a8d14ff20c51b2222026083bf.1920x1080.jpg?t=1700734631",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_32668858fcead19a8d14ff20c51b2222026083bf.600x338.jpg?t=1700734631"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_22064a45ecd927933864e553fe227bb25002e5e2.1920x1080.jpg?t=1700734631",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_22064a45ecd927933864e553fe227bb25002e5e2.600x338.jpg?t=1700734631"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_12eaafdc01afa83cc987ebe63665df87db8b29f3.1920x1080.jpg?t=1700734631",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_12eaafdc01afa83cc987ebe63665df87db8b29f3.600x338.jpg?t=1700734631"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_9b37830b55e7b7c58018753724e12233a59b4f79.1920x1080.jpg?t=1700734631",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638160/ss_9b37830b55e7b7c58018753724e12233a59b4f79.600x338.jpg?t=1700734631"
+        }
+    ],
+    "short_description": "Sayaka Shimoda is a devoted fan of \u201cInitial D\u201d manga, she drives this car paying homage to the swiftest driver on the mountain passes of Japan from the iconic manga. Her actual Machine is always on display at Oginoya in Gunma",
+    "steam_appid": 2638160,
+    "support_info": {
+        "email": "support@carx-tech.com",
+        "url": "http://carx-online.com"
+    },
+    "supported_languages": "English, Russian, French, Italian, Korean, Japanese, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Polish, Portuguese - Portugal",
+    "type": "dlc",
+    "website": "http://carx-online.com"
+}

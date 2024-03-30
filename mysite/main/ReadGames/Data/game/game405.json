@@ -1,0 +1,126 @@
+{
+    "about_the_game": "Home Path is a rogue-like Game where you have to help the Slime to Reach her Home. You have to survive on each floor and help the little girl to not be hungry.<br />\r\n<br />\r\nGet Random power-ups when you travel to the next Floor.<br />\r\n<br />\r\nThe floors are Random Generated so every playthrough has a new layout.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/page_bg_generated_v6b.jpg?t=1705103165",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/page_bg_generated.jpg?t=1705103165",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/capsule_231x87.jpg?t=1705103165",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/capsule_184x69.jpg?t=1705103165",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Home Path is a rogue-like Game where you have to help the Slime to Reach her Home. You have to survive on each floor and help the little girl to not be hungry.<br />\r\n<br />\r\nGet Random power-ups when you travel to the next Floor.<br />\r\n<br />\r\nThe floors are Random Generated so every playthrough has a new layout.",
+    "developers": [
+        "Lilith Guild"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/header.jpg?t=1705103165",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256991153,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991153/movie480.mp4?t=1705103157",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991153/movie_max.mp4?t=1705103157"
+            },
+            "name": "Early Access Trailer Home Path",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256991153/movie.293x165.jpg?t=1705103157",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991153/movie480_vp9.webm?t=1705103157",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991153/movie_max_vp9.webm?t=1705103157"
+            }
+        }
+    ],
+    "name": "Home Path",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz   2.10 GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 6GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz   2.10 GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 6GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Lilith Guild"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Feb 19, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_61b779cf54cb67ad61731c6db7b0d2d3825ad2c8.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_61b779cf54cb67ad61731c6db7b0d2d3825ad2c8.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_52397b2c704564f6c6daaead6c00635b91e16f87.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_52397b2c704564f6c6daaead6c00635b91e16f87.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_9e02028785af2b07c19ee4a7daec0f7afe583959.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_9e02028785af2b07c19ee4a7daec0f7afe583959.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_e5ee4a85f4ff3ef16e2e2e68bd3389a9e93fd854.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_e5ee4a85f4ff3ef16e2e2e68bd3389a9e93fd854.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_41b4e5bf06640fc0f9c9ef3676c2c201eed6c6f6.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_41b4e5bf06640fc0f9c9ef3676c2c201eed6c6f6.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_e471f5a4bc50ba3a26aa9d3081f9635fd5d34a69.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_e471f5a4bc50ba3a26aa9d3081f9635fd5d34a69.600x338.jpg?t=1705103165"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_c8673c1d27d68249f7a9b0ee3a2a107875d89e25.1920x1080.jpg?t=1705103165",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736350/ss_c8673c1d27d68249f7a9b0ee3a2a107875d89e25.600x338.jpg?t=1705103165"
+        }
+    ],
+    "short_description": "Home Path is a Rogue-Like Action game where you play as a Slime that has to go to different platforms to save a Little Girl that she has found.",
+    "steam_appid": 2736350,
+    "support_info": {
+        "email": "lino.condor.123@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://lilithguild.com/2023/11/11/home-path-game/"
+}

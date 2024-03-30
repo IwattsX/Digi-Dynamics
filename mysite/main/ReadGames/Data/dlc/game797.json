@@ -1,0 +1,180 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371960/extras/ezgif-4-a474ad6af7.gif?t=1687976718\" /><br><strong>Chapter Two of Chameleon - DYH</strong> continues Kai's journey to find his brother.<br>As Angie continues to investigate the infamous ''Silent Mourn'', Strom struggles to face his past.<br>Overwhelmed with feelings of sorrow and despair, <br>Strom remembers the fateful day when his eyes have changed.<br><br><u>The Chapter's choices and outcomes heavily rely on progress in the previous gameplay.<br>Introducing a new puzzle quest and a new story to explore.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371960/extras/ezgif-2-b69a1a5084.gif?t=1687976718\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/page_bg_generated_v6b.jpg?t=1687976718",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/page_bg_generated.jpg?t=1687976718",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/capsule_231x87.jpg?t=1687976718",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/capsule_184x69.jpg?t=1687976718",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Game includes mild blood, usage of guns & tobacco.\r\nThe current chapter deals with themes of depression and grief."
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371960/extras/ezgif-4-a474ad6af7.gif?t=1687976718\" /><br><strong>Chapter Two of Chameleon - DYH</strong> continues Kai's journey to find his brother.<br>As Angie continues to investigate the infamous ''Silent Mourn'', Strom struggles to face his past.<br>Overwhelmed with feelings of sorrow and despair, <br>Strom remembers the fateful day when his eyes have changed.<br><br><u>The Chapter's choices and outcomes heavily rely on progress in the previous gameplay.<br>Introducing a new puzzle quest and a new story to explore.</u><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371960/extras/ezgif-2-b69a1a5084.gif?t=1687976718\" />",
+    "developers": [
+        "DYH"
+    ],
+    "fullgame": {
+        "appid": "1729100",
+        "name": "Chameleon - DYH"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/header.jpg?t=1687976718",
+    "is_free": false,
+    "legal_notice": "Created by DYH, Copyright 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256955629,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955629/movie480.mp4?t=1687976646",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955629/movie_max.mp4?t=1687976646"
+            },
+            "name": "Release Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955629/movie.293x165.jpg?t=1687976646",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955629/movie480_vp9.webm?t=1687976646",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955629/movie_max_vp9.webm?t=1687976646"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256938015,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938015/movie480.mp4?t=1680291312",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938015/movie_max.mp4?t=1680291312"
+            },
+            "name": "Chameleon - DYH: Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938015/movie.293x165.jpg?t=1680291312",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938015/movie480_vp9.webm?t=1680291312",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938015/movie_max_vp9.webm?t=1680291312"
+            }
+        }
+    ],
+    "name": "Chameleon - DYH: Chapter 2",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Chameleon - DYH: Chapter 2 - $4.99",
+                    "packageid": 852771,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Chameleon - DYH: Chapter 2"
+        }
+    ],
+    "packages": [
+        852771
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft 64bit Windows 7<br></li><li><strong>Processor:</strong> 64bit Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4-compliant onboard graphics (with 1.5GB VRAM minimum)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Windows-based sound card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft 64bit Windows 10<br></li><li><strong>Processor:</strong> 64bit Intel compatible Quad Core CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DX11 based graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> Windows-based sound card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "WinCode"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 28, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_e6963e51829ff26584336b8e302e1920abd75ade.1920x1080.jpg?t=1687976718",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_e6963e51829ff26584336b8e302e1920abd75ade.600x338.jpg?t=1687976718"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_57679946c70f8de52388b4ac071ce451285741a3.1920x1080.jpg?t=1687976718",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_57679946c70f8de52388b4ac071ce451285741a3.600x338.jpg?t=1687976718"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_5f71f0871338a8e964b826b9d76194b4ca2c621c.1920x1080.jpg?t=1687976718",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_5f71f0871338a8e964b826b9d76194b4ca2c621c.600x338.jpg?t=1687976718"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_8979d94f56182d008ea6a0158fec91f3b92ca035.1920x1080.jpg?t=1687976718",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371960/ss_8979d94f56182d008ea6a0158fec91f3b92ca035.600x338.jpg?t=1687976718"
+        }
+    ],
+    "short_description": "Chapter Two of Chameleon - DYH continues Kai's journey to find his brother. The Chapter's choices and outcomes heavily rely on progress in the previous gameplay. Introducing a new puzzle quest and a new story to explore.",
+    "steam_appid": 2371960,
+    "support_info": {
+        "email": "dyhstoriespc@gmail.com",
+        "url": "https://dyhstories.myportfolio.com/"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://dyhstories.myportfolio.com/"
+}

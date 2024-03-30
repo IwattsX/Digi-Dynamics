@@ -1,0 +1,185 @@
+{
+    "about_the_game": "Run a Caf\u00e9 is a game where you do just that, run a Caf\u00e9! <br />\r\n<br />\r\nMake drinks from regular coffee, to iced flavored coffees and even serve food! <br />\r\nManage your inventory and time efficiently to ensure you maximize every customer! <br />\r\nStart from nothing and build a full scale, dine-in Caf\u00e9! Keep an eye on your money and your Caf\u00e9 ratings! <br />\r\nToo low of ratings or running out of money causes you to close up shop and it's game over!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/page_bg_generated_v6b.jpg?t=1704569096",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/page_bg_generated.jpg?t=1704569096",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/capsule_231x87.jpg?t=1704569096",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/capsule_184x69.jpg?t=1704569096",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2596360,
+            "description": ""
+        }
+    ],
+    "detailed_description": "Run a Caf\u00e9 is a game where you do just that, run a Caf\u00e9! <br />\r\n<br />\r\nMake drinks from regular coffee, to iced flavored coffees and even serve food! <br />\r\nManage your inventory and time efficiently to ensure you maximize every customer! <br />\r\nStart from nothing and build a full scale, dine-in Caf\u00e9! Keep an eye on your money and your Caf\u00e9 ratings! <br />\r\nToo low of ratings or running out of money causes you to close up shop and it's game over!",
+    "developers": [
+        "PixelRift Studios"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/header.jpg?t=1704569096",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256967072,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256967072/movie480.mp4?t=1693497472",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256967072/movie_max.mp4?t=1693497472"
+            },
+            "name": "Run a Caf\u00e9 | Customer Overhaul Update Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256967072/movie.293x165.jpg?t=1693497472",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256967072/movie480_vp9.webm?t=1693497472",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256967072/movie_max_vp9.webm?t=1693497472"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256956007,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256956007/movie480.mp4?t=1688149642",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256956007/movie_max.mp4?t=1688149642"
+            },
+            "name": "Run a Caf\u00e9 | Early Access Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256956007/movie.293x165.jpg?t=1688149642",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256956007/movie480_vp9.webm?t=1688149642",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256956007/movie_max_vp9.webm?t=1688149642"
+            }
+        }
+    ],
+    "name": "Run a Caf\u00e9",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Run a Caf\u00e9 - $19.99",
+                    "packageid": 852881,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Run a Caf\u00e9"
+        }
+    ],
+    "packages": [
+        852881
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (or newer)<br></li><li><strong>Processor:</strong> Intel Core i3 5th Generation or similar<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 520 or smiliar<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "PixelRift Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_79494ae53b306bd920f58ff1243d6d991a4bce0c.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_79494ae53b306bd920f58ff1243d6d991a4bce0c.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_f112512cf8e7f601793152c6718bc83c08621674.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_f112512cf8e7f601793152c6718bc83c08621674.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_1789a6f504bfa42f67ae306c396d42716aa897b5.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_1789a6f504bfa42f67ae306c396d42716aa897b5.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_8674e0680fe6387e23352e8ffdb41f7a7453c6f0.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_8674e0680fe6387e23352e8ffdb41f7a7453c6f0.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_4182b7b72dbf99fd23da37d580d5272a3c71725b.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_4182b7b72dbf99fd23da37d580d5272a3c71725b.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_283cf31bb9d9d9704794108d755aa879f9395a71.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_283cf31bb9d9d9704794108d755aa879f9395a71.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_9448214260787997b964167a63b172da58227f43.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_9448214260787997b964167a63b172da58227f43.600x338.jpg?t=1704569096"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_d90dc55a43becdec9f84265be0759a461ed48c63.1920x1080.jpg?t=1704569096",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372250/ss_d90dc55a43becdec9f84265be0759a461ed48c63.600x338.jpg?t=1704569096"
+        }
+    ],
+    "short_description": "Run a Caf\u00e9 is a game where you do just that, run a Caf\u00e9! Make drinks from regular coffee, to iced flavored coffees and even serve food! Manage your inventory and time efficiently to ensure you maximize every customer! Start from nothing and build a full scale, dine-in Caf\u00e9!",
+    "steam_appid": 2372250,
+    "support_info": {
+        "email": "",
+        "url": "https://www.pixelriftstudios.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.pixelriftstudios.com/"
+}

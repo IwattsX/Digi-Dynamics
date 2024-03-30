@@ -1,0 +1,166 @@
+{
+    "about_the_game": "This is a VR game that risks. The game is set on an abandoned and deserted dinosaur island. The island is covered with various types of dinosaurs with various types of different types of colors. Escape from this island is the most urgent thing for players.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/1.png?t=1685583969\" /><br> <br>This barren dinosaur is a variety of various dinosaurs living on the deserted dinosaur. They are hostile to foreigners and pose a great threat to players. In order to survive, players need to use the 300 rounds of ammunition held in their hands to shoot all the dinosaurs and kill them to complete the victory of the game and escape from this dinosaur island. Of course, because the number of ammunition is limited, players must aim more effectively and try not to waste any bullets.<br>In addition to fighting with dinosaurs, players also need to pay attention to their own blood volume progress bar. Whenever the player is attacked by dinosaurs, his own blood volume decreases. When the blood volume progress is completely disappeared, it means the failure of the game. Therefore, players need to avoid dinosaur attacks in time, while ensuring their safety and better respond to the next challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/2.png?t=1685583969\" /><br> <br>In short, this is a intense and exciting adventure survival game. Players need to use their wisdom and courage to survive and escape on dangerous islands. Not only that, this game also allows players to experience the excitement of fighting with dinosaurs. I believe it will bring a great game experience to the majority of players!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/3.png?t=1685583969\" /><h2 class=\"bb_tag\">Operation method:</h2>Turn on the right handle trigger<br>Walking left handle left/right/up/down<br>Turn the right handle left/right",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/page_bg_generated_v6b.jpg?t=1685583969",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/page_bg_generated.jpg?t=1685583969",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/capsule_231x87.jpg?t=1685583969",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/capsule_184x69.jpg?t=1685583969",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is a VR game that risks. The game is set on an abandoned and deserted dinosaur island. The island is covered with various types of dinosaurs with various types of different types of colors. Escape from this island is the most urgent thing for players.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/1.png?t=1685583969\" /><br> <br>This barren dinosaur is a variety of various dinosaurs living on the deserted dinosaur. They are hostile to foreigners and pose a great threat to players. In order to survive, players need to use the 300 rounds of ammunition held in their hands to shoot all the dinosaurs and kill them to complete the victory of the game and escape from this dinosaur island. Of course, because the number of ammunition is limited, players must aim more effectively and try not to waste any bullets.<br>In addition to fighting with dinosaurs, players also need to pay attention to their own blood volume progress bar. Whenever the player is attacked by dinosaurs, his own blood volume decreases. When the blood volume progress is completely disappeared, it means the failure of the game. Therefore, players need to avoid dinosaur attacks in time, while ensuring their safety and better respond to the next challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/2.png?t=1685583969\" /><br> <br>In short, this is a intense and exciting adventure survival game. Players need to use their wisdom and courage to survive and escape on dangerous islands. Not only that, this game also allows players to experience the excitement of fighting with dinosaurs. I believe it will bring a great game experience to the majority of players!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403090/extras/3.png?t=1685583969\" /><h2 class=\"bb_tag\">Operation method:</h2>Turn on the right handle trigger<br>Walking left handle left/right/up/down<br>Turn the right handle left/right",
+    "developers": [
+        "Dinosaur workshop"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/header.jpg?t=1685583969",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942649,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942649/movie480.mp4?t=1683862386",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942649/movie_max.mp4?t=1683862386"
+            },
+            "name": "VR Escape From Jurassic Island",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942649/movie.293x165.jpg?t=1683862386",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942649/movie480_vp9.webm?t=1683862386",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942649/movie_max_vp9.webm?t=1683862386"
+            }
+        }
+    ],
+    "name": "VR Escape From Jurassic Island",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "VR Escape From Jurassic Island - $3.99",
+                    "packageid": 864595,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy VR Escape From Jurassic Island"
+        }
+    ],
+    "packages": [
+        864595
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft Windows 7<br></li><li><strong>Processor:</strong> Intel Pentium G4560 / AMD FX 8300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX  960<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio<br></li><li><strong>VR Support:</strong> HTC VIVE</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350 or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX  1050 or higher<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio<br></li><li><strong>VR Support:</strong> HTC VIVE</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Dinosaur workshop\t"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_e660e4a8aa0c8546f7b271c2506bfa8b0fe95784.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_e660e4a8aa0c8546f7b271c2506bfa8b0fe95784.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_c62a88f4b4d96fa40586694e69abe5fe96e39297.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_c62a88f4b4d96fa40586694e69abe5fe96e39297.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_c02bdeccf3d7da42b4d79de138213c0c48b2ad33.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_c02bdeccf3d7da42b4d79de138213c0c48b2ad33.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_5a76eb703a3fd0f2f55866efd4a9b233c4bf125a.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_5a76eb703a3fd0f2f55866efd4a9b233c4bf125a.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_75d82ac11e2a0f78a726d2f8239ed56264e8573a.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_75d82ac11e2a0f78a726d2f8239ed56264e8573a.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_ca06221a079bec6c235d89c082034c9588039de2.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_ca06221a079bec6c235d89c082034c9588039de2.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_1f4c5335c649ac366c1bb0164ce78c772c425579.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_1f4c5335c649ac366c1bb0164ce78c772c425579.600x338.jpg?t=1685583969"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_749736ad5d4fee963f05cdf9608c54f04aac59ae.1920x1080.jpg?t=1685583969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403090/ss_749736ad5d4fee963f05cdf9608c54f04aac59ae.600x338.jpg?t=1685583969"
+        }
+    ],
+    "short_description": "This is a VR game that risks. The game is set on an abandoned and deserted dinosaur island. The island is covered with various types of dinosaurs with various types of different types of colors. Escape from this island is the most urgent thing for players.",
+    "steam_appid": 2403090,
+    "support_info": {
+        "email": "oxgroups@hotmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean",
+    "type": "game",
+    "website": null
+}

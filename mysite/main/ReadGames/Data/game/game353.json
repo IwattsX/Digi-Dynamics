@@ -1,0 +1,110 @@
+{
+    "about_the_game": "&quot;Once upon a time, there were ten suns in the sky...<h2 class=\"bb_tag\">Story Overview</h2>In the waning years of the Northern Wei Dynasty, in the town of Dunhuang, a rumor circulates about a stone statue that bestows blessings in the mortal realm. General Anu of the Northern Wei, accompanied by the Han individual Chu Qingqing, rushes to this place only to discover that the merchant holding the stone statue has already met his demise. A mysterious murder, a hidden thief among the crowd, and the sudden manifestation of the stone statue. What do the spirits within the statue seek, and what do they offer? In the darkness, the two are forced to reminisce about the past, choosing once again the paths that lead them to the present and the next moment.<br><br><strong>Strange Events in Luoyang</strong><br>The case of the fox demon eating people in Luoyang, it was a sensational crime that shook the city. Rumors abound: it's the millennium-old fox spirit venturing out to replenish its energy, specifically targeting pregnant women. Only the son of the Chu family knows that the solution to this mystery dates back to a winter ten years ago...<br>&quot;...That rich young man who attracted the fox demon, I forgot what his family name was.&quot;<br><br><strong>Turmoil in the Six Towns</strong><br>Ten years later, the daughter of the Tuoba family returns to the turbulent town of Wuchuan. Memories of the autumn hunt in the year 492 and the person who died resurface.<br>&quot;I am no longer your prey... I am a hunter now, just like you.&quot;<h2 class=\"bb_tag\">Game Introduction</h2>This game is a fantasy family drama set in the backdrop of the Northern Wei Dynasty. It falls under the genre of a choice-driven visual novel AVG. The game features approximately 100,000 words of text, with two main storylines for male and female protagonists and five different endings. After completing the first playthrough, players can choose a different storyline for a second playthrough.<br>The story includes various non-traditional intimate relationship plots: gl/bl/bg/gb and polyamorous relationships, among others.<br>This game contains depictions of violence, sexual content, immoral behavior, and criminal activities. If you feel uncomfortable, please close the game promptly.<br>This work is purely fictional and has no connection to any real individuals, events, groups, or organizations.<h2 class=\"bb_tag\">Production Team</h2>Copywriting: Guai'an, Zhanqintai<br>Art: Guai'an, Rink<br>PV Production: Zeixique<br>UI: Zeixique<br>Programming: Guai'an<br>Historical Advisor: Zheng Xiaoshuang<br>Music: Canniles, Darwin Bai Lu<br>Production Tool: Ren'Py&quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/page_bg_generated_v6b.jpg?t=1704917526",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/page.bg.jpg?t=1704917526",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/capsule_231x87.jpg?t=1704917526",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/capsule_184x69.jpg?t=1704917526",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "The story includes various non-traditional intimate relationship plots: gl/bl/bg/gb and polyamorous relationships, among others.\r\nThis game contains depictions of violence, Sexual innuendo, immoral behavior, and criminal activities. If you feel uncomfortable, please close the game promptly."
+    },
+    "detailed_description": "&quot;Once upon a time, there were ten suns in the sky...<h2 class=\"bb_tag\">Story Overview</h2>In the waning years of the Northern Wei Dynasty, in the town of Dunhuang, a rumor circulates about a stone statue that bestows blessings in the mortal realm. General Anu of the Northern Wei, accompanied by the Han individual Chu Qingqing, rushes to this place only to discover that the merchant holding the stone statue has already met his demise. A mysterious murder, a hidden thief among the crowd, and the sudden manifestation of the stone statue. What do the spirits within the statue seek, and what do they offer? In the darkness, the two are forced to reminisce about the past, choosing once again the paths that lead them to the present and the next moment.<br><br><strong>Strange Events in Luoyang</strong><br>The case of the fox demon eating people in Luoyang, it was a sensational crime that shook the city. Rumors abound: it's the millennium-old fox spirit venturing out to replenish its energy, specifically targeting pregnant women. Only the son of the Chu family knows that the solution to this mystery dates back to a winter ten years ago...<br>&quot;...That rich young man who attracted the fox demon, I forgot what his family name was.&quot;<br><br><strong>Turmoil in the Six Towns</strong><br>Ten years later, the daughter of the Tuoba family returns to the turbulent town of Wuchuan. Memories of the autumn hunt in the year 492 and the person who died resurface.<br>&quot;I am no longer your prey... I am a hunter now, just like you.&quot;<h2 class=\"bb_tag\">Game Introduction</h2>This game is a fantasy family drama set in the backdrop of the Northern Wei Dynasty. It falls under the genre of a choice-driven visual novel AVG. The game features approximately 100,000 words of text, with two main storylines for male and female protagonists and five different endings. After completing the first playthrough, players can choose a different storyline for a second playthrough.<br>The story includes various non-traditional intimate relationship plots: gl/bl/bg/gb and polyamorous relationships, among others.<br>This game contains depictions of violence, sexual content, immoral behavior, and criminal activities. If you feel uncomfortable, please close the game promptly.<br>This work is purely fictional and has no connection to any real individuals, events, groups, or organizations.<h2 class=\"bb_tag\">Production Team</h2>Copywriting: Guai'an, Zhanqintai<br>Art: Guai'an, Rink<br>PV Production: Zeixique<br>UI: Zeixique<br>Programming: Guai'an<br>Historical Advisor: Zheng Xiaoshuang<br>Music: Canniles, Darwin Bai Lu<br>Production Tool: Ren'Py&quot;",
+    "developers": [
+        "\u4f24\u5b98\u5236\u4f5c\u7ec4"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/header.jpg?t=1704917526",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6 / 10.7 / 10.8<br></li><li><strong>Processor:</strong> 1.5GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics Chip<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988515,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988515/movie480.mp4?t=1702657115",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988515/movie_max.mp4?t=1702657115"
+            },
+            "name": "Ignited in Cavern PV1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988515/movie.293x165.jpg?t=1702657115",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988515/movie480_vp9.webm?t=1702657115",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988515/movie_max_vp9.webm?t=1702657115"
+            }
+        }
+    ],
+    "name": "Ignited in Cavern",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windows10/8/7 64-bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX980<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "\u4f24\u5b98\u5236\u4f5c\u7ec4"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q2 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_f657961037a3005edc625246ea5e3b7418a760de.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_f657961037a3005edc625246ea5e3b7418a760de.600x338.jpg?t=1704917526"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_a69fd8dc702b3a3d9de38ee196750f8695fc6372.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_a69fd8dc702b3a3d9de38ee196750f8695fc6372.600x338.jpg?t=1704917526"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_d43c67a9d4633fd07aefa9461d07726e4950ed1e.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_d43c67a9d4633fd07aefa9461d07726e4950ed1e.600x338.jpg?t=1704917526"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_892e468dfd6d53384ec6f9475a76a4d45cca703b.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_892e468dfd6d53384ec6f9475a76a4d45cca703b.600x338.jpg?t=1704917526"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_351ac904e06821ac6f32994d775933174d8806ea.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_351ac904e06821ac6f32994d775933174d8806ea.600x338.jpg?t=1704917526"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_53aea1c69384453230546c846759aa0cfa2d8784.1920x1080.jpg?t=1704917526",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738080/ss_53aea1c69384453230546c846759aa0cfa2d8784.600x338.jpg?t=1704917526"
+        }
+    ],
+    "short_description": "In the waning years of the Northern Wei Dynasty, in the town of Dunhuang, a rumor circulates about a stone statue that bestows blessings in the mortal realm. Anu and Chu Qingqing, rushes to this place only to discover that the merchant holding the stone statue has already met his demise.",
+    "steam_appid": 2738080,
+    "support_info": {
+        "email": "154216638@qq.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

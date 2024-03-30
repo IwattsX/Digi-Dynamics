@@ -1,0 +1,124 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>THE YEAR IS 2086.</strong></h2><br>There's a camera in every device and a half dozen devices on every citizen. There are tracking implants in every cybernetic and location tags on every bullet. No stone goes unturned- and every stone is accounted for.<br><br>Violent crimes are cleared in 97% of cases.<br><br>The few cases that make it to trial result in a guilty verdict 98% of the time.<br><br>People are safer now than at any other time in history, and getting away with murder is nearly impossible.<br><br>So if you find yourself wrongly accused...<br><br><strong><i>Better hope you've get a Killer Lawyer.</i></strong><h2 class=\"bb_tag\"><strong>KILLER PROTAGONIST, ESQUIRE</strong></h2><br>Examine 3D crime scenes, question multifaceted characters, and take advantage of Morgan's own unique killer insight to pursue the truth for your clients in this episodic series of murder mystery stories.<h2 class=\"bb_tag\"><strong>HIGH-STAKES DEDUCTIONS</strong></h2><br>Build up your CREDIT by investigating thoroughly and asking the right questions- Then read your opponents' hands, call their bluffs, avoid their haymakers and slam down the right evidence to upend their logic.<h2 class=\"bb_tag\"><strong>RICH WORLD, PERSONALITIES, AND STORIES</strong></h2><br>Explore an atmospheric and vibrant world where cyberpunk rebels clash against the surveillance state, from both inside the justice system and far beyond the reach of the law.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/page_bg_generated_v6b.jpg?t=1705338032",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/page.bg.jpg?t=1705338032",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/capsule_231x87.jpg?t=1705338032",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/capsule_184x69.jpg?t=1705338032",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "This game contains mature themes, descriptions and stylized depictions of violence, murder and implied psychological torture. Player discretion is advised."
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>THE YEAR IS 2086.</strong></h2><br>There's a camera in every device and a half dozen devices on every citizen. There are tracking implants in every cybernetic and location tags on every bullet. No stone goes unturned- and every stone is accounted for.<br><br>Violent crimes are cleared in 97% of cases.<br><br>The few cases that make it to trial result in a guilty verdict 98% of the time.<br><br>People are safer now than at any other time in history, and getting away with murder is nearly impossible.<br><br>So if you find yourself wrongly accused...<br><br><strong><i>Better hope you've get a Killer Lawyer.</i></strong><h2 class=\"bb_tag\"><strong>KILLER PROTAGONIST, ESQUIRE</strong></h2><br>Examine 3D crime scenes, question multifaceted characters, and take advantage of Morgan's own unique killer insight to pursue the truth for your clients in this episodic series of murder mystery stories.<h2 class=\"bb_tag\"><strong>HIGH-STAKES DEDUCTIONS</strong></h2><br>Build up your CREDIT by investigating thoroughly and asking the right questions- Then read your opponents' hands, call their bluffs, avoid their haymakers and slam down the right evidence to upend their logic.<h2 class=\"bb_tag\"><strong>RICH WORLD, PERSONALITIES, AND STORIES</strong></h2><br>Explore an atmospheric and vibrant world where cyberpunk rebels clash against the surveillance state, from both inside the justice system and far beyond the reach of the law.",
+    "developers": [
+        "nth Circle Studios"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/header.jpg?t=1705338032",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13+<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256992815,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256992815/movie480.mp4?t=1705338023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256992815/movie_max.mp4?t=1705338023"
+            },
+            "name": "of the Devil - Steam Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256992815/movie.293x165.jpg?t=1705338023",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256992815/movie480_vp9.webm?t=1705338023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256992815/movie_max_vp9.webm?t=1705338023"
+            }
+        }
+    ],
+    "name": "of the Devil",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "nth Circle Studios "
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_8f13a5e7cc4b32e511538d76f104f1227fc31048.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_8f13a5e7cc4b32e511538d76f104f1227fc31048.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_e48cda3f5c588e26670da2c8d608a131c2b882c4.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_e48cda3f5c588e26670da2c8d608a131c2b882c4.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_44a38b86b4e577c8a5ac93b9c2b3eff64372d383.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_44a38b86b4e577c8a5ac93b9c2b3eff64372d383.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_634f458bd622c20b59b683b8172e9653294baea1.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_634f458bd622c20b59b683b8172e9653294baea1.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_79d0e247fbc51d9ca0b47868a645b83da1112b0e.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_79d0e247fbc51d9ca0b47868a645b83da1112b0e.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_c24154d3cb53ade553a3eb9920df6636a9fdb029.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_c24154d3cb53ade553a3eb9920df6636a9fdb029.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_64fa07675040c0b4c81bdc5c39dbe6cad1f6ad27.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_64fa07675040c0b4c81bdc5c39dbe6cad1f6ad27.600x338.jpg?t=1705338032"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_05ff6d3e7abbcfa13ec80efe9a63f707dc0d149e.1920x1080.jpg?t=1705338032",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739630/ss_05ff6d3e7abbcfa13ec80efe9a63f707dc0d149e.600x338.jpg?t=1705338032"
+        }
+    ],
+    "short_description": "Immerse yourself in neon, smoke, and high-stakes legal gambles as a Defense Attorney with uniquely Killer insights in this diabolically stylish visual novel adventure game.",
+    "steam_appid": 2739630,
+    "support_info": {
+        "email": "ofthedevilgame@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

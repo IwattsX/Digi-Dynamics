@@ -1,0 +1,161 @@
+{
+    "about_the_game": "* VR version available on Oculus Quest (Steam VR coming soon)<br />\r\n** Android version available for free on Play store<br />\r\n<br />\r\nCasual Snakes Combat. Kill other snakes and grow as much as you can.<br />\r\n<br />\r\n- Against AI mode<br />\r\n- Classic single snake mode<br />\r\n- Auto Pilot mode<br />\r\n<br />\r\n* This is still a work in progress. Next big update will include:<br />\r\n- Multiplayer mode (coming soon)<br />\r\n- Improved AI Brain (coming soon)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/page_bg_generated_v6b.jpg?t=1698149554",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/page.bg.jpg?t=1698149554",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/capsule_231x87.jpg?t=1698149554",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/capsule_184x69.jpg?t=1698149554",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "* VR version available on Oculus Quest (Steam VR coming soon)<br />\r\n** Android version available for free on Play store<br />\r\n<br />\r\nCasual Snakes Combat. Kill other snakes and grow as much as you can.<br />\r\n<br />\r\n- Against AI mode<br />\r\n- Classic single snake mode<br />\r\n- Auto Pilot mode<br />\r\n<br />\r\n* This is still a work in progress. Next big update will include:<br />\r\n- Multiplayer mode (coming soon)<br />\r\n- Improved AI Brain (coming soon)",
+    "developers": [
+        "mlThings.ai"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/header.jpg?t=1698149554",
+    "is_free": false,
+    "legal_notice": "COPYRIGHT NOTICE<br />\r\n<br />\r\nCopyright \u00a9 2023 mlThings.ai. All rights reserved. The game \"Snakes LTD\" and all associated materials, including but not limited to, images, text, and audio, are protected by copyright laws and international copyright treaties. Any unauthorized use, reproduction, distribution, or display of \"Snakes LTD\" or any of its associated materials is strictly prohibited.<br />\r\n<br />\r\nTRADEMARK NOTICE<br />\r\n<br />\r\n\"Snakes LTD\" and the \"Snakes LTD\" logo are trademarks of mlThings.ai. These trademarks may not be used in connection with any product or service that is not developed by mlThings.ai, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits mlThings.ai. All other trademarks and trade names are the property of their respective owners.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973846,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973846/movie480.mp4?t=1696963693",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973846/movie_max.mp4?t=1696963693"
+            },
+            "name": "Android gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973846/movie.293x165.jpg?t=1696963693",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973846/movie480_vp9.webm?t=1696963693",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973846/movie_max_vp9.webm?t=1696963693"
+            }
+        }
+    ],
+    "name": "Snakes LTD",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Snakes LTD - $8.99",
+                    "packageid": 945903,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 899
+                }
+            ],
+            "title": "Buy Snakes LTD"
+        }
+    ],
+    "packages": [
+        945903
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 10 / 11<br></li><li><strong>Processor:</strong> Intel Core i5-4590 equivalent or greater<br></li><li><strong>Graphics:</strong> GTX 980 equivalent</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 899,
+        "final_formatted": "$8.99",
+        "initial": 899,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "zviyamin.com"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_11a3afa6c7b4000ee9bd2269913dc26f5185c6fd.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_11a3afa6c7b4000ee9bd2269913dc26f5185c6fd.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_958b9e46b9fcda830c6165808fbec4c8d2d9d456.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_958b9e46b9fcda830c6165808fbec4c8d2d9d456.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_696f4522332ba2f3c7868169fa6177e56ba0eb13.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_696f4522332ba2f3c7868169fa6177e56ba0eb13.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_96b2877d915bf2a3bc5b88d15af3ce96852bbaf1.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_96b2877d915bf2a3bc5b88d15af3ce96852bbaf1.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_d81ede0c6be2265dbd23d917f2607b62021acb34.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_d81ede0c6be2265dbd23d917f2607b62021acb34.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_57d391587c1d265114e56efe2d1922bae80ef21d.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_57d391587c1d265114e56efe2d1922bae80ef21d.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_d0fef4b177a14fd64b0a7a54343a544655036037.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_d0fef4b177a14fd64b0a7a54343a544655036037.600x338.jpg?t=1698149554"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_2e460a7dcedddeffcc7ae6d99c271a35410b729d.1920x1080.jpg?t=1698149554",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638040/ss_2e460a7dcedddeffcc7ae6d99c271a35410b729d.600x338.jpg?t=1698149554"
+        }
+    ],
+    "short_description": "Casual Snakes Combat. Kill other snakes and grow as much as you can.",
+    "steam_appid": 2638040,
+    "support_info": {
+        "email": "support@zviyamin.com",
+        "url": "zviyamin.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://zviyamin.com"
+}

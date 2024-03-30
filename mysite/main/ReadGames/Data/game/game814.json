@@ -1,0 +1,150 @@
+{
+    "about_the_game": "Welcome to TETHER. In this mysterious, hand-crafted platformer, pilot a cute drone and explore the desolate ruins of a space station that mysteriously went dark. Where did everyone go? Why is everything falling apart? Only you can discover the secrets lying just underneath the surface . . .<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371280/extras/endoftheline_small_.png?t=1689709477\" /><br><br><ul class=\"bb_ul\"><li> Charming pixel art and animations<br></li><li> Character/lore-rich story with plenty of dark humor<br></li><li> Created by one person (which makes the game . . . better, right?)<br></li><li> Completely original music and score with an emphasis on catchy melodies<br></li><li> A talking radio that you don't have to listen to at all. He'll keep talking, but you can just ignore him for the most part.</li></ul><br>Controls are simple and accessible - jump, dash, repair and light up the dark - attaching your tether to various checkpoints throughout the ship in order to delve just a little bit deeper . . . just remember not to run out of air!<br><br><i>GROOVY!</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/page_bg_generated_v6b.jpg?t=1689709477",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/page.bg.jpg?t=1689709477",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/capsule_231x87.jpg?t=1689709477",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/capsule_184x69.jpg?t=1689709477",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to TETHER. In this mysterious, hand-crafted platformer, pilot a cute drone and explore the desolate ruins of a space station that mysteriously went dark. Where did everyone go? Why is everything falling apart? Only you can discover the secrets lying just underneath the surface . . .<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2371280/extras/endoftheline_small_.png?t=1689709477\" /><br><br><ul class=\"bb_ul\"><li> Charming pixel art and animations<br></li><li> Character/lore-rich story with plenty of dark humor<br></li><li> Created by one person (which makes the game . . . better, right?)<br></li><li> Completely original music and score with an emphasis on catchy melodies<br></li><li> A talking radio that you don't have to listen to at all. He'll keep talking, but you can just ignore him for the most part.</li></ul><br>Controls are simple and accessible - jump, dash, repair and light up the dark - attaching your tether to various checkpoints throughout the ship in order to delve just a little bit deeper . . . just remember not to run out of air!<br><br><i>GROOVY!</i>",
+    "developers": [
+        "Kyle Brick"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/header.jpg?t=1689709477",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256953988,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953988/movie480.mp4?t=1687230430",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953988/movie_max.mp4?t=1687230430"
+            },
+            "name": "TETHER - Release Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256953988/movie.293x165.jpg?t=1687230430",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953988/movie480_vp9.webm?t=1687230430",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953988/movie_max_vp9.webm?t=1687230430"
+            }
+        }
+    ],
+    "name": "Tether",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "TETHER - $1.99",
+                    "packageid": 852508,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Tether"
+        }
+    ],
+    "packages": [
+        852508
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 512 MB RAM MB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 1030 (2 GB) or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 300 MB available space MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Kyle Brick"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 18, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_0158f4572ba10bbc229f6affd39f6bce9d468db8.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_0158f4572ba10bbc229f6affd39f6bce9d468db8.600x338.jpg?t=1689709477"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_be1f03ba36c561d1ae19e0a4dd78a5e017456391.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_be1f03ba36c561d1ae19e0a4dd78a5e017456391.600x338.jpg?t=1689709477"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_378a369bded70692b60867abe15142acb0320928.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_378a369bded70692b60867abe15142acb0320928.600x338.jpg?t=1689709477"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_799cd948fc04e85b08ba99cb12c7e119b6857299.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_799cd948fc04e85b08ba99cb12c7e119b6857299.600x338.jpg?t=1689709477"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_4d0afd364da3f2593564b443a49108e0c188563b.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_4d0afd364da3f2593564b443a49108e0c188563b.600x338.jpg?t=1689709477"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_2f52e22fa2d067ed76c28b1d7785a1d4a64d7246.1920x1080.jpg?t=1689709477",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371280/ss_2f52e22fa2d067ed76c28b1d7785a1d4a64d7246.600x338.jpg?t=1689709477"
+        }
+    ],
+    "short_description": "Explore the ruins of a space station that mysteriously went offline. Brave a slew of hand-crafted challenges, uncover the darker secrets aboard the ship, and piece together the real reason everyone's gone missing . . .",
+    "steam_appid": 2371280,
+    "support_info": {
+        "email": "tethergamehelp@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,56 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370810/capsule_231x87.jpg?t=1679680333",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370810/capsule_184x69.jpg?t=1679680333",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Cadabra Games"
+    ],
+    "fullgame": {
+        "appid": "1074620",
+        "name": "Adore"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370810/header.jpg?t=1679680333",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Adore Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) 2 Duo CPU E8400 @ 3.00Hz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260  |  ATI Radeon HD 4800 Series<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum requirements for playing at 1600x900px @ 30fps</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-3470 CPU @ 3.20GHZ<br></li><li><strong>Graphics:</strong> Geforce GTX 660<br></li><li><strong>Additional Notes:</strong> 1920x1080 @ 60fps</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "QUByte Interactive"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 24, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2370810,
+    "support_info": {
+        "email": "info@cadabragames.com",
+        "url": ""
+    },
+    "type": "demo",
+    "website": null
+}

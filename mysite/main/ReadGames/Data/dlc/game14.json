@@ -1,0 +1,252 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Support SCUM development with our new deluxe cosmetic pack.</h2><br>In this DLC you will find 16 different hairstyles, 7 beards and 7 moustaches. From the 80s action star to a Napoleonic era gentleman, there will be something for your SCUM dude that will let you express him as you wish.<br><br><strong>Styles included:</strong><br><br><strong> Hair styles</strong><br><ul class=\"bb_ul\"><li> Presidential.<br></li><li> Buzz cut.<br></li><li> Mullet.<br></li><li> Messy long.<br></li><li> Messy regular.<br></li><li> Undercut.<br></li><li> Messy pompadour.<br></li><li> The Douch\u00e9.<br></li><li> Dreads.<br></li><li> Faux Hawk.<br></li><li> The Royale.<br></li><li> Mohawk.<br></li><li> Long Wick.<br></li><li> Man bun.<br></li><li> Textured.<br></li><li> Slickback.</li></ul><br><strong> Moustache styles:</strong><br><ul class=\"bb_ul\"><li> Imperial.<br></li><li> Motor head.<br></li><li> Horse shoe regular.<br></li><li> Horse shoe long.<br></li><li> Short classic.<br></li><li> Thin line.<br></li><li> 3 day moustache.</li></ul><br><strong>Beard styles:</strong><br><ul class=\"bb_ul\"><li> Extended goatee.<br></li><li> Verdi.<br></li><li> Mutton chops.<br></li><li> Warlord.<br></li><li> Goatee.<br></li><li> 3 day beard.<br></li><li> Unshaven.</li></ul><br><i>Note: All styles are available at both the character creation screen and at the barber trader.</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/page_bg_generated_v6b.jpg?t=1702630725",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/page_bg_generated.jpg?t=1702630725",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/capsule_231x87.jpg?t=1702630725",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/capsule_184x69.jpg?t=1702630725",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            5
+        ],
+        "notes": "The game allows nudity but has an option to turn it off. It features alcohol and some drugs."
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Support SCUM development with our new deluxe cosmetic pack.</h2><br>In this DLC you will find 16 different hairstyles, 7 beards and 7 moustaches. From the 80s action star to a Napoleonic era gentleman, there will be something for your SCUM dude that will let you express him as you wish.<br><br><strong>Styles included:</strong><br><br><strong> Hair styles</strong><br><ul class=\"bb_ul\"><li> Presidential.<br></li><li> Buzz cut.<br></li><li> Mullet.<br></li><li> Messy long.<br></li><li> Messy regular.<br></li><li> Undercut.<br></li><li> Messy pompadour.<br></li><li> The Douch\u00e9.<br></li><li> Dreads.<br></li><li> Faux Hawk.<br></li><li> The Royale.<br></li><li> Mohawk.<br></li><li> Long Wick.<br></li><li> Man bun.<br></li><li> Textured.<br></li><li> Slickback.</li></ul><br><strong> Moustache styles:</strong><br><ul class=\"bb_ul\"><li> Imperial.<br></li><li> Motor head.<br></li><li> Horse shoe regular.<br></li><li> Horse shoe long.<br></li><li> Short classic.<br></li><li> Thin line.<br></li><li> 3 day moustache.</li></ul><br><strong>Beard styles:</strong><br><ul class=\"bb_ul\"><li> Extended goatee.<br></li><li> Verdi.<br></li><li> Mutton chops.<br></li><li> Warlord.<br></li><li> Goatee.<br></li><li> 3 day beard.<br></li><li> Unshaven.</li></ul><br><i>Note: All styles are available at both the character creation screen and at the barber trader.</i>",
+    "developers": [
+        "Gamepires"
+    ],
+    "fullgame": {
+        "appid": "513710",
+        "name": "SCUM"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/header.jpg?t=1702630725",
+    "is_free": false,
+    "legal_notice": "\u00a9 2023 GAMEPIRES D.O.O. Developed by GAMEPIRES D.O.O. Published by Jagex Limited. JAGEX and the \"X\" logo are registered and/or unregistered trademarks of Jagex Ltd in the United Kingdom, the European Union, the United States and other territories. The \u201cSCUM\u201d logo, SCUM, GAS GUZZLERS EXTREME, GAS GUZZLERS EXTREME: FULL METAL ZOMBIE, GAS GUZZLERS: COMBAT CARNAGE, GAS GUZZLERS EXTREME: FULL METAL FRENZY and the Gamepires logo are registered and/or unregistered trademarks of GAMEPIRES D.O.O. in the United Kingdom, the European Union, the United States and other territories. All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989215,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989215/movie480.mp4?t=1702630719",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989215/movie_max.mp4?t=1702630719"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989215/movie.293x165.jpg?t=1702630719",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989215/movie480_vp9.webm?t=1702630719",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989215/movie_max_vp9.webm?t=1702630719"
+            }
+        }
+    ],
+    "name": "SCUM Male Hair pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "SCUM Man Hair Deluxe 1 - $6.99",
+                    "packageid": 950421,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 699
+                }
+            ],
+            "title": "Buy SCUM Male Hair pack"
+        }
+    ],
+    "packages": [
+        950421
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 699,
+        "final_formatted": "$6.99",
+        "initial": 699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Jagex Ltd"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_083f748584defcc5a0b6837ac75a33a39681d920.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_083f748584defcc5a0b6837ac75a33a39681d920.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_1e50626e3d1946ea4d63d7c3109f42852f9f1071.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_1e50626e3d1946ea4d63d7c3109f42852f9f1071.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_8ac1d5f0687f45dcae04be0db8b04c67b86bfea6.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_8ac1d5f0687f45dcae04be0db8b04c67b86bfea6.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_d303f12f76d9c5a3f03d70cdee6f3c1bb5c80cc9.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_d303f12f76d9c5a3f03d70cdee6f3c1bb5c80cc9.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_1cecac9bb495070953f404cf537ffd99b458027d.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_1cecac9bb495070953f404cf537ffd99b458027d.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_c656a222382e1bae1a580041e10e6ef1bd4202c6.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_c656a222382e1bae1a580041e10e6ef1bd4202c6.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_c5c13327b0236f8e1bef6605e80f5da886760879.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_c5c13327b0236f8e1bef6605e80f5da886760879.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_4488ee5b954c387a09163f9e62c33a04f9edcb65.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_4488ee5b954c387a09163f9e62c33a04f9edcb65.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_b05d4c15cfa67ec232a90f808dba77bdf35e4f6a.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_b05d4c15cfa67ec232a90f808dba77bdf35e4f6a.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_97619f4da7b4bb719189fdef9422fa76e9e45de4.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_97619f4da7b4bb719189fdef9422fa76e9e45de4.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_cd9ae98783c3504241e522c5d5b43f0c84ca4932.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_cd9ae98783c3504241e522c5d5b43f0c84ca4932.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_b00b34bfea5907ede28f5b54a3d6a4ab88908efd.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_b00b34bfea5907ede28f5b54a3d6a4ab88908efd.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_0265a3f4fc028ae910dc656b88e3a3eeeec6c7f4.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_0265a3f4fc028ae910dc656b88e3a3eeeec6c7f4.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_8d9358a8284d4290624061d0e54b0f1d3a4c0ed4.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_8d9358a8284d4290624061d0e54b0f1d3a4c0ed4.600x338.jpg?t=1702630725"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_7a4d9a40944027fd987bbb7e269077fe36d75271.1920x1080.jpg?t=1702630725",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651740/ss_7a4d9a40944027fd987bbb7e269077fe36d75271.600x338.jpg?t=1702630725"
+        }
+    ],
+    "short_description": "In this DLC you will find 16 different hairstyles, 7 beards and 7 moustaches. From the 80s action star to a Napoleonic era gentleman, there will be something for your SCUM dude that will let you express him as you wish.",
+    "steam_appid": 2651740,
+    "support_info": {
+        "email": "scumgame@gamepires.com",
+        "url": "https://support.scumgame.com/"
+    },
+    "supported_languages": "English<strong>*</strong>, German, Russian, Simplified Chinese, French, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Korean, Turkish, Japanese, Thai, Polish<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://www.scumgame.com"
+}

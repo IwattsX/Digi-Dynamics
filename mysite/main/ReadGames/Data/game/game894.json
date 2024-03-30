@@ -1,0 +1,150 @@
+{
+    "about_the_game": "<strong>Story</strong><br>The Night Market is an interactive novel in which you awaken to a lantern filled world with no memory of how you got there.  Desperate to get home, you must find the gate that leads back to your world, while navigating a foreign land, rife with political intrigue, arbitrary rules and secrets designed to keep you distracted. Nine barons rule the market , a place so vast that not even they can truly know its scope.  But, one baron holds the key to your safe return home.  Yet, no one has seen or heard from him in over a decade.<br><br><strong>Gameplay</strong><br>Explore the in depth world of the Night Market and unlock the secrets of the nexus.<br>Play as male, female, or non-binary<br>A story that is heavily driven by who you choose to befriend or fall in love with, focusing intently on interpersonal relationships.<br>Customize your MC\u2019s appearance and personality<br>Make in depth, moral decisions that will vastly change the course of your game, unlocking new areas based on chosen conversation trees.<br><br><strong>Warnings</strong><br>Please note that not all romances are what they seem.<br>Please note that in the case of Milo, he will only take on a poly route<br>Please note that in the case of Belladonna, she will never take a submissive route<br>Please note that the Night Market is for players 18 and older",
+    "achievements": {
+        "total": 0
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/page_bg_generated_v6b.jpg?t=1695422031",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/page.bg.jpg?t=1695422031",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/capsule_231x87.jpg?t=1695422031",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/capsule_184x69.jpg?t=1695422031",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "notes": "This game includes NSFW scenes with your romance options.  All are consensual but they are explicit.\r\n\r\nThis game also includes depiction of violence, the buying and selling of adults, and some body horror.  "
+    },
+    "detailed_description": "<strong>Story</strong><br>The Night Market is an interactive novel in which you awaken to a lantern filled world with no memory of how you got there.  Desperate to get home, you must find the gate that leads back to your world, while navigating a foreign land, rife with political intrigue, arbitrary rules and secrets designed to keep you distracted. Nine barons rule the market , a place so vast that not even they can truly know its scope.  But, one baron holds the key to your safe return home.  Yet, no one has seen or heard from him in over a decade.<br><br><strong>Gameplay</strong><br>Explore the in depth world of the Night Market and unlock the secrets of the nexus.<br>Play as male, female, or non-binary<br>A story that is heavily driven by who you choose to befriend or fall in love with, focusing intently on interpersonal relationships.<br>Customize your MC\u2019s appearance and personality<br>Make in depth, moral decisions that will vastly change the course of your game, unlocking new areas based on chosen conversation trees.<br><br><strong>Warnings</strong><br>Please note that not all romances are what they seem.<br>Please note that in the case of Milo, he will only take on a poly route<br>Please note that in the case of Belladonna, she will never take a submissive route<br>Please note that the Night Market is for players 18 and older",
+    "developers": [
+        "Zinnia Demitasse"
+    ],
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/header.jpg?t=1695422031",
+    "is_free": false,
+    "legal_notice": "The Night Market along with all its contents and art, belong to Lamplight Inc and are not public domain.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256966054,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256966054/movie480.mp4?t=1693028613",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256966054/movie_max.mp4?t=1693028613"
+            },
+            "name": "The Night Market",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256966054/movie.293x165.jpg?t=1693028613",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256966054/movie480_vp9.webm?t=1693028613",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256966054/movie_max_vp9.webm?t=1693028613"
+            }
+        }
+    ],
+    "name": "The Night Market",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Night Market - $12.99",
+                    "packageid": 864499,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1299
+                }
+            ],
+            "title": "Buy The Night Market"
+        }
+    ],
+    "packages": [
+        864499
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1299,
+        "final_formatted": "$12.99",
+        "initial": 1299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Lamplight Inc."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_65552cbf2d85bdf380797034315d17cf8692363f.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_65552cbf2d85bdf380797034315d17cf8692363f.600x338.jpg?t=1695422031"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_76fee66caf315407b2fd2b745a968172fc7fe00f.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_76fee66caf315407b2fd2b745a968172fc7fe00f.600x338.jpg?t=1695422031"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_926f1ea411cc3171415054922eb2fc422cdb0301.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_926f1ea411cc3171415054922eb2fc422cdb0301.600x338.jpg?t=1695422031"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_7f8fde06109ce08b7b56d24f90cf0309556afccc.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_7f8fde06109ce08b7b56d24f90cf0309556afccc.600x338.jpg?t=1695422031"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_6cb37f694fe8659ec96e0f4e86ebf8265bee2fe2.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_6cb37f694fe8659ec96e0f4e86ebf8265bee2fe2.600x338.jpg?t=1695422031"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_3a3037af3cfdad416ffbf0b7e6d002f99099b3fc.1920x1080.jpg?t=1695422031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402860/ss_3a3037af3cfdad416ffbf0b7e6d002f99099b3fc.600x338.jpg?t=1695422031"
+        }
+    ],
+    "short_description": "Welcome to the Night Market. Survive your journey while navigating a foreign land, rife with political intrigue, arbitrary rules and secrets designed to keep you distracted. Fall in love, explore a world with rich characters, and try to save the realm.",
+    "steam_appid": 2402860,
+    "support_info": {
+        "email": "zinniademitasse@gmail.com",
+        "url": "https://www.tumblr.com/blog/night-market-if"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.tumblr.com/blog/night-market-if"
+}

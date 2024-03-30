@@ -1,0 +1,84 @@
+{
+    "about_the_game": "All-in-one powerful free video converter software.High Definition Video Converter This video converter allows you to decode and encode high definition videos like MPEG2/MPEG-4 TS HD, HD WMV, FLV,MKV, AVCHD (*.m2ts, *.mts), H.264/MPEG-4 AVC, HD ASF, HD VOB, HD WMV, HD MPEG4, HD MPEG2 TS, HD MPEG2, and HD AVI. It allows you to convert MPEG, AVI, WMV, H.264/AVC, MP4, MOV, FLV, 3GP, RM, DivX, XviD and more video settings without a fuss<br />\r\nKey Features<br />\r\nConvert all most popular video files to HD MP4 formats<br />\r\nSupport batch conversion<br />\r\nVery easy to use",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/page_bg_generated_v6b.jpg?t=1705208696",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/page_bg_generated.jpg?t=1705208696",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/capsule_231x87.jpg?t=1705208696",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/capsule_184x69.jpg?t=1705208696",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "All-in-one powerful free video converter software.High Definition Video Converter This video converter allows you to decode and encode high definition videos like MPEG2/MPEG-4 TS HD, HD WMV, FLV,MKV, AVCHD (*.m2ts, *.mts), H.264/MPEG-4 AVC, HD ASF, HD VOB, HD WMV, HD MPEG4, HD MPEG2 TS, HD MPEG2, and HD AVI. It allows you to convert MPEG, AVI, WMV, H.264/AVC, MP4, MOV, FLV, 3GP, RM, DivX, XviD and more video settings without a fuss<br />\r\nKey Features<br />\r\nConvert all most popular video files to HD MP4 formats<br />\r\nSupport batch conversion<br />\r\nVery easy to use",
+    "developers": [
+        "dvdvideomedia"
+    ],
+    "genres": [
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Video Production",
+            "id": "58"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/header.jpg?t=1705208696",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Free Video Converter",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> win 11/win 10/win 8/win 7</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> win 11/win 10/win 8/win 7</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "dvdvideomedia"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_c10e14e13b73166e42bb42c63510a5d567054341.1920x1080.jpg?t=1705208696",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_c10e14e13b73166e42bb42c63510a5d567054341.600x338.jpg?t=1705208696"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_b7315b870fff393640508f8eec0e4437319c0484.1920x1080.jpg?t=1705208696",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_b7315b870fff393640508f8eec0e4437319c0484.600x338.jpg?t=1705208696"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_70a77794683a5273137d32d96e5b5c7729be47a4.1920x1080.jpg?t=1705208696",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_70a77794683a5273137d32d96e5b5c7729be47a4.600x338.jpg?t=1705208696"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_9fbaf2325b735548fcc474eafa900973f133fb4a.1920x1080.jpg?t=1705208696",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_9fbaf2325b735548fcc474eafa900973f133fb4a.600x338.jpg?t=1705208696"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_16c6a7f8b853dfa439fe8ea0205683f589be5c67.1920x1080.jpg?t=1705208696",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735760/ss_16c6a7f8b853dfa439fe8ea0205683f589be5c67.600x338.jpg?t=1705208696"
+        }
+    ],
+    "short_description": "All-in-one powerful free video converter software.High Definition Video Converter This video converter allows you to decode and encode high definition videos like MPEG2/MPEG-4 TS HD, HD WMV, FLV,MKV, AVCHD (*.m2ts, *.mts), H.264/MPEG-4 AVC, HD ASF, HD VOB, HD WMV, HD MPEG4, and HD AVI",
+    "steam_appid": 2735760,
+    "support_info": {
+        "email": "support@dvdvideomedia.com",
+        "url": "https://www.dvdvideomedia.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

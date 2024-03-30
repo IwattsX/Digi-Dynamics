@@ -1,0 +1,104 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>Seize the chance to overcome a formidable enemy.</strong></h2>You are the leader of a selected group of Celtic people (tribes) who will resist Caesar\u2019s campaign of conquest. In this rogue-like strategy game, you take command of your tribe's journey through Europe, skillfully evading Roman forces.<br><br>With procedurally generated levels and real-time battles, you must constantly upgrade and equip your units while managing vital resources.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/HexesV3.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Secure the future of your nation.</strong></h2><ul class=\"bb_ul\"><li>Lead a Gallic tribe in resisting Caesar\u2019s conquest during the turbulent Gallic Wars era (58-50 BC). <br></li><li>Navigate dynamic, randomly generated battlefields.<br></li><li>Evade pursuit as you journey across Europe. <br></li><li>Fight, trade, or embark on text-based adventures at each stop. </li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/BattleV2.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Prepare for battle.</strong></h2><ul class=\"bb_ul\"><li>Engage in brief hex-map battles lasting 5-10 minutes. <br></li><li>Customize formations, rank units, and equip them with various items. <br></li><li>Strengthen your camp defenses. <br></li><li>Craft weapons, armor, and war machinery. </li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/SkullV3.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Ensure survival against all odds.</strong></h2><ul class=\"bb_ul\"><li>Adapt to random events shaping combat conditions.<br></li><li>Experience over 100 story events with rewards or punishments. <br></li><li>Unlock secrets of druidic, martial, and tribal knowledge. <br></li><li>Embrace the unpredictable balance of randomly generated content and strategic choices.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/page_bg_generated_v6b.jpg?t=1705656811",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/page.bg.jpg?t=1705656811",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/capsule_231x87.jpg?t=1705656811",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/capsule_184x69.jpg?t=1705656811",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Display battles on strategy levels."
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>Seize the chance to overcome a formidable enemy.</strong></h2>You are the leader of a selected group of Celtic people (tribes) who will resist Caesar\u2019s campaign of conquest. In this rogue-like strategy game, you take command of your tribe's journey through Europe, skillfully evading Roman forces.<br><br>With procedurally generated levels and real-time battles, you must constantly upgrade and equip your units while managing vital resources.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/HexesV3.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Secure the future of your nation.</strong></h2><ul class=\"bb_ul\"><li>Lead a Gallic tribe in resisting Caesar\u2019s conquest during the turbulent Gallic Wars era (58-50 BC). <br></li><li>Navigate dynamic, randomly generated battlefields.<br></li><li>Evade pursuit as you journey across Europe. <br></li><li>Fight, trade, or embark on text-based adventures at each stop. </li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/BattleV2.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Prepare for battle.</strong></h2><ul class=\"bb_ul\"><li>Engage in brief hex-map battles lasting 5-10 minutes. <br></li><li>Customize formations, rank units, and equip them with various items. <br></li><li>Strengthen your camp defenses. <br></li><li>Craft weapons, armor, and war machinery. </li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739800/extras/SkullV3.gif?t=1705656811\" /><h2 class=\"bb_tag\"><strong>Ensure survival against all odds.</strong></h2><ul class=\"bb_ul\"><li>Adapt to random events shaping combat conditions.<br></li><li>Experience over 100 story events with rewards or punishments. <br></li><li>Unlock secrets of druidic, martial, and tribal knowledge. <br></li><li>Embrace the unpredictable balance of randomly generated content and strategic choices.</li></ul>",
+    "developers": [
+        "Random Worlds s.r.o."
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/header.jpg?t=1705656811",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989026,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989026/movie480.mp4?t=1704708688",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989026/movie_max.mp4?t=1704708688"
+            },
+            "name": "Reveal Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989026/movie.293x165.jpg?t=1704708688",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989026/movie480_vp9.webm?t=1704708688",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989026/movie_max_vp9.webm?t=1704708688"
+            }
+        }
+    ],
+    "name": "Tribe Nation",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-7400 @3.00 GHz / AMD FX-8320E Eight-Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\u00ae GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\u00ae GTX 1080-Ti<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Random Worlds s.r.o."
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_e2a6df1e234d0731aa5b6e8ada13c9030387318b.1920x1080.jpg?t=1705656811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_e2a6df1e234d0731aa5b6e8ada13c9030387318b.600x338.jpg?t=1705656811"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_8be505d7533968b9f0d3bedbe02900a6b449b9ba.1920x1080.jpg?t=1705656811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_8be505d7533968b9f0d3bedbe02900a6b449b9ba.600x338.jpg?t=1705656811"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_6e732141d7b63f5cdfbf958892e66aaae03905de.1920x1080.jpg?t=1705656811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_6e732141d7b63f5cdfbf958892e66aaae03905de.600x338.jpg?t=1705656811"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_92ceceed804483de7297aaf97ab9d3935404d442.1920x1080.jpg?t=1705656811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_92ceceed804483de7297aaf97ab9d3935404d442.600x338.jpg?t=1705656811"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_9d5690bab492c85cf68a083b98771d52402d9941.1920x1080.jpg?t=1705656811",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739800/ss_9d5690bab492c85cf68a083b98771d52402d9941.600x338.jpg?t=1705656811"
+        }
+    ],
+    "short_description": "Tribe Nation is a roguelike strategy with real-time battles set in the Gallic Wars era. Lead your Celtic tribe across Europe to a new homeland. Strategize on a randomly generated hex battlefield, adapt to unexpected events, craft, improve, and equip. Make your tribe a nation.",
+    "steam_appid": 2739800,
+    "support_info": {
+        "email": "support@randomworldsgames.com",
+        "url": "http://www.randomworldsgames.com/"
+    },
+    "supported_languages": "English, Czech",
+    "type": "game",
+    "website": "http://www.randomworldsgames.com"
+}

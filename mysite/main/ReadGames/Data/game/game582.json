@@ -1,0 +1,152 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"> About this game </h2>Welcome to the Utopian world of dreams 1+1&lt;2<br>Class is rigid here, but there are few risk-takers<br>There is no freedom here, because there is only obedience<br>Everything here is in order<br>If you don't want to be someone else's tool, it's worth the risk<h2 class=\"bb_tag\"> Is it bad to dream all the time?<br>Beautiful dream, but someone broke in<br>You're running away from here, or you're not<br>Someone you love in the dream, staying here all the time<h2 class=\"bb_tag\"> Can't understand what I'm saying? </h2>The game is a story game without words, no matter what country you are the player can easily pick up this game.<br>The game is a classic horizontal puzzle game, but you can turn into Superman at certain moments in the game, and solve puzzles with pause time and instant time backwards<br>There are certain levels in the game where you need to solve puzzles together with characters of certain abilities<br>The game is very humane, there are a lot of save points, explore the scene to find decorations and jump keys to add interest<h2 class=\"bb_tag\"> Personal Page </h2><a href=\"https://www.youtube.com/watch?v=61YR1yz5KFs\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://www.youtube.com/watch?v=61YR1yz5KFs</a></h2>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/page_bg_generated_v6b.jpg?t=1702431735",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/page.bg.jpg?t=1702431735",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/capsule_231x87.jpg?t=1702431735",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/capsule_184x69.jpg?t=1702431735",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2390210,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h2 class=\"bb_tag\"> About this game </h2>Welcome to the Utopian world of dreams 1+1&lt;2<br>Class is rigid here, but there are few risk-takers<br>There is no freedom here, because there is only obedience<br>Everything here is in order<br>If you don't want to be someone else's tool, it's worth the risk<h2 class=\"bb_tag\"> Is it bad to dream all the time?<br>Beautiful dream, but someone broke in<br>You're running away from here, or you're not<br>Someone you love in the dream, staying here all the time<h2 class=\"bb_tag\"> Can't understand what I'm saying? </h2>The game is a story game without words, no matter what country you are the player can easily pick up this game.<br>The game is a classic horizontal puzzle game, but you can turn into Superman at certain moments in the game, and solve puzzles with pause time and instant time backwards<br>There are certain levels in the game where you need to solve puzzles together with characters of certain abilities<br>The game is very humane, there are a lot of save points, explore the scene to find decorations and jump keys to add interest<h2 class=\"bb_tag\"> Personal Page </h2><a href=\"https://www.youtube.com/watch?v=61YR1yz5KFs\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://www.youtube.com/watch?v=61YR1yz5KFs</a></h2>",
+    "developers": [
+        "individual"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/header.jpg?t=1702431735",
+    "is_free": false,
+    "legal_notice": "The game is made by individuals independently, and game infringement is prohibited.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932693,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932693/movie480.mp4?t=1682154684",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932693/movie_max.mp4?t=1682154684"
+            },
+            "name": "hope",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932693/movie.293x165.jpg?t=1682154684",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932693/movie480_vp9.webm?t=1682154684",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932693/movie_max_vp9.webm?t=1682154684"
+            }
+        }
+    ],
+    "name": "Hope",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5-8400 | AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> 100% DirectX 9.0c compatible sound card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel core i7-8750H<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660, Radeon R9-270<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> 100% DirectX 9.0c compatible sound card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "individual"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_2d5d2dbfbfc9d48e7ee0b886b26487f7f6f557af.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_2d5d2dbfbfc9d48e7ee0b886b26487f7f6f557af.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_95d4810529e26d66fe27fbb44dc766c08aa07354.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_95d4810529e26d66fe27fbb44dc766c08aa07354.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_9fc3b41b2893ee98ae07ac507f2aaed06ce9d296.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_9fc3b41b2893ee98ae07ac507f2aaed06ce9d296.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_2a7253011f69f6a64d8d690a94fd29ffe662dad3.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_2a7253011f69f6a64d8d690a94fd29ffe662dad3.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_1c9c7e3b7f8d9be791ba6cddafad4294a61fd883.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_1c9c7e3b7f8d9be791ba6cddafad4294a61fd883.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_ff5b25e0e9d09b013a7bc683aff193bc1fa2c514.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_ff5b25e0e9d09b013a7bc683aff193bc1fa2c514.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_739b44ddbdd0407e08681cf73e0919026768843b.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_739b44ddbdd0407e08681cf73e0919026768843b.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_1b070516bec786ac3608b63dd26e509d9936f4bc.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_1b070516bec786ac3608b63dd26e509d9936f4bc.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_4b9d53ee33634cb92fe4b5e3746667ff852592a4.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_4b9d53ee33634cb92fe4b5e3746667ff852592a4.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_7ff53a7a0a05a0db6c758410c18c494f629d3181.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_7ff53a7a0a05a0db6c758410c18c494f629d3181.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_30352b1b34ca9bc259246064cec58bb58db539ce.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_30352b1b34ca9bc259246064cec58bb58db539ce.600x338.jpg?t=1702431735"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_3efbffd78a74c602f4d6ab8fdd83ef5c19ab07aa.1920x1080.jpg?t=1702431735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336520/ss_3efbffd78a74c602f4d6ab8fdd83ef5c19ab07aa.600x338.jpg?t=1702431735"
+        }
+    ],
+    "short_description": "Help the protagonist escape from the inner world and make a choice.",
+    "steam_appid": 2336520,
+    "support_info": {
+        "email": "1594524861@qq.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Swedish, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Korean",
+    "type": "game",
+    "website": null
+}

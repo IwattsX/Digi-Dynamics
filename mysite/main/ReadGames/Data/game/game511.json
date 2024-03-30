@@ -1,0 +1,116 @@
+{
+    "about_the_game": "[DISCLAIMER: This game is in very early development. It might still be a year or two until publication. If you like to be notified when the game comes out, please Wishlist.]<br><br>Welcome to &quot;Kohlrabi Starship&quot;, a farming game where you inherit a greenhouse starship and set off on a journey to different planets in search of rare and exotic plants to bring back to your home planet.<br><br>As the captain of your own greenhouse starship, it's your job to explore uncharted territory and discover new plant species. Each planet you visit presents unique challenges and opportunities, from extreme weather conditions to cute alien life forms.<br><br>You'll need to carefully tend to your plants, providing them with the right amount of water, light, and nutrients to ensure they thrive. As you collect new plants, you can feed them to endangered animals, rescuing and breeding them, each with their own unique traits and characteristics.<br><br>But your mission isn't just about collecting plants \u2013 it's also about restoring your home planet to its former glory. As you travel from planet to planet, you'll gather resources and materials to improve your greenhouse and develop new technologies to help revitalize your home planet's ecosystem.<br><br>You're not alone in your quest. As you travel to different planets, you'll encounter a variety of characters, including friendly villagers and curious space travelers. You can befriend these characters, share the bounty of your garden with them and form meaningful relationships, which can even lead to romance and starting a family. In addition to making friends, you'll also need their help to accomplish your mission. Some characters may have valuable information about the plants you're searching for, while others may offer resources or assistance in developing new technologies. So whether you're looking to build a community, start a family, or simply explore the universe with new friends, &quot;Kohlrabi Starship&quot; offers a rich and diverse world of characters to discover and befriend.<br><br>With handdrawn enchanting graphics and a relaxing soundtrack, &quot;Kohlrabi Starship&quot; offers a unique and immersive farming experience. Whether you're a seasoned farmer or new to the genre, this game is sure to delight and challenge you as you explore the vast reaches of space and discover the secrets of the universe. So grab your gardening gloves and get ready to embark on the adventure of a lifetime!<br><br><br>This game allows you to: <br>- Collect and grow a large variety of crops in your greenhouse starship.<br>- Befriend villagers and space travellers, find love and have a family.<br>- Terraform your home desert planet into a green paradise.<br>- Free the planets from the clutches of the mega corporation that owns the land and people.<br>- Rescue endangered animals and raise them on your starship. <br>- Collect materials to repair your starship and develop new technologies to discover new planets.<br>- And much more to come...",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/page_bg_generated_v6b.jpg?t=1700215535",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/page_bg_generated.jpg?t=1700215535",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/capsule_231x87.jpg?t=1700215535",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/capsule_184x69.jpg?t=1700215535",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "[DISCLAIMER: This game is in very early development. It might still be a year or two until publication. If you like to be notified when the game comes out, please Wishlist.]<br><br>Welcome to &quot;Kohlrabi Starship&quot;, a farming game where you inherit a greenhouse starship and set off on a journey to different planets in search of rare and exotic plants to bring back to your home planet.<br><br>As the captain of your own greenhouse starship, it's your job to explore uncharted territory and discover new plant species. Each planet you visit presents unique challenges and opportunities, from extreme weather conditions to cute alien life forms.<br><br>You'll need to carefully tend to your plants, providing them with the right amount of water, light, and nutrients to ensure they thrive. As you collect new plants, you can feed them to endangered animals, rescuing and breeding them, each with their own unique traits and characteristics.<br><br>But your mission isn't just about collecting plants \u2013 it's also about restoring your home planet to its former glory. As you travel from planet to planet, you'll gather resources and materials to improve your greenhouse and develop new technologies to help revitalize your home planet's ecosystem.<br><br>You're not alone in your quest. As you travel to different planets, you'll encounter a variety of characters, including friendly villagers and curious space travelers. You can befriend these characters, share the bounty of your garden with them and form meaningful relationships, which can even lead to romance and starting a family. In addition to making friends, you'll also need their help to accomplish your mission. Some characters may have valuable information about the plants you're searching for, while others may offer resources or assistance in developing new technologies. So whether you're looking to build a community, start a family, or simply explore the universe with new friends, &quot;Kohlrabi Starship&quot; offers a rich and diverse world of characters to discover and befriend.<br><br>With handdrawn enchanting graphics and a relaxing soundtrack, &quot;Kohlrabi Starship&quot; offers a unique and immersive farming experience. Whether you're a seasoned farmer or new to the genre, this game is sure to delight and challenge you as you explore the vast reaches of space and discover the secrets of the universe. So grab your gardening gloves and get ready to embark on the adventure of a lifetime!<br><br><br>This game allows you to: <br>- Collect and grow a large variety of crops in your greenhouse starship.<br>- Befriend villagers and space travellers, find love and have a family.<br>- Terraform your home desert planet into a green paradise.<br>- Free the planets from the clutches of the mega corporation that owns the land and people.<br>- Rescue endangered animals and raise them on your starship. <br>- Collect materials to repair your starship and develop new technologies to discover new planets.<br>- And much more to come...",
+    "developers": [
+        "WolKa"
+    ],
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/header.jpg?t=1700215535",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256983192,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983192/movie480.mp4?t=1700215528",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983192/movie_max.mp4?t=1700215528"
+            },
+            "name": "Teaser Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256983192/movie.293x165.jpg?t=1700215528",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983192/movie480_vp9.webm?t=1700215528",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983192/movie_max_vp9.webm?t=1700215528"
+            }
+        }
+    ],
+    "name": "Kohlrabi Starship",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.3 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible video card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "WolKa"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_da7945b198fe7a2a339c1bf37b6db45c977eeb14.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_da7945b198fe7a2a339c1bf37b6db45c977eeb14.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_666b37ddd79296fdd1e4631e4d233b4d945b011a.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_666b37ddd79296fdd1e4631e4d233b4d945b011a.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_0413b81cc314ef57cd15204f47fd08a91f958963.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_0413b81cc314ef57cd15204f47fd08a91f958963.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_f75b0410ccd1acfec1731aeb92fa68c39eb58d6b.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_f75b0410ccd1acfec1731aeb92fa68c39eb58d6b.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_dbda7bd6528f25cddf85de12c40ac1110b2bccbb.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_dbda7bd6528f25cddf85de12c40ac1110b2bccbb.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_b801ed3d4e12197d16e4006936239a367180a402.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_b801ed3d4e12197d16e4006936239a367180a402.600x338.jpg?t=1700215535"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_8773d33672828da69c22866bd2002311dab5af46.1920x1080.jpg?t=1700215535",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337990/ss_8773d33672828da69c22866bd2002311dab5af46.600x338.jpg?t=1700215535"
+        }
+    ],
+    "short_description": "You inherited your grandparent's old greenhouse starship, crashed on your desert home planet nearby a tiny village. You set out to explore the stars to find and grow any surviving vegetation. Can you turn the desert back into a thriving green home?",
+    "steam_appid": 2337990,
+    "support_info": {
+        "email": "wolka.art@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,121 @@
+{
+    "about_the_game": "Boost your vacuum warrior adventure with the Enthusiast Pack.<br><br><ul class=\"bb_ul\"><li>Dust multiplier<br></li><li>Prestige token multiplier<br></li><li>More offline time<br></li><li>More dust<br></li><li>Instant vacuum tokens<br></li><li>Daily vacuum tokens<br></li><li>A free manager from the academy<br></li><li>Infinity Capsules</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/page_bg_generated_v6b.jpg?t=1688046021",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/page_bg_generated.jpg?t=1688046021",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/capsule_231x87.jpg?t=1688046021",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/capsule_184x69.jpg?t=1688046021",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Boost your vacuum warrior adventure with the Enthusiast Pack.<br><br><ul class=\"bb_ul\"><li>Dust multiplier<br></li><li>Prestige token multiplier<br></li><li>More offline time<br></li><li>More dust<br></li><li>Instant vacuum tokens<br></li><li>Daily vacuum tokens<br></li><li>A free manager from the academy<br></li><li>Infinity Capsules</li></ul>",
+    "developers": [
+        "Benjamin Staugaard"
+    ],
+    "fullgame": {
+        "appid": "2302990",
+        "name": "Vacuum Warrior - Idle Game"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/header.jpg?t=1688046021",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Vacuum Warrior - Enthusiast Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Vacuum Warrior - Enthusiast Pack - $4.99",
+                    "packageid": 852953,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Vacuum Warrior - Enthusiast Pack"
+        }
+    ],
+    "packages": [
+        852953
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.33GHz or faster x86-compatible processor, or Intel Atom\u2122 1.6GHz or faster processor for netbook class devices<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970/AMD Radeon R9 390<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong> 1024 MB RAM</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Benjamin Staugaard"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/ss_fd61397bdedf1ea2895c3bb1c6ea7275cb411748.1920x1080.jpg?t=1688046021",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372460/ss_fd61397bdedf1ea2895c3bb1c6ea7275cb411748.600x338.jpg?t=1688046021"
+        }
+    ],
+    "short_description": "Boost your vacuum warrior adventure with the Enthusiast Pack featuring multipliers, vacuum tokens, managers, infinity capsules, and more!",
+    "steam_appid": 2372460,
+    "support_info": {
+        "email": "vacuumwarrioridle@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

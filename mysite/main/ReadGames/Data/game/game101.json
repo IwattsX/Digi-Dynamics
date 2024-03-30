@@ -1,0 +1,218 @@
+{
+    "about_the_game": "&quot;Ultimate Tower Defense&quot; is a thrilling and challenging game that puts your strategic skills to the test. <br />\r\n<br />\r\nAs a skilled strategist, you're tasked with defending your territory against waves of enemies armed with all kinds of weapons and abilities. Using your wit and ingenuity, you'll need to position your ammunition and defenses in just the right way to prevent the enemies from reaching your weak points.  <br />\r\n<br />\r\nAs you progress through the game, the enemies will become stronger and more numerous, forcing you to adapt and adjust your defenses on the fly. You'll need to stay one step ahead of the enemy, using your strategic thinking and tactical prowess to stay alive.<br />\r\n<br />\r\nSo if you're ready to put your strategic skills to the test, then step into the battle and prove that you have what it takes to become the ultimate tower defender.<br />\r\n<br />\r\nGame Features :<br />\r\n- 4 Lands (Grass,Desert,New,Dead) each of have <br />\r\n- 360 levels<br />\r\n- 3 Game Modes ( Easy,Normal,Hard)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/page_bg_generated_v6b.jpg?t=1699271466",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/page_bg_generated.jpg?t=1699271466",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/capsule_231x87.jpg?t=1699271466",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/capsule_184x69.jpg?t=1699271466",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Commentary available",
+            "id": 14
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;Ultimate Tower Defense&quot; is a thrilling and challenging game that puts your strategic skills to the test. <br />\r\n<br />\r\nAs a skilled strategist, you're tasked with defending your territory against waves of enemies armed with all kinds of weapons and abilities. Using your wit and ingenuity, you'll need to position your ammunition and defenses in just the right way to prevent the enemies from reaching your weak points.  <br />\r\n<br />\r\nAs you progress through the game, the enemies will become stronger and more numerous, forcing you to adapt and adjust your defenses on the fly. You'll need to stay one step ahead of the enemy, using your strategic thinking and tactical prowess to stay alive.<br />\r\n<br />\r\nSo if you're ready to put your strategic skills to the test, then step into the battle and prove that you have what it takes to become the ultimate tower defender.<br />\r\n<br />\r\nGame Features :<br />\r\n- 4 Lands (Grass,Desert,New,Dead) each of have <br />\r\n- 360 levels<br />\r\n- 3 Game Modes ( Easy,Normal,Hard)",
+    "developers": [
+        "Atomic"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/header.jpg?t=1699271466",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975667,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975667/movie480.mp4?t=1697531149",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975667/movie_max.mp4?t=1697531149"
+            },
+            "name": "tr",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975667/movie.293x165.jpg?t=1697531149",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975667/movie480_vp9.webm?t=1697531149",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975667/movie_max_vp9.webm?t=1697531149"
+            }
+        }
+    ],
+    "name": "Ultimate Tower Defense",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Ultimate Tower Defense - $0.99",
+                    "packageid": 949725,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Ultimate Tower Defense"
+        }
+    ],
+    "packages": [
+        949725
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GT 210<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Atomic"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 6, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_095a1cc9d29e06a0fcf0f35d1f63e7e8e68d50be.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_095a1cc9d29e06a0fcf0f35d1f63e7e8e68d50be.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6732ab28493ddbed37656669f162b31ff4b8cd4b.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6732ab28493ddbed37656669f162b31ff4b8cd4b.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6af3127f883e5fe364db3456945e500e7ad5df8b.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6af3127f883e5fe364db3456945e500e7ad5df8b.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_7c1fe3cbca01d917cbf94cf0760b209b66e4e4fd.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_7c1fe3cbca01d917cbf94cf0760b209b66e4e4fd.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_8ab387452936b5506e8bd16e1556314a24a57d44.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_8ab387452936b5506e8bd16e1556314a24a57d44.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_ec4b9e84f89258e7a1174fa9c07a345da53a8117.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_ec4b9e84f89258e7a1174fa9c07a345da53a8117.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_b973246f8854304962c7cdfd46237f26577d1ba2.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_b973246f8854304962c7cdfd46237f26577d1ba2.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_395a47cc5a48a7f064358e563214550d5bb03cb3.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_395a47cc5a48a7f064358e563214550d5bb03cb3.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_b6a9614c3b492bc622a18e08a3b4c7f40b0f603f.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_b6a9614c3b492bc622a18e08a3b4c7f40b0f603f.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_a1b224ee0527371da8d95a479292c380ae1a752e.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_a1b224ee0527371da8d95a479292c380ae1a752e.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_49e2c1ce72881ded6f13159f9222284c4f485866.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_49e2c1ce72881ded6f13159f9222284c4f485866.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6b019f86c20257600c114d75b5dac935484a985e.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_6b019f86c20257600c114d75b5dac935484a985e.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_ca0ce7235bb8e4f37b40bf97a5d3b239e398cbbc.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_ca0ce7235bb8e4f37b40bf97a5d3b239e398cbbc.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_a5429a456c2be7fd21195b7d7a08733e4db868c6.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_a5429a456c2be7fd21195b7d7a08733e4db868c6.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_da6c7db746d541258fd0f307916ebec001b99347.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_da6c7db746d541258fd0f307916ebec001b99347.600x338.jpg?t=1699271466"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_9bf061f032d34b86ad40db82f546ed52673c18a7.1920x1080.jpg?t=1699271466",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649570/ss_9bf061f032d34b86ad40db82f546ed52673c18a7.600x338.jpg?t=1699271466"
+        }
+    ],
+    "short_description": "&quot;Ultimate Tower Defense&quot; is a thrilling and challenging game that puts your strategic skills to the test.",
+    "steam_appid": 2649570,
+    "support_info": {
+        "email": "business@atomicfabrik.com",
+        "url": ""
+    },
+    "supported_languages": "English, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, German, Arabic, Dutch, Finnish, Japanese, Korean, Russian, Thai, Turkish",
+    "type": "game",
+    "website": null
+}

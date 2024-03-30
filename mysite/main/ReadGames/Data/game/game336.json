@@ -1,0 +1,131 @@
+{
+    "about_the_game": "Ripple and Frawg: The Seasonal Song is an asymmetrical couch co-op game. Two players will embark on a journey where they must work together to progress. Each player has a unique movement style and a unique magic power, and the environment will invite them to take advantage of those differences.<br />\r\n<br />\r\nThe game takes place in the land of Melodora, this land is mostly comprised of Mystic Woods with a river running through it. The forest and river change with the seasons.<br />\r\nThe forest land is living in more ways than one, ancient magic runs through its roots. This magic binds the forest together, interweaving the life magic into one soul. The musical magic that has been gifted to Ripple and Frawg was given to them by the soul of the forest. <br />\r\nMystical places embedded beneath the canopy of the forest have stones from a foregone age. It is thought that these rocks were a part of originally bringing the creatures of the forest together in harmony. Music is carved into these rock faces, glowing with fantastic power. If two creatures of the forest possess the magic and are in harmony with one another, they can harness the power stored in these rocks and turn the seasons.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/page_bg_generated_v6b.jpg?t=1702655679",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/page.bg.jpg?t=1702655679",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/capsule_231x87.jpg?t=1702655679",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/capsule_184x69.jpg?t=1702655679",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Ripple and Frawg: The Seasonal Song is an asymmetrical couch co-op game. Two players will embark on a journey where they must work together to progress. Each player has a unique movement style and a unique magic power, and the environment will invite them to take advantage of those differences.<br />\r\n<br />\r\nThe game takes place in the land of Melodora, this land is mostly comprised of Mystic Woods with a river running through it. The forest and river change with the seasons.<br />\r\nThe forest land is living in more ways than one, ancient magic runs through its roots. This magic binds the forest together, interweaving the life magic into one soul. The musical magic that has been gifted to Ripple and Frawg was given to them by the soul of the forest. <br />\r\nMystical places embedded beneath the canopy of the forest have stones from a foregone age. It is thought that these rocks were a part of originally bringing the creatures of the forest together in harmony. Music is carved into these rock faces, glowing with fantastic power. If two creatures of the forest possess the magic and are in harmony with one another, they can harness the power stored in these rocks and turn the seasons.",
+    "developers": [
+        "Skipping Stones"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/header.jpg?t=1702655679",
+    "is_free": true,
+    "legal_notice": "Ripple and Frawg: The Seasonal Song is an academic project that includes content made with software under a student-license agreement. No parties shall profit from the distribution of this game.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988505,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988505/movie480.mp4?t=1702655670",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988505/movie_max.mp4?t=1702655670"
+            },
+            "name": "Behind the Scenes Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988505/movie.293x165.jpg?t=1702655670",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988505/movie480_vp9.webm?t=1702655670",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988505/movie_max_vp9.webm?t=1702655670"
+            }
+        }
+    ],
+    "name": "Ripple and Frawg: The Seasonal Song",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Skipping Stones"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "May 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_f19d40d6d5322c958769178173598131fde88cb1.1920x1080.jpg?t=1702655679",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_f19d40d6d5322c958769178173598131fde88cb1.600x338.jpg?t=1702655679"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_1128da68dcfac95df0a70c291ee5b1d178ec2daf.1920x1080.jpg?t=1702655679",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_1128da68dcfac95df0a70c291ee5b1d178ec2daf.600x338.jpg?t=1702655679"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_c48ca3fc3746d9eafabefe9a0e7809aa415ceb43.1920x1080.jpg?t=1702655679",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_c48ca3fc3746d9eafabefe9a0e7809aa415ceb43.600x338.jpg?t=1702655679"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_f1087ee3b7d18ac8a11d6a8869231470f09c023e.1920x1080.jpg?t=1702655679",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_f1087ee3b7d18ac8a11d6a8869231470f09c023e.600x338.jpg?t=1702655679"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_84fb2698185aa4fa2d8a6e1b271a3003e5081636.1920x1080.jpg?t=1702655679",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738610/ss_84fb2698185aa4fa2d8a6e1b271a3003e5081636.600x338.jpg?t=1702655679"
+        }
+    ],
+    "short_description": "Play as Ripple and Frawg, who use the power of their magical instruments to puzzle through different environments, journey through different seasons, and travel upriver to return home.",
+    "steam_appid": 2738610,
+    "support_info": {
+        "email": "ripplefrawg@outlook.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

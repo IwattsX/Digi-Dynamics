@@ -1,0 +1,193 @@
+{
+    "about_the_game": "Aurendor is an open world survival game set on a large island that requires players to test their survival and crafting skills. Players must gather resources, cook their food and fight dangerous creatures on the island.<br />\r\n<br />\r\nThere are many different types of resources in the game. Trees, stones, mines and plants are vital to players' survival. To collect and use these resources, players need to craft different tools and equipment that they can use skillfully.<br />\r\n<br />\r\nPlayers' cooking skills also play an important role in the survival process. Players can replenish their health points by cooking various dishes.<br />\r\n<br />\r\nAurendor offers players the option of multiplayer gameplay. Players can play together by cooperating with or battling other survivors. You can form a bigger and stronger community by teaming up with your friends, or you can take control of the island by fighting your opponents.<br />\r\n<br />\r\nThe game's graphics and sound effects have been carefully designed to bring players closer to a real survival experience. Players can enjoy a realistic environment while fighting creatures or interacting with nature.<br />\r\n<br />\r\nAurendor is a great option for players who are interested in survival and crafting games. By playing together with your friends, you have the chance to build a stronger community on the island or fight your opponents.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/page_bg_generated_v6b.jpg?t=1689404337",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/page.bg.jpg?t=1689404337",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/capsule_231x87.jpg?t=1689404337",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/capsule_184x69.jpg?t=1689404337",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Aurendor is an open world survival game set on a large island that requires players to test their survival and crafting skills. Players must gather resources, cook their food and fight dangerous creatures on the island.<br />\r\n<br />\r\nThere are many different types of resources in the game. Trees, stones, mines and plants are vital to players' survival. To collect and use these resources, players need to craft different tools and equipment that they can use skillfully.<br />\r\n<br />\r\nPlayers' cooking skills also play an important role in the survival process. Players can replenish their health points by cooking various dishes.<br />\r\n<br />\r\nAurendor offers players the option of multiplayer gameplay. Players can play together by cooperating with or battling other survivors. You can form a bigger and stronger community by teaming up with your friends, or you can take control of the island by fighting your opponents.<br />\r\n<br />\r\nThe game's graphics and sound effects have been carefully designed to bring players closer to a real survival experience. Players can enjoy a realistic environment while fighting creatures or interacting with nature.<br />\r\n<br />\r\nAurendor is a great option for players who are interested in survival and crafting games. By playing together with your friends, you have the chance to build a stronger community on the island or fight your opponents.",
+    "developers": [
+        "XGamesStudios"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/header.jpg?t=1689404337",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939544,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939544/movie480.mp4?t=1680689893",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939544/movie_max.mp4?t=1680689893"
+            },
+            "name": "Aurendor",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939544/movie.293x165.jpg?t=1680689893",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939544/movie480_vp9.webm?t=1680689893",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939544/movie_max_vp9.webm?t=1680689893"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256939661,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939661/movie480.mp4?t=1680689898",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939661/movie_max.mp4?t=1680689898"
+            },
+            "name": "AurendorGameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939661/movie.293x165.jpg?t=1680689898",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939661/movie480_vp9.webm?t=1680689898",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939661/movie_max_vp9.webm?t=1680689898"
+            }
+        }
+    ],
+    "name": "Aurendor",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Aurendor - $0.99",
+                    "packageid": 852799,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Aurendor"
+        }
+    ],
+    "packages": [
+        852799
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> INTEL CORE I5-8400 or AMD RYZEN 3 3300X<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> SSD (Preferred)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> INTEL CORE I7-8700K or AMD RYZEN 5 3600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 1080Ti or AMD Radeon RX 5700 XT<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> SSD (Preferred)</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "XGamesStudios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_dcc509e85281f818bc17c5757017fc46fd4ddfd9.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_dcc509e85281f818bc17c5757017fc46fd4ddfd9.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_3476ec18df024798f48ece96dbbd89a7a085957f.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_3476ec18df024798f48ece96dbbd89a7a085957f.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_be99ecae4fdf8007cf58910b982f3308ac01bc8c.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_be99ecae4fdf8007cf58910b982f3308ac01bc8c.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_fa9716b89aa183ecdf1e091df61774afe711cea7.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_fa9716b89aa183ecdf1e091df61774afe711cea7.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_82f5d40e32c2b59f6e0fe9de04edf2c150422eba.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_82f5d40e32c2b59f6e0fe9de04edf2c150422eba.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_eaaa0da50ee500e7df6ba229d9acb99ff434a5a4.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_eaaa0da50ee500e7df6ba229d9acb99ff434a5a4.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_3953f82948036c9d37813f603a904d69c8b669a8.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_3953f82948036c9d37813f603a904d69c8b669a8.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_6d7b38d007b0bb8a1e42302c6d4ad80b6728e36d.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_6d7b38d007b0bb8a1e42302c6d4ad80b6728e36d.600x338.jpg?t=1689404337"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_034b21ee6b7bc05262619cfc0e66c186a7dd86a4.1920x1080.jpg?t=1689404337",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372030/ss_034b21ee6b7bc05262619cfc0e66c186a7dd86a4.600x338.jpg?t=1689404337"
+        }
+    ],
+    "short_description": "Aurendor is an open world survival game. Players must gather resources, cook their meals and fight dangerous creatures to survive and build a home for themselves. Aurendor also offers a multiplayer game option. Players can play together by cooperating with or battling other survivors.",
+    "steam_appid": 2372030,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

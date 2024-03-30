@@ -1,0 +1,138 @@
+{
+    "about_the_game": "Do puzzles in a new puzzle way! Advanced puzzle layout and involving gameplay will help you to relax after a hard-working day. The player can choose to play with 30, 42, 117, or 285 pieces.<br />\r\n<br />\r\nLots of new amazing artwork in this DLC<br />\r\n<br />\r\n- 4 difficulty settings: Up to 285 pieces!<br />\r\n- 16 puzzles<br />\r\n- Every puzzle is unique: Different piece shapes every time!<br />\r\n- 1080p HD Graphics.<br />\r\n- Traditional jigsaw puzzle that you can easily play<br />\r\n- More puzzles will increase with DLC",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/page_bg_generated_v6b.jpg?t=1683916946",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/page_bg_generated.jpg?t=1683916946",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/capsule_231x87.jpg?t=1683916946",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/capsule_184x69.jpg?t=1683916946",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Do puzzles in a new puzzle way! Advanced puzzle layout and involving gameplay will help you to relax after a hard-working day. The player can choose to play with 30, 42, 117, or 285 pieces.<br />\r\n<br />\r\nLots of new amazing artwork in this DLC<br />\r\n<br />\r\n- 4 difficulty settings: Up to 285 pieces!<br />\r\n- 16 puzzles<br />\r\n- Every puzzle is unique: Different piece shapes every time!<br />\r\n- 1080p HD Graphics.<br />\r\n- Traditional jigsaw puzzle that you can easily play<br />\r\n- More puzzles will increase with DLC",
+    "developers": [
+        "Boogygames Studios"
+    ],
+    "fullgame": {
+        "appid": "2369100",
+        "name": "Cities of the World Jigsaw Puzzles"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/header.jpg?t=1683916946",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Cities of the World Jigsaw Puzzles - Mexico City",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Cities of the World Jigsaw Puzzles - Mexico City - $0.99",
+                    "packageid": 853028,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Cities of the World Jigsaw Puzzles - Mexico City"
+        }
+    ],
+    "packages": [
+        853028
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium 4 or higher, 2GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128MB or higher<br></li><li><strong>Storage:</strong> 320 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Boogygames Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_3a5f346a4997f00bd0280f669a9f524294f82f55.1920x1080.jpg?t=1683916946",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_3a5f346a4997f00bd0280f669a9f524294f82f55.600x338.jpg?t=1683916946"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_a75f14e8cc25ba888dc5e633b45ba0abea45d67c.1920x1080.jpg?t=1683916946",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_a75f14e8cc25ba888dc5e633b45ba0abea45d67c.600x338.jpg?t=1683916946"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_a73d8e712e8cd483ac0df6c956b0a5d1025f3cba.1920x1080.jpg?t=1683916946",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_a73d8e712e8cd483ac0df6c956b0a5d1025f3cba.600x338.jpg?t=1683916946"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_eef4ddf7e634e13f695e50fcaefeecd2b22c2817.1920x1080.jpg?t=1683916946",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_eef4ddf7e634e13f695e50fcaefeecd2b22c2817.600x338.jpg?t=1683916946"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_1bdf6662146521a2d57e66dde03c247c073e1d0b.1920x1080.jpg?t=1683916946",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372700/ss_1bdf6662146521a2d57e66dde03c247c073e1d0b.600x338.jpg?t=1683916946"
+        }
+    ],
+    "short_description": "Do puzzles in a new puzzle way! Advanced puzzle layout and involving gameplay will help you to relax after a hard-working day. The player can choose to play with 30, 42, 117, or 285 pieces.",
+    "steam_appid": 2372700,
+    "support_info": {
+        "email": "boogygames@outlook.com",
+        "url": "https://store.steampowered.com/developer/boogygames/"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://store.steampowered.com/publisher/boogygames"
+}

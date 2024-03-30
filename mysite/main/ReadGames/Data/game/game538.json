@@ -1,0 +1,225 @@
+{
+    "about_the_game": "A sombre depiction of the harsh way of life in a Japanese-style fantasy world, this BL visual novel from Parade features a young protagonist who tops in each of the steamy sex scenes.<h2 class=\"bb_tag\">Feature</h2>- A dark fantasy BL visual novel taking place in feudal Japan<br><br>- Over 600 Event CGs to explore (including variations)<br>- Fully uncensored details<br>- Written by Tatsuya Kurashiki, known for his bold and realistic portrayal of battles in adult-oriented PC games and light novels<h2 class=\"bb_tag\">Story</h2>The end is nigh.<br><br><br>A barren wasteland at the edge of the Earth is home to demons that have destroyed the world. <br><br>There are those who have chosen to stay behind in these desecrated lands, dedicating themselves to resisting the demon threat.  They are the Seaside Nation. By their code, they spend their peaceful days fortifying themselves against the demons. Ancient legends are all that remain of the Day of Despair, and its second coming was thought to be far in the future...<br><br>But one night, warning bells ring out through the capital.<br>Why is this happening?<br>And why now?<br><br>Our young hero will find the answer in a battle to determine the fate of the world...",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/page_bg_generated_v6b.jpg?t=1682031641",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/page.bg.jpg?t=1682031641",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/capsule_231x87.jpg?t=1682031641",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/capsule_184x69.jpg?t=1682031641",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            2,
+            3,
+            5,
+            4
+        ],
+        "notes": "This title contains mature content that may not be suitable for all audiences, including instances of inappropriate language, extreme violence against other people, youth, and animals, instances of self-harm including suicide, instances of blood, gore, nudity, alcohol consumption, and explicit homosexual sexual situations between men in a fictional setting. "
+    },
+    "detailed_description": "A sombre depiction of the harsh way of life in a Japanese-style fantasy world, this BL visual novel from Parade features a young protagonist who tops in each of the steamy sex scenes.<h2 class=\"bb_tag\">Feature</h2>- A dark fantasy BL visual novel taking place in feudal Japan<br><br>- Over 600 Event CGs to explore (including variations)<br>- Fully uncensored details<br>- Written by Tatsuya Kurashiki, known for his bold and realistic portrayal of battles in adult-oriented PC games and light novels<h2 class=\"bb_tag\">Story</h2>The end is nigh.<br><br><br>A barren wasteland at the edge of the Earth is home to demons that have destroyed the world. <br><br>There are those who have chosen to stay behind in these desecrated lands, dedicating themselves to resisting the demon threat.  They are the Seaside Nation. By their code, they spend their peaceful days fortifying themselves against the demons. Ancient legends are all that remain of the Day of Despair, and its second coming was thought to be far in the future...<br><br>But one night, warning bells ring out through the capital.<br>Why is this happening?<br>And why now?<br><br>Our young hero will find the answer in a battle to determine the fate of the world...",
+    "developers": [
+        "parade"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/header.jpg?t=1682031641",
+    "is_free": false,
+    "legal_notice": "\u00a9parade",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932777,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932777/movie480.mp4?t=1678766102",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932777/movie_max.mp4?t=1678766102"
+            },
+            "name": "OP Video",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932777/movie.293x165.jpg?t=1678766102",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932777/movie480_vp9.webm?t=1678766102",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932777/movie_max_vp9.webm?t=1678766102"
+            }
+        }
+    ],
+    "name": "Lkyt.",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Lkyt. - $44.99",
+                    "packageid": 839519,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4499
+                }
+            ],
+            "title": "Buy Lkyt."
+        }
+    ],
+    "packages": [
+        839519
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> Core2 Duo<br></li><li><strong>Graphics:</strong> VRAM 64MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2500 MB available space<br></li><li><strong>Sound Card:</strong> Direct Sound</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Core i3<br></li><li><strong>Graphics:</strong> VRAM 128MB</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4499,
+        "final_formatted": "$44.99",
+        "initial": 4499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "MangaGamer"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 20, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_f97c70f3ff9dd27d88aa49d784e4b98abd081e35.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_f97c70f3ff9dd27d88aa49d784e4b98abd081e35.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_2cccd41a113aa2511be34720c156687352ee53b7.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_2cccd41a113aa2511be34720c156687352ee53b7.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_536c8009e3450325e322271fcdef92776ae34215.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_536c8009e3450325e322271fcdef92776ae34215.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_a58bc4c6fcf529c44626c9b1d012243902b8f09c.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_a58bc4c6fcf529c44626c9b1d012243902b8f09c.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_33b9cc2b49564b406484bd97b917f187b99e88a5.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_33b9cc2b49564b406484bd97b917f187b99e88a5.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_5e2111dca7e1dab6f6ca8527920283d5b3b7e5be.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_5e2111dca7e1dab6f6ca8527920283d5b3b7e5be.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_7c79c06398f98b00df613aaacfba0bd208213ead.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_7c79c06398f98b00df613aaacfba0bd208213ead.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_461ddf2bb380d91bd58043458f1d16c4862addc4.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_461ddf2bb380d91bd58043458f1d16c4862addc4.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_6a5ad27fe908050f76f8b8084f66d855952354cf.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_6a5ad27fe908050f76f8b8084f66d855952354cf.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_04899d862ca07b1810b17697c8c4086b983f9df8.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_04899d862ca07b1810b17697c8c4086b983f9df8.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_a932f060ddea80ed1974d845b48d4d5135f79bbe.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_a932f060ddea80ed1974d845b48d4d5135f79bbe.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_93bcfdd870739f5f96c1bdd777510989875455f5.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_93bcfdd870739f5f96c1bdd777510989875455f5.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_2e7ae027d6458dc7878f93c2b31efbaaaedb4e09.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_2e7ae027d6458dc7878f93c2b31efbaaaedb4e09.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_22daad04100c6ab67652bc8c7324b7fdadd5a95f.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_22daad04100c6ab67652bc8c7324b7fdadd5a95f.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_761a9c2431acaa709fe79ce834cdaee6bc4358b1.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_761a9c2431acaa709fe79ce834cdaee6bc4358b1.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_8bbc9c4b59bfc129050dcad296275c6ff28ebffe.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_8bbc9c4b59bfc129050dcad296275c6ff28ebffe.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_323fcab2a27f3c4ba4c074788895a3370316d5dc.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_323fcab2a27f3c4ba4c074788895a3370316d5dc.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_fe63052eb0dc0b774a20fe5b8c3e9fecaa80aa76.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_fe63052eb0dc0b774a20fe5b8c3e9fecaa80aa76.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_40d7341e97d5e809b08cae8420a583c072196a91.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_40d7341e97d5e809b08cae8420a583c072196a91.600x338.jpg?t=1682031641"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_589e286013cff8951ccd4d88a397548176f2d227.1920x1080.jpg?t=1682031641",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337450/ss_589e286013cff8951ccd4d88a397548176f2d227.600x338.jpg?t=1682031641"
+        }
+    ],
+    "short_description": "A sombre depiction of the harsh way of life in a Japanese-style fantasy world, this BL visual novel from Parade features a young protagonist who tops in each of the steamy sex scenes.",
+    "steam_appid": 2337450,
+    "support_info": {
+        "email": "support@mangagamer.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.mangagamer.org/lkyt/"
+}

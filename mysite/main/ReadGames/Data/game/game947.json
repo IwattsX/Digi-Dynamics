@@ -1,0 +1,177 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/Untitled_design.gif?t=1694056939\" /><br>A stray black cat you're not alone you work as the intern of the grim reaper; you must untangle the mystery of the lost spirits and bring them to their afterlife.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/thereafter_cat2.gif?t=1694056939\" /><br> \u201cThereafter\u201d is a third-person adventure game set amidst the remains of the spirits\u2019 last moments of life, and you, a stray black cat, are tasked with guiding them through their journey into the afterlife. This game takes inspiration from Stray, Journey, and Sky: Children of the Light.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/thereafter_cat.gif?t=1694056939\" /><br>\u201cThereafter\u201d is developed by 3to1 Games Studio, a small indie team consisting of high school students striving to create engaging interactive experiences.<br><br>Other games <br><a href=\"https://store.steampowered.com/app/2548330/The_Paper_Trials/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2548330/The_Paper_Trials/</a>",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "The Alley",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/ef254e5748360715840226edf3007fce3cfc819f.jpg"
+            },
+            {
+                "name": "The Casino",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/3626abc16c616660e53ceb54ab9077f794fbb2dc.jpg"
+            },
+            {
+                "name": "The Neighborhood",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/d9363c074982b66b1f4d7b202f70bf50cba037b4.jpg"
+            },
+            {
+                "name": "The hospital",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/44e6c98384403b697ad97c282b17e74b55f84783.jpg"
+            },
+            {
+                "name": "Thereafter",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/be0db8ae03338dd21afd0154063f27a36646afb8.jpg"
+            },
+            {
+                "name": "Afterlife",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/b7ea280e85d8bc8cf7efdeb7a9249c2ba4244cb4.jpg"
+            },
+            {
+                "name": "Big Fish",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/451795758d64d887f7a26326fe65205548186703.jpg"
+            },
+            {
+                "name": "You got hooked",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/6bf8919af5045730f2151270a21eaf2874a260d6.jpg"
+            },
+            {
+                "name": "Fly Away",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/0853d43162aa25cf4ccc433c1fc5f2ee19277930.jpg"
+            },
+            {
+                "name": "Purrfect",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2402790/60d488e59286efa558a728c9a80a2e070348a931.jpg"
+            }
+        ],
+        "total": 10
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/page_bg_generated_v6b.jpg?t=1694056939",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/page.bg.jpg?t=1694056939",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/capsule_231x87.jpg?t=1694056939",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/capsule_184x69.jpg?t=1694056939",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Talks of death, aludes to the use of alcohol and gambling."
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/Untitled_design.gif?t=1694056939\" /><br>A stray black cat you're not alone you work as the intern of the grim reaper; you must untangle the mystery of the lost spirits and bring them to their afterlife.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/thereafter_cat2.gif?t=1694056939\" /><br> \u201cThereafter\u201d is a third-person adventure game set amidst the remains of the spirits\u2019 last moments of life, and you, a stray black cat, are tasked with guiding them through their journey into the afterlife. This game takes inspiration from Stray, Journey, and Sky: Children of the Light.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402790/extras/thereafter_cat.gif?t=1694056939\" /><br>\u201cThereafter\u201d is developed by 3to1 Games Studio, a small indie team consisting of high school students striving to create engaging interactive experiences.<br><br>Other games <br><a href=\"https://store.steampowered.com/app/2548330/The_Paper_Trials/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2548330/The_Paper_Trials/</a>",
+    "developers": [
+        "Tyler L"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/header.jpg?t=1694056939",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Catalina, Mojave, High Sierra, Sierra, OSX El Capitan, Yosemite<br></li><li><strong>Processor:</strong> Dual core 3Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2012 Mac<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit processor and operating system required<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256943375,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943375/movie480.mp4?t=1682570243",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943375/movie_max.mp4?t=1682570243"
+            },
+            "name": "Gameplay trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256943375/movie.293x165.jpg?t=1682570243",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943375/movie480_vp9.webm?t=1682570243",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943375/movie_max_vp9.webm?t=1682570243"
+            }
+        }
+    ],
+    "name": "Thereafter",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-2300 | AMD FX-6350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-8400 | AMD Ryzen 5 2600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 780, 3 GB | AMD Radeon R9 290X, 4 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        " 3to1 Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_f1f1fc9720a620a94239ade7bf2923414fe38b48.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_f1f1fc9720a620a94239ade7bf2923414fe38b48.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_0225f10c56e5bf211966587d3c67c24a42ccad09.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_0225f10c56e5bf211966587d3c67c24a42ccad09.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_9bb147c596f6b01b4a5c1b61b379427d197daf87.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_9bb147c596f6b01b4a5c1b61b379427d197daf87.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_49e28d9f95b4ec6f4b537b07d81058f904964558.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_49e28d9f95b4ec6f4b537b07d81058f904964558.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_1c26fc3e38278d4e9d76289326907bf78c42a545.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_1c26fc3e38278d4e9d76289326907bf78c42a545.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_984faab64b1cd24fdf67702220d7d1c0dde070b4.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_984faab64b1cd24fdf67702220d7d1c0dde070b4.600x338.jpg?t=1694056939"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_6eeeab6210053633319cb1cb8e452ccf26343f37.1920x1080.jpg?t=1694056939",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402790/ss_6eeeab6210053633319cb1cb8e452ccf26343f37.600x338.jpg?t=1694056939"
+        }
+    ],
+    "short_description": "You play as a stray black cat, abandoned in a dark alleyway. Your goal is to find and untangle the mysteries of several lost spirits in order to fulfill their journey into the afterlife.",
+    "steam_appid": 2402790,
+    "support_info": {
+        "email": "pradiantcell@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

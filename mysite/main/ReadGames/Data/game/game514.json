@@ -1,0 +1,136 @@
+{
+    "about_the_game": "\u2018Mistified\u2019 is the debut game from SpiceBound Studios. A fiendishly tricksy grid based puzzle game where your presence in a strange land will guide the lost souls of creatures to a better place, or a worse one. Their fate is decided by your success or failure. <br><br>Solve 200+ expertly designed puzzles and dig deeper to uncover further challenges that will keep you puzzling as you forge ahead throughout this charming 2D world.<br><br><ul class=\"bb_ul\"><li>Use the sound of your own footsteps to guide creatures out of harm's way and into salvation.<br></li><li>Stomp down the dark claws to clear out a safe route.<br></li><li>Make use of the spirit mist to transport objects or alter its path to change the flow of direction.</li></ul><br><strong>Join our Community!</strong><br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2Fs9P2ztkpsT\" target=\"_blank\" rel=\" noopener\"  >discord.gg/s9P2ztkpsT</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2338020/extras/Bunny_6.png?t=1701207724\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/page_bg_generated_v6b.jpg?t=1701207724",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/page_bg_generated.jpg?t=1701207724",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/capsule_231x87.jpg?t=1701207724",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/capsule_184x69.jpg?t=1701207724",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2428060,
+            "description": ""
+        }
+    ],
+    "detailed_description": "\u2018Mistified\u2019 is the debut game from SpiceBound Studios. A fiendishly tricksy grid based puzzle game where your presence in a strange land will guide the lost souls of creatures to a better place, or a worse one. Their fate is decided by your success or failure. <br><br>Solve 200+ expertly designed puzzles and dig deeper to uncover further challenges that will keep you puzzling as you forge ahead throughout this charming 2D world.<br><br><ul class=\"bb_ul\"><li>Use the sound of your own footsteps to guide creatures out of harm's way and into salvation.<br></li><li>Stomp down the dark claws to clear out a safe route.<br></li><li>Make use of the spirit mist to transport objects or alter its path to change the flow of direction.</li></ul><br><strong>Join our Community!</strong><br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2Fs9P2ztkpsT\" target=\"_blank\" rel=\" noopener\"  >discord.gg/s9P2ztkpsT</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2338020/extras/Bunny_6.png?t=1701207724\" />",
+    "developers": [
+        "SpiceBound Studios"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/header.jpg?t=1701207724",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256948156,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948156/movie480.mp4?t=1701207722",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948156/movie_max.mp4?t=1701207722"
+            },
+            "name": "Mistified Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256948156/movie.293x165.jpg?t=1701207722",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948156/movie480_vp9.webm?t=1701207722",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948156/movie_max_vp9.webm?t=1701207722"
+            }
+        }
+    ],
+    "name": "Mistified",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP/Vista/7/8/10/11<br></li><li><strong>Processor:</strong> 2.3 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 512 MB RAM MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible video card with at least 512MB of VRAM.<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "SpiceBound Studios"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_ca5d8ece369bd216cca3438514b3955a6f5452cc.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_ca5d8ece369bd216cca3438514b3955a6f5452cc.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_11a4a58cd0f1251001a01a493ef98ac22e454ae1.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_11a4a58cd0f1251001a01a493ef98ac22e454ae1.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_5a5ca45c0510edc9be373e446879da13aea6d6e9.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_5a5ca45c0510edc9be373e446879da13aea6d6e9.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_6419a577c935c61e7fea9d550a7d1a1ab7389891.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_6419a577c935c61e7fea9d550a7d1a1ab7389891.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_703bd7492a9e20f16688dce4dc44438b0b1e0fff.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_703bd7492a9e20f16688dce4dc44438b0b1e0fff.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_f1367095f50c0dd9b9d9ca085ff79f8e5b759c6c.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_f1367095f50c0dd9b9d9ca085ff79f8e5b759c6c.600x338.jpg?t=1701207724"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_328e551d803fe1f208078018d49c3fcf1f316af8.1920x1080.jpg?t=1701207724",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2338020/ss_328e551d803fe1f208078018d49c3fcf1f316af8.600x338.jpg?t=1701207724"
+        }
+    ],
+    "short_description": "Traverse an unknown land, purify the corruption, and salvage the souls of the lost by solving increasingly complex puzzles.",
+    "steam_appid": 2338020,
+    "support_info": {
+        "email": "spiceboundstudios@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

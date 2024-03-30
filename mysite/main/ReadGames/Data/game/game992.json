@@ -1,0 +1,164 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">The Thrill of the Chase</h2>Chase your friends through unique maps, trying to tag each other and avoid being &quot;it&quot; at all costs!<h2 class=\"bb_tag\">Level Up</h2>At the end of each round, the losers choose powers that will aid them in the future. Losing isn't so bad after all...<h2 class=\"bb_tag\">Customize</h2>Unlock a wide range of new colors and accessories, and dress to impress!<h2 class=\"bb_tag\">Easy to Pick Up</h2>With only five buttons per player, anyone can pick up a controller and join in the fun!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/page_bg_generated_v6b.jpg?t=1688576154",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/page.bg.jpg?t=1688576154",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/capsule_231x87.jpg?t=1688576154",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/capsule_184x69.jpg?t=1688576154",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h2 class=\"bb_tag\">The Thrill of the Chase</h2>Chase your friends through unique maps, trying to tag each other and avoid being &quot;it&quot; at all costs!<h2 class=\"bb_tag\">Level Up</h2>At the end of each round, the losers choose powers that will aid them in the future. Losing isn't so bad after all...<h2 class=\"bb_tag\">Customize</h2>Unlock a wide range of new colors and accessories, and dress to impress!<h2 class=\"bb_tag\">Easy to Pick Up</h2>With only five buttons per player, anyone can pick up a controller and join in the fun!",
+    "developers": [
+        "KarloKnows"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/header.jpg?t=1688576154",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256946457,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946457/movie480.mp4?t=1683813428",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946457/movie_max.mp4?t=1683813428"
+            },
+            "name": "Ultimate Tag Trailer 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256946457/movie.293x165.jpg?t=1683813428",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946457/movie480_vp9.webm?t=1683813428",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946457/movie_max_vp9.webm?t=1683813428"
+            }
+        }
+    ],
+    "name": "Ultimate Tag",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Ultimate Tag - $1.99",
+                    "packageid": 863832,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Ultimate Tag"
+        }
+    ],
+    "packages": [
+        863832
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 SP1+, macOS 10.12 Sierra+, Ubuntu 16.04 LTS+<br></li><li><strong>Processor:</strong> Intel Core i3 or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 capabilities<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Basic Sound Card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "KarloKnows"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 5, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_18c5ee9f0571434085a755888d41f35d8a4273a2.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_18c5ee9f0571434085a755888d41f35d8a4273a2.600x338.jpg?t=1688576154"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_c5dccabe3328bbb0180f6f69e23d5641347a9d2d.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_c5dccabe3328bbb0180f6f69e23d5641347a9d2d.600x338.jpg?t=1688576154"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_f77938e44c1049a2b626d1082eaa48195f5b6dca.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_f77938e44c1049a2b626d1082eaa48195f5b6dca.600x338.jpg?t=1688576154"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_44e59c5924e103095ad6d7829ec90a139b5bdeb6.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_44e59c5924e103095ad6d7829ec90a139b5bdeb6.600x338.jpg?t=1688576154"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_d51bb2e0a28ef9127cb2c135304f022483451ce1.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_d51bb2e0a28ef9127cb2c135304f022483451ce1.600x338.jpg?t=1688576154"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_a84ccce141705092fc79054a598c734525378805.1920x1080.jpg?t=1688576154",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401030/ss_a84ccce141705092fc79054a598c734525378805.600x338.jpg?t=1688576154"
+        }
+    ],
+    "short_description": "Compete with friends in the fast-paced, 2D platformer! Chase each other through various unique maps, using quick reflexes and maneuverability to avoid being &quot;it&quot;. Collect powers along the way to help dash, freeze and teleport your way to the top!",
+    "steam_appid": 2401030,
+    "support_info": {
+        "email": "karloknowschannel@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

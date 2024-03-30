@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Escape into the serene yet treacherous world of natural wonders with the House of Jigsaw: Beautiful Nature DLC. This expansion redefines the boundaries of puzzle-solving, immersing you in breathtaking landscapes inspired by the world's most captivating environments. <br><br>Immerse yourself in awe-inspiring scenes of natural splendor, transformed into intricate Jigsaw puzzles. Piece together the wonders of forests, waterfalls, and more. Can you solve the beautiful nature jigsaws in the shortest amount of time? Show your results on the community page. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649610/extras/Features-english.png?t=1701261651\" /><br><br><ul class=\"bb_ul\"><li>Explore the beauty of nature<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/page_bg_generated_v6b.jpg?t=1701261651",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/page.bg.jpg?t=1701261651",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/capsule_231x87.jpg?t=1701261651",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/capsule_184x69.jpg?t=1701261651",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Escape into the serene yet treacherous world of natural wonders with the House of Jigsaw: Beautiful Nature DLC. This expansion redefines the boundaries of puzzle-solving, immersing you in breathtaking landscapes inspired by the world's most captivating environments. <br><br>Immerse yourself in awe-inspiring scenes of natural splendor, transformed into intricate Jigsaw puzzles. Piece together the wonders of forests, waterfalls, and more. Can you solve the beautiful nature jigsaws in the shortest amount of time? Show your results on the community page. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649610/extras/Features-english.png?t=1701261651\" /><br><br><ul class=\"bb_ul\"><li>Explore the beauty of nature<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "developers": [
+        "Graphium Studio"
+    ],
+    "fullgame": {
+        "appid": "2607920",
+        "name": "House of Jigsaw: Happy puzzling, Happy home"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/header.jpg?t=1701261651",
+    "is_free": false,
+    "legal_notice": "\u00a9Denda Games 2023<br />\r\n\u00a9Graphium Studio 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "House of Jigsaw: Fascinating Landscapes",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "House of Jigsaw: Fascinating Landscapes - $2.99",
+                    "packageid": 949737,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy House of Jigsaw: Fascinating Landscapes"
+        }
+    ],
+    "packages": [
+        949737
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Denda Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_59e92127c7b7e2c800ecdcf1de565aa6acb5b9ed.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_59e92127c7b7e2c800ecdcf1de565aa6acb5b9ed.600x338.jpg?t=1701261651"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_f7852d981dec5542ccbdb4196c03b3656156450f.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_f7852d981dec5542ccbdb4196c03b3656156450f.600x338.jpg?t=1701261651"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_6d00b3c469b5ac622a730314e7a8b7c1a483aef5.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_6d00b3c469b5ac622a730314e7a8b7c1a483aef5.600x338.jpg?t=1701261651"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_c6623ad35ef3c692353512dca8a19195887ad5a8.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_c6623ad35ef3c692353512dca8a19195887ad5a8.600x338.jpg?t=1701261651"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_51e445c81df48f729c0461b4c43129b025f5f1e2.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_51e445c81df48f729c0461b4c43129b025f5f1e2.600x338.jpg?t=1701261651"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_d9523295456a8f2aedb476220f017adc341aa3bd.1920x1080.jpg?t=1701261651",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649610/ss_d9523295456a8f2aedb476220f017adc341aa3bd.600x338.jpg?t=1701261651"
+        }
+    ],
+    "short_description": "Escape into the serene yet treacherous world of natural wonders with the House of Jigsaw: Beautiful Nature DLC.",
+    "steam_appid": 2649610,
+    "support_info": {
+        "email": "helpdesk@denda.com",
+        "url": "https://www.denda.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://denda-corporate.com/"
+}

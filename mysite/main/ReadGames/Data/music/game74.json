@@ -1,0 +1,57 @@
+{
+    "about_the_game": "Return to a city taken by the supernatural with Tango Gameworks' bonus soundtrack for Ghostwire: Tokyo. Composed by Masatoshi Yanagi and featuring tracks from the Spider's Thread Update, set the stage as spirits and myth take to the streets of modern-day Tokyo.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/page_bg_generated_v6b.jpg?t=1704384904",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/page_bg_generated.jpg?t=1704384904",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/capsule_231x87.jpg?t=1704384904",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/capsule_184x69.jpg?t=1704384904",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Return to a city taken by the supernatural with Tango Gameworks' bonus soundtrack for Ghostwire: Tokyo. Composed by Masatoshi Yanagi and featuring tracks from the Spider's Thread Update, set the stage as spirits and myth take to the streets of modern-day Tokyo.",
+    "developers": [
+        "Tango Gameworks"
+    ],
+    "fullgame": {
+        "appid": "1475810",
+        "name": "Ghostwire: Tokyo"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/header.jpg?t=1704384904",
+    "is_free": true,
+    "legal_notice": "\u00a9 2021 Bethesda Softworks LLC, a ZeniMax Media company. Ghostwire, Tango, Tango Gameworks, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Ghostwire: Tokyo - Spider's Thread Soundtrack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 310 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Bethesda Softworks"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 26, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/ss_7d4edc4c09f16acecf26160c699c57f720d51252.1920x1080.jpg?t=1704384904",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650130/ss_7d4edc4c09f16acecf26160c699c57f720d51252.600x338.jpg?t=1704384904"
+        }
+    ],
+    "short_description": "Explore a city overrun by the supernatural with this bonus tracklist, featuring added music from the Spider's Thread Update for Ghostwire: Tokyo.",
+    "steam_appid": 2650130,
+    "support_info": {
+        "email": "",
+        "url": "http://help.bethesda.net/"
+    },
+    "type": "music",
+    "website": null
+}

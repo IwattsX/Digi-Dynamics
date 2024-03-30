@@ -1,0 +1,174 @@
+{
+    "about_the_game": "<strong>-Main Story-</strong><br>The samurai played by the player wakes up from a mysterious island and will accept the mission from the spawn point, and learn skills, item matching, and skill use under the guidance of the task;<br>The advancement of the game is mainly reflected by the NPC issuing tasks, which are reflected by the completion of the tasks by the players, and the next tasks will be unlocked after completing the tasks;<br>And all you need to do is to get equipment, match skills to defeat enemies, and complete missions;<br><strong>-combat section-</strong><br>There are many ways to fight in the game, you can choose to rush into the enemy position to intersperse and defeat the enemy, or you can choose to put cold arrows in the rear, and how you operate in a variety of ways is entirely up to you;<br>How refreshing the game is depends on the way you attack;<br>Each elite you encounter will have different skills, so be careful with the elites you encounter, otherwise you can only return to the city for free and fight again;<br><strong>-faction-affiliation-</strong><br>Through the quest dialogue, the interpersonal relationships and faction relationships of this small island will be described, and these complex relationships will also make the subsequent development of the whole game full of suspense;<br>There is another quest line to describe the adventures of other adventurers here, which will depict a different relationship between the characters than the superficial;<br><strong>-Auxiliary system-</strong><br>New equipment acquired during the Adventure will have quest dialogue describing how to use it, as well as instructions for the items themselves;<br>Each battle map has a quick arrival point, which can quickly reach the target area from the town, but only one quick arrival point can be effective;<br>Reasonable preservation of the quick arrival point can allow you to do more with less;<br><strong>-GAME SCENE-</strong><br>Guided by quests, caves, basins, swamps, deserts, abandoned towns will be explored;<br>In addition to enemies who use conventional weapons such as swords, there are also wizards who use magic, and they are good at inflicting negative statuses on enemies to weaken them and thus defeat them; There are also robots that use energy weapons, and they are good at emitting energy barrages or lasers to defeat enemies;<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635790/extras/10046.gif?t=1699878286\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635790/extras/10036.gif?t=1699878286\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/page_bg_generated_v6b.jpg?t=1699878286",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/page_bg_generated.jpg?t=1699878286",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/capsule_231x87.jpg?t=1699878286",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/capsule_184x69.jpg?t=1699878286",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>-Main Story-</strong><br>The samurai played by the player wakes up from a mysterious island and will accept the mission from the spawn point, and learn skills, item matching, and skill use under the guidance of the task;<br>The advancement of the game is mainly reflected by the NPC issuing tasks, which are reflected by the completion of the tasks by the players, and the next tasks will be unlocked after completing the tasks;<br>And all you need to do is to get equipment, match skills to defeat enemies, and complete missions;<br><strong>-combat section-</strong><br>There are many ways to fight in the game, you can choose to rush into the enemy position to intersperse and defeat the enemy, or you can choose to put cold arrows in the rear, and how you operate in a variety of ways is entirely up to you;<br>How refreshing the game is depends on the way you attack;<br>Each elite you encounter will have different skills, so be careful with the elites you encounter, otherwise you can only return to the city for free and fight again;<br><strong>-faction-affiliation-</strong><br>Through the quest dialogue, the interpersonal relationships and faction relationships of this small island will be described, and these complex relationships will also make the subsequent development of the whole game full of suspense;<br>There is another quest line to describe the adventures of other adventurers here, which will depict a different relationship between the characters than the superficial;<br><strong>-Auxiliary system-</strong><br>New equipment acquired during the Adventure will have quest dialogue describing how to use it, as well as instructions for the items themselves;<br>Each battle map has a quick arrival point, which can quickly reach the target area from the town, but only one quick arrival point can be effective;<br>Reasonable preservation of the quick arrival point can allow you to do more with less;<br><strong>-GAME SCENE-</strong><br>Guided by quests, caves, basins, swamps, deserts, abandoned towns will be explored;<br>In addition to enemies who use conventional weapons such as swords, there are also wizards who use magic, and they are good at inflicting negative statuses on enemies to weaken them and thus defeat them; There are also robots that use energy weapons, and they are good at emitting energy barrages or lasers to defeat enemies;<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635790/extras/10046.gif?t=1699878286\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635790/extras/10036.gif?t=1699878286\" />",
+    "developers": [
+        "\u4e00\u53ea\u96f6\u96f6\u53d1\u5de5\u4f5c\u5ba4"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/header.jpg?t=1699878286",
+    "is_free": false,
+    "legal_notice": "Please do not redistribute the game, or decompile, modify the content, etc., the author reserves the right to pursue its legal responsibility",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256974159,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974159/movie480.mp4?t=1696995159",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974159/movie_max.mp4?t=1696995159"
+            },
+            "name": "skill",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256974159/movie.293x165.jpg?t=1696995159",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974159/movie480_vp9.webm?t=1696995159",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974159/movie_max_vp9.webm?t=1696995159"
+            }
+        }
+    ],
+    "name": "Backstab",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u80cc\u523a\u4e4b\u4fe1\u5ff5\u738b\u56fd Backstab of the Kingdom of Faith - $2.99",
+                    "packageid": 945174,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Backstab"
+        }
+    ],
+    "packages": [
+        945174
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> win7/8/10<br></li><li><strong>Processor:</strong> inter i7 2600x<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> rx570    gtx1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> Use an SSD, and standard sizes such as 1080p or 2K are recommended for monitors</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win10<br></li><li><strong>Processor:</strong> inter i5 12400<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> rx6600xt  rx3060<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> Use an SSD, and standard sizes such as 1080p or 2K are recommended for monitors</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "\u4e00\u53ea\u96f6\u96f6\u53d1\u5de5\u4f5c\u5ba4"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_2adea6b357df7af2ee01bb613d1e26de374ed86d.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_2adea6b357df7af2ee01bb613d1e26de374ed86d.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_3a25dc210c4aba313ed9652971773ad4cb1fef82.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_3a25dc210c4aba313ed9652971773ad4cb1fef82.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_d255723ce8ca5e9cac4e5a033e56822d17b80f03.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_d255723ce8ca5e9cac4e5a033e56822d17b80f03.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_f607ee4ed6e44db7b21531f0d7da331a82b65568.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_f607ee4ed6e44db7b21531f0d7da331a82b65568.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_e8dea29c01c65f669b88277acb8579ac3e8475f3.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_e8dea29c01c65f669b88277acb8579ac3e8475f3.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_1ab326e88d3542fd2f416bc81add276257cf5b82.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_1ab326e88d3542fd2f416bc81add276257cf5b82.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_517eb312bb0e4b75cfb13e14f8d20456839171b0.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_517eb312bb0e4b75cfb13e14f8d20456839171b0.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_fe8beed2fa59d90813154c191da1665931a455a7.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_fe8beed2fa59d90813154c191da1665931a455a7.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_3e8a9feb5879c9c56c191696d86b4afd9df07047.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_3e8a9feb5879c9c56c191696d86b4afd9df07047.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_0eb8b5baac1b8611c2eb3a5e24b88f8fece3c604.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_0eb8b5baac1b8611c2eb3a5e24b88f8fece3c604.600x338.jpg?t=1699878286"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_c407330dfe2087a5ae10eddbe444d7db7aaaed40.1920x1080.jpg?t=1699878286",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635790/ss_c407330dfe2087a5ae10eddbe444d7db7aaaed40.600x338.jpg?t=1699878286"
+        }
+    ],
+    "short_description": "This is a top view angle action adventure game, with refreshing combat methods and a rich world view, so that you can experience the feeling of backstabbing under the impetus of the story!",
+    "steam_appid": 2635790,
+    "support_info": {
+        "email": "jianqinga@live.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

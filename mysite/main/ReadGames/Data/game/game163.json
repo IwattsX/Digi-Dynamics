@@ -1,0 +1,208 @@
+{
+    "about_the_game": "<strong>Let's stack up the prefectures of Japan to create Hokkaido! </strong><br><br>This is a physics-based falling block puzzle game.<br><br>You are a &quot;big person&quot; and drop prefectures into a box.<br><br>If the same prefectures are attached to each other, they will evolve into bigger prefectures!<br><br>The game is completed when you create the largest prefecture, Hokkaido, before the box overflows!<h2 class=\"bb_tag\">Planned updates</h2>If the game is well received, game modes will be added!<h2 class=\"bb_tag\">About Secondary Use</h2>To post or stream images and videos using the play screen and audio are fully allowed.<br>Please feel free to use them.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Tochigi",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/909ac184f7ff1ef209ffc78c91ee435a667dd00e.jpg"
+            },
+            {
+                "name": "Gifu",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/6972be69e6d89d83c5f7e52b57491b9fd1d139f4.jpg"
+            },
+            {
+                "name": "Hokkaido",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/068018a4fe5ef06dcf2567f9fd4553e108776d05.jpg"
+            },
+            {
+                "name": "1000",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/5bd207377aff9a876b936416b7a61eec458e12fe.jpg"
+            },
+            {
+                "name": "2000",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/6fe59b10232c33efb48b4b9170460d341e09cf0d.jpg"
+            },
+            {
+                "name": "3000",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/0d9a8df734164089cf718cf5c2f7f897e0e28fd4.jpg"
+            },
+            {
+                "name": "Hokkaido Survivors",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/4ed91b057dd28d5867f76dd9c077d8a4421e5eec.jpg"
+            },
+            {
+                "name": "3000 in survivors",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/b8f3b41e1ee4fd91f0069a6e65815ef12de4cd37.jpg"
+            },
+            {
+                "name": "Maybe Japan",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/4e3a7e748832ec87f79e70ca1b951ce1c9e589a8.jpg"
+            },
+            {
+                "name": "Similar to Japan",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638180/71b35349b30d8999b9136cf59fd89b8d36c874f3.jpg"
+            }
+        ],
+        "total": 14
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/page_bg_generated_v6b.jpg?t=1698761829",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/page.bg.jpg?t=1698761829",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/capsule_231x87.jpg?t=1698761829",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/capsule_184x69.jpg?t=1698761829",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Let's stack up the prefectures of Japan to create Hokkaido! </strong><br><br>This is a physics-based falling block puzzle game.<br><br>You are a &quot;big person&quot; and drop prefectures into a box.<br><br>If the same prefectures are attached to each other, they will evolve into bigger prefectures!<br><br>The game is completed when you create the largest prefecture, Hokkaido, before the box overflows!<h2 class=\"bb_tag\">Planned updates</h2>If the game is well received, game modes will be added!<h2 class=\"bb_tag\">About Secondary Use</h2>To post or stream images and videos using the play screen and audio are fully allowed.<br>Please feel free to use them.",
+    "developers": [
+        "Marudice"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/header.jpg?t=1698761829",
+    "is_free": false,
+    "legal_notice": "\u00a9Marudice 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978218,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978218/movie480.mp4?t=1698677750",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978218/movie_max.mp4?t=1698677750"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978218/movie.293x165.jpg?t=1698677750",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978218/movie480_vp9.webm?t=1698677750",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978218/movie_max_vp9.webm?t=1698677750"
+            }
+        }
+    ],
+    "name": "Hokkaido Game",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Hokkaido Game - $1.99",
+                    "packageid": 945946,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Hokkaido Game"
+        }
+    ],
+    "packages": [
+        945946
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> Intel Pentium 2.4GHz or higher<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Marudice"
+    ],
+    "recommendations": {
+        "total": 129
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_2d5c9579bb348019b73350d645f2a6bcaf00b92c.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_2d5c9579bb348019b73350d645f2a6bcaf00b92c.600x338.jpg?t=1698761829"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_a2f0971d324e6823105939ae5f29afaf4e4f269a.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_a2f0971d324e6823105939ae5f29afaf4e4f269a.600x338.jpg?t=1698761829"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_60b1fec6f80b13d1707154f9a8236f47acb46987.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_60b1fec6f80b13d1707154f9a8236f47acb46987.600x338.jpg?t=1698761829"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_464708cb06e12f703b9031e69dfcbf31d206aef6.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_464708cb06e12f703b9031e69dfcbf31d206aef6.600x338.jpg?t=1698761829"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_a4b89ba5d177725878b7e093291603a02ed0d94a.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_a4b89ba5d177725878b7e093291603a02ed0d94a.600x338.jpg?t=1698761829"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_72c43aa404d7a9a9b15d4449b9c80dbe4012d489.1920x1080.jpg?t=1698761829",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638180/ss_72c43aa404d7a9a9b15d4449b9c80dbe4012d489.600x338.jpg?t=1698761829"
+        }
+    ],
+    "short_description": "This is a physics puzzle game in which you build Hokkaido by piling up prefectures of Japan. You become a &quot;big person&quot; and drop prefectures into a box. Connected same prefectures will evolve into a larger prefecture! Create the largest prefecture in Japan, Hokkaido, before the box overflows!",
+    "steam_appid": 2638180,
+    "support_info": {
+        "email": "marudice@gmail.com",
+        "url": "https://marudice.com/en"
+    },
+    "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://marudice.com"
+}

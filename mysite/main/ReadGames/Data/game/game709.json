@@ -1,0 +1,111 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Here are some fun facts about this game!</h2> In the game, you join an adventurous indie game studio and develop games while traveling the world on a sea train. Although it may sound like a dream trip, don't be fooled by the surface. You must use your wit and strategy to complete development tasks, learn new skills, and launch your game before the deadline.<h2 class=\"bb_tag\">The game is all about developing games!</h2> Indie game development tasks can be challenging for new developers, but fear not! As a player, you'll draw cards that fall into two categories: development task cards and ability upgrade cards. Use the technology upgrade cards to level up your developers' ability, so they can complete the assigned development tasks. And don't forget to use your developers' skills at the right time to better aid you in completing game development.<br>The cards may seem simple, but they hold the key to your success! With the right utilization of cards and a bit of luck, you'll help your indie game studio reach new heights. So grab your cards, sharpen your skills, and let's make some awesome games together!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/page_bg_generated_v6b.jpg?t=1680257830",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/page_bg_generated.jpg?t=1680257830",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/capsule_231x87.jpg?t=1680257830",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/capsule_184x69.jpg?t=1680257830",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Here are some fun facts about this game!</h2> In the game, you join an adventurous indie game studio and develop games while traveling the world on a sea train. Although it may sound like a dream trip, don't be fooled by the surface. You must use your wit and strategy to complete development tasks, learn new skills, and launch your game before the deadline.<h2 class=\"bb_tag\">The game is all about developing games!</h2> Indie game development tasks can be challenging for new developers, but fear not! As a player, you'll draw cards that fall into two categories: development task cards and ability upgrade cards. Use the technology upgrade cards to level up your developers' ability, so they can complete the assigned development tasks. And don't forget to use your developers' skills at the right time to better aid you in completing game development.<br>The cards may seem simple, but they hold the key to your success! With the right utilization of cards and a bit of luck, you'll help your indie game studio reach new heights. So grab your cards, sharpen your skills, and let's make some awesome games together!",
+    "developers": [
+        "IGA Studio"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/header.jpg?t=1680257830",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937792,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937792/movie480.mp4?t=1680059778",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937792/movie_max.mp4?t=1680059778"
+            },
+            "name": "Test Alpha",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937792/movie.293x165.jpg?t=1680059778",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937792/movie480_vp9.webm?t=1680059778",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937792/movie_max_vp9.webm?t=1680059778"
+            }
+        }
+    ],
+    "name": "Game Dev Fantasy",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (64 bit) or Newer (64 bit) Windows OS<br></li><li><strong>Processor:</strong> 2.5 GHz Dual core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 760, AMD Radeon R7 270X, or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "IGA Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_23329f69994f5f51f66724f5bce517d89e8aa150.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_23329f69994f5f51f66724f5bce517d89e8aa150.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_0e7240a7101a7dad6b203fc695c7882529162a04.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_0e7240a7101a7dad6b203fc695c7882529162a04.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_964dad5f05c2db440c89f1df4bc25987c898f779.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_964dad5f05c2db440c89f1df4bc25987c898f779.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_97ac80b55dd823c703a840e2bc418992e8482037.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_97ac80b55dd823c703a840e2bc418992e8482037.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_2dbe7746904bb7c59ceecf9801cf9b63f8a9bc2f.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_2dbe7746904bb7c59ceecf9801cf9b63f8a9bc2f.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_2821333538a1a1c455a650e01e8d64c8b9a80583.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_2821333538a1a1c455a650e01e8d64c8b9a80583.600x338.jpg?t=1680257830"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_3041696af93359b5feedaac62de2405e31d8ba5e.1920x1080.jpg?t=1680257830",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373060/ss_3041696af93359b5feedaac62de2405e31d8ba5e.600x338.jpg?t=1680257830"
+        }
+    ],
+    "short_description": "Join the adventure of game development while sailing the seas with your indie studio! Use your wits and strategy to complete development tasks, learn new skills, and launch your game before the deadline. With the sea breeze on your face, you're all set to create an amazing game!",
+    "steam_appid": 2373060,
+    "support_info": {
+        "email": "gamedev@igagame.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

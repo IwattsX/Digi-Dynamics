@@ -1,0 +1,161 @@
+{
+    "about_the_game": "Rummy, a classic among card games, enjoys great popularity worldwide. A new version of &quot;Absolute Rummy&quot; is now available for Windows 11.<br />\r\n<br />\r\nBeginners as well as occasional players and professionals, should find everything needed for a challenging game of Rummy in this program. Whether against 1, 2 or 3 opponents, the new, revised AI guarantees an all-round successful game!<br />\r\n<br />\r\nExtensive setting options are available for the individual configuration of the game.<br />\r\n<br />\r\nThe extended ruleset is probably the most elaborate compilation of different rules and settings of all previous &quot;Absolute Rummy&quot; versions - it contains extensive game and special rules, different playing fields, card sets and covers, a detailed manual, intelligent opponents as well as a single and multiplayer mode.<br />\r\n<br />\r\n <br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n    Choose among many game and special rules, e.g.:<br />\r\n    - Number of cards and jokers in the game<br />\r\n    - Value for high ace / &quot;ace around the corner&quot; selectable<br />\r\n    - Points for the first registration<br />\r\n    - Size of card rows to be laid out<br />\r\n    - Number of starting cards etc.<br />\r\n    <br />\r\n    - Different, high-quality card sets, covers and playing fields<br />\r\n    - Different playing strengths of opponents<br />\r\n    - Single player or multiplayer<br />\r\n    - Maximum playing time in online games adjustable.<br />\r\n    - Compatibility mode (compatibility with all old online-capable &quot;Absolute Rummy&quot; versions in online mode)<br />\r\n    - Detailed game instructions",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/page_bg_generated_v6b.jpg?t=1683472536",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/page_bg_generated.jpg?t=1683472536",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/capsule_231x87.jpg?t=1683472536",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/capsule_184x69.jpg?t=1683472536",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Rummy, a classic among card games, enjoys great popularity worldwide. A new version of &quot;Absolute Rummy&quot; is now available for Windows 11.<br />\r\n<br />\r\nBeginners as well as occasional players and professionals, should find everything needed for a challenging game of Rummy in this program. Whether against 1, 2 or 3 opponents, the new, revised AI guarantees an all-round successful game!<br />\r\n<br />\r\nExtensive setting options are available for the individual configuration of the game.<br />\r\n<br />\r\nThe extended ruleset is probably the most elaborate compilation of different rules and settings of all previous &quot;Absolute Rummy&quot; versions - it contains extensive game and special rules, different playing fields, card sets and covers, a detailed manual, intelligent opponents as well as a single and multiplayer mode.<br />\r\n<br />\r\n <br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n    Choose among many game and special rules, e.g.:<br />\r\n    - Number of cards and jokers in the game<br />\r\n    - Value for high ace / &quot;ace around the corner&quot; selectable<br />\r\n    - Points for the first registration<br />\r\n    - Size of card rows to be laid out<br />\r\n    - Number of starting cards etc.<br />\r\n    <br />\r\n    - Different, high-quality card sets, covers and playing fields<br />\r\n    - Different playing strengths of opponents<br />\r\n    - Single player or multiplayer<br />\r\n    - Maximum playing time in online games adjustable.<br />\r\n    - Compatibility mode (compatibility with all old online-capable &quot;Absolute Rummy&quot; versions in online mode)<br />\r\n    - Detailed game instructions",
+    "developers": [
+        "magnussoft"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/header.jpg?t=1683472536",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942234,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942234/movie480.mp4?t=1682181182",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942234/movie_max.mp4?t=1682181182"
+            },
+            "name": "EN",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942234/movie.293x165.jpg?t=1682181182",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942234/movie480_vp9.webm?t=1682181182",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942234/movie_max_vp9.webm?t=1682181182"
+            }
+        }
+    ],
+    "name": "Absolute Rummy for Windows 11",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Absolute Rummy for Windows 11 - $12.99",
+                    "packageid": 864607,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1299
+                }
+            ],
+            "title": "Buy Absolute Rummy for Windows 11"
+        }
+    ],
+    "packages": [
+        864607
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP / 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> Intel Core Duo 2 2.5 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Onboard graphic card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Onboard Soundcard</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP / 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> Intel Core Duo 2 2.5 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 4800 Series<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Onboard Soundcard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1299,
+        "final_formatted": "$12.99",
+        "initial": 1299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "magnussoft"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_8ef9b0793367e5dac4f0019fc4880fb196bdc393.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_8ef9b0793367e5dac4f0019fc4880fb196bdc393.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_7b9f3f049af1e5e4570c9ac2127b50621dfb1066.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_7b9f3f049af1e5e4570c9ac2127b50621dfb1066.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_5231f01839bf2b84caf9dfd8b06ca4d25f6147a2.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_5231f01839bf2b84caf9dfd8b06ca4d25f6147a2.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_98b07aea979372391877884a7a34912800ddf2f3.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_98b07aea979372391877884a7a34912800ddf2f3.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_c399e1711cbff20d39925f4f6bc6a146355f61cc.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_c399e1711cbff20d39925f4f6bc6a146355f61cc.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_4baf0b3cab5daf05092da868af0a4e2995857737.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_4baf0b3cab5daf05092da868af0a4e2995857737.600x338.jpg?t=1683472536"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_dca5e8540f290d5379998835349c14af277aac16.1920x1080.jpg?t=1683472536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403130/ss_dca5e8540f290d5379998835349c14af277aac16.600x338.jpg?t=1683472536"
+        }
+    ],
+    "short_description": "Rummy, a classic among card games, enjoys great popularity worldwide. A new version of &quot;Absolute Rummy&quot; is now available for Windows 11.",
+    "steam_appid": 2403130,
+    "support_info": {
+        "email": "support@magnussoft.de",
+        "url": "http://magnussoft.biz/"
+    },
+    "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "http://magnussoft.biz/"
+}

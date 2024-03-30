@@ -1,0 +1,178 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/About.png?t=1704474422\" /><br><br>&quot;Right or DIE!&quot; beckons you into a shadowy and mysterious maze. In this ominous game, navigate through a constantly changing maze. Increase your score by safely traversing the maze, the faster you move through the maze the higher score you receive, but beware, as any dead-end could mean certain doom.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Maze.png?t=1704474422\" /><br><br>Right or DIE! Takes place in a living maze. This mysterious place changes as players progress with seemingly no escape. Each part of the maze will change offering players new paths, but tread carefully as dead ends mean game over.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Collectibles.png?t=1704474422\" /><br><br>Players can find collectibles as they progress through the maze in form of coins, every coin collected adds to the player's score.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Scoring.png?t=1704474422\" /><br><br>Players earn score based on a few factors, time alive, rooms cleared, and coins collected. The faster you make it through the maze and longer you stay alive the higher your score climbs, how long can you survive?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/page_bg_generated_v6b.jpg?t=1704474422",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/page_bg_generated.jpg?t=1704474422",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/capsule_231x87.jpg?t=1704474422",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/capsule_184x69.jpg?t=1704474422",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/About.png?t=1704474422\" /><br><br>&quot;Right or DIE!&quot; beckons you into a shadowy and mysterious maze. In this ominous game, navigate through a constantly changing maze. Increase your score by safely traversing the maze, the faster you move through the maze the higher score you receive, but beware, as any dead-end could mean certain doom.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Maze.png?t=1704474422\" /><br><br>Right or DIE! Takes place in a living maze. This mysterious place changes as players progress with seemingly no escape. Each part of the maze will change offering players new paths, but tread carefully as dead ends mean game over.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Collectibles.png?t=1704474422\" /><br><br>Players can find collectibles as they progress through the maze in form of coins, every coin collected adds to the player's score.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737940/extras/Scoring.png?t=1704474422\" /><br><br>Players earn score based on a few factors, time alive, rooms cleared, and coins collected. The faster you make it through the maze and longer you stay alive the higher your score climbs, how long can you survive?",
+    "developers": [
+        "Divine Games LLC"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/header.jpg?t=1704474422",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256991919,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991919/movie480.mp4?t=1704217732",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991919/movie_max.mp4?t=1704217732"
+            },
+            "name": "Teaser Trailer 2",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256991919/movie.293x165.jpg?t=1704217732",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256991919/movie480_vp9.webm?t=1704217732",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256991919/movie_max_vp9.webm?t=1704217732"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256988363,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988363/movie480.mp4?t=1703188023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988363/movie_max.mp4?t=1703188023"
+            },
+            "name": "Teaser Trailer 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988363/movie.293x165.jpg?t=1703188023",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988363/movie480_vp9.webm?t=1703188023",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988363/movie_max_vp9.webm?t=1703188023"
+            }
+        }
+    ],
+    "name": "Right or DIE!",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Right or DIE! - $14.99",
+                    "packageid": 979633,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Right or DIE!"
+        }
+    ],
+    "packages": [
+        979633
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 - 64 Bit<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660 (or equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 - 64 Bit<br></li><li><strong>Processor:</strong> Intel Core i5 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1660 or greater (or equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Divine Games LLC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 5, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_eeede1d4e70c56abd18ef63a33f1b87b96d28cdd.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_eeede1d4e70c56abd18ef63a33f1b87b96d28cdd.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_abd2164c1920021f7351729a4d97ede4150d7743.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_abd2164c1920021f7351729a4d97ede4150d7743.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_e7fae71884b4edee0a2ed2377eb90e10b5403b3c.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_e7fae71884b4edee0a2ed2377eb90e10b5403b3c.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_aac93ab3f139427cd8ef068a5d85bcaea1b8442b.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_aac93ab3f139427cd8ef068a5d85bcaea1b8442b.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_a2fc6d352a5c6e31a9648d04c0e27a746bc8894a.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_a2fc6d352a5c6e31a9648d04c0e27a746bc8894a.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_321d4c9fc905a106c15be12334eaa07b5f2c4c89.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_321d4c9fc905a106c15be12334eaa07b5f2c4c89.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_70a0e04e016d3c70f8c63c1f16613361fbe31fc5.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_70a0e04e016d3c70f8c63c1f16613361fbe31fc5.600x338.jpg?t=1704474422"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_3fbc45b1b55d53bc43812b5a95246ae746fbc54a.1920x1080.jpg?t=1704474422",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737940/ss_3fbc45b1b55d53bc43812b5a95246ae746fbc54a.600x338.jpg?t=1704474422"
+        }
+    ],
+    "short_description": "Navigate an ever changing maze where every turn could be your last...",
+    "steam_appid": 2737940,
+    "support_info": {
+        "email": "support@divinegamesllc.com",
+        "url": "https://discord.gg/5jANQYX"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

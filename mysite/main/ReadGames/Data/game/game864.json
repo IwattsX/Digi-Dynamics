@@ -1,0 +1,137 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370290/extras/Steam_Wishlist.gif?t=1704982349\" /><h2 class=\"bb_tag\">GAME DESCRIPTION:</h2><br>I just went out for an evening run. A warm evening, rhythmic music in headphones, a half-empty square ... A sharp noise, a blow! ... Someone hit me. And I ended up in a bunker. Why is everyone around dead? What can I do? How to get out of here?<br><br><strong>EBOLA 4</strong> - takes you to the great survival horror classic, with a first-person camera view that allows you to fully immerse yourself in the atmosphere and feel all the fear and horror conveyed by the game.<br><br>You have to explore the narrow dark corridors of the bunker, find weapons, defend against the forces of darkness, kill monsters and create amulets for protection. Something will help you by leaving notes on the computer and in books. You are used to thinking that the world is simple and clear, and the supernatural does not exist. You were wrong! Now you will know the secrets of the world, try to find all the ingredients to save it!<h2 class=\"bb_tag\">FEATURES:</h2><br>\u2022 Complete dismemberment, excellent enemy physics.<br><br>\u2022 The atmosphere of horror and hopelessness in the dark corridors of the bunker<br><br>\u2022 Fascinating story<br><br>\u2022 Two types of weapons<br><br>\u2022 Puzzle<br><br>\u2022 Various enemies and boss<br><br>\u2022 3 difficulty levels<br><br>\u2022 Inventory Management<br><br>\u2022 Survival-horror of the old school<br><br>It is recommended to play with headphones for total immersion.<br><br>All characters, events, music and locations are completely fictional, any resemblance to real people, other works, films and games is purely coincidental.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/page_bg_generated_v6b.jpg?t=1704982349",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/page_bg_generated.jpg?t=1704982349",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/capsule_231x87.jpg?t=1704982349",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/capsule_184x69.jpg?t=1704982349",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Attention! Viewer discretion is advised. The game\r\ncontains scenes of violence and blood."
+    },
+    "controller_support": "full",
+    "detailed_description": "<h1>ADD TO YOUR WISHLIST - EBOLA VILLAGE</h1><p><a href=\"https://store.steampowered.com/app/2306030/EBOLA_VILLAGE/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2306030/EBOLA_VILLAGE/</a></p><br><h1>ADD TO YOUR WISHLIST - Nightmare of Nady</h1><p><a href=\"https://store.steampowered.com/app/2229960/Nightmare_of_Nady/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2229960/Nightmare_of_Nady/</a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370290/extras/Steam_Wishlist.gif?t=1704982349\" /><h2 class=\"bb_tag\">GAME DESCRIPTION:</h2><br>I just went out for an evening run. A warm evening, rhythmic music in headphones, a half-empty square ... A sharp noise, a blow! ... Someone hit me. And I ended up in a bunker. Why is everyone around dead? What can I do? How to get out of here?<br><br><strong>EBOLA 4</strong> - takes you to the great survival horror classic, with a first-person camera view that allows you to fully immerse yourself in the atmosphere and feel all the fear and horror conveyed by the game.<br><br>You have to explore the narrow dark corridors of the bunker, find weapons, defend against the forces of darkness, kill monsters and create amulets for protection. Something will help you by leaving notes on the computer and in books. You are used to thinking that the world is simple and clear, and the supernatural does not exist. You were wrong! Now you will know the secrets of the world, try to find all the ingredients to save it!<h2 class=\"bb_tag\">FEATURES:</h2><br>\u2022 Complete dismemberment, excellent enemy physics.<br><br>\u2022 The atmosphere of horror and hopelessness in the dark corridors of the bunker<br><br>\u2022 Fascinating story<br><br>\u2022 Two types of weapons<br><br>\u2022 Puzzle<br><br>\u2022 Various enemies and boss<br><br>\u2022 3 difficulty levels<br><br>\u2022 Inventory Management<br><br>\u2022 Survival-horror of the old school<br><br>It is recommended to play with headphones for total immersion.<br><br>All characters, events, music and locations are completely fictional, any resemblance to real people, other works, films and games is purely coincidental.",
+    "developers": [
+        "indie_games_studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/header.jpg?t=1704982349",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "EBOLA 4",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows  7/8/10<br></li><li><strong>Processor:</strong> Intel CORE i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 820m<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> 64-Bit</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows  7/8/10<br></li><li><strong>Processor:</strong> Intel CORE i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> 64-Bit</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "indie_games_studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_e0543245f00ac3082078d88625654cb2baddb0da.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_e0543245f00ac3082078d88625654cb2baddb0da.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_a083a80e911b624b6448c8d43d4ebaba5e9121a3.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_a083a80e911b624b6448c8d43d4ebaba5e9121a3.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_525f29f01c1d9c10cefcb97f23dc04d7aee3d6c2.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_525f29f01c1d9c10cefcb97f23dc04d7aee3d6c2.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_905831752c77492774a07845eecdfb335ca9413e.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_905831752c77492774a07845eecdfb335ca9413e.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_fa33b5e8a4ef347c45f8ca0c029f02d69f29fc92.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_fa33b5e8a4ef347c45f8ca0c029f02d69f29fc92.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_88387e0c4ff1c8a00baaed0f99550a5705e7b8b3.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_88387e0c4ff1c8a00baaed0f99550a5705e7b8b3.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_29861bca634be072ae0a9ad5fe1796978c085891.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_29861bca634be072ae0a9ad5fe1796978c085891.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_73f761be8948f633d34072a2c89d103d17e4783b.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_73f761be8948f633d34072a2c89d103d17e4783b.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_4d7508978b72c0c4b1a1db4c54ab7768a7950d38.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_4d7508978b72c0c4b1a1db4c54ab7768a7950d38.600x338.jpg?t=1704982349"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_bac02860458fa67f2209a11d743bf4c59edbad56.1920x1080.jpg?t=1704982349",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370290/ss_bac02860458fa67f2209a11d743bf4c59edbad56.600x338.jpg?t=1704982349"
+        }
+    ],
+    "short_description": "You open your eyes, it's dark all around. Are you in an underground bunker, alone with your thoughts... or are you not alone there? Fear, apocalypse, darkness swallowed the world, most people are infected. You are at the epicenter... And can you change something?",
+    "steam_appid": 2370290,
+    "support_info": {
+        "email": "igs.housofevil@yandex.ru",
+        "url": ""
+    },
+    "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

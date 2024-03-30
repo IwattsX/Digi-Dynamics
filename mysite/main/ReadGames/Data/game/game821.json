@@ -1,0 +1,121 @@
+{
+    "about_the_game": "This is a fast-paced, first-person hack-and-slash game with 9 different levels that takes place in a futuristic and stylised environment. The player is equipped with advanced movement mechanics such as double jumping, wall running, ziplining, dashing and grappling to help traverse levels, avoid obstacles and kill enemies to obtain a key which can be used to access the next level.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/page_bg_generated_v6b.jpg?t=1689588827",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/page.bg.jpg?t=1689588827",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/capsule_231x87.jpg?t=1689588827",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/capsule_184x69.jpg?t=1689588827",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is a fast-paced, first-person hack-and-slash game with 9 different levels that takes place in a futuristic and stylised environment. The player is equipped with advanced movement mechanics such as double jumping, wall running, ziplining, dashing and grappling to help traverse levels, avoid obstacles and kill enemies to obtain a key which can be used to access the next level.",
+    "developers": [
+        "Abhinav Arora"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/header.jpg?t=1689588827",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": false,
+            "id": 256955006,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955006/movie480.mp4?t=1688431155",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955006/movie_max.mp4?t=1688431155"
+            },
+            "name": "Blade Fury Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955006/movie.293x165.jpg?t=1688431155",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955006/movie480_vp9.webm?t=1688431155",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955006/movie_max_vp9.webm?t=1688431155"
+            }
+        }
+    ],
+    "name": "Blade Fury",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 900<br></li><li><strong>Storage:</strong> 467 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Graphics:</strong> GTX 1050<br></li><li><strong>Storage:</strong> 467 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Abhinav Arora"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_89ebcea912efa76ea42dc258807255d3e86efb10.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_89ebcea912efa76ea42dc258807255d3e86efb10.600x338.jpg?t=1689588827"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_97734ad58e484be26021b10cd3d83eee2b79090b.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_97734ad58e484be26021b10cd3d83eee2b79090b.600x338.jpg?t=1689588827"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_8121435f1180f12c9b2bf138686ad08e9f7cad4c.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_8121435f1180f12c9b2bf138686ad08e9f7cad4c.600x338.jpg?t=1689588827"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_e6a2b4dcdbb0af57f393cbcdb601ce2f27c38815.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_e6a2b4dcdbb0af57f393cbcdb601ce2f27c38815.600x338.jpg?t=1689588827"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_39a829d61ff80e765d0c36164780bf3186e0c898.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_39a829d61ff80e765d0c36164780bf3186e0c898.600x338.jpg?t=1689588827"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_c29616bb5de91d452c8a44303a9c1c57d76bac6a.1920x1080.jpg?t=1689588827",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371410/ss_c29616bb5de91d452c8a44303a9c1c57d76bac6a.600x338.jpg?t=1689588827"
+        }
+    ],
+    "short_description": "The player is equiped with advanced movement mechanics in order to clear levels by avoiding obstacles, killing enemies and eventually obtaining a key which will be used to access the next level.",
+    "steam_appid": 2371410,
+    "support_info": {
+        "email": "aroraabhinav2007@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

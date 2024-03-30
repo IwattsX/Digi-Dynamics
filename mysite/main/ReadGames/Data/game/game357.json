@@ -1,0 +1,57 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/page_bg_generated_v6b.jpg?t=1703668748",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/page.bg.jpg?t=1703668748",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/capsule_231x87.jpg?t=1703668748",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/capsule_184x69.jpg?t=1703668748",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/header.jpg?t=1703668748",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Brain Show Playtest",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_81c98e4ff8996668fa7d5da6dd4b42f479b2d954.1920x1080.jpg?t=1703668748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_81c98e4ff8996668fa7d5da6dd4b42f479b2d954.600x338.jpg?t=1703668748"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_de1d2495c750bf5d7d9330eabbd147724f07e77c.1920x1080.jpg?t=1703668748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_de1d2495c750bf5d7d9330eabbd147724f07e77c.600x338.jpg?t=1703668748"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_015321221aec042ee54eb660a4bad7e1e4c98bb2.1920x1080.jpg?t=1703668748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738310/ss_015321221aec042ee54eb660a4bad7e1e4c98bb2.600x338.jpg?t=1703668748"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2738310,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

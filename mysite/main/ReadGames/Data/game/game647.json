@@ -1,0 +1,155 @@
+{
+    "about_the_game": "3D-Rendered color game that has full XVGA resolution support.<br>- Command a Squad and Breach into buildings!<br>- Destructible walls and doors<br>- Customize your and your squad's loadout<br>- Full control of your squad- tell em what to do!<br>- IS there a story? YES, you'll love it<br><br>Command to Breach and clear!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Entry.gif?t=1703102008\" /><br><br>Be nonlethal when possible...<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Arrest.gif?t=1703102008\" /><br><br>Command to Destroy door blocks<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Demo-M.gif?t=1703102008\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Gameplay-A1.gif?t=1703102008\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/page_bg_generated_v6b.jpg?t=1703102008",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/page.bg.jpg?t=1703102008",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/capsule_231x87.jpg?t=1703102008",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/capsule_184x69.jpg?t=1703102008",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "<h1>Try The Free Prologue</h1><p><a href=\"https://store.steampowered.com/app/2713070/Few_Nights_More_Genesis/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2713070/Few_Nights_More_Genesis/</a></p><br><h1>About the Game</h1>3D-Rendered color game that has full XVGA resolution support.<br>- Command a Squad and Breach into buildings!<br>- Destructible walls and doors<br>- Customize your and your squad's loadout<br>- Full control of your squad- tell em what to do!<br>- IS there a story? YES, you'll love it<br><br>Command to Breach and clear!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Entry.gif?t=1703102008\" /><br><br>Be nonlethal when possible...<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Arrest.gif?t=1703102008\" /><br><br>Command to Destroy door blocks<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Demo-M.gif?t=1703102008\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335790/extras/Gameplay-A1.gif?t=1703102008\" />",
+    "developers": [
+        "Yurii Nikshych"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/header.jpg?t=1703102008",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13+</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256955994,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955994/movie480.mp4?t=1688817190",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955994/movie_max.mp4?t=1688817190"
+            },
+            "name": "Trailer v3",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955994/movie.293x165.jpg?t=1688817190",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955994/movie480_vp9.webm?t=1688817190",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955994/movie_max_vp9.webm?t=1688817190"
+            }
+        }
+    ],
+    "name": "Future Breach 3D",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "TheGamesFortress"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Oct 31, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_66f7c5d742fffa359d102a8a73b5e462f6bb9fdb.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_66f7c5d742fffa359d102a8a73b5e462f6bb9fdb.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_9ca3b3ef832111892595b8469e601e243c48881d.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_9ca3b3ef832111892595b8469e601e243c48881d.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_cd04a5c86b0aec76660547587f485aa34eb8af76.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_cd04a5c86b0aec76660547587f485aa34eb8af76.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_3a1a963d71553fff5de52ea952f25d229065ab58.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_3a1a963d71553fff5de52ea952f25d229065ab58.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_9b55b2af15714b9385070e294d8a532d17d23bfd.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_9b55b2af15714b9385070e294d8a532d17d23bfd.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_ec4df05dcfd8abb6a2532d26108059e01e94c5c9.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_ec4df05dcfd8abb6a2532d26108059e01e94c5c9.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_ff0238d9807117ab9c05cef78e5626a4409f21a5.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_ff0238d9807117ab9c05cef78e5626a4409f21a5.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_bd3acbde8396bef62f7862ea79de84d67eb2f386.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_bd3acbde8396bef62f7862ea79de84d67eb2f386.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_6eb581be98877e42113de8e615decda713e2980d.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_6eb581be98877e42113de8e615decda713e2980d.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_c9c5eb82f0fa699ad85da40d50f2b304fb707612.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_c9c5eb82f0fa699ad85da40d50f2b304fb707612.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_2fcb8e8b3cafb6c8f54dbad0b8fb2a4e398812f9.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_2fcb8e8b3cafb6c8f54dbad0b8fb2a4e398812f9.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_d60b901cbd8d0d20b2f628733fc7cd39ea85366a.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_d60b901cbd8d0d20b2f628733fc7cd39ea85366a.600x338.jpg?t=1703102008"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_4b38abc0929e1577be678725c4603bee066c70f0.1920x1080.jpg?t=1703102008",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335790/ss_4b38abc0929e1577be678725c4603bee066c70f0.600x338.jpg?t=1703102008"
+        }
+    ],
+    "short_description": "Breach and Clear areas tactically in a team-based shooter.",
+    "steam_appid": 2335790,
+    "support_info": {
+        "email": "bestgamesstudioscontact@gmail.com",
+        "url": "http://bestgamesstudios.coolpage.biz/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

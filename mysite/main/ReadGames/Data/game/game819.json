@@ -1,0 +1,145 @@
+{
+    "about_the_game": "In 2048 AD, An AI calling itself DS issued a notice to all mankind: that human society is temporarily taken over by AI. All intelligent weapons are controlled by AI, the armies of all countries are defeated by AI, and only a few resistance forces remain on the earth.<br />\r\n<br />\r\n\u00b7 This is a third person shooter role-playing game. The player takes on the role of the main character, completing a series of missions while exploring the story step by step.<br />\r\n\u00b7 The main weapon of the protagonist is two pistols, and the secondary weapon is a sniper rifle. <br />\r\n\u00b7 The player will fight against mechanical life with AI. Take care to dodge enemy bullets while shooting at them.<br />\r\n\u00b7 Sniper gun has a long range and high lethality. After each firing, it needs a certain time to cool down before it can be fired again.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/page_bg_generated_v6b.jpg?t=1682077619",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/page_bg_generated.jpg?t=1682077619",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/capsule_231x87.jpg?t=1682077619",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/capsule_184x69.jpg?t=1682077619",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "\u00b7 Violent crime with guns in the game\r\n\u00b7 The game includes female characters in sexy costumes"
+    },
+    "detailed_description": "In 2048 AD, An AI calling itself DS issued a notice to all mankind: that human society is temporarily taken over by AI. All intelligent weapons are controlled by AI, the armies of all countries are defeated by AI, and only a few resistance forces remain on the earth.<br />\r\n<br />\r\n\u00b7 This is a third person shooter role-playing game. The player takes on the role of the main character, completing a series of missions while exploring the story step by step.<br />\r\n\u00b7 The main weapon of the protagonist is two pistols, and the secondary weapon is a sniper rifle. <br />\r\n\u00b7 The player will fight against mechanical life with AI. Take care to dodge enemy bullets while shooting at them.<br />\r\n\u00b7 Sniper gun has a long range and high lethality. After each firing, it needs a certain time to cool down before it can be fired again.",
+    "developers": [
+        "MC GAME"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/header.jpg?t=1682077619",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939029,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939029/movie480.mp4?t=1680405666",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939029/movie_max.mp4?t=1680405666"
+            },
+            "name": "play1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939029/movie.293x165.jpg?t=1680405666",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939029/movie480_vp9.webm?t=1680405666",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939029/movie_max_vp9.webm?t=1680405666"
+            }
+        }
+    ],
+    "name": "DS Epoch",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u5fb7\u8d5b\u7eaa\u5143 - $4.99",
+                    "packageid": 852547,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy DS Epoch"
+        }
+    ],
+    "packages": [
+        852547
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7/win8/win10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7/win8/win10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "MC GAME"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_c0fea0774d3849a61666811181b2948a8db575af.1920x1080.jpg?t=1682077619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_c0fea0774d3849a61666811181b2948a8db575af.600x338.jpg?t=1682077619"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_ae8ec3a6503bc76fd1be5b49440bcc470c3492cc.1920x1080.jpg?t=1682077619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_ae8ec3a6503bc76fd1be5b49440bcc470c3492cc.600x338.jpg?t=1682077619"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_fc4360699173a0b80077be9ac15d271e93b6085a.1920x1080.jpg?t=1682077619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_fc4360699173a0b80077be9ac15d271e93b6085a.600x338.jpg?t=1682077619"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_a840ef163e5311150007a34532a29035a7068810.1920x1080.jpg?t=1682077619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_a840ef163e5311150007a34532a29035a7068810.600x338.jpg?t=1682077619"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_a7134d126beb3e7da5583f60ddc9a1e20053ca5b.1920x1080.jpg?t=1682077619",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371390/ss_a7134d126beb3e7da5583f60ddc9a1e20053ca5b.600x338.jpg?t=1682077619"
+        }
+    ],
+    "short_description": "In 2048 AD, An AI calling itself DS issued a notice to all mankind: that human society is temporarily taken over by AI. All intelligent weapons are controlled by AI, the armies of all countries are defeated by AI, and only a few resistance forces remain on the earth.",
+    "steam_appid": 2371390,
+    "support_info": {
+        "email": "aa66212352@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

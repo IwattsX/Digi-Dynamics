@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Eternal Roadsteris an exciting and challenging game that will test your driving skills and reflexes. In this game, you'll be controlling a high-speed race car as it speeds down a never-ending road, constantly changing direction to avoid falling off and failing the game.<br />\r\n<br />\r\nThe game is easy to pick up, but difficult to master. To control your car, you simply need to swipe left or right on the screen to change lanes. <br />\r\n<br />\r\nAs you race down the road, you'll also collect gold coins that you can use to unlock new vehicles. Each car has its own unique stats, such as speed and handling, so you'll need to choose wisely to find the one that best fits your playstyle.<br />\r\n<br />\r\nIn addition to the main game mode, Eternal Roadster also offers a range of challenge modes that will put your driving skills to the test. These challenges range from time trials to obstacle courses, and will keep you coming back for more as you strive to beat your high scores.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/page_bg_generated_v6b.jpg?t=1700983712",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/page_bg_generated.jpg?t=1700983712",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/capsule_231x87.jpg?t=1700983712",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/capsule_184x69.jpg?t=1700983712",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Eternal Roadsteris an exciting and challenging game that will test your driving skills and reflexes. In this game, you'll be controlling a high-speed race car as it speeds down a never-ending road, constantly changing direction to avoid falling off and failing the game.<br />\r\n<br />\r\nThe game is easy to pick up, but difficult to master. To control your car, you simply need to swipe left or right on the screen to change lanes. <br />\r\n<br />\r\nAs you race down the road, you'll also collect gold coins that you can use to unlock new vehicles. Each car has its own unique stats, such as speed and handling, so you'll need to choose wisely to find the one that best fits your playstyle.<br />\r\n<br />\r\nIn addition to the main game mode, Eternal Roadster also offers a range of challenge modes that will put your driving skills to the test. These challenges range from time trials to obstacle courses, and will keep you coming back for more as you strive to beat your high scores.",
+    "developers": [
+        "Tiantian Entertainment Game Studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/header.jpg?t=1700983712",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937736,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937736/movie480.mp4?t=1679983856",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937736/movie_max.mp4?t=1679983856"
+            },
+            "name": "1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937736/movie.293x165.jpg?t=1679983856",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937736/movie480_vp9.webm?t=1679983856",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937736/movie_max_vp9.webm?t=1679983856"
+            }
+        }
+    ],
+    "name": "Eternal Roadster",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Eternal Roadster - $29.99",
+                    "packageid": 853049,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Eternal Roadster"
+        }
+    ],
+    "packages": [
+        853049
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windows7/8/10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Tiantian Entertainment Game Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_5ac177e47aea0e35383b4fd148cfa303b134c8de.1920x1080.jpg?t=1700983712",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_5ac177e47aea0e35383b4fd148cfa303b134c8de.600x338.jpg?t=1700983712"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_9dea8130827b8e23819ea66ba1cbeb9358e6f433.1920x1080.jpg?t=1700983712",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_9dea8130827b8e23819ea66ba1cbeb9358e6f433.600x338.jpg?t=1700983712"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_18130fded2c60db4e0f202b2dfe73a9410846712.1920x1080.jpg?t=1700983712",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_18130fded2c60db4e0f202b2dfe73a9410846712.600x338.jpg?t=1700983712"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_ff4bbb4a013744cf23373f6d03ecc3d55748f102.1920x1080.jpg?t=1700983712",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_ff4bbb4a013744cf23373f6d03ecc3d55748f102.600x338.jpg?t=1700983712"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_e3e8e9e8afc04cac0a7fa6d5f21053ac81beab6e.1920x1080.jpg?t=1700983712",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372760/ss_e3e8e9e8afc04cac0a7fa6d5f21053ac81beab6e.600x338.jpg?t=1700983712"
+        }
+    ],
+    "short_description": "Eternal Roadsteris an exciting and challenging game that will test your driving skills and reflexes. In this game, you'll be controlling a high-speed race car as it speeds down a never-ending road, constantly changing direction to avoid falling off and failing the game.",
+    "steam_appid": 2372760,
+    "support_info": {
+        "email": "vata@70it.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

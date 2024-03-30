@@ -1,0 +1,147 @@
+{
+    "about_the_game": "After purchasing this DLC, the official cheat function will be displayed in the game Crazy Flasher 7 Mercenary Empire (stand-alone Version).<br />\r\nAfter entering the game, there will be a button with a wrench icon at the top of the screen to open the cheat function.<br />\r\nThe official cheater features include:<br />\r\n1. Get a lot of gold coins and K points easily.<br />\r\n2. Easily obtain any item in the game, including weapons or equipment or materials, etc.<br />\r\n3. Kill the enemy with one key, pass the level with one key, unlock the level with one key, etc.<br />\r\n4. Easily summon any soldiers, any number (if there are too many computer cards), any camp (enemy or friendly).",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/page_bg_generated_v6b.jpg?t=1699976024",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/page_bg_generated.jpg?t=1699976024",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/capsule_231x87.jpg?t=1699976024",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/capsule_184x69.jpg?t=1699976024",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "After purchasing this DLC, the official cheat function will be displayed in the game Crazy Flasher 7 Mercenary Empire (stand-alone Version).<br />\r\nAfter entering the game, there will be a button with a wrench icon at the top of the screen to open the cheat function.<br />\r\nThe official cheater features include:<br />\r\n1. Get a lot of gold coins and K points easily.<br />\r\n2. Easily obtain any item in the game, including weapons or equipment or materials, etc.<br />\r\n3. Kill the enemy with one key, pass the level with one key, unlock the level with one key, etc.<br />\r\n4. Easily summon any soldiers, any number (if there are too many computer cards), any camp (enemy or friendly).",
+    "developers": [
+        "Andy Law"
+    ],
+    "fullgame": {
+        "appid": "2402310",
+        "name": "Crazy Flasher 7 Mercenary Empire(stand-alone Version)"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/header.jpg?t=1699976024",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Crazy Flasher 7 Mercenary Empire(stand-alone Version)official modifier",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u95ea\u5ba2\u5feb\u62537\u4f63\u5175\u5e1d\u56fd2023\u65e0\u7f51\u5355\u673a\u7248 - \u5b98\u65b9\u4fee\u6539\u5668 - $8.99",
+                    "packageid": 864315,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 899
+                }
+            ],
+            "title": "Buy Crazy Flasher 7 Mercenary Empire(stand-alone Version)official modifier"
+        }
+    ],
+    "packages": [
+        864315
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows7<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows10<br></li><li><strong>Processor:</strong> i9<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 899,
+        "final_formatted": "$8.99",
+        "initial": 899,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Andy Law"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_065890d73b7011d4f837217aff255472fb6f4cb9.1920x1080.jpg?t=1699976024",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_065890d73b7011d4f837217aff255472fb6f4cb9.600x338.jpg?t=1699976024"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_56e591a74e17cc06baf6d0f65f9620653d8d21e1.1920x1080.jpg?t=1699976024",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_56e591a74e17cc06baf6d0f65f9620653d8d21e1.600x338.jpg?t=1699976024"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_93f519297b192abc03bb202995c9d4382096bc42.1920x1080.jpg?t=1699976024",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_93f519297b192abc03bb202995c9d4382096bc42.600x338.jpg?t=1699976024"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_f64ad169f6c0d58470fd356e4be3c889c89827be.1920x1080.jpg?t=1699976024",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402350/ss_f64ad169f6c0d58470fd356e4be3c889c89827be.600x338.jpg?t=1699976024"
+        }
+    ],
+    "short_description": "Official cheating tool, 1, easily get a lot of gold coins and K points. 2. Easily obtain any item in the game, including weapons or equipment or materials, etc. 3. Kill the enemy with one key, pass the level with one key, unlock the level with one key, etc. 4. Easily summon any soldiers.",
+    "steam_appid": 2402350,
+    "support_info": {
+        "email": "andy4punk@163.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese",
+    "type": "dlc",
+    "website": null
+}

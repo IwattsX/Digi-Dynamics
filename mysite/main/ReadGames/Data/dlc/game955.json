@@ -1,0 +1,168 @@
+{
+    "about_the_game": "This pack of crystals is essential for RPGs.<br>They can be used to decorate fantastic cave landscapes or be seen as symbols of religious facilities.<br>Use them as minerals that can be mined, or use them as prominent save points.<br>The glowing crystals can be used at various points in the game.<br><br>Stamps with and without outlines are also available, so you can use them according to the art style of your project.<br><br>[Glowing Crystal Pack - Contents]<br>-- 3D Stamps<br>With Outline: 35<br>Without Outline: 35 (Material difference from with outline)<br><br>-- Terrain Stamp: 1<br><br>-- Sample Map: 1",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/page_bg_generated_v6b.jpg?t=1705547598",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/page_bg_generated.jpg?t=1705547598",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/capsule_231x87.jpg?t=1705547598",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/capsule_184x69.jpg?t=1705547598",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This pack of crystals is essential for RPGs.<br>They can be used to decorate fantastic cave landscapes or be seen as symbols of religious facilities.<br>Use them as minerals that can be mined, or use them as prominent save points.<br>The glowing crystals can be used at various points in the game.<br><br>Stamps with and without outlines are also available, so you can use them according to the art style of your project.<br><br>[Glowing Crystal Pack - Contents]<br>-- 3D Stamps<br>With Outline: 35<br>Without Outline: 35 (Material difference from with outline)<br><br>-- Terrain Stamp: 1<br><br>-- Sample Map: 1",
+    "developers": [
+        "SmileBoom Co.Ltd."
+    ],
+    "fullgame": {
+        "appid": "1036640",
+        "name": "RPG Developer Bakin"
+    },
+    "genres": [
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/header.jpg?t=1705547598",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256946995,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946995/movie480.mp4?t=1685677393",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946995/movie_max.mp4?t=1685677393"
+            },
+            "name": "RPG Developer Bakin Glowing Crystal Pack",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256946995/movie.293x165.jpg?t=1685677393",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946995/movie480_vp9.webm?t=1685677393",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946995/movie_max_vp9.webm?t=1685677393"
+            }
+        }
+    ],
+    "name": "RPG Developer Bakin Glowing Crystal Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RPG Developer Bakin Glowing Crystal Pack - $10.99",
+                    "packageid": 864179,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1099
+                }
+            ],
+            "title": "Buy RPG Developer Bakin Glowing Crystal Pack"
+        }
+    ],
+    "packages": [
+        864179
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Microsoft\u00ae  Windows10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i3-4340  or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Graphic board that works with OpenGL 4.4 or higher<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Additional Notes:</strong> Performance is not guaranteed under a virtual or emulated environment.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Microsoft\u00ae  Windows10 (64bit)<br></li><li><strong>Processor:</strong> Core i5-8400 / Ryzen 5 1500X or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u2122 GTX1650 AMD Radeon\u2122 RX570<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Additional Notes:</strong> Performance is not guaranteed under a virtual or emulated environment.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1099,
+        "final_formatted": "$10.99",
+        "initial": 1099,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SmileBoom Co.Ltd."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_6ee2e3a62a6aa5f6aa6f9a6289728a9d9181179d.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_6ee2e3a62a6aa5f6aa6f9a6289728a9d9181179d.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_ef596532d31fd2c89566517c3631fa3e42b4e4fd.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_ef596532d31fd2c89566517c3631fa3e42b4e4fd.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_7556efa30f2f352b07a2531f3851a8ec21e640ac.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_7556efa30f2f352b07a2531f3851a8ec21e640ac.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_88ea5dbf2cc98bc59bf90f1921a5c39a8dd695b2.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_88ea5dbf2cc98bc59bf90f1921a5c39a8dd695b2.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_63a23a864d74c3cf64539080b078aa6243035dfc.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_63a23a864d74c3cf64539080b078aa6243035dfc.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_738abc57f757beeef376935aaa9ea18a947e70b3.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_738abc57f757beeef376935aaa9ea18a947e70b3.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_b6b50fd52a827f6e0f3f1fdd21f179118eb5ade1.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_b6b50fd52a827f6e0f3f1fdd21f179118eb5ade1.600x338.jpg?t=1705547598"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_3378b436829e59dcc092867806369687b060ff3f.1920x1080.jpg?t=1705547598",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401980/ss_3378b436829e59dcc092867806369687b060ff3f.600x338.jpg?t=1705547598"
+        }
+    ],
+    "short_description": "Whether to decorate fantastic cave landscapes or as symbols for religious sites... this pack of crystals is an indispensable element of RPGs. Assets with and without outlines are included so that you can choose the one that best fits the art style of your project.",
+    "steam_appid": 2401980,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgbakin.com/contact"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "dlc",
+    "website": "https://rpgbakin.com"
+}

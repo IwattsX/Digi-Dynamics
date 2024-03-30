@@ -1,0 +1,134 @@
+{
+    "about_the_game": "A lightweight card battler where you build your deck as you go.<br />\r\n<br />\r\nEach card assists in battle, but can also generate XP of one of three types.  These can improve your mana, health, and access to cards.<br />\r\n<br />\r\nExplore over 20 levels with more than 500 distinct cards.<br />\r\n<br />\r\nVisit towns in each region to buy permanent upgrades and improve decks.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/page_bg_generated_v6b.jpg?t=1683064044",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/page_bg_generated.jpg?t=1683064044",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/capsule_231x87.jpg?t=1683064044",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/capsule_184x69.jpg?t=1683064044",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A lightweight card battler where you build your deck as you go.<br />\r\n<br />\r\nEach card assists in battle, but can also generate XP of one of three types.  These can improve your mana, health, and access to cards.<br />\r\n<br />\r\nExplore over 20 levels with more than 500 distinct cards.<br />\r\n<br />\r\nVisit towns in each region to buy permanent upgrades and improve decks.",
+    "developers": [
+        "American Game Dev"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/header.jpg?t=1683064044",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939801,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939801/movie480.mp4?t=1681153649",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939801/movie_max.mp4?t=1681153649"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939801/movie.293x165.jpg?t=1681153649",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939801/movie480_vp9.webm?t=1681153649",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939801/movie_max_vp9.webm?t=1681153649"
+            }
+        }
+    ],
+    "name": "Cards of the Realm",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Cards of the Realm - $4.99",
+                    "packageid": 852383,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Cards of the Realm"
+        }
+    ],
+    "packages": [
+        852383
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "American Game Dev"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_6e7c0027178d0748e99bc9666307e13e76283ab9.1920x1080.jpg?t=1683064044",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_6e7c0027178d0748e99bc9666307e13e76283ab9.600x338.jpg?t=1683064044"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_f45f0b88584f363bdf346fbbaf3a3f656191a813.1920x1080.jpg?t=1683064044",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_f45f0b88584f363bdf346fbbaf3a3f656191a813.600x338.jpg?t=1683064044"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_75b39c8854c9c1c0e63c415102866c4416eec122.1920x1080.jpg?t=1683064044",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_75b39c8854c9c1c0e63c415102866c4416eec122.600x338.jpg?t=1683064044"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_77ed1653dcf60b3207e687aeca8c490d03fee617.1920x1080.jpg?t=1683064044",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_77ed1653dcf60b3207e687aeca8c490d03fee617.600x338.jpg?t=1683064044"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_658f9a9edec4d38482910b7e68cc502de571773b.1920x1080.jpg?t=1683064044",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370880/ss_658f9a9edec4d38482910b7e68cc502de571773b.600x338.jpg?t=1683064044"
+        }
+    ],
+    "short_description": "A lightweight deck builder. Explore over a dozen unique zones and collect heroes for your deck.",
+    "steam_appid": 2370880,
+    "support_info": {
+        "email": "cardsoftherealm@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

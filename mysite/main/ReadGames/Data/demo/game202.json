@@ -1,0 +1,85 @@
+{
+    "about_the_game": "This exciting third person shooting game. It consists of 10 levels full of action and challenges, where you will face a horde of enemies that threaten to invade the quiet desert.<br />\r\n<br />\r\nObjective of the game:<br />\r\n<br />\r\nYour mission is simple but crucial: you must eliminate a specific number of enemies in each level to advance. The planet relies on your shooting skills to prevent the plague of these enemies from expanding.<br />\r\n<br />\r\n&quot;One More Shooter Game&quot; will take you to exciting and action-packed levels, as you fight to keep the invasion of mutant enemies at bay in the vast and merciless desert. Do you have what it takes to face this challenge? Get ready to shoot and survive in this world full of enemies.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/page_bg_generated_v6b.jpg?t=1699916246",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/page_bg_generated.jpg?t=1699916246",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/capsule_231x87.jpg?t=1699916246",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/capsule_184x69.jpg?t=1699916246",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This exciting third person shooting game. It consists of 10 levels full of action and challenges, where you will face a horde of enemies that threaten to invade the quiet desert.<br />\r\n<br />\r\nObjective of the game:<br />\r\n<br />\r\nYour mission is simple but crucial: you must eliminate a specific number of enemies in each level to advance. The planet relies on your shooting skills to prevent the plague of these enemies from expanding.<br />\r\n<br />\r\n&quot;One More Shooter Game&quot; will take you to exciting and action-packed levels, as you fight to keep the invasion of mutant enemies at bay in the vast and merciless desert. Do you have what it takes to face this challenge? Get ready to shoot and survive in this world full of enemies.",
+    "developers": [
+        "Szatkowsky"
+    ],
+    "fullgame": {
+        "appid": "2636490",
+        "name": "One More Shooter Game"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/header.jpg?t=1699916246",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "One More Shooter Game Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Szatkowsky"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_ea74a0e28e0b846b86d27037b03c6296f79c4cdf.1920x1080.jpg?t=1699916246",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_ea74a0e28e0b846b86d27037b03c6296f79c4cdf.600x338.jpg?t=1699916246"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_6ccdd150585ae0731976e511d0bf2fca30d91c68.1920x1080.jpg?t=1699916246",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_6ccdd150585ae0731976e511d0bf2fca30d91c68.600x338.jpg?t=1699916246"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_0c7f93ce01ba1f347bd804b6cd0f8848d7d9c4d5.1920x1080.jpg?t=1699916246",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_0c7f93ce01ba1f347bd804b6cd0f8848d7d9c4d5.600x338.jpg?t=1699916246"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_a180e0cdae82aefed984a2fd533778b7f3e68cc0.1920x1080.jpg?t=1699916246",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_a180e0cdae82aefed984a2fd533778b7f3e68cc0.600x338.jpg?t=1699916246"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_8a9192148a46866dcebe0732006f8c70908e5e25.1920x1080.jpg?t=1699916246",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636500/ss_8a9192148a46866dcebe0732006f8c70908e5e25.600x338.jpg?t=1699916246"
+        }
+    ],
+    "short_description": "Your mission is simple but crucial: you must eliminate a specific number of enemies in each level to advance. The planet relies on your shooting skills to prevent the plague of these enemies from expanding.",
+    "steam_appid": 2636500,
+    "support_info": {
+        "email": "wricardoescobar@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

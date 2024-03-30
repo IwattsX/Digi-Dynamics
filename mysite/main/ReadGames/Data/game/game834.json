@@ -1,0 +1,127 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/Bez_nazwy-1aaa.png?t=1701809834\" /><br><br><i>Welcome to the cyberpunk world where action and parkour combine in an unforgettable VR game. In this game, you will have the opportunity to immerse yourself in a futuristic setting where you must use your bow and arrow shooting skills to defeat enemies and navigate through a series of dangerous levels.<br><br>Run through the tropical island, jumping, avoiding obstacles, and performing a series of incredible acrobatics to find the most effective ways to defeat enemies. <br><br>As a cyber-ninja, you will have to quickly react to situations and use your precision to hit the target. Your archery skills will be crucial in defeating enemies from a distance and progressing to the next level.<br><br>Are you ready for an adventure in the cyberpunk world? Test your skills that combines action, parkour, sword fighting, arrow shooting and a futuristic atmosphere. Challenges and emotions await you that you won't experience anywhere else.</i><h2 class=\"bb_tag\">FEATURES</h2><br><br><strong>BowSword</strong><br>Modify your weapon to suit your own fighting style. Fight close or at a distance.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/bowsword_8.gif?t=1701809834\" /><br><br><strong>Parkour</strong><br>Run, jump and dash to reach every destination.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/ezgif-2-71e2909328.gif?t=1701809834\" /><br><br><strong>Range Combat</strong><br>Safely eliminate opponents from distance or be aggressive and shower them with arrows.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/bowsword_7.gif?t=1701809834\" /><br><br><strong>Melee Combat</strong><br>Crush your enemies with your own combination of sword art.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/ezgif-2-69be4c36eb.gif?t=1701809834\" /><br><br><strong>Special Arrows</strong><br>Adjust the arrows to the situation you are in.<h2 class=\"bb_tag\">LORE</h2><br><br>As you slowly regain consciousness, you find yourself enclosed in a small capsule, with no memory of who you are or how you ended up here. Looking around, you realize that you are in a mysterious laboratory, with strange machines and equipment surrounding you. While trying to get out, you come across a devastated body with a unique weapon next to it. As time passes, you try to solve the mystery of your identity. Later, it turns out that you are locked on a tropical island overrun by a hostile organization. To escape from it, you need to learn new skills, upgrade your weapons and use the parkour cleverly.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/page_bg_generated_v6b.jpg?t=1701809834",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/page_bg_generated.jpg?t=1701809834",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/capsule_231x87.jpg?t=1701809834",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/capsule_184x69.jpg?t=1701809834",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Tracked Controller Support",
+            "id": 52
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "The game includes realistic combat scenarios where both the player and the enemies can inflict harm on each other using a wide assortment of weapons. The depiction of damage and destruction is detailed and graphic, as robots can be disassembled and destroyed in various ways. Additionally, players face the peril of potential death from falls from great heights."
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/Bez_nazwy-1aaa.png?t=1701809834\" /><br><br><i>Welcome to the cyberpunk world where action and parkour combine in an unforgettable VR game. In this game, you will have the opportunity to immerse yourself in a futuristic setting where you must use your bow and arrow shooting skills to defeat enemies and navigate through a series of dangerous levels.<br><br>Run through the tropical island, jumping, avoiding obstacles, and performing a series of incredible acrobatics to find the most effective ways to defeat enemies. <br><br>As a cyber-ninja, you will have to quickly react to situations and use your precision to hit the target. Your archery skills will be crucial in defeating enemies from a distance and progressing to the next level.<br><br>Are you ready for an adventure in the cyberpunk world? Test your skills that combines action, parkour, sword fighting, arrow shooting and a futuristic atmosphere. Challenges and emotions await you that you won't experience anywhere else.</i><h2 class=\"bb_tag\">FEATURES</h2><br><br><strong>BowSword</strong><br>Modify your weapon to suit your own fighting style. Fight close or at a distance.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/bowsword_8.gif?t=1701809834\" /><br><br><strong>Parkour</strong><br>Run, jump and dash to reach every destination.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/ezgif-2-71e2909328.gif?t=1701809834\" /><br><br><strong>Range Combat</strong><br>Safely eliminate opponents from distance or be aggressive and shower them with arrows.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/bowsword_7.gif?t=1701809834\" /><br><br><strong>Melee Combat</strong><br>Crush your enemies with your own combination of sword art.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370600/extras/ezgif-2-69be4c36eb.gif?t=1701809834\" /><br><br><strong>Special Arrows</strong><br>Adjust the arrows to the situation you are in.<h2 class=\"bb_tag\">LORE</h2><br><br>As you slowly regain consciousness, you find yourself enclosed in a small capsule, with no memory of who you are or how you ended up here. Looking around, you realize that you are in a mysterious laboratory, with strange machines and equipment surrounding you. While trying to get out, you come across a devastated body with a unique weapon next to it. As time passes, you try to solve the mystery of your identity. Later, it turns out that you are locked on a tropical island overrun by a hostile organization. To escape from it, you need to learn new skills, upgrade your weapons and use the parkour cleverly.",
+    "developers": [
+        "Private Bouncing VR"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/header.jpg?t=1701809834",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256946182,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946182/movie480.mp4?t=1684340947",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946182/movie_max.mp4?t=1684340947"
+            },
+            "name": "Slarcher Official Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256946182/movie.293x165.jpg?t=1684340947",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256946182/movie480_vp9.webm?t=1684340947",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256946182/movie_max_vp9.webm?t=1684340947"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256937982,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937982/movie480.mp4?t=1684340952",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937982/movie_max.mp4?t=1684340952"
+            },
+            "name": "SlarcherComingSoon",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937982/movie.293x165.jpg?t=1684340952",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937982/movie480_vp9.webm?t=1684340952",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937982/movie_max_vp9.webm?t=1684340952"
+            }
+        }
+    ],
+    "name": "Slarcher",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Core i5-7500 / Ryzen 5 1600<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1080 / RX 580 - 6GB VRAM<br></li><li><strong>VR Support:</strong> OculusVR, SteamVR</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Core i5-7500 / Ryzen 5 1600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> RTX 2070<br></li><li><strong>VR Support:</strong> OculusVR, SteamVR</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Private Bouncing VR"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_32ae0aa94b323865f2129eae32561fb72bfeb02a.1920x1080.jpg?t=1701809834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_32ae0aa94b323865f2129eae32561fb72bfeb02a.600x338.jpg?t=1701809834"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_b40134a8e63544ca5e13843902255b4e9d9e32a4.1920x1080.jpg?t=1701809834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_b40134a8e63544ca5e13843902255b4e9d9e32a4.600x338.jpg?t=1701809834"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_6a2509e4188e2c694f09b926e9b1c154c79dbb1f.1920x1080.jpg?t=1701809834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_6a2509e4188e2c694f09b926e9b1c154c79dbb1f.600x338.jpg?t=1701809834"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_1b095decb308182d6112fc07d9f6efba3d4e308c.1920x1080.jpg?t=1701809834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_1b095decb308182d6112fc07d9f6efba3d4e308c.600x338.jpg?t=1701809834"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_1f5d9eb5005129b54fb6b5f130190031245c8d1c.1920x1080.jpg?t=1701809834",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370600/ss_1f5d9eb5005129b54fb6b5f130190031245c8d1c.600x338.jpg?t=1701809834"
+        }
+    ],
+    "short_description": "Slarcher is a thrilling VR game set in a cyberpunk world, where players can engage in intense parkour, archery, sword-fighting and take on a range of deadly robots. Get ready for heart-pumping action and adrenaline-fueled adventure!",
+    "steam_appid": 2370600,
+    "support_info": {
+        "email": "slarchergame@gmail.com",
+        "url": "https://slarcher.net/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://slarcher.net/"
+}

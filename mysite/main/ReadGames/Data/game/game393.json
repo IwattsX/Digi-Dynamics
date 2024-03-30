@@ -1,0 +1,108 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__2_.gif?t=1705033528\" /><h2 class=\"bb_tag\"><strong>About</strong></h2><br><i>\u200eThe August Before</i> is a meditative narrative 3D puzzle about cleaning up, sorting out and packing up your life before moving on.<br>Teenage love, first losses, and notes from friends are scattered in the corners: explore the details of the heroine's life, pack up the life you will take with you, and say goodbye - if you can.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__1_.gif?t=1705033528\" /><br><br>And remember - you can't take the past with you. <br>All is well that ends well \u2014 and all is well that ends.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converter__2_.gif?t=1705033528\" /><h2 class=\"bb_tag\"><strong>Features</strong></h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__4_.gif?t=1705033528\" /> <br><ul class=\"bb_ul\"><li><strong>Pack your life</strong><br>Clean up the room before leaving, find the necessary items, and pack them in a suitcase. <br>Keep track of the diary, change the music, arrange the objects, and try to remember not to disturb the dark corners of the room.</li></ul><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__3_.gif?t=1705033528\" /><br><ul class=\"bb_ul\"><li><strong>Brush the dust off your past</strong> <br>Sort through the items and appreciate the resulting order and the details of the story that unfolds in the process.</li></ul><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__5_.gif?t=1705033528\" /><br><ul class=\"bb_ul\"><li><strong>Tweak and twist your memories</strong><br>Explore the chaos and enjoy your freedom to drag, erase, disassemble, break, and fix things in the highly interactive space.</li></ul><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converter__2_.gif?t=1705033528\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/page_bg_generated_v6b.jpg?t=1705033528",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/page.bg.jpg?t=1705033528",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/capsule_231x87.jpg?t=1705033528",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/capsule_184x69.jpg?t=1705033528",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__2_.gif?t=1705033528\" /><h2 class=\"bb_tag\"><strong>About</strong></h2><br><i>\u200eThe August Before</i> is a meditative narrative 3D puzzle about cleaning up, sorting out and packing up your life before moving on.<br>Teenage love, first losses, and notes from friends are scattered in the corners: explore the details of the heroine's life, pack up the life you will take with you, and say goodbye - if you can.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__1_.gif?t=1705033528\" /><br><br>And remember - you can't take the past with you. <br>All is well that ends well \u2014 and all is well that ends.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converter__2_.gif?t=1705033528\" /><h2 class=\"bb_tag\"><strong>Features</strong></h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__4_.gif?t=1705033528\" /> <br><ul class=\"bb_ul\"><li><strong>Pack your life</strong><br>Clean up the room before leaving, find the necessary items, and pack them in a suitcase. <br>Keep track of the diary, change the music, arrange the objects, and try to remember not to disturb the dark corners of the room.</li></ul><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__3_.gif?t=1705033528\" /><br><ul class=\"bb_ul\"><li><strong>Brush the dust off your past</strong> <br>Sort through the items and appreciate the resulting order and the details of the story that unfolds in the process.</li></ul><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converted__5_.gif?t=1705033528\" /><br><ul class=\"bb_ul\"><li><strong>Tweak and twist your memories</strong><br>Explore the chaos and enjoy your freedom to drag, erase, disassemble, break, and fix things in the highly interactive space.</li></ul><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736840/extras/ezgif.com-video-to-gif-converter__2_.gif?t=1705033528\" />",
+    "developers": [
+        "Silly Little Games"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/header.jpg?t=1705033528",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989799,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989799/movie480.mp4?t=1705033519",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989799/movie_max.mp4?t=1705033519"
+            },
+            "name": "The August Before: Trailer (2023)",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989799/movie.293x165.jpg?t=1705033519",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989799/movie480_vp9.webm?t=1705033519",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989799/movie_max_vp9.webm?t=1705033519"
+            }
+        }
+    ],
+    "name": "The August Before",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Processor:</strong> Intel Core i5-8400 | AMD Ryzen 5 2600X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1650 | AMD Radeon RX 580<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Processor:</strong> Intel Core i5-8400 | AMD Ryzen 5 2600X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1650 | AMD Radeon RX 580<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Silly Little Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2025"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_14d1fd1b8ce98503ebd19f3dddfed0aaaa7f6e54.1920x1080.jpg?t=1705033528",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_14d1fd1b8ce98503ebd19f3dddfed0aaaa7f6e54.600x338.jpg?t=1705033528"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_edc3975069286832e2409d48471b015939e72193.1920x1080.jpg?t=1705033528",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_edc3975069286832e2409d48471b015939e72193.600x338.jpg?t=1705033528"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_b6affc2ec81c2e20b060c597e3ad8d2c67dd1d7d.1920x1080.jpg?t=1705033528",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_b6affc2ec81c2e20b060c597e3ad8d2c67dd1d7d.600x338.jpg?t=1705033528"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_9af5626ddaac88da0e6bf6e8c35722b48bb94a0b.1920x1080.jpg?t=1705033528",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_9af5626ddaac88da0e6bf6e8c35722b48bb94a0b.600x338.jpg?t=1705033528"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_2d728066de5305e62822dd29bd00e35a255f146a.1920x1080.jpg?t=1705033528",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736840/ss_2d728066de5305e62822dd29bd00e35a255f146a.600x338.jpg?t=1705033528"
+        }
+    ],
+    "short_description": "The August Before is a meditative narrative 3D puzzle about cleaning up, sorting out and packing up your life before moving on. Clean up and don\u2019t forget your old belongings on your way to the new life!",
+    "steam_appid": 2736840,
+    "support_info": {
+        "email": "sillylittlegamesstudio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

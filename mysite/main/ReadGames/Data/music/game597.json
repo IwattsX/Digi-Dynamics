@@ -1,0 +1,89 @@
+{
+    "about_the_game": "Full soundtrack from the amazing composer Wiktoria Zac!<br />\r\n<br />\r\nWiktoria Zac is a composer and producer whose love for music was heavily impacted by film and video games since childhood. Her ongoing interest in culture and art, love for storytelling, which evokes specific emotions, is clearly present in her set of pieces for media. She draws inspiration from fantasy worlds, films, games and everyday\u2019s life.<br />\r\n<br />\r\nSupport the composer by purchasing the game's soundtrack.<br />\r\n<br />\r\n\u201cMusic gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.\u201d<br />\r\n<br />\r\n\u2013 Plato \u2013",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/page_bg_generated_v6b.jpg?t=1685171708",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/page_bg_generated.jpg?t=1685171708",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/capsule_231x87.jpg?t=1685171708",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/capsule_184x69.jpg?t=1685171708",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Full soundtrack from the amazing composer Wiktoria Zac!<br />\r\n<br />\r\nWiktoria Zac is a composer and producer whose love for music was heavily impacted by film and video games since childhood. Her ongoing interest in culture and art, love for storytelling, which evokes specific emotions, is clearly present in her set of pieces for media. She draws inspiration from fantasy worlds, films, games and everyday\u2019s life.<br />\r\n<br />\r\nSupport the composer by purchasing the game's soundtrack.<br />\r\n<br />\r\n\u201cMusic gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.\u201d<br />\r\n<br />\r\n\u2013 Plato \u2013",
+    "developers": [
+        "Wiktoria Zac"
+    ],
+    "fullgame": {
+        "appid": "1860510",
+        "name": "Total Conflict: Resistance"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/header.jpg?t=1685171708",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Total Conflict: Resistance Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Total Conflict: Resistance Soundtrack - $9.99",
+                    "packageid": 839267,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Total Conflict: Resistance Soundtrack"
+        }
+    ],
+    "packages": [
+        839267
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 2000 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Thunder Devs."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/ss_c81227016f8cc23dbf29e5bb786fdbac203c33b8.1920x1080.jpg?t=1685171708",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336780/ss_c81227016f8cc23dbf29e5bb786fdbac203c33b8.600x338.jpg?t=1685171708"
+        }
+    ],
+    "short_description": "Full soundtrack from the amazing composer Wiktoria Zac!",
+    "steam_appid": 2336780,
+    "support_info": {
+        "email": "wiktoriazac@gmail.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": "https://www.wiktoriazac.com/"
+}

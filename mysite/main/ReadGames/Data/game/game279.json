@@ -1,0 +1,235 @@
+{
+    "about_the_game": "<a href=\"https://store.steampowered.com/app/2785690/Russian_Hut_Simulator/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2785690/Russian_Hut_Simulator/</a><br><br>The protagonists of modern games can be very different. Brave knights, brilliant scientists or superheroes saving whole worlds. This game offers you a more unusual experience. Here you can become a Birch. Yes, that's right. You are the most ordinary birch tree, and your only goal in this world is to simply exist. There are no trials, no rush, no worries or responsibilities. Nothing is required of you, just enjoy the birdsong and the sound of the wind blowing your green leaves. You can grow in a winter Siberian forest, in a swamp, in a birch grove among your sister birches and in other, even rather illogical places. Become the best birch you can be. <br><br>In terms of gameplay, it's a meditative game about contemplating birch trees against beautiful scenery. In the menu, you can choose a birch tree, as well as one of the locations: Mountains, Swamps, Winter Forest, Birch Grove, or Space. Once at a location, you can simply stay in the starting position, or you can move the birch to find the most beautiful spot to observe.<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li> Dynamic gameplay<br></li><li> A choice of 10 levels and 14 birch trees<br></li><li> Birdsong and beautiful landscapes</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/page_bg_generated_v6b.jpg?t=1705883204",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/page.bg.jpg?t=1705883204",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/capsule_231x87.jpg?t=1705883204",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/capsule_184x69.jpg?t=1705883204",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<a href=\"https://store.steampowered.com/app/2785690/Russian_Hut_Simulator/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2785690/Russian_Hut_Simulator/</a><br><br>The protagonists of modern games can be very different. Brave knights, brilliant scientists or superheroes saving whole worlds. This game offers you a more unusual experience. Here you can become a Birch. Yes, that's right. You are the most ordinary birch tree, and your only goal in this world is to simply exist. There are no trials, no rush, no worries or responsibilities. Nothing is required of you, just enjoy the birdsong and the sound of the wind blowing your green leaves. You can grow in a winter Siberian forest, in a swamp, in a birch grove among your sister birches and in other, even rather illogical places. Become the best birch you can be. <br><br>In terms of gameplay, it's a meditative game about contemplating birch trees against beautiful scenery. In the menu, you can choose a birch tree, as well as one of the locations: Mountains, Swamps, Winter Forest, Birch Grove, or Space. Once at a location, you can simply stay in the starting position, or you can move the birch to find the most beautiful spot to observe.<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li> Dynamic gameplay<br></li><li> A choice of 10 levels and 14 birch trees<br></li><li> Birdsong and beautiful landscapes</li></ul>",
+    "developers": [
+        "Performance Artist"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/header.jpg?t=1705883204",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973902,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973902/movie480.mp4?t=1697533259",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973902/movie_max.mp4?t=1697533259"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973902/movie.293x165.jpg?t=1697533259",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973902/movie480_vp9.webm?t=1697533259",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973902/movie_max_vp9.webm?t=1697533259"
+            }
+        }
+    ],
+    "name": "Birch Simulator",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Birch Simulator - $0.99",
+                    "packageid": 944957,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Birch Simulator"
+        }
+    ],
+    "packages": [
+        944957
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> Intel Core i5 4460 or AMD FX6120<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 460 or Radeon HD 5850<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> Intel i5-6600 or AMD Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1660 or AMD RX 560<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Performance Artist"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_ed122b6b61529283d6626f1b9829b9cf7cf8217d.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_ed122b6b61529283d6626f1b9829b9cf7cf8217d.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_c230cb10c54f6c12d71b0969bf1c4603c33c078a.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_c230cb10c54f6c12d71b0969bf1c4603c33c078a.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_4bf0f49645dfe0215da77cad4dd9a2e91ee3c99e.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_4bf0f49645dfe0215da77cad4dd9a2e91ee3c99e.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_f898e16bb0927bc29265db2ceb8f47054548075a.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_f898e16bb0927bc29265db2ceb8f47054548075a.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_11bead632ce0197833a6a52fd7bb6a57a59d5696.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_11bead632ce0197833a6a52fd7bb6a57a59d5696.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_477eedb985f7ac1fcc03a20b4199ae7d256ee8c1.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_477eedb985f7ac1fcc03a20b4199ae7d256ee8c1.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_19ed8cb359637be3c1bbf2291a87878edd9852d4.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_19ed8cb359637be3c1bbf2291a87878edd9852d4.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_21d1ae6e2eb5d2c0a763155af3cec9a5b722ff02.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_21d1ae6e2eb5d2c0a763155af3cec9a5b722ff02.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_6e6c6e79ce5d01bbcae2d47193561ee6dc7681a3.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_6e6c6e79ce5d01bbcae2d47193561ee6dc7681a3.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7486fdc5c4c4a10515d639616c433640134c9fca.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7486fdc5c4c4a10515d639616c433640134c9fca.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7340483008c18163d57700236d06dcf0dacf59dc.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7340483008c18163d57700236d06dcf0dacf59dc.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_8dc5a941023f716de664b73b045156d4a8f5f834.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_8dc5a941023f716de664b73b045156d4a8f5f834.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3745c72dafa1a68b34b47fb29296be1ed09134e0.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3745c72dafa1a68b34b47fb29296be1ed09134e0.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3a98753637759beb16a3caf3a99bb3ea66feb215.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3a98753637759beb16a3caf3a99bb3ea66feb215.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7916569ab2a3e1975e2f685c3690f207194dce71.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_7916569ab2a3e1975e2f685c3690f207194dce71.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_115554f42b9f8ca993b0ec4465b9fd70999e18b4.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_115554f42b9f8ca993b0ec4465b9fd70999e18b4.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_d5de95017960cd23c5ba4a643021b52c2ce5db13.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_d5de95017960cd23c5ba4a643021b52c2ce5db13.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3e716ee95a7ddf4d2829b30ce317a66d76ee2768.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_3e716ee95a7ddf4d2829b30ce317a66d76ee2768.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_b52c3a10065270447ad7158fe16781e7f51f481b.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_b52c3a10065270447ad7158fe16781e7f51f481b.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_f16f33ad73291aeb6fb4c561c647557e0c97811f.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_f16f33ad73291aeb6fb4c561c647557e0c97811f.600x338.jpg?t=1705883204"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_c4817c0ade44b2b6238f90e50301dab501970389.1920x1080.jpg?t=1705883204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635120/ss_c4817c0ade44b2b6238f90e50301dab501970389.600x338.jpg?t=1705883204"
+        }
+    ],
+    "short_description": "The main characters of modern games can be very different. Brave knights, brilliant scientists or superheroes saving entire worlds. This game offers you a more unusual experience. Here you can become a Birch.",
+    "steam_appid": 2635120,
+    "support_info": {
+        "email": "performance.artist@mail.ru",
+        "url": ""
+    },
+    "supported_languages": "English, Russian",
+    "type": "game",
+    "website": null
+}

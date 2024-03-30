@@ -1,0 +1,200 @@
+{
+    "about_the_game": "<strong>Deep Dark Dungeon of Anglaus</strong> is a first-person horror game set in a medieval fantasy world.<br><br>You will take on the role of a famous swordsman adventurer. By chance, you met with a dwarf named &quot;Collector&quot;, who gave you a job to explore an unknown dungeon.<br>Your good sword and adventurous spirit are with you. Going down into the depths of the dungeon, you will meet both positive characters and angry monsters. Learn the history of the world and even participate in its future.<br><br>About the game:<br>This is a first-person horror game with puzzle and slasher elements. You have to explore a dark dungeon, light torches, solve problems that appear on your way.<br><br>Game Features:<br><br>- Horror from the first person;<br>- Solving puzzles;<br>- Horror, where the main character can stand up for himself;<br>- The story unfolds through the notes and dialogues of the NPC;<br>- Two endings;<br>- Hidden secrets.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Welcome to the game",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/5a9aa7f309616ec856b3214d79dbc158818858df.jpg"
+            },
+            {
+                "name": "Talking about important things",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/7d8bbd43c811eebfde2ac4cdba1538d29dea087d.jpg"
+            },
+            {
+                "name": "Act 1",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/122634bb065cb944bac10b4adf423b75e630b061.jpg"
+            },
+            {
+                "name": "Sleep is good for health",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/6b30ce07107a23bad673794b34f34215479838e4.jpg"
+            },
+            {
+                "name": "Act 2",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/8e4f38bc747641a6acb5812ae37c800e36ac483e.jpg"
+            },
+            {
+                "name": "The Good Sword",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/369efc8b311e52705fbecc3731fcc66e9fde4116.jpg"
+            },
+            {
+                "name": "The first opponent",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/f0673f60454cf212bcd7c0af7b9cb0f88307af1b.jpg"
+            },
+            {
+                "name": "Aglaus himself",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/c3328ea822ccff9a4e4a51a2b5c84b9407771e59.jpg"
+            },
+            {
+                "name": "The Jailer",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/2a2e8830f8700a941ee7a02809399aaa3395d487.jpg"
+            },
+            {
+                "name": "The Fugitive",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372080/b47a6ef3f0da36e29eb628f0f9430f826a38654e.jpg"
+            }
+        ],
+        "total": 14
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/page_bg_generated_v6b.jpg?t=1682358754",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/page_bg_generated.jpg?t=1682358754",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/capsule_231x87.jpg?t=1682358754",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/capsule_184x69.jpg?t=1682358754",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Another dungeon game</h1><p><a href=\"https://store.steampowered.com/app/601640/The_guard_of_dungeon/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/601640/The_guard_of_dungeon/</a></p><br><h1>About the Game</h1><strong>Deep Dark Dungeon of Anglaus</strong> is a first-person horror game set in a medieval fantasy world.<br><br>You will take on the role of a famous swordsman adventurer. By chance, you met with a dwarf named &quot;Collector&quot;, who gave you a job to explore an unknown dungeon.<br>Your good sword and adventurous spirit are with you. Going down into the depths of the dungeon, you will meet both positive characters and angry monsters. Learn the history of the world and even participate in its future.<br><br>About the game:<br>This is a first-person horror game with puzzle and slasher elements. You have to explore a dark dungeon, light torches, solve problems that appear on your way.<br><br>Game Features:<br><br>- Horror from the first person;<br>- Solving puzzles;<br>- Horror, where the main character can stand up for himself;<br>- The story unfolds through the notes and dialogues of the NPC;<br>- Two endings;<br>- Hidden secrets.",
+    "developers": [
+        "PanfilovDev"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/header.jpg?t=1682358754",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937644,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937644/movie480.mp4?t=1680152530",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937644/movie_max.mp4?t=1680152530"
+            },
+            "name": "Deep Dark Dungeon of Anghlaus",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937644/movie.293x165.jpg?t=1680152530",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937644/movie480_vp9.webm?t=1680152530",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937644/movie_max_vp9.webm?t=1680152530"
+            }
+        }
+    ],
+    "name": "Deep Dark Dungeon of Anglaus",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Deep Dark Dungeon of Anglaus - <span class=\"discount_original_price\">$1.99</span> $0.69",
+                    "packageid": 852818,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-65% ",
+                    "price_in_cents_with_discount": 69
+                }
+            ],
+            "title": "Buy Deep Dark Dungeon of Anglaus"
+        }
+    ],
+    "packages": [
+        852818
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP and newer<br></li><li><strong>Processor:</strong> Athlon 2 X3 450<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> GeForce EN9600 GT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 65,
+        "final": 69,
+        "final_formatted": "$0.69",
+        "initial": 199,
+        "initial_formatted": "$1.99"
+    },
+    "publishers": [
+        "Laush Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_dfd11bde73e16bc841ee5076edfdd0c4c519ca95.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_dfd11bde73e16bc841ee5076edfdd0c4c519ca95.600x338.jpg?t=1682358754"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_e6956719452ddf862ad9d8594b116f7177e86b71.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_e6956719452ddf862ad9d8594b116f7177e86b71.600x338.jpg?t=1682358754"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_c7b98d59e46aba611b6942efc98577902dd4d600.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_c7b98d59e46aba611b6942efc98577902dd4d600.600x338.jpg?t=1682358754"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_99e87aaa567b763a504afa04e974d43eeaef76b5.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_99e87aaa567b763a504afa04e974d43eeaef76b5.600x338.jpg?t=1682358754"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_28e195fde6144af426365d94b76652ff5b12db02.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_28e195fde6144af426365d94b76652ff5b12db02.600x338.jpg?t=1682358754"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_8686ab1fd2ab6d0258326c9b85e960add73ab6f2.1920x1080.jpg?t=1682358754",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372080/ss_8686ab1fd2ab6d0258326c9b85e960add73ab6f2.600x338.jpg?t=1682358754"
+        }
+    ],
+    "short_description": "&quot;Deep Dark Dungeon of Anglaus&quot; is a first-person horror game set in a medieval fantasy world. Face the oppressive fears that haunt you in the darkness. Face unknown opponents in the dungeon of the demon lord Anglaus.",
+    "steam_appid": 2372080,
+    "support_info": {
+        "email": "laushds@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

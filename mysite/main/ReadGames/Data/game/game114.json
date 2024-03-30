@@ -1,0 +1,110 @@
+{
+    "about_the_game": "<strong><u>Explore a new dimension of immersion in virtual reality with the incredible ProTubeVR Companion-App!</u></strong><br><br><strong>ProTubeVR Companion-app connects OpenVR with the company\u2019s haptic modules, Provolver and ForceTube.</strong><br><br><i>It's your ticket to an intense haptic adventure in the world of VR gaming.</i><br>Whether you're a curious newcomer or a seasoned VR expert, ProTubeVR Companion-App is the essential tool to inject excitement into every one of your gaming sessions!<br><br><strong>Discover features that make all the difference:</strong><h2 class=\"bb_tag\"><strong>Advanced customization:</strong></h2><br>Our app works whith any game running in OpenVR and with any headset in that mode.<br><br>The ProTubeVR Companion-App allows you to customize every aspect of your haptics VR session. <br><br>Create a unique experience that seamlessly aligns with your preferences for an unparalleled level of immersion.<br><br><strong><h2 class=\"bb_tag\">Multiple settings modes :</h2></strong><br><strong>Backward Compatibility</strong><br>You are able to tune every parameter related to the Haptic events coming from OpenVR, including the intensity of vibrations, the frequency, synchronization with in-game events, and much more.<br><br><strong>Native Customization :</strong><br>Intercept signals coming from the list of our natively supported games, and tweak them to your preferences.<br><br><strong>Valve Index Knuckles Fix :</strong><br>Install our driver located in the app folder to enable Knuckle fix support for Valve Index.<br>You can then disable the panic mode of the controllers related to the kick of haptic modules<h2 class=\"bb_tag\"><strong>Custom Profile Creation:</strong></h2><br>Our application offers the ability to create tailored profiles for specific games. Fine-tune each setting to precisely match your gaming style, providing an unmatched experience.<h2 class=\"bb_tag\"><strong>Real-time monitoring:</strong></h2><br>The ProTubeVR Companion-App enables you to visualize the impact of your settings on your haptic experience in real-time. This means you can adjust your settings on the fly for optimal immersion.<h2 class=\"bb_tag\"><strong>Profile Workshop:</strong></h2><br>Community comes to life!<br><br>Thanks to the Profile Workshop, players can create, share, and download presets crafted by enthusiasts from around the world. Choose from a plethora of profiles and manually load them into the application for the ultimate customization.<br><br><i>Dive into the heart of the action and feel every movement, impact, and sensation like never before. Your next VR adventure awaits!</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/page_bg_generated_v6b.jpg?t=1704796810",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/page.bg.jpg?t=1704796810",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/capsule_231x87.jpg?t=1704796810",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/capsule_184x69.jpg?t=1704796810",
+    "categories": [
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong><u>Explore a new dimension of immersion in virtual reality with the incredible ProTubeVR Companion-App!</u></strong><br><br><strong>ProTubeVR Companion-app connects OpenVR with the company\u2019s haptic modules, Provolver and ForceTube.</strong><br><br><i>It's your ticket to an intense haptic adventure in the world of VR gaming.</i><br>Whether you're a curious newcomer or a seasoned VR expert, ProTubeVR Companion-App is the essential tool to inject excitement into every one of your gaming sessions!<br><br><strong>Discover features that make all the difference:</strong><h2 class=\"bb_tag\"><strong>Advanced customization:</strong></h2><br>Our app works whith any game running in OpenVR and with any headset in that mode.<br><br>The ProTubeVR Companion-App allows you to customize every aspect of your haptics VR session. <br><br>Create a unique experience that seamlessly aligns with your preferences for an unparalleled level of immersion.<br><br><strong><h2 class=\"bb_tag\">Multiple settings modes :</h2></strong><br><strong>Backward Compatibility</strong><br>You are able to tune every parameter related to the Haptic events coming from OpenVR, including the intensity of vibrations, the frequency, synchronization with in-game events, and much more.<br><br><strong>Native Customization :</strong><br>Intercept signals coming from the list of our natively supported games, and tweak them to your preferences.<br><br><strong>Valve Index Knuckles Fix :</strong><br>Install our driver located in the app folder to enable Knuckle fix support for Valve Index.<br>You can then disable the panic mode of the controllers related to the kick of haptic modules<h2 class=\"bb_tag\"><strong>Custom Profile Creation:</strong></h2><br>Our application offers the ability to create tailored profiles for specific games. Fine-tune each setting to precisely match your gaming style, providing an unmatched experience.<h2 class=\"bb_tag\"><strong>Real-time monitoring:</strong></h2><br>The ProTubeVR Companion-App enables you to visualize the impact of your settings on your haptic experience in real-time. This means you can adjust your settings on the fly for optimal immersion.<h2 class=\"bb_tag\"><strong>Profile Workshop:</strong></h2><br>Community comes to life!<br><br>Thanks to the Profile Workshop, players can create, share, and download presets crafted by enthusiasts from around the world. Choose from a plethora of profiles and manually load them into the application for the ultimate customization.<br><br><i>Dive into the heart of the action and feel every movement, impact, and sensation like never before. Your next VR adventure awaits!</i>",
+    "developers": [
+        "ProtubeVR"
+    ],
+    "genres": [
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Utilities",
+            "id": "57"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/header.jpg?t=1704796810",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975829,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975829/movie480.mp4?t=1699890808",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975829/movie_max.mp4?t=1699890808"
+            },
+            "name": "ProTubeVR announcement",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975829/movie.293x165.jpg?t=1699890808",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975829/movie480_vp9.webm?t=1699890808",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975829/movie_max_vp9.webm?t=1699890808"
+            }
+        }
+    ],
+    "name": "ProTubeVR Companion-App",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel core i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>VR Support:</strong> SteamVR</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>VR Support:</strong> SteamVR</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "ProTubeVR"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_0f82dd156b405baeaa06682a79e4022dc21ec99e.1920x1080.jpg?t=1704796810",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_0f82dd156b405baeaa06682a79e4022dc21ec99e.600x338.jpg?t=1704796810"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_160189e32cf624e06c34a3cc706e6f5b346e4e94.1920x1080.jpg?t=1704796810",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_160189e32cf624e06c34a3cc706e6f5b346e4e94.600x338.jpg?t=1704796810"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_54831f8d462bf68dc559f6dd81db0d02b37e9274.1920x1080.jpg?t=1704796810",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_54831f8d462bf68dc559f6dd81db0d02b37e9274.600x338.jpg?t=1704796810"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_b3154b7bb9c196f2f29a72b3f9cc645927d506fb.1920x1080.jpg?t=1704796810",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_b3154b7bb9c196f2f29a72b3f9cc645927d506fb.600x338.jpg?t=1704796810"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_b4efb27068399f07daa041e44a2ee95b6222a09b.1920x1080.jpg?t=1704796810",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649770/ss_b4efb27068399f07daa041e44a2ee95b6222a09b.600x338.jpg?t=1704796810"
+        }
+    ],
+    "short_description": "ProtubeVR's Companion App is your tool of choice to use with our haptic devices ! Customize your Haptic device settings on the fly using all the parameters the app provides. Wide range of Customization, Presets, and more !",
+    "steam_appid": 2649770,
+    "support_info": {
+        "email": "support@protubevr.com",
+        "url": "https://www.protubevr.com/en/content/6-customer-support"
+    },
+    "supported_languages": "English, French",
+    "type": "game",
+    "website": "https://www.protubevr.com"
+}

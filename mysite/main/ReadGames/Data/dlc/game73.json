@@ -1,0 +1,161 @@
+{
+    "about_the_game": "&quot; <br> <h2 class=\"bb_tag\"> D&amp;D The Book of Many Things</h2>   Introduce more magical whimsy into your game with The Book of Many Things. Dive deeper than ever before into the lore behind the beloved magic item, the  Deck of Many Things . How did it come to be? What is the significance of one baneful figure depicted in the cards? The answers you seek \u2013 and more \u2013 will be revealed for the first time ever.    The Book of Many Things  Illuminates the deck\u2019s mysteries and provides everything Dungeon Masters &amp; players need to use them in their campaigns. This book includes cosmic character options, adventure locations, mysterious organizations, mystic monsters, and more; all inspired by the deck.  <ul class=\"bb_ul\"> <li>  Create mystic characters with 2 new backgrounds, 1 feat, and 3 mystical spells  </li><li> Clash with over 30 new mystical monsters </li><li> Uncover 50+ new magic items inspired by the cards </li><li> Offers tools for DMs like traps, location maps, &amp; more </li></ul>   &quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/page_bg_generated_v6b.jpg?t=1700062370",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/page_bg_generated.jpg?t=1700062370",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/capsule_231x87.jpg?t=1700062370",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/capsule_184x69.jpg?t=1700062370",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot; <br> <h2 class=\"bb_tag\"> D&amp;D The Book of Many Things</h2>   Introduce more magical whimsy into your game with The Book of Many Things. Dive deeper than ever before into the lore behind the beloved magic item, the  Deck of Many Things . How did it come to be? What is the significance of one baneful figure depicted in the cards? The answers you seek \u2013 and more \u2013 will be revealed for the first time ever.    The Book of Many Things  Illuminates the deck\u2019s mysteries and provides everything Dungeon Masters &amp; players need to use them in their campaigns. This book includes cosmic character options, adventure locations, mysterious organizations, mystic monsters, and more; all inspired by the deck.  <ul class=\"bb_ul\"> <li>  Create mystic characters with 2 new backgrounds, 1 feat, and 3 mystical spells  </li><li> Clash with over 30 new mystical monsters </li><li> Uncover 50+ new magic items inspired by the cards </li><li> Offers tools for DMs like traps, location maps, &amp; more </li></ul>   &quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/header.jpg?t=1700062370",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2023. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fantasy Grounds - D&D The Book of Many Things",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - D&D The Book of Many Things - $29.99",
+                    "packageid": 949901,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Fantasy Grounds - D&D The Book of Many Things"
+        }
+    ],
+    "packages": [
+        949901
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_f9d5c5c1875049adcd69e56da595c408ac247120.1920x1080.jpg?t=1700062370",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_f9d5c5c1875049adcd69e56da595c408ac247120.600x338.jpg?t=1700062370"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_bb6deb692486c25bd281e1031bc5487bbd5af21f.1920x1080.jpg?t=1700062370",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_bb6deb692486c25bd281e1031bc5487bbd5af21f.600x338.jpg?t=1700062370"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_b33081ce7c7ff78b2334922ffedc6224d6a9fa8a.1920x1080.jpg?t=1700062370",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_b33081ce7c7ff78b2334922ffedc6224d6a9fa8a.600x338.jpg?t=1700062370"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_c925df33bec26cb85c4454a8fbdcbc12bdba3678.1920x1080.jpg?t=1700062370",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_c925df33bec26cb85c4454a8fbdcbc12bdba3678.600x338.jpg?t=1700062370"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_897a44df4ff8133671a32e85284118ed1ea842dc.1920x1080.jpg?t=1700062370",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650120/ss_897a44df4ff8133671a32e85284118ed1ea842dc.600x338.jpg?t=1700062370"
+        }
+    ],
+    "short_description": "&quot; D&amp;D The Book of Many Things Introduce more magical whimsy into your game with The Book of Many Things. Dive deeper than ever before into the lore behind the beloved magic item, the Deck of Many Things . How did it come to be? What is the significance of one baneful figure depicted in the cards?",
+    "steam_appid": 2650120,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

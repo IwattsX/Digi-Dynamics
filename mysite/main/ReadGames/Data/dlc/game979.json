@@ -1,0 +1,159 @@
+{
+    "about_the_game": "Armor Icon Set is an RPG Maker official collection of icons made in pixel art.<br />\r\nWith &quot;Armor Icon Set&quot;, you have access to 64 high-quality pixel art armor sprites inspired by armor and clothing from fantasy RPG worlds; they come in 16 unique sets of 4 armor pieces (head, torso, arm, and legs.)They are most suitable as icons for menus, but can be used as item drops or whatever you desire to use them for.<br />\r\n<br />\r\n\u25a0Highly detailed and vibrant armor sprites hand-drawn in pixel art from the size of 16x16px then upscaled pixel-perfect to 32x32px to give the feel of classic pixel art video games.<br />\r\n<br />\r\n\u25a0Includes armor sets fit for job classes like warriors, rogues, archers, mages, clerics, priests, knights, and more!<br />\r\n<br />\r\n\u25a0Use as icons for menus, item drops from enemies, props for scenes, or whatever you can think of!<br />\r\n<br />\r\n-----------------------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n\u3010Icon Set (1 Sheet)\u3011<br />\r\n<br />\r\nIncludes:<br />\r\n1.)\tarmor-icons.png<br />\r\n2.)\tIconSet.png<br />\r\n3.)\t\u201cindividual-sprites\u201d folder containing the 64 armor icons in their individual images.<br />\r\n<br />\r\n\u3010Tile Set (1 sheet)\u3011<br />\r\nitem-drop-armor_E.png",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/page_bg_generated_v6b.jpg?t=1683767172",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/page_bg_generated.jpg?t=1683767172",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/capsule_231x87.jpg?t=1683767172",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/capsule_184x69.jpg?t=1683767172",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Armor Icon Set is an RPG Maker official collection of icons made in pixel art.<br />\r\nWith &quot;Armor Icon Set&quot;, you have access to 64 high-quality pixel art armor sprites inspired by armor and clothing from fantasy RPG worlds; they come in 16 unique sets of 4 armor pieces (head, torso, arm, and legs.)They are most suitable as icons for menus, but can be used as item drops or whatever you desire to use them for.<br />\r\n<br />\r\n\u25a0Highly detailed and vibrant armor sprites hand-drawn in pixel art from the size of 16x16px then upscaled pixel-perfect to 32x32px to give the feel of classic pixel art video games.<br />\r\n<br />\r\n\u25a0Includes armor sets fit for job classes like warriors, rogues, archers, mages, clerics, priests, knights, and more!<br />\r\n<br />\r\n\u25a0Use as icons for menus, item drops from enemies, props for scenes, or whatever you can think of!<br />\r\n<br />\r\n-----------------------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n\u3010Icon Set (1 Sheet)\u3011<br />\r\n<br />\r\nIncludes:<br />\r\n1.)\tarmor-icons.png<br />\r\n2.)\tIconSet.png<br />\r\n3.)\t\u201cindividual-sprites\u201d folder containing the 64 armor icons in their individual images.<br />\r\n<br />\r\n\u3010Tile Set (1 sheet)\u3011<br />\r\nitem-drop-armor_E.png",
+    "developers": [
+        "mykar",
+        "Gotcha Gotcha Games"
+    ],
+    "fullgame": {
+        "appid": "363890",
+        "name": "RPG Maker MV"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Education",
+            "id": "54"
+        },
+        {
+            "description": "Web Publishing",
+            "id": "59"
+        },
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/header.jpg?t=1683767172",
+    "is_free": false,
+    "legal_notice": "\u00a92023 mykar \u00a9Gotcha Gotcha Games Inc.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "name": "RPG Maker MV - Armor Icon set",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RPG Maker MV - Armor Icon set - $5.99",
+                    "packageid": 864087,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy RPG Maker MV - Armor Icon set"
+        }
+    ],
+    "packages": [
+        864087
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Gotcha Gotcha Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_a0ab7688a9bcf28a9d14597aa84c7c7a3ced89ff.1920x1080.jpg?t=1683767172",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_a0ab7688a9bcf28a9d14597aa84c7c7a3ced89ff.600x338.jpg?t=1683767172"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_0e2fac31424b23c7b9f7340875c1d77eb3a126b1.1920x1080.jpg?t=1683767172",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_0e2fac31424b23c7b9f7340875c1d77eb3a126b1.600x338.jpg?t=1683767172"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_73b92ee340dc2407355c42b1e7a988a4670ac896.1920x1080.jpg?t=1683767172",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_73b92ee340dc2407355c42b1e7a988a4670ac896.600x338.jpg?t=1683767172"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_8a215eaef1087756a30d4a5eb2232f1e3ef306bf.1920x1080.jpg?t=1683767172",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_8a215eaef1087756a30d4a5eb2232f1e3ef306bf.600x338.jpg?t=1683767172"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_f697d520c0b28dc7edfb766e95f5642729c9c2b2.1920x1080.jpg?t=1683767172",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401693/ss_f697d520c0b28dc7edfb766e95f5642729c9c2b2.600x338.jpg?t=1683767172"
+        }
+    ],
+    "short_description": "Armor Icon Set is an RPG Maker official collection of icons made in pixel art.",
+    "steam_appid": 2401693,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgmakerofficial.com/en/contactform/"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "dlc",
+    "website": "https://rpgmakerofficial.com/product/makerofficialdlc/"
+}

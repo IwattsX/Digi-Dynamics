@@ -1,0 +1,93 @@
+{
+    "about_the_game": "Search for hidden cats in a Japanese city set during feudal Japan. Samurai cats are also hiding somewhere and perhaps you need to search for katanas aswell! Relax while you explore this short but sweet hidden objects game!<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>\ud83d\udc31130 Hidden Cats</li></ul><ul class=\"bb_ul\"><li>\ud83d\udc79 5 Hidden Samurai Cats</li></ul><ul class=\"bb_ul\"><li>\ud83d\udde1\ufe0f10 Hidden Katanas</li></ul><ul class=\"bb_ul\"><li>\ud83d\udca1 15 Hints</li></ul><ul class=\"bb_ul\"><li>\u26e9\ufe0fHand-drawn Japanese City</li></ul><ul class=\"bb_ul\"><li>\ud83d\ude38A Lot Of Meowing Sound Effects</li></ul><ul class=\"bb_ul\"><li>\ud83c\udfc6100 Achievements!</li></ul><br>Happy cat searching!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/page_bg_generated_v6b.jpg?t=1704733063",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/page_bg_generated.jpg?t=1704733063",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/capsule_231x87.jpg?t=1704733063",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/capsule_184x69.jpg?t=1704733063",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>\ud83d\ude38More Cat Search Games\ud83d\ude38</h1><p><a href=\"https://store.steampowered.com/app/2631580/Cat_Search_In_The_Wild_West/?curator_clanid=43674917\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2631580/Cat_Search_In_The_Wild_West/?curator_clanid=43674917</a><br><a href=\"https://store.steampowered.com/app/2386330/Cat_Search_in_Medieval_Times/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2386330/Cat_Search_in_Medieval_Times/</a></p><br><h1>About the Game</h1>Search for hidden cats in a Japanese city set during feudal Japan. Samurai cats are also hiding somewhere and perhaps you need to search for katanas aswell! Relax while you explore this short but sweet hidden objects game!<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>\ud83d\udc31130 Hidden Cats</li></ul><ul class=\"bb_ul\"><li>\ud83d\udc79 5 Hidden Samurai Cats</li></ul><ul class=\"bb_ul\"><li>\ud83d\udde1\ufe0f10 Hidden Katanas</li></ul><ul class=\"bb_ul\"><li>\ud83d\udca1 15 Hints</li></ul><ul class=\"bb_ul\"><li>\u26e9\ufe0fHand-drawn Japanese City</li></ul><ul class=\"bb_ul\"><li>\ud83d\ude38A Lot Of Meowing Sound Effects</li></ul><ul class=\"bb_ul\"><li>\ud83c\udfc6100 Achievements!</li></ul><br>Happy cat searching!",
+    "developers": [
+        "Simon Eftestol"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/header.jpg?t=1704733063",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Cat Search in Feudal Japan",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Simon Eftestol"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Feb 15, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_bcddd88eda65824d0080abb623ed1cd1a2bf3191.1920x1080.jpg?t=1704733063",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_bcddd88eda65824d0080abb623ed1cd1a2bf3191.600x338.jpg?t=1704733063"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_61e7004c1cdd56ba0338d2eaf4109555f3a2aa03.1920x1080.jpg?t=1704733063",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_61e7004c1cdd56ba0338d2eaf4109555f3a2aa03.600x338.jpg?t=1704733063"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_33cfb4d478938d2eec42c4c2cef2eba94dc88e5d.1920x1080.jpg?t=1704733063",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_33cfb4d478938d2eec42c4c2cef2eba94dc88e5d.600x338.jpg?t=1704733063"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_9b665c8416d1ca4c506af04b98cdeba2c7d36391.1920x1080.jpg?t=1704733063",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_9b665c8416d1ca4c506af04b98cdeba2c7d36391.600x338.jpg?t=1704733063"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_75e527ff72ee34301aec05fafec95d9a8ea8fae9.1920x1080.jpg?t=1704733063",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733920/ss_75e527ff72ee34301aec05fafec95d9a8ea8fae9.600x338.jpg?t=1704733063"
+        }
+    ],
+    "short_description": "The cats are hiding all over this Japanese city! Can you find them all? Sit back, relax, and explore this beautiful hand drawn Japanese city.",
+    "steam_appid": 2733920,
+    "support_info": {
+        "email": "simonbusiness1997@hotmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
+    "type": "game",
+    "website": null
+}

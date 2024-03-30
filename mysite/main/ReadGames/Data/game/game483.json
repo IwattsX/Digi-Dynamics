@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Embark on an exhilarating tower-climbing puzzle platformer adventure enjoying the sheer satisfaction of reaching greater heights through boundless creativity. Challenge your wits and dexterity as you navigate diverse levels featuring an array of characters.<br />\r\n<br />\r\nExplore different environments, from medieval castles perched on mysterious islands to towering skyscrapers reaching the clouds. Every level presents distinct challenges, encouraging you to adapt your strategy and conquer the heights in creative ways.<br />\r\n<br />\r\nEngage in Adventure Mode, where you can leisurely explore intricate levels, uncover secret spots, and master the art of stacking objects to ascend to new heights. Alternatively, face the ticking clock in Time Pressure levels, where rising water or lava adds urgency to your quest. Will you climb swiftly and triumph, or succumb to the relentless tide?<br />\r\n<br />\r\nDive into Sandbox levels for limitless creativity, with an ever-expanding array of objects to stack into gravity-defying towers. Procedural levels offer dynamic challenges, pushing your skills to the limit with increasingly difficult towers that demand precision and quick thinking.<br />\r\n<br />\r\n Can you balance risk and reward to reach the pinnacle without toppling your towering constructions?<br />\r\n<br />\r\nWelcome to a world where the sky is the limit, and your ingenuity is the key to success. Will you rise to the challenge and construct your path to greatness, or will you fall from the heights you so bravely attained? The journey is yours to climb in this exhilarating puzzle platformer!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/page_bg_generated_v6b.jpg?t=1703343099",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/page_bg_generated.jpg?t=1703343099",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/capsule_231x87.jpg?t=1703343099",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/capsule_184x69.jpg?t=1703343099",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on an exhilarating tower-climbing puzzle platformer adventure enjoying the sheer satisfaction of reaching greater heights through boundless creativity. Challenge your wits and dexterity as you navigate diverse levels featuring an array of characters.<br />\r\n<br />\r\nExplore different environments, from medieval castles perched on mysterious islands to towering skyscrapers reaching the clouds. Every level presents distinct challenges, encouraging you to adapt your strategy and conquer the heights in creative ways.<br />\r\n<br />\r\nEngage in Adventure Mode, where you can leisurely explore intricate levels, uncover secret spots, and master the art of stacking objects to ascend to new heights. Alternatively, face the ticking clock in Time Pressure levels, where rising water or lava adds urgency to your quest. Will you climb swiftly and triumph, or succumb to the relentless tide?<br />\r\n<br />\r\nDive into Sandbox levels for limitless creativity, with an ever-expanding array of objects to stack into gravity-defying towers. Procedural levels offer dynamic challenges, pushing your skills to the limit with increasingly difficult towers that demand precision and quick thinking.<br />\r\n<br />\r\n Can you balance risk and reward to reach the pinnacle without toppling your towering constructions?<br />\r\n<br />\r\nWelcome to a world where the sky is the limit, and your ingenuity is the key to success. Will you rise to the challenge and construct your path to greatness, or will you fall from the heights you so bravely attained? The journey is yours to climb in this exhilarating puzzle platformer!",
+    "developers": [
+        "Filip Stachowiak"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/header.jpg?t=1703343099",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989575,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989575/movie480.mp4?t=1702878809",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989575/movie_max.mp4?t=1702878809"
+            },
+            "name": "Just Get There!",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989575/movie.293x165.jpg?t=1702878809",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989575/movie480_vp9.webm?t=1702878809",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989575/movie_max_vp9.webm?t=1702878809"
+            }
+        }
+    ],
+    "name": "Just Get There",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64 bits)<br></li><li><strong>Processor:</strong> Windows 10 (64 bits)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD AMD Radeon RX 560 / Geforce GTX 750 Ti - 4GB VRAM<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Filip Stachowiak"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_1565f7b46efed9366256eb549af7416458bc8a48.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_1565f7b46efed9366256eb549af7416458bc8a48.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_64370561d03824d4110f6ab9c1a90ff21a6c4537.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_64370561d03824d4110f6ab9c1a90ff21a6c4537.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_56076390b94fa73e412ca0d52d7db69a590d7d7c.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_56076390b94fa73e412ca0d52d7db69a590d7d7c.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_ae9768e59743e4d699463e3fa2b1e917b3c07497.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_ae9768e59743e4d699463e3fa2b1e917b3c07497.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_b1c104ab4b75b96eb5332da1fd152ec5c25d7c0c.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_b1c104ab4b75b96eb5332da1fd152ec5c25d7c0c.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_8d78525c5e66bc961146cea6336d208f25edde3e.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_8d78525c5e66bc961146cea6336d208f25edde3e.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_0512032e031202772dbf09e2bfd9ff9c58342914.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_0512032e031202772dbf09e2bfd9ff9c58342914.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_4c77750e939b6f8556dfe1bfad97a2fa9f86eb18.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_4c77750e939b6f8556dfe1bfad97a2fa9f86eb18.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_3d7dbaa28f4ef0e6bafaa3c04eb4c76aef7690fe.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_3d7dbaa28f4ef0e6bafaa3c04eb4c76aef7690fe.600x338.jpg?t=1703343099"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_48a06d54ee9d0d7e4a9c5cf8f4838cfab45870ff.1920x1080.jpg?t=1703343099",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733780/ss_48a06d54ee9d0d7e4a9c5cf8f4838cfab45870ff.600x338.jpg?t=1703343099"
+        }
+    ],
+    "short_description": "Embark on a creative tower-climbing adventure! Conquer diverse levels, explore, don't fall and Just Get There! Choose leisurely exploration or race against time. Dive into Sandbox for limitless creativity and face dynamic challenges. Balance risk and reward in this exhilarating puzzle platformer!",
+    "steam_appid": 2733780,
+    "support_info": {
+        "email": "filipstachowiakaa01@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

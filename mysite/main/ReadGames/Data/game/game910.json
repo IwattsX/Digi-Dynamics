@@ -1,0 +1,153 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/road-building-1.gif?t=1701782610\" /><br><br>A new city is emerging on the vibrant shores of Costa Verde, but the citizens need help: someone must build the roads for them! Luckily, they have you: the head of the city's Transport Department. The growing city expands in all directions, people drive from home to work and back, industrial trucks transport resources between manufacturers, and you have to carefully plan the road network for the city!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/road-building-2.gif?t=1701782610\" /><br><br>The main gameplay consists of planning &amp; building a road network for the growing city. You have to carefully plan the roads to balance the city traffic and obtain valuable resources that help you progress. Sooner or later your roads won't be enough: you'll have to build detours, roundabouts, bridges, and use some magic!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/districts.gif?t=1701782610\" /><br><br>Key features:<br><ul class=\"bb_ul\"><li> Procedurally-generated maps with seas, forests, mountains, rivers, and deserts<br></li><li> Bright &amp; cozy environment full of vibrant colors and lively details<br></li><li> Randomly growing city forcing you to carefully plan your road network<br></li><li> Funny car physics &amp; a unique road building mechanic<br></li><li> Infinite replayability</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/windmill.gif?t=1701782610\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/page_bg_generated_v6b.jpg?t=1701782610",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/page_bg_generated.jpg?t=1701782610",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/capsule_231x87.jpg?t=1701782610",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/capsule_184x69.jpg?t=1701782610",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/road-building-1.gif?t=1701782610\" /><br><br>A new city is emerging on the vibrant shores of Costa Verde, but the citizens need help: someone must build the roads for them! Luckily, they have you: the head of the city's Transport Department. The growing city expands in all directions, people drive from home to work and back, industrial trucks transport resources between manufacturers, and you have to carefully plan the road network for the city!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/road-building-2.gif?t=1701782610\" /><br><br>The main gameplay consists of planning &amp; building a road network for the growing city. You have to carefully plan the roads to balance the city traffic and obtain valuable resources that help you progress. Sooner or later your roads won't be enough: you'll have to build detours, roundabouts, bridges, and use some magic!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/districts.gif?t=1701782610\" /><br><br>Key features:<br><ul class=\"bb_ul\"><li> Procedurally-generated maps with seas, forests, mountains, rivers, and deserts<br></li><li> Bright &amp; cozy environment full of vibrant colors and lively details<br></li><li> Randomly growing city forcing you to carefully plan your road network<br></li><li> Funny car physics &amp; a unique road building mechanic<br></li><li> Infinite replayability</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403100/extras/windmill.gif?t=1701782610\" />",
+    "developers": [
+        "Nikita Lisitsa"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/header.jpg?t=1701782610",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 2GB of video memory, OpenGL 3.3 support<br></li><li><strong>Storage:</strong> 43 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 11 Big Sur<br></li><li><strong>Processor:</strong> Apple M1 or Intel Core M<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 2GB of video memory, OpenGL 3.3 support<br></li><li><strong>Storage:</strong> 45 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256974614,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974614/movie480.mp4?t=1698300746",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974614/movie_max.mp4?t=1698300746"
+            },
+            "name": "Costa Verde Transport Department Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256974614/movie.293x165.jpg?t=1698300746",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256974614/movie480_vp9.webm?t=1698300746",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256974614/movie_max_vp9.webm?t=1698300746"
+            }
+        }
+    ],
+    "name": "Costa Verde Transport Department",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Costa Verde Transport Department - $9.99",
+                    "packageid": 864598,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Costa Verde Transport Department"
+        }
+    ],
+    "packages": [
+        864598
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64 bit<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 2GB of video memory, OpenGL 3.3 support<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 46 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>VR Support:</strong> -<br></li><li><strong>Additional Notes:</strong> -</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Nikita Lisitsa"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_102017cac32c27a4dd3c62cddffb1f2cbd5860b4.1920x1080.jpg?t=1701782610",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_102017cac32c27a4dd3c62cddffb1f2cbd5860b4.600x338.jpg?t=1701782610"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_490c2259755077e148884eb4e32f5ec0beaac474.1920x1080.jpg?t=1701782610",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_490c2259755077e148884eb4e32f5ec0beaac474.600x338.jpg?t=1701782610"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_087c2c5037fccf88abe1e370cf3afb3aaac56622.1920x1080.jpg?t=1701782610",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_087c2c5037fccf88abe1e370cf3afb3aaac56622.600x338.jpg?t=1701782610"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_38a8d6d12e1ffd9d96ba4a49046d44ef6021aca1.1920x1080.jpg?t=1701782610",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_38a8d6d12e1ffd9d96ba4a49046d44ef6021aca1.600x338.jpg?t=1701782610"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_05452ef5b11b5bbdadd83ebbbab7de6917cf8081.1920x1080.jpg?t=1701782610",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/ss_05452ef5b11b5bbdadd83ebbbab7de6917cf8081.600x338.jpg?t=1701782610"
+        }
+    ],
+    "short_description": "In Costa Verde you play as the Transport Department of a city slowly growing on a vibrant picturesque landscape. Build roads on a map of hexagonal tiles, plan road intersections, design roundabouts, and prevent your whole city from turning into one single massive traffic jam!",
+    "steam_appid": 2403100,
+    "support_info": {
+        "email": "lisyarus@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Ukrainian<strong>*</strong>, Italian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,208 @@
+{
+    "about_the_game": "Jeff: The Hungry Fish is a single-player mode aquatic themed arcade-style game where you eat and devour to rise above the food chain.<br />\r\n<br />\r\nPlay as Jeff, a small fish hungry to take on the entire sea. Swim through areas and prey on fish smaller than you. Get bigger the more you devour and move on to the next area, in search of more prey.  Become the apex predator of the ocean.<br />\r\n<br />\r\nBut it\u2019s not that easy. You start as a mere prey and as you grow, there will still be bigger and more dangerous fish out there. Maneuver and evade them until you\u2019re big enough to eat them instead. And remember, there\u2019s always a bigger fish.<br />\r\n<br />\r\nKey Features<br />\r\n<br />\r\nEat-and-Grow to Advance<br />\r\n\u2022    Progress your way into becoming the biggest and the baddest fish in the ocean.<br />\r\n<br />\r\nGradually Increasing Difficulty<br />\r\n\u2022    Prepare yourself for bigger challenges as you descend further into different areas.<br />\r\n<br />\r\nTest Your Knowledge on Marine Life!<br />\r\n\u2022    Find submerged maps as you explore the area which will prompt a question that will reward you with progress points if you answer correctly.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Sea Monster",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/5fa2e2c88a2ee8b6823c1c887acdc3cc2210bd8b.jpg"
+            },
+            {
+                "name": "Apex Predator",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/69b9ad6e0e9e0196cbd90dddd2d6c30bd96f5500.jpg"
+            },
+            {
+                "name": "But How?",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/c39bd1b27273d7cfe5da35976722335c77b09bd9.jpg"
+            },
+            {
+                "name": "Scale Issue",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/2eb4bed73e4ef9fcade140be340a96ff389f251c.jpg"
+            },
+            {
+                "name": "Did you do the tutorial?",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/b46a93270adb1cbbbc7fde6aa20190fafc3c1560.jpg"
+            },
+            {
+                "name": "Sacambambaspis",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/cd6e5eae13279a3939ac0a888ab6a47af614ee59.jpg"
+            },
+            {
+                "name": "Hero of the ocean",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/bad1f3c06ddd926e0bedfcdeba78ca2f5fce4b1a.jpg"
+            },
+            {
+                "name": "Invasive species",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/381070a42a26173c1528b44db3d98aa94e1e304f.jpg"
+            },
+            {
+                "name": "Fastest fish alive",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/bc11685a104ec5d02227ae64c0b79767b2b100e2.jpg"
+            },
+            {
+                "name": "First prey",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335740/21b584cfb99b1b4342f93ef4370c60b9ae8ea542.jpg"
+            }
+        ],
+        "total": 24
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/page_bg_generated_v6b.jpg?t=1696843774",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/page_bg_generated.jpg?t=1696843774",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/capsule_231x87.jpg?t=1696843774",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/capsule_184x69.jpg?t=1696843774",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Jeff: The Hungry Fish is a single-player mode aquatic themed arcade-style game where you eat and devour to rise above the food chain.<br />\r\n<br />\r\nPlay as Jeff, a small fish hungry to take on the entire sea. Swim through areas and prey on fish smaller than you. Get bigger the more you devour and move on to the next area, in search of more prey.  Become the apex predator of the ocean.<br />\r\n<br />\r\nBut it\u2019s not that easy. You start as a mere prey and as you grow, there will still be bigger and more dangerous fish out there. Maneuver and evade them until you\u2019re big enough to eat them instead. And remember, there\u2019s always a bigger fish.<br />\r\n<br />\r\nKey Features<br />\r\n<br />\r\nEat-and-Grow to Advance<br />\r\n\u2022    Progress your way into becoming the biggest and the baddest fish in the ocean.<br />\r\n<br />\r\nGradually Increasing Difficulty<br />\r\n\u2022    Prepare yourself for bigger challenges as you descend further into different areas.<br />\r\n<br />\r\nTest Your Knowledge on Marine Life!<br />\r\n\u2022    Find submerged maps as you explore the area which will prompt a question that will reward you with progress points if you answer correctly.",
+    "developers": [
+        "AQMeg"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/header.jpg?t=1696843774",
+    "is_free": false,
+    "legal_notice": "\u00a9\ufe0f AQMeg 2023. All rights reserved. All other trademarks are property of their respective owners.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> 2.6 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> 2.6 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256965363,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256965363/movie480.mp4?t=1692859425",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256965363/movie_max.mp4?t=1692859425"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256965363/movie.293x165.jpg?t=1692859425",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256965363/movie480_vp9.webm?t=1692859425",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256965363/movie_max_vp9.webm?t=1692859425"
+            }
+        }
+    ],
+    "name": "Jeff: The Hungry Fish",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Jeff: The Hungry Fish - $3.99",
+                    "packageid": 838921,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Jeff: The Hungry Fish"
+        }
+    ],
+    "packages": [
+        838921
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> WIndow 7<br></li><li><strong>Processor:</strong> dual core 2.00GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> intel hd 520<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "AQMeg"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_f70694bd0676540813663fff06c9bc570c30e4f0.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_f70694bd0676540813663fff06c9bc570c30e4f0.600x338.jpg?t=1696843774"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_e4cec5b7bc6aabead58e3092b5a8bbd1c4f8952b.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_e4cec5b7bc6aabead58e3092b5a8bbd1c4f8952b.600x338.jpg?t=1696843774"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_45511a11b084491eccb6f511bf47908090229d2c.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_45511a11b084491eccb6f511bf47908090229d2c.600x338.jpg?t=1696843774"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_ef6a05c30393dc67df07d0292e1d23174b6d3744.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_ef6a05c30393dc67df07d0292e1d23174b6d3744.600x338.jpg?t=1696843774"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_2e5b2bd89b1a81de7f58ec20a82eaf830c7270ca.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_2e5b2bd89b1a81de7f58ec20a82eaf830c7270ca.600x338.jpg?t=1696843774"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_1bc554ddb11585d319097a0454f648724602443f.1920x1080.jpg?t=1696843774",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335740/ss_1bc554ddb11585d319097a0454f648724602443f.600x338.jpg?t=1696843774"
+        }
+    ],
+    "short_description": "Jeff: The Hungry Fish is a single-player mode, aquatic themed arcade-style game where you play as a hungry little fish. Prey on other fishes or be preyed on instead. Evade predators as you dine until you can eat the predators themselves. Rise above the food chain and become the apex predator!",
+    "steam_appid": 2335740,
+    "support_info": {
+        "email": "aqilshah124@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

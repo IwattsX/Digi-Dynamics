@@ -1,0 +1,146 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">A game about soccer, made by people who suck at playing soccer.</h2><br>Soccer Kids is a tactical, turn-based sports game where you control a teenage mathematical savant, guiding his friends on a quest to win the local street soccer tournament. <br><br>The game is set in Poland in the 90s - a period where the country transitioned from a socialist republic to a democracy with a free market. It focuses on the latchkey kids of this period, who fell in love with the new cultural influence from around the world.<br><br>Check out the game for free in its early stages and share your feedback with us, we'd love to hear it!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403430/extras/gala1.gif?t=1687876398\" /><h2 class=\"bb_tag\">The current version of the game features:</h2><ul class=\"bb_ul\"><li> Tight, grid-less tactical action. No match is ever the same! <br></li><li> Play the tutorial, or<br></li><li> Against a AI opponent, or<br></li><li> Against your friends in a local hot seat match, or <br></li><li> Online through the magic of Remote Play Together!</li></ul><br>This is a early, alpha version of Soccer Kids - all content is subject to change.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/page_bg_generated_v6b.jpg?t=1687876398",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/page_bg_generated.jpg?t=1687876398",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/capsule_231x87.jpg?t=1687876398",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/capsule_184x69.jpg?t=1687876398",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">A game about soccer, made by people who suck at playing soccer.</h2><br>Soccer Kids is a tactical, turn-based sports game where you control a teenage mathematical savant, guiding his friends on a quest to win the local street soccer tournament. <br><br>The game is set in Poland in the 90s - a period where the country transitioned from a socialist republic to a democracy with a free market. It focuses on the latchkey kids of this period, who fell in love with the new cultural influence from around the world.<br><br>Check out the game for free in its early stages and share your feedback with us, we'd love to hear it!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403430/extras/gala1.gif?t=1687876398\" /><h2 class=\"bb_tag\">The current version of the game features:</h2><ul class=\"bb_ul\"><li> Tight, grid-less tactical action. No match is ever the same! <br></li><li> Play the tutorial, or<br></li><li> Against a AI opponent, or<br></li><li> Against your friends in a local hot seat match, or <br></li><li> Online through the magic of Remote Play Together!</li></ul><br>This is a early, alpha version of Soccer Kids - all content is subject to change.",
+    "developers": [
+        "Acid Wizard Studio"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/header.jpg?t=1687876398",
+    "is_free": true,
+    "legal_notice": "\u00a9 Acid Wizard Studio 2023. All your base are belong to us!",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256955116,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955116/movie480.mp4?t=1687860029",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955116/movie_max.mp4?t=1687860029"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955116/movie.293x165.jpg?t=1687860029",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955116/movie480_vp9.webm?t=1687860029",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955116/movie_max_vp9.webm?t=1687860029"
+            }
+        }
+    ],
+    "name": "Soccer Kids Alpha",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.8Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8800GT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Acid Wizard Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_92c7f04f8f801b4914b387c3f1526753f2e56838.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_92c7f04f8f801b4914b387c3f1526753f2e56838.600x338.jpg?t=1687876398"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_d5526a76e8ecbfea0746af5ce17810c2e7e98e30.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_d5526a76e8ecbfea0746af5ce17810c2e7e98e30.600x338.jpg?t=1687876398"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_29c36c1631140f1fdcdb170bf0f318bc97699eac.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_29c36c1631140f1fdcdb170bf0f318bc97699eac.600x338.jpg?t=1687876398"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_bb3e06e35a9e994d6c44301ea24ae8e024192009.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_bb3e06e35a9e994d6c44301ea24ae8e024192009.600x338.jpg?t=1687876398"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_014fe2609e34877c15bc795966b76d3e1224162a.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_014fe2609e34877c15bc795966b76d3e1224162a.600x338.jpg?t=1687876398"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_ebdfa0d442e99fa2491188abd37c1ba5ef5e2530.1920x1080.jpg?t=1687876398",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403430/ss_ebdfa0d442e99fa2491188abd37c1ba5ef5e2530.600x338.jpg?t=1687876398"
+        }
+    ],
+    "short_description": "A game about soccer, made by people who suck at playing soccer. Guide your team of nerds to victory in this tight, tactical soccer game!",
+    "steam_appid": 2403430,
+    "support_info": {
+        "email": "help@acidwizardstudio.com",
+        "url": ""
+    },
+    "supported_languages": "English, Polish",
+    "type": "game",
+    "website": null
+}

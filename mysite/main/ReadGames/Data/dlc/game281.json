@@ -1,0 +1,152 @@
+{
+    "about_the_game": "This DLC contains an extra pack of ~150 questions on the topic: US Movies 80s<br />\r\nChallenge yourself and your friends with this brand-new theme!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/page_bg_generated_v6b.jpg?t=1704708281",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/page_bg_generated.jpg?t=1704708281",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/capsule_231x87.jpg?t=1704708281",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/capsule_184x69.jpg?t=1704708281",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "This DLC contains an extra pack of ~150 questions on the topic: US Movies 80s<br />\r\nChallenge yourself and your friends with this brand-new theme!",
+    "developers": [
+        "Appeal Studios",
+        "Balio Studio"
+    ],
+    "fullgame": {
+        "appid": "1356240",
+        "name": "Who Wants To Be A Millionaire"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/header.jpg?t=1704708281",
+    "is_free": false,
+    "legal_notice": "\u00a92020 Microids SA. All rights reserved. Published by Microids SA. Developed by Appeal Studios. Produced under license from Sony Pictures Television \u00a92020 CPT Holdings., Inc. All Rights Reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Who Wants To Be A Millionaire? - US Movies 80s DLC Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Who Wants To Be A Millionaire? - US Movies 80s DLC Pack - $1.99",
+                    "packageid": 944977,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Who Wants To Be A Millionaire? - US Movies 80s DLC Pack"
+        }
+    ],
+    "packages": [
+        944977
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Microids"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 8, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/ss_83bebaa160934525de4f277bd2ff4ab16c83ec21.1920x1080.jpg?t=1704708281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635180/ss_83bebaa160934525de4f277bd2ff4ab16c83ec21.600x338.jpg?t=1704708281"
+        }
+    ],
+    "short_description": "Challenge yourself and your friends with this brand-new theme: US Movies 80s",
+    "steam_appid": 2635180,
+    "support_info": {
+        "email": "support@microids.com",
+        "url": "https://support.microids.com/en/support/home"
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": null
+}

@@ -1,0 +1,106 @@
+{
+    "about_the_game": "",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Normal Difficulty",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/ee34cc86b6e6f663d5a1e3898d4cdc327d7115d8.jpg"
+            },
+            {
+                "name": "Hard Difficulty",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/7f0282afba0f6028af46997f89d5ff74bf871186.jpg"
+            },
+            {
+                "name": "Expert Difficulty",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/a56ce3e615fe907f5986159dc8d35953bb3877d0.jpg"
+            },
+            {
+                "name": "Healthy",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/7ca2343e503e2fcf8e03b68993e6b92c6023c662.jpg"
+            },
+            {
+                "name": "Hunchback",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/44d68a921c08df4a556b59e284762b3599602d96.jpg"
+            },
+            {
+                "name": "Thank You!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/44d68a921c08df4a556b59e284762b3599602d96.jpg"
+            },
+            {
+                "name": "Warlock",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/fe69346e42d2e856163db446b2e96463d8954450.jpg"
+            },
+            {
+                "name": "Mercenary",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/859c6cbacef2b592dcae41d5ea5b9fb3219a49ac.jpg"
+            },
+            {
+                "name": "Sloth",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/31c7d012325abebc2bbc04f546cf8ed433f270c9.jpg"
+            },
+            {
+                "name": "Spellzerker",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370940/525ac3fc24b6c00788658a743fa67670344e6028.jpg"
+            }
+        ],
+        "total": 10
+    },
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370940/capsule_231x87.jpg?t=1696513762",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370940/capsule_184x69.jpg?t=1696513762",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Patryk Borowski"
+    ],
+    "fullgame": {
+        "appid": "2369520",
+        "name": "Hunchback's Dungeon"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370940/header.jpg?t=1696513762",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Hunchback's Dungeon Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Patryk Borowski"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 5, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2370940,
+    "support_info": {
+        "email": "patrykborowski34@gmail.com",
+        "url": "https://twitter.com/Borausky"
+    },
+    "type": "demo",
+    "website": "https://twitter.com/Borausky"
+}

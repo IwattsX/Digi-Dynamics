@@ -1,0 +1,151 @@
+{
+    "about_the_game": "Embark on an epic journey with TriviaQuest: Mythic Conquest<br />\r\nTest your wit and battle mythical monsters as you progress through challenging levels.<br />\r\n<br />\r\nAnswer true or false to conquer foes, level up, and prove your knowledge in this thrilling adventure. Immerse yourself in a mythical world of trivia challenges, where each question propels you closer to victory. <br />\r\n<br />\r\nExplore the depths of your knowledge and embark on a Mythic Conquest like never before<br />\r\n<br />\r\nAre you ready for the ultimate conquest of wit and wisdom?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/page_bg_generated_v6b.jpg?t=1704276002",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/page.bg.jpg?t=1704276002",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/capsule_231x87.jpg?t=1704276002",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/capsule_184x69.jpg?t=1704276002",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on an epic journey with TriviaQuest: Mythic Conquest<br />\r\nTest your wit and battle mythical monsters as you progress through challenging levels.<br />\r\n<br />\r\nAnswer true or false to conquer foes, level up, and prove your knowledge in this thrilling adventure. Immerse yourself in a mythical world of trivia challenges, where each question propels you closer to victory. <br />\r\n<br />\r\nExplore the depths of your knowledge and embark on a Mythic Conquest like never before<br />\r\n<br />\r\nAre you ready for the ultimate conquest of wit and wisdom?",
+    "developers": [
+        "Respublica-Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/header.jpg?t=1704276002",
+    "is_free": false,
+    "legal_notice": "TriviaQuest: Mythic Conquest<br>Copyright \u00a92023 Respublica Games. All Rights Reserved.<br><br>TriviaQuest: Mythic Conquest and all associated logos and designs are trademarks or registered trademarks of [Your Name or Company Name].<br><br>The game and all its contents are protected by copyright and other intellectual property laws. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.10, Mint 17.1 or similar Linux Distribution<br></li><li><strong>Processor:</strong> 1.5Ghz or better (x86-64)<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible, ATI, Nvidia or Intel HD<br></li><li><strong>Sound Card:</strong> ALSA/PulseAudio compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.10, Mint 17.1 or similar Linux Distribution<br></li><li><strong>Processor:</strong> 2Ghz or better (x86-64)<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible, ATI, Nvidia or Intel HD<br></li><li><strong>Sound Card:</strong> ALSA/PulseAudio compatible</li></ul>"
+    },
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988320,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988320/movie480.mp4?t=1703094517",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988320/movie_max.mp4?t=1703094517"
+            },
+            "name": "Release Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988320/movie.293x165.jpg?t=1703094517",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988320/movie480_vp9.webm?t=1703094517",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988320/movie_max_vp9.webm?t=1703094517"
+            }
+        }
+    ],
+    "name": "TriviaQuest: Mythic Conquest",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "TriviaQuest: Mythic Conquest - $9.99",
+                    "packageid": 979533,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy TriviaQuest: Mythic Conquest"
+        }
+    ],
+    "packages": [
+        979533
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> 1.5Ghz or better (x86-64)<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible, ATI, Nvidia or Intel HD<br></li><li><strong>Storage:</strong> 2048 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64bit)<br></li><li><strong>Processor:</strong> 2Ghz or better (x86-64)<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible, ATI, Nvidia or Intel HD<br></li><li><strong>Storage:</strong> 2048 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Respublica-Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 3, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_b35e3fd8f83bf9f1a8c21ca36b20df9aeb3d4e76.1920x1080.jpg?t=1704276002",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_b35e3fd8f83bf9f1a8c21ca36b20df9aeb3d4e76.600x338.jpg?t=1704276002"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_189e4ce3651fb7426faf650476382d0a971c998d.1920x1080.jpg?t=1704276002",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_189e4ce3651fb7426faf650476382d0a971c998d.600x338.jpg?t=1704276002"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_a84aaaf0727aaf5bcfc0e1083e4fbd16ed089cdc.1920x1080.jpg?t=1704276002",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_a84aaaf0727aaf5bcfc0e1083e4fbd16ed089cdc.600x338.jpg?t=1704276002"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_451e90d2a753d2b92fc95d72953691e099cba384.1920x1080.jpg?t=1704276002",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_451e90d2a753d2b92fc95d72953691e099cba384.600x338.jpg?t=1704276002"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_ed6b66124ecfbc35280a170ad8fc1e8be78d1c5a.1920x1080.jpg?t=1704276002",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737620/ss_ed6b66124ecfbc35280a170ad8fc1e8be78d1c5a.600x338.jpg?t=1704276002"
+        }
+    ],
+    "short_description": "TriviaQuest: Mythic Conquest is a game where you battle mythical monsters by answering true/false to questions. Utilize unique abilities and progress through challenging levels.",
+    "steam_appid": 2737620,
+    "support_info": {
+        "email": "",
+        "url": "merhat1998@gmail.com"
+    },
+    "supported_languages": "English, Bulgarian, Turkish",
+    "type": "game",
+    "website": null
+}

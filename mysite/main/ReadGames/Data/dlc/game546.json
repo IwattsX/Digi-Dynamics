@@ -1,0 +1,146 @@
+{
+    "about_the_game": "This Special Fan Pack, includes a digitally downloadable Newspaper from the original Alien invasion, wallpapers and Soundtracks, plus a how-to guide on making your very own tin foil hat. <br><br><strong>This Special Fan Pack includes: </strong><i><br><br><strong>Original Extras</strong><br>Greyhill Incident (Original Extras) - Bob's Tin Foil Hat Manual<br>Greyhill Incident (Original Extras) - Conspiracy Advertisement<br>Greyhill Incident (Original Extras) - Conspiracy Newspaper<br><strong>Original Soundtracks: </strong><br>Greyhill Incident (Original Soundtrack) - Main Menu Theme | by Eric Gordon Berg<br>Greyhill Incident (Original Soundtrack) - Main Theme | by Eric Gordon Berg<br>Greyhill Incident (Original Soundtrack) - This is Our World | by Ryan White Maloney<br>Greyhill Incident (Original Soundtrack) - This is Our World (Instrumental) <br><strong>Original Wallpapers:</strong><br>Greyhill Incident (Original Wallpaper) - Classics<br>Greyhill Incident (Original Wallpaper) - Cover<br><br><br><strong>You may also check out the &quot;Found Footage Mode&quot; DLC or the &quot;Digital Abducted Edition&quot; Bundle to get both DLCs discounted together.</strong></i><br><br><i><br>Here's how to find the files on your computer:<br>1. Find Greyhill Incident in your Steam Library<br>2. Open the game properties<br>3. Under &quot;Local Files&quot;, click &quot;Browse&quot;<br>4. The DLC content will be in the folder named Fan_Pack</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/page_bg_generated_v6b.jpg?t=1687525969",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/page.bg.jpg?t=1687525969",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/capsule_231x87.jpg?t=1687525969",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/capsule_184x69.jpg?t=1687525969",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This Special Fan Pack, includes a digitally downloadable Newspaper from the original Alien invasion, wallpapers and Soundtracks, plus a how-to guide on making your very own tin foil hat. <br><br><strong>This Special Fan Pack includes: </strong><i><br><br><strong>Original Extras</strong><br>Greyhill Incident (Original Extras) - Bob's Tin Foil Hat Manual<br>Greyhill Incident (Original Extras) - Conspiracy Advertisement<br>Greyhill Incident (Original Extras) - Conspiracy Newspaper<br><strong>Original Soundtracks: </strong><br>Greyhill Incident (Original Soundtrack) - Main Menu Theme | by Eric Gordon Berg<br>Greyhill Incident (Original Soundtrack) - Main Theme | by Eric Gordon Berg<br>Greyhill Incident (Original Soundtrack) - This is Our World | by Ryan White Maloney<br>Greyhill Incident (Original Soundtrack) - This is Our World (Instrumental) <br><strong>Original Wallpapers:</strong><br>Greyhill Incident (Original Wallpaper) - Classics<br>Greyhill Incident (Original Wallpaper) - Cover<br><br><br><strong>You may also check out the &quot;Found Footage Mode&quot; DLC or the &quot;Digital Abducted Edition&quot; Bundle to get both DLCs discounted together.</strong></i><br><br><i><br>Here's how to find the files on your computer:<br>1. Find Greyhill Incident in your Steam Library<br>2. Open the game properties<br>3. Under &quot;Local Files&quot;, click &quot;Browse&quot;<br>4. The DLC content will be in the folder named Fan_Pack</i>",
+    "developers": [
+        "Refugium Games"
+    ],
+    "fullgame": {
+        "appid": "1905020",
+        "name": "Greyhill Incident"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/header.jpg?t=1687525969",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Greyhill Incident - Fan Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Greyhill Incident - Fan Pack - $3.99",
+                    "packageid": 839566,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Greyhill Incident - Fan Pack"
+        }
+    ],
+    "packages": [
+        839566
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 / Windows 8.1 / Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-3220 / AMD A8-7600 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 750 Ti / AMD Radeon R7 265 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Refugium Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_10cccfc6ab0bbb47c8d969c8fd984dc28d336b1c.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_10cccfc6ab0bbb47c8d969c8fd984dc28d336b1c.600x338.jpg?t=1687525969"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_a9e1f3a4a03ebd3f01b70d7ae79e17b04db7b8ef.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_a9e1f3a4a03ebd3f01b70d7ae79e17b04db7b8ef.600x338.jpg?t=1687525969"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_fe27e88254667164ab6d98825c9e5438ffb72532.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_fe27e88254667164ab6d98825c9e5438ffb72532.600x338.jpg?t=1687525969"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_3a5fcf6ff251aac3144e1ec52281052e0028cc39.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_3a5fcf6ff251aac3144e1ec52281052e0028cc39.600x338.jpg?t=1687525969"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_831cc51ccd7349a0d97f36655cd280534a40a566.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_831cc51ccd7349a0d97f36655cd280534a40a566.600x338.jpg?t=1687525969"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_d1ada260c9c3be0c5132b93637097d4f4768fb7f.1920x1080.jpg?t=1687525969",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337591/ss_d1ada260c9c3be0c5132b93637097d4f4768fb7f.600x338.jpg?t=1687525969"
+        }
+    ],
+    "short_description": "This Special &quot;Fan Pack&quot;, includes a Digitally downloadable Newspaper from the original Alien invasion, wallpapers and Soundtracks, plus a how-to guide on making your very own tin foil hat.",
+    "steam_appid": 2337591,
+    "support_info": {
+        "email": "info@refugiumgames.net",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Polish, Russian, Portuguese - Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": null
+}

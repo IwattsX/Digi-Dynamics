@@ -1,0 +1,98 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/FREE_TO_PLAY.gif?t=1704846769\" /><h2 class=\"bb_tag\">Episode 3 - Entity Exam</h2>The whistle-blowers have kept their promise and have leaked another tape. It seems to be some sort of training protocol used by the E.R.D. to train their agents on not only entities but field skills to improve their chances of survival.<br><br><strong>WARNING: This game is not suitable for children or those easily disturbed</strong><h2 class=\"bb_tag\">Multiple Modules</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/video_console.gif?t=1704846769\" /><br>There are 6 sections to prepare you for the final exam. Learn and practice the skills that cover this text, image, and audio-based game.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> 20 minutes long<br></li><li> Linear Story<br></li><li> Jumpscares</li></ul><br><i><h2 class=\"bb_tag\">Playing the other games is recommended but not required.</h2></i><a href=\"https://store.steampowered.com/app/2356440/The_Lancaster_Leak__OBrien_State_Park/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_2\" >https://store.steampowered.com/app/2356440/The_Lancaster_Leak__OBrien_State_Park/</a> <a href=\"https://store.steampowered.com/app/2519560/The_Lancaster_Leak__Crisis_At_Call_Center/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_3\" >https://store.steampowered.com/app/2519560/The_Lancaster_Leak__Crisis_At_Call_Center/</a><br><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FYxKHa7uKHm\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/Discord_CTA.gif?t=1704846769\" /></a>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/page_bg_generated_v6b.jpg?t=1704846769",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/page_bg_generated.jpg?t=1704846769",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/capsule_231x87.jpg?t=1704846769",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/capsule_184x69.jpg?t=1704846769",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Disturbing images & audio and jumpscares."
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/FREE_TO_PLAY.gif?t=1704846769\" /><h2 class=\"bb_tag\">Episode 3 - Entity Exam</h2>The whistle-blowers have kept their promise and have leaked another tape. It seems to be some sort of training protocol used by the E.R.D. to train their agents on not only entities but field skills to improve their chances of survival.<br><br><strong>WARNING: This game is not suitable for children or those easily disturbed</strong><h2 class=\"bb_tag\">Multiple Modules</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/video_console.gif?t=1704846769\" /><br>There are 6 sections to prepare you for the final exam. Learn and practice the skills that cover this text, image, and audio-based game.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> 20 minutes long<br></li><li> Linear Story<br></li><li> Jumpscares</li></ul><br><i><h2 class=\"bb_tag\">Playing the other games is recommended but not required.</h2></i><a href=\"https://store.steampowered.com/app/2356440/The_Lancaster_Leak__OBrien_State_Park/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2356440/The_Lancaster_Leak__OBrien_State_Park/</a> <a href=\"https://store.steampowered.com/app/2519560/The_Lancaster_Leak__Crisis_At_Call_Center/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2519560/The_Lancaster_Leak__Crisis_At_Call_Center/</a><br><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FYxKHa7uKHm\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2737580/extras/Discord_CTA.gif?t=1704846769\" /></a>",
+    "developers": [
+        "Jeremy Fischer"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/header.jpg?t=1704846769",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Intel i5 or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "The Lancaster Leak - Entity Exam",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> Intel i5 or new-gen i3 / AMD equivalent<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD Radeon R9 290<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Jflyer Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_3501f3d8edba91b4f7377d414b881153f1b23846.1920x1080.jpg?t=1704846769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_3501f3d8edba91b4f7377d414b881153f1b23846.600x338.jpg?t=1704846769"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_fa02215ba75cf848da04cb4bd2e873992d404a9a.1920x1080.jpg?t=1704846769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_fa02215ba75cf848da04cb4bd2e873992d404a9a.600x338.jpg?t=1704846769"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_fb6fd84baa0479a6a1b1b4cc028e580b929d6528.1920x1080.jpg?t=1704846769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_fb6fd84baa0479a6a1b1b4cc028e580b929d6528.600x338.jpg?t=1704846769"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_3e342332c38e652d77a6e736f22b91d93c5488d9.1920x1080.jpg?t=1704846769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_3e342332c38e652d77a6e736f22b91d93c5488d9.600x338.jpg?t=1704846769"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_6f1500d0af9d5d85d5b8351ad28f6b549717c40a.1920x1080.jpg?t=1704846769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737580/ss_6f1500d0af9d5d85d5b8351ad28f6b549717c40a.600x338.jpg?t=1704846769"
+        }
+    ],
+    "short_description": "YOU CONTROL THE FOUND FOOTAGE. Another tape has been leaked, this time a recording of a training protocol. By answering questions and resisting jumpscares, can you beat the Entity Exam?",
+    "steam_appid": 2737580,
+    "support_info": {
+        "email": "jflyergames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

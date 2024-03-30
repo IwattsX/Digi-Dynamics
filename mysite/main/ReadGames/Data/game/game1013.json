@@ -1,0 +1,127 @@
+{
+    "about_the_game": "Welcome to My Motel Simulator, the ultimate simulation game where you get to design and manage your own motel! Your goal is to create a successful and profitable motel by designing and decorating each room, attracting guests, and expanding your business with additional amenities like a pool, restaurant, and more<br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__5_.png?t=1705405323\" /><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">BEFORE</h2></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__6_.png?t=1705405323\" /><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">AFTER</h2></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__7_.png?t=1705405323\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/page_bg_generated_v6b.jpg?t=1705405323",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/page_bg_generated.jpg?t=1705405323",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/capsule_231x87.jpg?t=1705405323",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/capsule_184x69.jpg?t=1705405323",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Feature List</h1><p><a href=\"https://store.steampowered.com/app/2353250/Astrometica/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2353250/Astrometica/</a></p><br><h1>Buzz</h1><p><a href=\"https://store.steampowered.com/app/2353250/Astrometica/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2353250/Astrometica/</a></p><br><h1>About the Game</h1>Welcome to My Motel Simulator, the ultimate simulation game where you get to design and manage your own motel! Your goal is to create a successful and profitable motel by designing and decorating each room, attracting guests, and expanding your business with additional amenities like a pool, restaurant, and more<br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__5_.png?t=1705405323\" /><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">BEFORE</h2></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__6_.png?t=1705405323\" /><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">AFTER</h2></h2> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2400560/extras/Yeni_Proje__7_.png?t=1705405323\" />",
+    "developers": [
+        "Efkey"
+    ],
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/header.jpg?t=1705405323",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942126,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942126/movie480.mp4?t=1682094782",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942126/movie_max.mp4?t=1682094782"
+            },
+            "name": "MyMotelIntro",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942126/movie.293x165.jpg?t=1682094782",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942126/movie480_vp9.webm?t=1682094782",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942126/movie_max_vp9.webm?t=1682094782"
+            }
+        }
+    ],
+    "name": "My Motel",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or better<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.5 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 960<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Efkey"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_15a0e497da16d746d51b251d5923923615b57e24.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_15a0e497da16d746d51b251d5923923615b57e24.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_20dec4cc17425baff44bf5e8051e2ae128da2684.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_20dec4cc17425baff44bf5e8051e2ae128da2684.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_0681d9c4f4f346ce6fbcee722f1cacc653dd6ba2.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_0681d9c4f4f346ce6fbcee722f1cacc653dd6ba2.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_446662d05dd3319952e105b5e7271a002fccde58.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_446662d05dd3319952e105b5e7271a002fccde58.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_35a0e996714866262cd45ea8f10b0f62c4f4b07f.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_35a0e996714866262cd45ea8f10b0f62c4f4b07f.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_105015f942464d52dc040fd295e4424c6e716daf.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_105015f942464d52dc040fd295e4424c6e716daf.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_e9a00bcbb5400a5af2f926747cb62f999d94cf3f.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_e9a00bcbb5400a5af2f926747cb62f999d94cf3f.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_5e0d53a440ee0fd78af357cdc8378be36bed484d.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_5e0d53a440ee0fd78af357cdc8378be36bed484d.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_0bec83b1c18a1a075df75f7e87812976846932e5.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_0bec83b1c18a1a075df75f7e87812976846932e5.600x338.jpg?t=1705405323"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_443deac0561e12ec5fe687bb73bf524ec0606ef8.1920x1080.jpg?t=1705405323",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400560/ss_443deac0561e12ec5fe687bb73bf524ec0606ef8.600x338.jpg?t=1705405323"
+        }
+    ],
+    "short_description": "Welcome to My Motel Simulator, the ultimate simulation game where you get to design and manage your own motel! Your goal is to create a successful and profitable motel by designing and decorating each room, attracting guests.",
+    "steam_appid": 2400560,
+    "support_info": {
+        "email": "efkeysoftware@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Turkish<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

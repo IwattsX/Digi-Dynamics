@@ -1,0 +1,92 @@
+{
+    "about_the_game": "Sentenced to death for your ability to wield multiple Shards at once, you must fight for survival and become the danger that the Empire claims you to be.<h2 class=\"bb_tag\">Shard-Shifting Action</h2>Each of your elemental Shards has a limited reserve of mana. To survive, you must think on the fly, switching off of depleted elements and engaging the enemy with fresh magic. Each shard you uncover adds new options and new utility to your arsenal.<h2 class=\"bb_tag\">Plan your Path</h2>Take advantage of a unique form of progression in the form of pseudo-randomized skill trees. Locate the key abilities in each Shard's skill tree, seek out key special abilities, and use dark blessings to manipulate the tree in your favor.<h2 class=\"bb_tag\">Devastating Synergy</h2>While a Shard can be powerful on its own, they are even stronger in concert. Bolster your minions with healing, cascade a devastating blow across an entire army, or wall off enemies inside an inferno: these are just a few of the options available to discover.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/page_bg_generated_v6b.jpg?t=1704754110",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/page_bg_generated.jpg?t=1704754110",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/capsule_231x87.jpg?t=1704754110",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/capsule_184x69.jpg?t=1704754110",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Sentenced to death for your ability to wield multiple Shards at once, you must fight for survival and become the danger that the Empire claims you to be.<h2 class=\"bb_tag\">Shard-Shifting Action</h2>Each of your elemental Shards has a limited reserve of mana. To survive, you must think on the fly, switching off of depleted elements and engaging the enemy with fresh magic. Each shard you uncover adds new options and new utility to your arsenal.<h2 class=\"bb_tag\">Plan your Path</h2>Take advantage of a unique form of progression in the form of pseudo-randomized skill trees. Locate the key abilities in each Shard's skill tree, seek out key special abilities, and use dark blessings to manipulate the tree in your favor.<h2 class=\"bb_tag\">Devastating Synergy</h2>While a Shard can be powerful on its own, they are even stronger in concert. Bolster your minions with healing, cascade a devastating blow across an entire army, or wall off enemies inside an inferno: these are just a few of the options available to discover.",
+    "developers": [
+        "Crusher48"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/header.jpg?t=1704754110",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Arcana Outcasts",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> x64 architecture<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL3 Support<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Crusher48"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_b151f79574cfb4357cf53ddd9d2f90f94526084b.1920x1080.jpg?t=1704754110",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_b151f79574cfb4357cf53ddd9d2f90f94526084b.600x338.jpg?t=1704754110"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_16501b04e80879fb3ca97144b8bfa4db6a646184.1920x1080.jpg?t=1704754110",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_16501b04e80879fb3ca97144b8bfa4db6a646184.600x338.jpg?t=1704754110"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_4da2afd45244cdfebe20e6869f538af2fbd1a4c7.1920x1080.jpg?t=1704754110",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_4da2afd45244cdfebe20e6869f538af2fbd1a4c7.600x338.jpg?t=1704754110"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_840d3abd2016005c65751ae4354d93f1c012076c.1920x1080.jpg?t=1704754110",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_840d3abd2016005c65751ae4354d93f1c012076c.600x338.jpg?t=1704754110"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_5c866b820057f30e5c0fd88a72400e2615d6dcf2.1920x1080.jpg?t=1704754110",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650280/ss_5c866b820057f30e5c0fd88a72400e2615d6dcf2.600x338.jpg?t=1704754110"
+        }
+    ],
+    "short_description": "Switch between multiple arcane Shards to outwit and obliterate your enemies in this top-down shooter roguelike. Plan your path with a unique skill tree levelling system, and fight for survival against enemies wielding the same powers as you.",
+    "steam_appid": 2650280,
+    "support_info": {
+        "email": "crusher4881@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,91 @@
+{
+    "about_the_game": "Nephtyke is a story-driven Manga RPG with a Queue-based battle system. Players can enjoy the game\u2019s story by reading a manga. However, when a battle would occur within the story, players cannot continue reading the story, and instead get to experience that battle directly through a queue-based battle system. Nephtyke\u2019s battle system lets the players direct the flow of the battle making the characters act in battle based on their liking. In battle, each character's action is displayed as a dynamically generated manga panel. Once the battle is over, the game takes the panels generated during the battle and creates new pages to allow the player to further continue reading the story.<h2 class=\"bb_tag\">MANGA RPG</h2>Just like a normal manga, Nephtyke as a Manga RPG is divided into volumes and chapters. Players can read each chapter to enjoy the story, while each battle within the story is enjoyed through the game\u2019s battle system. Through battles, players get personalized battle pages to fill in the missing story parts. Additionally, each battle has missions which allow players to unlock challenge battles, omake chapters, and upgrade points, letting them enjoy the game\u2019s intricate battle system beyond just the regular story. Using upgrade points, players can make the characters stronger or unlock more actions to make the dynamically generated pages further to their liking. The Challenge battles are additional battles designed for those who wish to test their skills. Finally, the omake chapters are unlockable short stories which would give players insight into Nephtyke\u2019s characters daily lives.<h2 class=\"bb_tag\">QUEUE-BASED BATTLE SYSTEM</h2>Nephtyke has a queue-based battle system, which is a twist on a classical turn-based RPG battle system. Instead of dividing the game in turns, and having each character act as a reaction to what happened previously, the flow of battle is divided into chunks of time represented as Time Points. At the start of a turn, each character is assigned the same amount of Time Points, and based on it they can queue-up a certain amount of actions to execute. Once all the actions have been queued up, characters execute the queued-up actions based on their combined order. Each battle action is shown as a dynamically generated panel, based on the the characters that are present in the action, and which action was selected for them. The game stores each of the generated panels so that it could create new manga pages at the end of the battle. As the players are tasked with deciding the action upfront, they would not be reacting to the battle\u2019s flow, instead they would be directing it, giving them the feeling of being a Battle Director for a Manga. At the end of the battle, the game generates new manga pages using the dynamically generated panels throughout the battle and adding it to the story pages allowing the players to enjoy the story further with personalized battle pages which are the result of their effort.<h2 class=\"bb_tag\">STORY</h2>Nephtykes story follows Sorel, a young Tectodian who made a promise to his deceased mother that he would protect their village in her stead. He continues to guard his village for years from the assaults from the neighboring Tectos Kingdom, but one day, a grander duty falls upon Sorel as a mysterious group of mercenaries attempts to kidnap one of the villagers.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/page_bg_generated_v6b.jpg?t=1699799028",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/page_bg_generated.jpg?t=1699799028",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/capsule_231x87.jpg?t=1699799028",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/capsule_184x69.jpg?t=1699799028",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Nephtyke is a story-driven Manga RPG with a Queue-based battle system. Players can enjoy the game\u2019s story by reading a manga. However, when a battle would occur within the story, players cannot continue reading the story, and instead get to experience that battle directly through a queue-based battle system. Nephtyke\u2019s battle system lets the players direct the flow of the battle making the characters act in battle based on their liking. In battle, each character's action is displayed as a dynamically generated manga panel. Once the battle is over, the game takes the panels generated during the battle and creates new pages to allow the player to further continue reading the story.<h2 class=\"bb_tag\">MANGA RPG</h2>Just like a normal manga, Nephtyke as a Manga RPG is divided into volumes and chapters. Players can read each chapter to enjoy the story, while each battle within the story is enjoyed through the game\u2019s battle system. Through battles, players get personalized battle pages to fill in the missing story parts. Additionally, each battle has missions which allow players to unlock challenge battles, omake chapters, and upgrade points, letting them enjoy the game\u2019s intricate battle system beyond just the regular story. Using upgrade points, players can make the characters stronger or unlock more actions to make the dynamically generated pages further to their liking. The Challenge battles are additional battles designed for those who wish to test their skills. Finally, the omake chapters are unlockable short stories which would give players insight into Nephtyke\u2019s characters daily lives.<h2 class=\"bb_tag\">QUEUE-BASED BATTLE SYSTEM</h2>Nephtyke has a queue-based battle system, which is a twist on a classical turn-based RPG battle system. Instead of dividing the game in turns, and having each character act as a reaction to what happened previously, the flow of battle is divided into chunks of time represented as Time Points. At the start of a turn, each character is assigned the same amount of Time Points, and based on it they can queue-up a certain amount of actions to execute. Once all the actions have been queued up, characters execute the queued-up actions based on their combined order. Each battle action is shown as a dynamically generated panel, based on the the characters that are present in the action, and which action was selected for them. The game stores each of the generated panels so that it could create new manga pages at the end of the battle. As the players are tasked with deciding the action upfront, they would not be reacting to the battle\u2019s flow, instead they would be directing it, giving them the feeling of being a Battle Director for a Manga. At the end of the battle, the game generates new manga pages using the dynamically generated panels throughout the battle and adding it to the story pages allowing the players to enjoy the story further with personalized battle pages which are the result of their effort.<h2 class=\"bb_tag\">STORY</h2>Nephtykes story follows Sorel, a young Tectodian who made a promise to his deceased mother that he would protect their village in her stead. He continues to guard his village for years from the assaults from the neighboring Tectos Kingdom, but one day, a grander duty falls upon Sorel as a mysterious group of mercenaries attempts to kidnap one of the villagers.",
+    "developers": [
+        "Y.U.E. Digital"
+    ],
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/header.jpg?t=1699799028",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Nephtyke",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Radeon R9 200 or equal<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5 Generation or equal<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 780 or equal<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Y.U.E. Digital"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_fb2134aae0cd5459572ec98e2e21bca90d928b7b.1920x1080.jpg?t=1699799028",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_fb2134aae0cd5459572ec98e2e21bca90d928b7b.600x338.jpg?t=1699799028"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_2a0690fc01f1167cface4621cb92c5fb4d513bf8.1920x1080.jpg?t=1699799028",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_2a0690fc01f1167cface4621cb92c5fb4d513bf8.600x338.jpg?t=1699799028"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_f5417118b57f566aca2242a3ddae68ace597efbf.1920x1080.jpg?t=1699799028",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_f5417118b57f566aca2242a3ddae68ace597efbf.600x338.jpg?t=1699799028"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_de1299c4de5426d8a44c30b14a1d91698e38def4.1920x1080.jpg?t=1699799028",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_de1299c4de5426d8a44c30b14a1d91698e38def4.600x338.jpg?t=1699799028"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_09df31ea29ae90670df648393a9dc019f64a07f7.1920x1080.jpg?t=1699799028",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402080/ss_09df31ea29ae90670df648393a9dc019f64a07f7.600x338.jpg?t=1699799028"
+        }
+    ],
+    "short_description": "Nephtyke is a story-driven Manga RPG with a Queue-based battle system. Players can enjoy the game\u2019s story by reading a manga, while through queue-based combat, they craft unique generated Manga pages that create personal experience.",
+    "steam_appid": 2402080,
+    "support_info": {
+        "email": "dominik.pavicic@yuedigital.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese",
+    "type": "game",
+    "website": "https://yuedigital.com/#/nephtyke"
+}

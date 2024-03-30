@@ -1,0 +1,102 @@
+{
+    "about_the_game": "Inescapable is a social thriller set in a tropical island resort: you\u2019ve been kidnapped and forced to participate in a twisted reality TV show with 10 strangers. At the end of your stay, you\u2019ll receive $500,000. There\u2019s just one catch\u2014on the island there are no rules, and no escape. Inescapable\u2019s story explores human nature and how far people will go for social clout, wealth, and their own desires\u2014and how much further they might be willing to go when they have permission to ignore the rules.<br><br>This demo will allow you to play through the group's first days on the island. The full game will contain the following features:<br><ul class=\"bb_ul\"><li>Multiple narrative paths<br></li><li>A provocative character-driven story<br></li><li>A diverse cast of characters with intriguing personalities and backstories<br></li><li>Hours of voice-acted dialogue<br></li><li>A full-length original soundtrack with music from Zero Escape's Shinji Hosoe and Matias Lehtoranta</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/page_bg_generated_v6b.jpg?t=1687020086",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/page_bg_generated.jpg?t=1687020086",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/capsule_231x87.jpg?t=1687020086",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/capsule_184x69.jpg?t=1687020086",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Inescapable contains content that is not appropriate for all ages and General Mature Content."
+    },
+    "controller_support": "full",
+    "detailed_description": "Inescapable is a social thriller set in a tropical island resort: you\u2019ve been kidnapped and forced to participate in a twisted reality TV show with 10 strangers. At the end of your stay, you\u2019ll receive $500,000. There\u2019s just one catch\u2014on the island there are no rules, and no escape. Inescapable\u2019s story explores human nature and how far people will go for social clout, wealth, and their own desires\u2014and how much further they might be willing to go when they have permission to ignore the rules.<br><br>This demo will allow you to play through the group's first days on the island. The full game will contain the following features:<br><ul class=\"bb_ul\"><li>Multiple narrative paths<br></li><li>A provocative character-driven story<br></li><li>A diverse cast of characters with intriguing personalities and backstories<br></li><li>Hours of voice-acted dialogue<br></li><li>A full-length original soundtrack with music from Zero Escape's Shinji Hosoe and Matias Lehtoranta</li></ul>",
+    "developers": [
+        "Dreamloop Games"
+    ],
+    "fullgame": {
+        "appid": "2170520",
+        "name": "Inescapable: No Rules, No Rescue"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/header.jpg?t=1687020086",
+    "is_free": true,
+    "legal_notice": "\u00a9Dreamloop Games Oy and Aksys Games Localization, Inc. 2023. All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Inescapable: No Rules, No Rescue Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Aksys Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_446165d8aa06893eec65e563ebd431524f1bfb9e.1920x1080.jpg?t=1687020086",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_446165d8aa06893eec65e563ebd431524f1bfb9e.600x338.jpg?t=1687020086"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_8c4bb7141ab3161b41c012ee46541257bd8cce2e.1920x1080.jpg?t=1687020086",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_8c4bb7141ab3161b41c012ee46541257bd8cce2e.600x338.jpg?t=1687020086"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_2b92b0e05b97d4aa27655ed05d6e62cf7301f6ef.1920x1080.jpg?t=1687020086",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_2b92b0e05b97d4aa27655ed05d6e62cf7301f6ef.600x338.jpg?t=1687020086"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_c782b55cb8da1994f949d347733279c5aa789333.1920x1080.jpg?t=1687020086",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_c782b55cb8da1994f949d347733279c5aa789333.600x338.jpg?t=1687020086"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_0c872c49b3adccf9a159fa4c48a102a2b561cd2b.1920x1080.jpg?t=1687020086",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2400490/ss_0c872c49b3adccf9a159fa4c48a102a2b561cd2b.600x338.jpg?t=1687020086"
+        }
+    ],
+    "short_description": "Inescapable is a social thriller set in a tropical island resort: you\u2019ve been kidnapped and forced to participate in a twisted reality TV show with 10 strangers. At the end of their stay, they\u2019ll each receive $500,000... If they survive.",
+    "steam_appid": 2400490,
+    "support_info": {
+        "email": "support@aksysgames.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://www.inescapable-game.com/"
+}

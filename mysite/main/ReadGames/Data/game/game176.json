@@ -1,0 +1,61 @@
+{
+    "about_the_game": "",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Welcome",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2636960/d7b37a8779ac18abe8bad940414acf602033fb41.jpg"
+            }
+        ],
+        "total": 1
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/page_bg_generated_v6b.jpg?t=1699847865",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/page_bg_generated.jpg?t=1699847865",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/capsule_231x87.jpg?t=1699847865",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/capsule_184x69.jpg?t=1699847865",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/header.jpg?t=1699847865",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Peanut's Journey Test",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/ss_0e9bcb5c4fb1017b3a1191c7409539c4ae565cc0.1920x1080.jpg?t=1699847865",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/ss_0e9bcb5c4fb1017b3a1191c7409539c4ae565cc0.600x338.jpg?t=1699847865"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/ss_0d37e674883bd576b210a6cc0eb8e9512867aef1.1920x1080.jpg?t=1699847865",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636960/ss_0d37e674883bd576b210a6cc0eb8e9512867aef1.600x338.jpg?t=1699847865"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2636960,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

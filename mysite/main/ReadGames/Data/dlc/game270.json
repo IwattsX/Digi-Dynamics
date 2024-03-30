@@ -1,0 +1,184 @@
+{
+    "about_the_game": "Manufactured in 1976 at the &quot;VEB Waggonbau Goerlitz&quot; factory in Germany, these doubledecker cars were and still are used for regional passenger transport in Czech Republic, although many(if not all) were modernised. They are 26,8m in length, sit on Gorlitz VI bogeys with block brakes, have a top speed of 100km/h and are present in other countries also, such as Romania, Poland and Germany.<br />\r\n<br />\r\nPackage includes:<br />\r\n<br />\r\n*8 doubledecker cars with photorealistic textures<br />\r\n<br />\r\n*4 Highly realistic full cabviews (lower, middle and upper deck)<br />\r\n<br />\r\n*Full PBR textures<br />\r\n<br />\r\n*3 different kinds of train-end signs<br />\r\n<br />\r\n*Brakeshoe option (does not affect the braking sequence, only for visual effect)<br />\r\n<br />\r\n*Animated couplers &amp; air hoses and sounds<br />\r\n<br />\r\n*3 levels of buffer contact sounds<br />\r\n<br />\r\n*Up to 6 levels of LOD<br />\r\n<br />\r\n*Doors that open/close via Properties tab or when loading/unloading passengers plus sounds<br />\r\n<br />\r\n*Disable Physics option<br />\r\n<br />\r\n*Custom bogeysounds<br />\r\n<br />\r\n*Interior &amp; exterior nightmode<br />\r\n<br />\r\n*Editable destination boards with text fields for departure station, destination station, via station",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/page_bg_generated_v6b.jpg?t=1697606683",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/page_bg_generated.jpg?t=1697606683",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/capsule_231x87.jpg?t=1697606683",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/capsule_184x69.jpg?t=1697606683",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Manufactured in 1976 at the &quot;VEB Waggonbau Goerlitz&quot; factory in Germany, these doubledecker cars were and still are used for regional passenger transport in Czech Republic, although many(if not all) were modernised. They are 26,8m in length, sit on Gorlitz VI bogeys with block brakes, have a top speed of 100km/h and are present in other countries also, such as Romania, Poland and Germany.<br />\r\n<br />\r\nPackage includes:<br />\r\n<br />\r\n*8 doubledecker cars with photorealistic textures<br />\r\n<br />\r\n*4 Highly realistic full cabviews (lower, middle and upper deck)<br />\r\n<br />\r\n*Full PBR textures<br />\r\n<br />\r\n*3 different kinds of train-end signs<br />\r\n<br />\r\n*Brakeshoe option (does not affect the braking sequence, only for visual effect)<br />\r\n<br />\r\n*Animated couplers &amp; air hoses and sounds<br />\r\n<br />\r\n*3 levels of buffer contact sounds<br />\r\n<br />\r\n*Up to 6 levels of LOD<br />\r\n<br />\r\n*Doors that open/close via Properties tab or when loading/unloading passengers plus sounds<br />\r\n<br />\r\n*Disable Physics option<br />\r\n<br />\r\n*Custom bogeysounds<br />\r\n<br />\r\n*Interior &amp; exterior nightmode<br />\r\n<br />\r\n*Editable destination boards with text fields for departure station, destination station, via station",
+    "developers": [
+        "i29tsro"
+    ],
+    "fullgame": {
+        "appid": "1784570",
+        "name": "Trainz Railroad Simulator 2022"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/header.jpg?t=1697606683",
+    "is_free": false,
+    "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.6<br></li><li><strong>Processor:</strong> Intel i5 2Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 555 with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "name": "Trainz 2022 DLC - CD Doubledecker Pack No. 1",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Trainz 2022 DLC - CD Doubledecker Pack No. 1 - $17.99",
+                    "packageid": 944890,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1799
+                }
+            ],
+            "title": "Buy Trainz 2022 DLC - CD Doubledecker Pack No. 1"
+        }
+    ],
+    "packages": [
+        944890
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel i5 3GHz 64Bit Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1799,
+        "final_formatted": "$17.99",
+        "initial": 1799,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "N3V Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_5b13caa794843024153c76b7f20bb7d355583ec3.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_5b13caa794843024153c76b7f20bb7d355583ec3.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_84bcba9baa689013b21114262ce1a8f3d4c2b87b.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_84bcba9baa689013b21114262ce1a8f3d4c2b87b.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_ce9ac72774b6f81a157cb4eac06f7668520e0522.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_ce9ac72774b6f81a157cb4eac06f7668520e0522.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_14daf31d7a7feca330d87508ecbfc938208a45c8.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_14daf31d7a7feca330d87508ecbfc938208a45c8.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_f23658798301297401a33477b3fb814bce40725c.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_f23658798301297401a33477b3fb814bce40725c.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_510190b27f945ed117031accd1f2ba1cb482ba5b.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_510190b27f945ed117031accd1f2ba1cb482ba5b.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_2bf564a4adb0d3447281880d44cbdf6094db0cda.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_2bf564a4adb0d3447281880d44cbdf6094db0cda.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_52ebad123012a1a56aaf5a7ed2da094457b331cb.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_52ebad123012a1a56aaf5a7ed2da094457b331cb.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_f6463e2467d679ca20031255afb11a260ea4ac95.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_f6463e2467d679ca20031255afb11a260ea4ac95.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_da3495004161866efa84698998931e5297b3c8ec.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_da3495004161866efa84698998931e5297b3c8ec.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_5a667b775e6ee6fe2793fc6d0c7aaef2b772293e.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_5a667b775e6ee6fe2793fc6d0c7aaef2b772293e.600x338.jpg?t=1697606683"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_923ff2cc7213fd9880e27e7c08eaee042960b559.1920x1080.jpg?t=1697606683",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634920/ss_923ff2cc7213fd9880e27e7c08eaee042960b559.600x338.jpg?t=1697606683"
+        }
+    ],
+    "short_description": "Manufactured in 1976 at the &quot;VEB Waggonbau Goerlitz&quot; factory in Germany, these doubledecker cars were and still are used for regional passenger transport in Czech Republic, and many have been modernised. This pack features 8 versions of these cars with interior views, PBR textures, and more!",
+    "steam_appid": 2634920,
+    "support_info": {
+        "email": "support@n3vgames.com",
+        "url": "http://support.trainzportal.com/"
+    },
+    "supported_languages": "English, Italian, Spanish - Spain, Czech, Dutch, Polish, Russian, French, German",
+    "type": "dlc",
+    "website": "https://info.trainzsimulator.com/trainz?utm=steam"
+}

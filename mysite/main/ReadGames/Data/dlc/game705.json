@@ -1,0 +1,143 @@
+{
+    "about_the_game": "&quot; <br> <h2 class=\"bb_tag\"> Fey Encounters</h2>   <br>  By:\u00a0<br> <strong> Scoundrel Game Labs</strong>  <br>  <br>  <br>  <br>  Fey Encounters <br>  <br>  \u00a0is a collection of 60 random encounters set in the Fey Realm for fifth edition fantasy. These encounters are designed to capture the whimsical yet dangerous atmosphere the Fey are known for. This is an ideal companion for a campaign based in\u00a0 <br>  the Fey Realm.\u00a0 <br>  <br>   <br>  This supplement provides 60 random encounters designed to capture the whimsy and wildness of the Fey Realm. These encounters include a mix of combat, exploration, and social encounters. Unusual creatures and elemental magic combine to provide you with an array of dangers and delights for your party.\u00a0The module includes: <br> <ul class=\"bb_ul\"> <li> <br>  60 unique Fey encounters \u00a0encompassing every pillar of fifth edition fantasy: exploration, combat, and social interaction. <br> </li><li> <br>  Scalable encounters \u00a0with guidance on using every encounter in any tier of play. <br> </li><li> Module full of content including\u00a0new monsters, custom magical items, and beautiful art.\u00a0 <br> </li><li> New monsters, magical items, and more.\u00a0  </li></ul>  &quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/page_bg_generated_v6b.jpg?t=1680009011",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/page_bg_generated.jpg?t=1680009011",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/capsule_231x87.jpg?t=1680009011",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/capsule_184x69.jpg?t=1680009011",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot; <br> <h2 class=\"bb_tag\"> Fey Encounters</h2>   <br>  By:\u00a0<br> <strong> Scoundrel Game Labs</strong>  <br>  <br>  <br>  <br>  Fey Encounters <br>  <br>  \u00a0is a collection of 60 random encounters set in the Fey Realm for fifth edition fantasy. These encounters are designed to capture the whimsical yet dangerous atmosphere the Fey are known for. This is an ideal companion for a campaign based in\u00a0 <br>  the Fey Realm.\u00a0 <br>  <br>   <br>  This supplement provides 60 random encounters designed to capture the whimsy and wildness of the Fey Realm. These encounters include a mix of combat, exploration, and social encounters. Unusual creatures and elemental magic combine to provide you with an array of dangers and delights for your party.\u00a0The module includes: <br> <ul class=\"bb_ul\"> <li> <br>  60 unique Fey encounters \u00a0encompassing every pillar of fifth edition fantasy: exploration, combat, and social interaction. <br> </li><li> <br>  Scalable encounters \u00a0with guidance on using every encounter in any tier of play. <br> </li><li> Module full of content including\u00a0new monsters, custom magical items, and beautiful art.\u00a0 <br> </li><li> New monsters, magical items, and more.\u00a0  </li></ul>  &quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/header.jpg?t=1680009011",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2022. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz processor or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 compatible video adapter<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>"
+    },
+    "name": "Fantasy Grounds - Fey Encounters",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 2.0 GHz or higher processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_bf63fd1a67e780a40d109fe3623467647854587e.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_bf63fd1a67e780a40d109fe3623467647854587e.600x338.jpg?t=1680009011"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_3c6bcfcbecd40e057178f64f8b4b5e35a270744d.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_3c6bcfcbecd40e057178f64f8b4b5e35a270744d.600x338.jpg?t=1680009011"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_7c3c1aaf7a9b6ff91f695bc8e55a96718bf3d416.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_7c3c1aaf7a9b6ff91f695bc8e55a96718bf3d416.600x338.jpg?t=1680009011"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_1d7298640f47d33bf636be5cee29768de3859cc7.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_1d7298640f47d33bf636be5cee29768de3859cc7.600x338.jpg?t=1680009011"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_deab168edf9fd8463da1e93b001c46853414e783.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_deab168edf9fd8463da1e93b001c46853414e783.600x338.jpg?t=1680009011"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_17f7e66d6385b5009fc5db449220c8043c5af788.1920x1080.jpg?t=1680009011",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373620/ss_17f7e66d6385b5009fc5db449220c8043c5af788.600x338.jpg?t=1680009011"
+        }
+    ],
+    "short_description": "&quot; Fey Encounters By:\u00a0 Scoundrel Game Labs Fey Encounters \u00a0is a collection of 60 random encounters set in the Fey Realm for fifth edition fantasy. These encounters are designed to capture the whimsical yet dangerous atmosphere the Fey are known for. This is an ideal companion for a campaign based in\u00a0 the Fey Realm.",
+    "steam_appid": 2373620,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

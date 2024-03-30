@@ -1,0 +1,117 @@
+{
+    "about_the_game": "A fantasy RPG where your unique combination of class, race, elemental specialization, skill tree, and equipped spells create an unpredictable playthrough.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402680/extras/Characters.v3__2_.png?t=1697740971\" /><br><br>While some spells are race or class specific, others are part of a large pool which can be unlocked by quests, skill tree, and upgrading attributes. Easily change the spells on the hotbar by dragging and dropping from your spellbook.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/page_bg_generated_v6b.jpg?t=1697740971",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/page.bg.jpg?t=1697740971",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/capsule_231x87.jpg?t=1697740971",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/capsule_184x69.jpg?t=1697740971",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A fantasy RPG where your unique combination of class, race, elemental specialization, skill tree, and equipped spells create an unpredictable playthrough.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2402680/extras/Characters.v3__2_.png?t=1697740971\" /><br><br>While some spells are race or class specific, others are part of a large pool which can be unlocked by quests, skill tree, and upgrading attributes. Easily change the spells on the hotbar by dragging and dropping from your spellbook.",
+    "developers": [
+        "Mudtek LLC"
+    ],
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/header.jpg?t=1697740971",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Dimraeth",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Mudtek LLC"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_113869cf4367fec42fd11ae19149511c045db35c.1920x1080.jpg?t=1697740971",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_113869cf4367fec42fd11ae19149511c045db35c.600x338.jpg?t=1697740971"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_7fd02370839497aba74ff495d706b96f90b46c02.1920x1080.jpg?t=1697740971",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_7fd02370839497aba74ff495d706b96f90b46c02.600x338.jpg?t=1697740971"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_f15e2aea53b37ebaf0321160c30e745ba3ed15a0.1920x1080.jpg?t=1697740971",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_f15e2aea53b37ebaf0321160c30e745ba3ed15a0.600x338.jpg?t=1697740971"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_68d6647e892b29876c07bc33f188f6977d45d9a8.1920x1080.jpg?t=1697740971",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_68d6647e892b29876c07bc33f188f6977d45d9a8.600x338.jpg?t=1697740971"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_65118a22d427dbf6cb5c87138a7db60c456d5c24.1920x1080.jpg?t=1697740971",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/ss_65118a22d427dbf6cb5c87138a7db60c456d5c24.600x338.jpg?t=1697740971"
+        }
+    ],
+    "short_description": "A fantasy topdown multiplayer RPG. Features a combination of 8 races and 6 classes. Explore new lands, trade with villages, upgrade runes, unlock new spells, craft, and more! Team with your friends to raid dungeons for special hidden rewards. Defend Dimraeth and choose your own destiny.",
+    "steam_appid": 2402680,
+    "support_info": {
+        "email": "Joseph@mudtek.dev",
+        "url": "http://www.mudtek.dev"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "http://www.mudtek.dev"
+}

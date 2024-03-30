@@ -1,0 +1,153 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Classic Turn Based Game</h2><br><ul class=\"bb_ul\"><li>Try to collect as many points as possible in each round.<br></li><li>You can either play in a team or you can play against everyone else on the field.<br></li><li>Different pieces of equipment can improve your skills in a round or weaken your opponents.<br></li><li>In some game modes you have limited time to earn points in other game modes you decide when the round ends, but beware the longer you stay on the field, the harder it will be to survive.<br></li><li>The further you progress in the campaign, the more items, playing fields and enemies will be unlocked.<br></li><li>Depending on your progress in the game, you can decide for yourself which game mode you want to play and which objects and enemies appear in the round.</li></ul><h2 class=\"bb_tag\">Content</h2><br><ul class=\"bb_ul\"><li>Over 25 different levels to unlock and play.<br></li><li>5 different game modes you can play.<br></li><li>10 items or enemies to unlock.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/page_bg_generated_v6b.jpg?t=1685560769",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/page.bg.jpg?t=1685560769",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/capsule_231x87.jpg?t=1685560769",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/capsule_184x69.jpg?t=1685560769",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Classic Turn Based Game</h2><br><ul class=\"bb_ul\"><li>Try to collect as many points as possible in each round.<br></li><li>You can either play in a team or you can play against everyone else on the field.<br></li><li>Different pieces of equipment can improve your skills in a round or weaken your opponents.<br></li><li>In some game modes you have limited time to earn points in other game modes you decide when the round ends, but beware the longer you stay on the field, the harder it will be to survive.<br></li><li>The further you progress in the campaign, the more items, playing fields and enemies will be unlocked.<br></li><li>Depending on your progress in the game, you can decide for yourself which game mode you want to play and which objects and enemies appear in the round.</li></ul><h2 class=\"bb_tag\">Content</h2><br><ul class=\"bb_ul\"><li>Over 25 different levels to unlock and play.<br></li><li>5 different game modes you can play.<br></li><li>10 items or enemies to unlock.</li></ul>",
+    "developers": [
+        "Ice Break INQ"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/header.jpg?t=1685560769",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932633,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932633/movie480.mp4?t=1680623839",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932633/movie_max.mp4?t=1680623839"
+            },
+            "name": "Exit Maze",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932633/movie.293x165.jpg?t=1680623839",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932633/movie480_vp9.webm?t=1680623839",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932633/movie_max_vp9.webm?t=1680623839"
+            }
+        }
+    ],
+    "name": "Exit Maze",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Exit Maze - $1.99",
+                    "packageid": 838901,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Exit Maze"
+        }
+    ],
+    "packages": [
+        838901
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Ice Break INQ"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_2a3ccbd0605464bb0bf52b0110abe141f317f566.1920x1080.jpg?t=1685560769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_2a3ccbd0605464bb0bf52b0110abe141f317f566.600x338.jpg?t=1685560769"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_c9ed56082c499f56fc37ed26f8ba325a007c41b8.1920x1080.jpg?t=1685560769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_c9ed56082c499f56fc37ed26f8ba325a007c41b8.600x338.jpg?t=1685560769"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_01a1f0857856d56fb074a8378d39d9addb37f517.1920x1080.jpg?t=1685560769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_01a1f0857856d56fb074a8378d39d9addb37f517.600x338.jpg?t=1685560769"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_94636d3b1c61c7f6ab3041c39f93e5ed294b22c3.1920x1080.jpg?t=1685560769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_94636d3b1c61c7f6ab3041c39f93e5ed294b22c3.600x338.jpg?t=1685560769"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_3f083666197b969c1bcf49d0012f9f7cad2777c5.1920x1080.jpg?t=1685560769",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/ss_3f083666197b969c1bcf49d0012f9f7cad2777c5.600x338.jpg?t=1685560769"
+        }
+    ],
+    "short_description": "Bomb your way through the game",
+    "steam_appid": 2335680,
+    "support_info": {
+        "email": "support@icebreakinq.at",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

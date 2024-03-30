@@ -1,0 +1,146 @@
+{
+    "about_the_game": "&quot;Heart&quot; is a rhythm defense game where players protect the heart of love. Using precise reactions and rhythm, they wield a sword to fend off attacks synced to musical beats from all directions. Evade or counteract each attack in time with the rhythm, testing reaction speed and rhythm sense.<br />\r\n<br />\r\nKey features of the game include:<br />\r\n<br />\r\nMusical Fusion: Each level is intricately intertwined with carefully selected music, creating a rhythmic and melodious gaming experience. Players engage with the game in sync with the beats, immersing themselves in the fusion of music and gameplay.<br />\r\n<br />\r\nChallenging Game Modes: The game offers various difficulty levels and challenges catering to players of different skill levels. Each level tests players' reaction times and precision.<br />\r\n<br />\r\nExquisite Visual Design: The game boasts stunning visual effects and a distinctive art style, captivating players and drawing them into its expressive gaming world.<br />\r\n<br />\r\nDiverse Levels and Challenges: Players can explore multiple levels and challenges, each designed with different difficulties and gameplay styles, ensuring continuous excitement and fresh experiences.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/page_bg_generated_v6b.jpg?t=1704886979",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/page_bg_generated.jpg?t=1704886979",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/capsule_231x87.jpg?t=1704886979",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/capsule_184x69.jpg?t=1704886979",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;Heart&quot; is a rhythm defense game where players protect the heart of love. Using precise reactions and rhythm, they wield a sword to fend off attacks synced to musical beats from all directions. Evade or counteract each attack in time with the rhythm, testing reaction speed and rhythm sense.<br />\r\n<br />\r\nKey features of the game include:<br />\r\n<br />\r\nMusical Fusion: Each level is intricately intertwined with carefully selected music, creating a rhythmic and melodious gaming experience. Players engage with the game in sync with the beats, immersing themselves in the fusion of music and gameplay.<br />\r\n<br />\r\nChallenging Game Modes: The game offers various difficulty levels and challenges catering to players of different skill levels. Each level tests players' reaction times and precision.<br />\r\n<br />\r\nExquisite Visual Design: The game boasts stunning visual effects and a distinctive art style, captivating players and drawing them into its expressive gaming world.<br />\r\n<br />\r\nDiverse Levels and Challenges: Players can explore multiple levels and challenges, each designed with different difficulties and gameplay styles, ensuring continuous excitement and fresh experiences.",
+    "developers": [
+        "undownsidable"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/header.jpg?t=1704886979",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988645,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988645/movie480.mp4?t=1703298316",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988645/movie_max.mp4?t=1703298316"
+            },
+            "name": "Heart",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988645/movie.293x165.jpg?t=1703298316",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988645/movie480_vp9.webm?t=1703298316",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988645/movie_max_vp9.webm?t=1703298316"
+            }
+        }
+    ],
+    "name": "Heart",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u5c0f\u5fc3\u5fc3 - $1.99",
+                    "packageid": 979836,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Heart"
+        }
+    ],
+    "packages": [
+        979836
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows10<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 258 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "undownsidable"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 5, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_a5758e2ba91cc3b7679baeec438398858b461c39.1920x1080.jpg?t=1704886979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_a5758e2ba91cc3b7679baeec438398858b461c39.600x338.jpg?t=1704886979"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_e6a29cca64e7c198fde788e9e1cb4fb40fdc19fb.1920x1080.jpg?t=1704886979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_e6a29cca64e7c198fde788e9e1cb4fb40fdc19fb.600x338.jpg?t=1704886979"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_0ccd8a22fe67050d264620529086d89c1d8800a1.1920x1080.jpg?t=1704886979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_0ccd8a22fe67050d264620529086d89c1d8800a1.600x338.jpg?t=1704886979"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_f6b5390de25cbc2f1739f827e61691a37778c4c1.1920x1080.jpg?t=1704886979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_f6b5390de25cbc2f1739f827e61691a37778c4c1.600x338.jpg?t=1704886979"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_072e45bbda3bc98ec3165fe9ba1cdd301776eff5.1920x1080.jpg?t=1704886979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738520/ss_072e45bbda3bc98ec3165fe9ba1cdd301776eff5.600x338.jpg?t=1704886979"
+        }
+    ],
+    "short_description": "&quot;Heart&quot; is a rhythm defense game where players protect the heart of love. Using precise reactions and rhythm, they wield a sword to fend off attacks synced to musical beats from all directions. Evade or counteract each attack in time with the rhythm, testing reaction speed and rhythm sense.",
+    "steam_appid": 2738520,
+    "support_info": {
+        "email": "1037842839@qq.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

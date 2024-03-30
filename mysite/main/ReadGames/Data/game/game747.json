@@ -1,0 +1,109 @@
+{
+    "about_the_game": "Play as Bone Boy in this <i>humerus</i> game. Skate your way through the body as you use your rad tricks to defeat enemies and unleash your need for speed. Encounter an unforgettable range of characters such as Uncle Funny Bone and Jerry The Sentient Gum Wad. Explore cool environments such as the dystopian liver or the blasted tundra of the lungs. Unravel the mysteries of the body as you encounter the various illnesses that plague it.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/page_bg_generated_v6b.jpg?t=1683088707",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/page_bg_generated.jpg?t=1683088707",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/capsule_231x87.jpg?t=1683088707",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/capsule_184x69.jpg?t=1683088707",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Play as Bone Boy in this <i>humerus</i> game. Skate your way through the body as you use your rad tricks to defeat enemies and unleash your need for speed. Encounter an unforgettable range of characters such as Uncle Funny Bone and Jerry The Sentient Gum Wad. Explore cool environments such as the dystopian liver or the blasted tundra of the lungs. Unravel the mysteries of the body as you encounter the various illnesses that plague it.",
+    "developers": [
+        "Open Alpha"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/header.jpg?t=1683088707",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12.6 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB Video Memory<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12.6 or newer<br></li><li><strong>Processor:</strong> 3.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB Video Memory<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256944523,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944523/movie480.mp4?t=1682922926",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944523/movie_max.mp4?t=1682922926"
+            },
+            "name": "Bone Boy Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256944523/movie.293x165.jpg?t=1682922926",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944523/movie480_vp9.webm?t=1682922926",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944523/movie_max_vp9.webm?t=1682922926"
+            }
+        }
+    ],
+    "name": "Bone Boy",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB Video Memory<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> 3.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB Video Memory<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Open Alpha"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_a36726ecf2738e15bfc481d3af9c66bf71c30e04.1920x1080.jpg?t=1683088707",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_a36726ecf2738e15bfc481d3af9c66bf71c30e04.600x338.jpg?t=1683088707"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_3f1f7122669474675369025599374f5df439a4bd.1920x1080.jpg?t=1683088707",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_3f1f7122669474675369025599374f5df439a4bd.600x338.jpg?t=1683088707"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_5f48be76ef6f3b8017f15b8ba4b324bb4ea8cb10.1920x1080.jpg?t=1683088707",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_5f48be76ef6f3b8017f15b8ba4b324bb4ea8cb10.600x338.jpg?t=1683088707"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_922687c37f610ff8d56601d2964d9e61275e9649.1920x1080.jpg?t=1683088707",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_922687c37f610ff8d56601d2964d9e61275e9649.600x338.jpg?t=1683088707"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_9c53461fb23df51a35f7d2ae0b6cb4b448e75964.1920x1080.jpg?t=1683088707",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372070/ss_9c53461fb23df51a35f7d2ae0b6cb4b448e75964.600x338.jpg?t=1683088707"
+        }
+    ],
+    "short_description": "Feeling bad to the bone? Shred through the body as Bone Boy - learn rad tricks, help your friends and collect epic hats along the way. Get out there and tear it up, kid!",
+    "steam_appid": 2372070,
+    "support_info": {
+        "email": "",
+        "url": "https://openalphausc.weebly.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,264 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>Overview</strong></h2><i>Air Traffic Control is one of the world's most demanding professions. Every minute in the tower a Controller is called on to make life or death decisions for thousands of passengers and crewmembers. He or she must control a constantly changing situation; monitoring flight departures and arrivals; guiding planes around bad weather, mountainous terrain, and restricted flight areas; coping with fuel emergencies, slow planes, and fast jets (including the supersonic Concorde). In this fast-moving environment, even the slightest miscalculation can lead to a dangerous near-miss or mid-air disaster! Air traffic control is not for everybody; to succeed you must have superb concentration, quick wits, and nerves of steel.<br><br><strong>KENNEDY APROACH</strong> gives you a chance to test your mettle. How well can you handle the pressure and responsibility? Learn the ropes by working the graveyard shift at Atlanta International, and then work your way up to prime time at John F. Kennedy International. <br><br>Happy Landings!</i><h2 class=\"bb_tag\"><strong>History</strong></h2>Kennedy Approach is an air traffic control simulation computer game originally released for the Atari 8-bit family and Commodore 64 in 1985. <br>It was designed by Andy Hollis.<h2 class=\"bb_tag\"><strong>Gameplay</strong></h2>The player assumes the role of a air traffic controller, giving instructions to aircraft so that they can safely reach their destination without the flights being delayed or exiting/landing in the wrong location.<br><br>The aircraft either come flying in on the screen and have preset exit or landing points or show up as wanting to take off with an exit point. <br>It is the player's job to determine the route each aircraft flies and when they may land or take off.<br><br>In early game only a few planes will be present but their number keeps increasing in later stages.<br>It's the player's job to make sure that <br>- there is sufficient distance between aircraft. <br>- planes are not delayed<br>- planes exit at the correct corridor, at the correct altitude<br>- planes don't fly into storms<br>- planes don't fly over no-fly-zones.<br>- planes don't crash into mountains.<br><br><br>A keyboard is REQUIRED. Although a mouse can be used to issue commands, it will be much easier and faster to use the keyboard.<h2 class=\"bb_tag\"><strong>Remake</strong></h2>I tried to make the game as identical as possible to the original version. Gameplay is exactly the same. This second remake supports bigger screen resolutions and has somewhat nicer graphics. <br>It only runs on Windows O.S 64-bit.<br><br>The remake has five additional fan-made maps:<br>- Hongkong<br>- London<br>- Chicago<br>- Roanoke<br>- Orlando<h2 class=\"bb_tag\"><strong>Steam related features</strong></h2>Achievements (over 50, and more in the making), statistics and leaderboards.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\">Future</h2></h2><br>Free-play (pick any map, at any level, play endlessly).<br><br>And provided there is enough attention, I will work on<br>- save and resume<br>- support custom maps<br>- support custom voices<br>- nicer graphics",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Passed Atlanta at trainee level.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/238aaf339128b1c86ae14d8ea508f7ad0373ae07.jpg"
+            },
+            {
+                "name": "Passed graveyard shift in Atlanta.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/1d352ba6e7e6b0e80d53ce16074f3616d15db3f9.jpg"
+            },
+            {
+                "name": "Passed afternoon shift in Atlanta.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/e6d44cf87cc0324be7de21c245ee438a6e4d1318.jpg"
+            },
+            {
+                "name": "Passed morning shift in Atlanta.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/d1bcb0d60dfb3224e312c7502e63362aa0dbcbcf.jpg"
+            },
+            {
+                "name": "Passed primetime shift in Atlanta.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/2f4ab5a3c3b33010e0b44104052d63a8723266e5.jpg"
+            },
+            {
+                "name": "Passed trainee shift in Dallas.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/f7ee78bbeeb3e9dc8b546008ea33d14a9d6b2770.jpg"
+            },
+            {
+                "name": "Passed graveyard shift in Dallas.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/40185e7a494aea9e73840ffcbf0aaedf50389552.jpg"
+            },
+            {
+                "name": "Passed afternoon shift in Dallas.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/85c99589c6b4f5b1aebf0f6d33150a473b0fa359.jpg"
+            },
+            {
+                "name": "Passed morning shift in Dallas.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/1c31d8fa0420e4b193ebec269034282c8bf3e68d.jpg"
+            },
+            {
+                "name": "Passed primetime shift in Dallas.",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2373380/0e559e0f7da45b1c3f7ee933829ea00febdcef8f.jpg"
+            }
+        ],
+        "total": 52
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/page_bg_generated_v6b.jpg?t=1682511799",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/page.bg.jpg?t=1682511799",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/capsule_231x87.jpg?t=1682511799",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/capsule_184x69.jpg?t=1682511799",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>Overview</strong></h2><i>Air Traffic Control is one of the world's most demanding professions. Every minute in the tower a Controller is called on to make life or death decisions for thousands of passengers and crewmembers. He or she must control a constantly changing situation; monitoring flight departures and arrivals; guiding planes around bad weather, mountainous terrain, and restricted flight areas; coping with fuel emergencies, slow planes, and fast jets (including the supersonic Concorde). In this fast-moving environment, even the slightest miscalculation can lead to a dangerous near-miss or mid-air disaster! Air traffic control is not for everybody; to succeed you must have superb concentration, quick wits, and nerves of steel.<br><br><strong>KENNEDY APROACH</strong> gives you a chance to test your mettle. How well can you handle the pressure and responsibility? Learn the ropes by working the graveyard shift at Atlanta International, and then work your way up to prime time at John F. Kennedy International. <br><br>Happy Landings!</i><h2 class=\"bb_tag\"><strong>History</strong></h2>Kennedy Approach is an air traffic control simulation computer game originally released for the Atari 8-bit family and Commodore 64 in 1985. <br>It was designed by Andy Hollis.<h2 class=\"bb_tag\"><strong>Gameplay</strong></h2>The player assumes the role of a air traffic controller, giving instructions to aircraft so that they can safely reach their destination without the flights being delayed or exiting/landing in the wrong location.<br><br>The aircraft either come flying in on the screen and have preset exit or landing points or show up as wanting to take off with an exit point. <br>It is the player's job to determine the route each aircraft flies and when they may land or take off.<br><br>In early game only a few planes will be present but their number keeps increasing in later stages.<br>It's the player's job to make sure that <br>- there is sufficient distance between aircraft. <br>- planes are not delayed<br>- planes exit at the correct corridor, at the correct altitude<br>- planes don't fly into storms<br>- planes don't fly over no-fly-zones.<br>- planes don't crash into mountains.<br><br><br>A keyboard is REQUIRED. Although a mouse can be used to issue commands, it will be much easier and faster to use the keyboard.<h2 class=\"bb_tag\"><strong>Remake</strong></h2>I tried to make the game as identical as possible to the original version. Gameplay is exactly the same. This second remake supports bigger screen resolutions and has somewhat nicer graphics. <br>It only runs on Windows O.S 64-bit.<br><br>The remake has five additional fan-made maps:<br>- Hongkong<br>- London<br>- Chicago<br>- Roanoke<br>- Orlando<h2 class=\"bb_tag\"><strong>Steam related features</strong></h2>Achievements (over 50, and more in the making), statistics and leaderboards.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\">Future</h2></h2><br>Free-play (pick any map, at any level, play endlessly).<br><br>And provided there is enough attention, I will work on<br>- save and resume<br>- support custom maps<br>- support custom voices<br>- nicer graphics",
+    "developers": [
+        "One Armed Bandit"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/header.jpg?t=1682511799",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942117,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942117/movie480.mp4?t=1681971301",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942117/movie_max.mp4?t=1681971301"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942117/movie.293x165.jpg?t=1681971301",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942117/movie480_vp9.webm?t=1681971301",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942117/movie_max_vp9.webm?t=1681971301"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256940220,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940220/movie480.mp4?t=1680954548",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940220/movie_max.mp4?t=1680954548"
+            },
+            "name": "Kennedy Approach",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256940220/movie.293x165.jpg?t=1680954548",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940220/movie480_vp9.webm?t=1680954548",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940220/movie_max_vp9.webm?t=1680954548"
+            }
+        }
+    ],
+    "name": "Kennedy Approach",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Kennedy Approach - $3.99",
+                    "packageid": 853365,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Kennedy Approach"
+        }
+    ],
+    "packages": [
+        853365
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "One Armed Bandit"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 23, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_844ca75bf759b1b24000e54cf004d44a0c2dc316.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_844ca75bf759b1b24000e54cf004d44a0c2dc316.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_ce075e6834e413a6d99bddd6101212ca59998038.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_ce075e6834e413a6d99bddd6101212ca59998038.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_d6ee563ec0b04b8c82626c2b9e3268a49db59dd0.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_d6ee563ec0b04b8c82626c2b9e3268a49db59dd0.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_884f45201e2e9d3ff728af23d75afbe1c082318f.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_884f45201e2e9d3ff728af23d75afbe1c082318f.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_7c4c7001e1d069a8364d7dcfac23f8eeef842480.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_7c4c7001e1d069a8364d7dcfac23f8eeef842480.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_9e6f45e2e72afbe83b562a4b8787203f7246c8ff.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_9e6f45e2e72afbe83b562a4b8787203f7246c8ff.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_8c8482e222b3060e39ee31c28068fada0ad8c3ca.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_8c8482e222b3060e39ee31c28068fada0ad8c3ca.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_c5c2089cd9fd8fd7ef05300325d897268e781c16.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_c5c2089cd9fd8fd7ef05300325d897268e781c16.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_f2450c47b900601bcdfc659a735fd6ac9b63b7c4.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_f2450c47b900601bcdfc659a735fd6ac9b63b7c4.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_554d039a21e241d2ee087ad52bf117cf0e5e57f6.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_554d039a21e241d2ee087ad52bf117cf0e5e57f6.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_89403065d5e205d6db8f6a1b66af217c80a1b949.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_89403065d5e205d6db8f6a1b66af217c80a1b949.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_8f81893e60638f5456292ba089778991490378d0.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_8f81893e60638f5456292ba089778991490378d0.600x338.jpg?t=1682511799"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_50273e27007feb2d84b49d9d771f12664d964d6b.1920x1080.jpg?t=1682511799",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373380/ss_50273e27007feb2d84b49d9d771f12664d964d6b.600x338.jpg?t=1682511799"
+        }
+    ],
+    "short_description": "Remake of the classic Air Traffic Control simulation game Kennedy Approach.",
+    "steam_appid": 2373380,
+    "support_info": {
+        "email": "KennedyApproach@gmail.com",
+        "url": "https://steamcommunity.com/groups/OneArmedBandit"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

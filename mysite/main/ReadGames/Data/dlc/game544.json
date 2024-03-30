@@ -1,0 +1,182 @@
+{
+    "about_the_game": "The content of this bundle is already included in the EA SPORTS\u2122 PGA TOUR\u2122 Deluxe Edition.<br><br>EA SPORTS PGA TOUR Deluxe Upgrade includes:<br><ul class=\"bb_ul\"><li>1,500 PGA TOUR POINTS<br></li><li>PGA TOUR XP Bundle</li></ul><br>The exclusive home of the Majors, EA SPORTS PGA TOUR features Pure Strike for superior golf gameplay, powered by ShotLink\u00ae, and unrivaled access to the world\u2019s most exclusive golf courses.<br><br><strong>Home of the Majors</strong> \u2014 EA SPORTS PGA TOUR is the exclusive home of the Majors, including the Masters Tournament, the PGA Championship, the U.S. Open Championship and The Open Championship.<br><br><strong>Pure Strike Powered by ShotLink\u00ae</strong> \u2014 Powered by official PGA TOUR ShotLink\u00ae and TrackMan data, Pure Strike provides unique golf swings with a fluid feel and realistic outcomes on every golf shot. Pure Strike combines golfer-specific tendencies with unique Course Dynamics and revolutionized Ball Behavior for the premier golf gameplay experience.<br><br><strong>Your Career, Your Way</strong> \u2014 As your golf game improves, so does your path to becoming a Major champion. Create and customize a golfer, develop your skill set with new Shot Types, gain deeper knowledge as you play, and learn to attack every course like a pro.<br><br><strong>The World\u2019s Most Exclusive Courses</strong> \u2014 The tee is yours at 30 courses, designed in stunning quality with Frostbite\u2122 so you can enjoy more of golf\u2019s finer details than ever before.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/page_bg_generated_v6b.jpg?t=1698360088",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/page.bg.jpg?t=1698360088",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/capsule_231x87.jpg?t=1698360088",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/capsule_184x69.jpg?t=1698360088",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "The content of this bundle is already included in the EA SPORTS\u2122 PGA TOUR\u2122 Deluxe Edition.<br><br>EA SPORTS PGA TOUR Deluxe Upgrade includes:<br><ul class=\"bb_ul\"><li>1,500 PGA TOUR POINTS<br></li><li>PGA TOUR XP Bundle</li></ul><br>The exclusive home of the Majors, EA SPORTS PGA TOUR features Pure Strike for superior golf gameplay, powered by ShotLink\u00ae, and unrivaled access to the world\u2019s most exclusive golf courses.<br><br><strong>Home of the Majors</strong> \u2014 EA SPORTS PGA TOUR is the exclusive home of the Majors, including the Masters Tournament, the PGA Championship, the U.S. Open Championship and The Open Championship.<br><br><strong>Pure Strike Powered by ShotLink\u00ae</strong> \u2014 Powered by official PGA TOUR ShotLink\u00ae and TrackMan data, Pure Strike provides unique golf swings with a fluid feel and realistic outcomes on every golf shot. Pure Strike combines golfer-specific tendencies with unique Course Dynamics and revolutionized Ball Behavior for the premier golf gameplay experience.<br><br><strong>Your Career, Your Way</strong> \u2014 As your golf game improves, so does your path to becoming a Major champion. Create and customize a golfer, develop your skill set with new Shot Types, gain deeper knowledge as you play, and learn to attack every course like a pro.<br><br><strong>The World\u2019s Most Exclusive Courses</strong> \u2014 The tee is yours at 30 courses, designed in stunning quality with Frostbite\u2122 so you can enjoy more of golf\u2019s finer details than ever before.",
+    "developers": [
+        "Electronic Arts - Tiburon"
+    ],
+    "fullgame": {
+        "appid": "1677350",
+        "name": "EA SPORTS\u2122 PGA TOUR\u2122"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/header.jpg?t=1698360088",
+    "is_free": false,
+    "legal_notice": "Conditions & restrictions apply. See ea.com/legal for details.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "EA SPORTS\u2122 PGA TOUR\u2122 Deluxe Upgrade",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "EA SPORTS\u2122 PGA TOUR\u2122 Deluxe Upgrade - $14.99",
+                    "packageid": 839560,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy EA SPORTS\u2122 PGA TOUR\u2122 Deluxe Upgrade"
+        }
+    ],
+    "packages": [
+        839560
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Ryzen 5 1600 / Core i5 6600k<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon RX 570 /Geforce GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Ryzen 7 2700X /Core i7 6700<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Radeon RX 5700 XT / GeForce RTX 2060 Super<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Electronic Arts"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 6, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_0df62a2ebf4d7d1c0953755223bbffd543a583f0.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_0df62a2ebf4d7d1c0953755223bbffd543a583f0.600x338.jpg?t=1698360088"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_fb2bb9cf132241d945c1979c527a5769de9dc1d4.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_fb2bb9cf132241d945c1979c527a5769de9dc1d4.600x338.jpg?t=1698360088"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_fb349039e57cc0dfae274ac1ce7287b6df219bf1.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_fb349039e57cc0dfae274ac1ce7287b6df219bf1.600x338.jpg?t=1698360088"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_2446a394f0b7501b59601a56e64ec1ecbbda470a.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_2446a394f0b7501b59601a56e64ec1ecbbda470a.600x338.jpg?t=1698360088"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_df6b1efbc0e770e96536f07886cbc81a11236f06.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_df6b1efbc0e770e96536f07886cbc81a11236f06.600x338.jpg?t=1698360088"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_3791af350cb0fdbed24076822c210c1ac280d187.1920x1080.jpg?t=1698360088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337580/ss_3791af350cb0fdbed24076822c210c1ac280d187.600x338.jpg?t=1698360088"
+        }
+    ],
+    "short_description": "The exclusive home of the Majors, EA SPORTS\u2122 PGA TOUR\u2122 features Pure Strike for superior golf gameplay, powered by ShotLink\u00ae, and unrivaled access to the world\u2019s most exclusive golf courses.",
+    "steam_appid": 2337580,
+    "support_info": {
+        "email": "",
+        "url": "https://help.ea.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://www.ea.com/games/ea-sports-pga-tour"
+}

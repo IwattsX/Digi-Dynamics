@@ -1,0 +1,105 @@
+{
+    "about_the_game": "Adventure Boy is a pixel style 2D board adventure game. The character will automatically move and attack enemies, and skills need to be manually cast. Career transfer provides career weapons and skills, but players can only choose one at a time. Upgrade to obtain random character values and skills, and combine them with different weapons and skills to create your own professional genre. In addition, there are ways to enhance combat effectiveness such as contracts, fruits, and gift boxes.<br><br><br><br><strong><h2 class=\"bb_tag\">Role upgrade</h2></strong><br><br>According to the level increase of the character, a random bonus to the character's numerical value and the acquisition of ordinary skills will be provided. Players can choose appropriate values and skills based on the genre they want to create.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/002.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Ordinary skills</h2></strong><br><br>Ordinary skills are divided into upgradeable skills and non upgradeable skills. The maximum carrying capacity of non upgradeable skills is 2, and the maximum carrying capacity of upgradeable skills is 5. Upgradable skills can be upgraded up to 5 levels, and after 5 levels, the skills undergo a qualitative change with an additional entry. From low to high, there is a higher chance of achieving higher quality in white, green, and blue.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/001.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Role transfer</h2></strong><br><br>Reaching a certain level allows for job transfer, with main professions being Warrior, Sagittarius, and Mage. There are two stages of job transfer, each time providing the professional weapons and skills of the profession. Only one can be selected for each job transfer, and completing the entire profession can be achieved through repeated job transfers.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/004.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Other content</h2></strong><br><br><strong>Contract: </strong>Players can choose to sign a powerful contract after passing the secret realm level, but the contract also comes with side effects.<br><br><br><br><strong>Gift Box:</strong> There will be a gift box with a number in the upper right corner of the interface, which represents the probability of successfully opening the gift box. If you think you're lucky, you can try clicking on the gift box at around 30%. Otherwise, it's better to be honest and achieve 100%<br><br><br><br><strong>Fruit: </strong>When you successfully open the gift box, you can choose the fruit reward, which provides you with character attribute bonuses and can be stacked infinitely. Fruits can also be obtained from completing levels and stored in your backpack before your adventure.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/005.png?t=1703219584\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/page_bg_generated_v6b.jpg?t=1703219584",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/page_bg_generated.jpg?t=1703219584",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/capsule_231x87.jpg?t=1703219584",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/capsule_184x69.jpg?t=1703219584",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Adventure Boy is a pixel style 2D board adventure game. The character will automatically move and attack enemies, and skills need to be manually cast. Career transfer provides career weapons and skills, but players can only choose one at a time. Upgrade to obtain random character values and skills, and combine them with different weapons and skills to create your own professional genre. In addition, there are ways to enhance combat effectiveness such as contracts, fruits, and gift boxes.<br><br><br><br><strong><h2 class=\"bb_tag\">Role upgrade</h2></strong><br><br>According to the level increase of the character, a random bonus to the character's numerical value and the acquisition of ordinary skills will be provided. Players can choose appropriate values and skills based on the genre they want to create.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/002.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Ordinary skills</h2></strong><br><br>Ordinary skills are divided into upgradeable skills and non upgradeable skills. The maximum carrying capacity of non upgradeable skills is 2, and the maximum carrying capacity of upgradeable skills is 5. Upgradable skills can be upgraded up to 5 levels, and after 5 levels, the skills undergo a qualitative change with an additional entry. From low to high, there is a higher chance of achieving higher quality in white, green, and blue.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/001.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Role transfer</h2></strong><br><br>Reaching a certain level allows for job transfer, with main professions being Warrior, Sagittarius, and Mage. There are two stages of job transfer, each time providing the professional weapons and skills of the profession. Only one can be selected for each job transfer, and completing the entire profession can be achieved through repeated job transfers.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/004.png?t=1703219584\" /><br><br><strong><h2 class=\"bb_tag\">Other content</h2></strong><br><br><strong>Contract: </strong>Players can choose to sign a powerful contract after passing the secret realm level, but the contract also comes with side effects.<br><br><br><br><strong>Gift Box:</strong> There will be a gift box with a number in the upper right corner of the interface, which represents the probability of successfully opening the gift box. If you think you're lucky, you can try clicking on the gift box at around 30%. Otherwise, it's better to be honest and achieve 100%<br><br><br><br><strong>Fruit: </strong>When you successfully open the gift box, you can choose the fruit reward, which provides you with character attribute bonuses and can be stacked infinitely. Fruits can also be obtained from completing levels and stored in your backpack before your adventure.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734740/extras/005.png?t=1703219584\" />",
+    "developers": [
+        "Auglex studio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/header.jpg?t=1703219584",
+    "is_free": false,
+    "legal_notice": "Unauthorized infringement is prohibited.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "\u5192\u9669\u5c0f\u5b50 Adventure boy",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> window10/11<br></li><li><strong>Processor:</strong> Any type<br></li><li><strong>Graphics:</strong> Any type</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> window10/11<br></li><li><strong>Processor:</strong> Any type<br></li><li><strong>Graphics:</strong> Any type</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Auglex studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_05850ecfe6e539e7f42441efdb8d89793142a5d0.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_05850ecfe6e539e7f42441efdb8d89793142a5d0.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_cbcafe8311b7f94650136967a3eef46b77251fe2.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_cbcafe8311b7f94650136967a3eef46b77251fe2.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_5ecc85fbf7189d3adc8a217b4961d07eff14b016.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_5ecc85fbf7189d3adc8a217b4961d07eff14b016.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_a831db23596e8dcb1a2e4626b578febc6036460d.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_a831db23596e8dcb1a2e4626b578febc6036460d.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_a2f8bd622144a93499b23e83f74d2af295ec9581.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_a2f8bd622144a93499b23e83f74d2af295ec9581.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_7f2ed1c195654d2a35914cd3d7b74da260eb01fd.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_7f2ed1c195654d2a35914cd3d7b74da260eb01fd.600x338.jpg?t=1703219584"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_6821a8ee2bfbbc6401abea08fa4f1c68b0ef9957.1920x1080.jpg?t=1703219584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734740/ss_6821a8ee2bfbbc6401abea08fa4f1c68b0ef9957.600x338.jpg?t=1703219584"
+        }
+    ],
+    "short_description": "Adventure Boy is a pixel style 2D board adventure game. The character will automatically move and attack enemies, and skills need to be manually cast. Job transfer provides professional weapons and skills, paired with different weapons and skills to create your own professional genre.",
+    "steam_appid": 2734740,
+    "support_info": {
+        "email": "409229488@qq.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

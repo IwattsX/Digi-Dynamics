@@ -1,0 +1,101 @@
+{
+    "about_the_game": "BACKGAMINION is an atmospheric board game with deck building as its essential element.<br>You experience dungeon crawling in a mystic fantasy world and turn your cards into powerful minions and magic effects on the board.<br><br>Dungeon Crawl: Explore the dungeons of the BACKGAMINION universe! Random events make every game different.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Map_small.gif?t=1694359410\" /><br><br>Card Packs: Find and open card packs! Built your deck with the earned loot!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Loot_small.gif?t=1694359410\" /><br><br>Rune Magic: Use powerful runes and tinker with extensive synergies!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Draft_small.gif?t=1694359410\" /><br><br>Magic Perks: Get stronger with every run! Select magical perks to individualize your deck even more!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/page_bg_generated_v6b.jpg?t=1694359410",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/page_bg_generated.jpg?t=1694359410",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/capsule_231x87.jpg?t=1694359410",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/capsule_184x69.jpg?t=1694359410",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "BACKGAMINION is an atmospheric board game with deck building as its essential element.<br>You experience dungeon crawling in a mystic fantasy world and turn your cards into powerful minions and magic effects on the board.<br><br>Dungeon Crawl: Explore the dungeons of the BACKGAMINION universe! Random events make every game different.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Map_small.gif?t=1694359410\" /><br><br>Card Packs: Find and open card packs! Built your deck with the earned loot!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Loot_small.gif?t=1694359410\" /><br><br>Rune Magic: Use powerful runes and tinker with extensive synergies!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335510/extras/Draft_small.gif?t=1694359410\" /><br><br>Magic Perks: Get stronger with every run! Select magical perks to individualize your deck even more!",
+    "developers": [
+        "Kanjana Haag"
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/header.jpg?t=1694359410",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256953543,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953543/movie480.mp4?t=1694268523",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953543/movie_max.mp4?t=1694268523"
+            },
+            "name": "Backgaminion Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256953543/movie.293x165.jpg?t=1694268523",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256953543/movie480_vp9.webm?t=1694268523",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256953543/movie_max_vp9.webm?t=1694268523"
+            }
+        }
+    ],
+    "name": "Backgaminion",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft 64bit Windows 7 or younger<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 6250 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Kanjana Haag"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_bdddee0f1f2d563d752e6201c66edeecfc5e6e1c.1920x1080.jpg?t=1694359410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_bdddee0f1f2d563d752e6201c66edeecfc5e6e1c.600x338.jpg?t=1694359410"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_6b5824e46bc7aafc3fefde2c17d29e724e6fb50e.1920x1080.jpg?t=1694359410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_6b5824e46bc7aafc3fefde2c17d29e724e6fb50e.600x338.jpg?t=1694359410"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_07b11c2ef4ca703c8907b03c06912d9bca843fe3.1920x1080.jpg?t=1694359410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_07b11c2ef4ca703c8907b03c06912d9bca843fe3.600x338.jpg?t=1694359410"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_304974e3cf3878208c29952e8ea49ea4c5f22a48.1920x1080.jpg?t=1694359410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_304974e3cf3878208c29952e8ea49ea4c5f22a48.600x338.jpg?t=1694359410"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_ed52fd3b4fd371640622ec0b9c5e2aa0450abb25.1920x1080.jpg?t=1694359410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335510/ss_ed52fd3b4fd371640622ec0b9c5e2aa0450abb25.600x338.jpg?t=1694359410"
+        }
+    ],
+    "short_description": "BACKGAMINION is an atmospheric board game with deck building as its essential element. You experience dungeon crawling in a mystic fantasy world and turn your cards into powerful minions and magic effects on the board.",
+    "steam_appid": 2335510,
+    "support_info": {
+        "email": "siamsquaregames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

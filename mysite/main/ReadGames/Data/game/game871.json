@@ -1,0 +1,224 @@
+{
+    "about_the_game": "Farm Business is a game where you are challenged to turn a small farm into a successful business.<br>Your goal is to make the farm productive and provide the best products to the village.<br>Manage your time and vigor in the activities to be done in the day.<br>Every 4 months the change of seasons happens, be aware not to lose all your work. <br><br><strong><u>Main Features:</u></strong><h2 class=\"bb_tag\">Seasonal crops with variety of options.</h2>(Spring, Summer, Fall, Winter)<h2 class=\"bb_tag\">Improvements to the farm:</h2>(Build animal shelters, greenhouses to produce in any season, increase your stock capacity, automatic irrigation for the field and greenhouses)<h2 class=\"bb_tag\">Animal husbandry.</h2>(Cows, Chickens, Pigs)<h2 class=\"bb_tag\">Daily tasks available with the villagers.</h2>(Unique rewards to help your progress)",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Fuel",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/bb361e3bcb0e671f1c87c415d14c4460023fa5c7.jpg"
+            },
+            {
+                "name": "Lettuce",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/d9353bed2f4159a140b43f8393d55bb40e7fad15.jpg"
+            },
+            {
+                "name": "Pumpkin",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/f147e232f9cac4773d3415aaf7b8e4b99e9c0762.jpg"
+            },
+            {
+                "name": "White Pumpkin",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/866afb0690a9547991ca8c6ebffe0b38c4cb54e1.jpg"
+            },
+            {
+                "name": "Delicate Pumpkin",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/90e8ca53e5ddfb0368e79653ae2ecbec9ee6a11a.jpg"
+            },
+            {
+                "name": "Italian Pumpkin",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/513642450c4d5ce6b10cca1a18b57b4d8830c34d.jpg"
+            },
+            {
+                "name": "Orange Pumpkin",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/1ebc64eecddab64f98deab2296245ab6acef5253.jpg"
+            },
+            {
+                "name": "Plum",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/e4cc9cadb2db18efda0d25c301e41f4ddd5cc47c.jpg"
+            },
+            {
+                "name": "Wood",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/e69245b6f98435b6aa36f66b54fde596773af4c3.jpg"
+            },
+            {
+                "name": "Cherry",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370390/f37b8a474ae80a33c7435270469a14464286707c.jpg"
+            }
+        ],
+        "total": 52
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/page_bg_generated_v6b.jpg?t=1683898039",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/page.bg.jpg?t=1683898039",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/capsule_231x87.jpg?t=1683898039",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/capsule_184x69.jpg?t=1683898039",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Farm Business is a game where you are challenged to turn a small farm into a successful business.<br>Your goal is to make the farm productive and provide the best products to the village.<br>Manage your time and vigor in the activities to be done in the day.<br>Every 4 months the change of seasons happens, be aware not to lose all your work. <br><br><strong><u>Main Features:</u></strong><h2 class=\"bb_tag\">Seasonal crops with variety of options.</h2>(Spring, Summer, Fall, Winter)<h2 class=\"bb_tag\">Improvements to the farm:</h2>(Build animal shelters, greenhouses to produce in any season, increase your stock capacity, automatic irrigation for the field and greenhouses)<h2 class=\"bb_tag\">Animal husbandry.</h2>(Cows, Chickens, Pigs)<h2 class=\"bb_tag\">Daily tasks available with the villagers.</h2>(Unique rewards to help your progress)",
+    "developers": [
+        "LST Games"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/header.jpg?t=1683898039",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256938503,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938503/movie480.mp4?t=1682711690",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938503/movie_max.mp4?t=1682711690"
+            },
+            "name": "01",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938503/movie.293x165.jpg?t=1682711690",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938503/movie480_vp9.webm?t=1682711690",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938503/movie_max_vp9.webm?t=1682711690"
+            }
+        }
+    ],
+    "name": "Farm Business",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Farm Business - $19.99",
+                    "packageid": 852191,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Farm Business"
+        }
+    ],
+    "packages": [
+        852191
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> 2.0 GHz Intel or equivalent AMD dual-core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTS 450 Series, AMD Radeon HD 6770 graphics card or better (min 1GB VRAM)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "LST Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_872e8751db65f0e1a9db0d94356fbac9a92538ff.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_872e8751db65f0e1a9db0d94356fbac9a92538ff.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_34441cd1674954a311255526be908dc451a6ff7a.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_34441cd1674954a311255526be908dc451a6ff7a.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_73d9d2734419b8ca79fa3884d484947104061fd8.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_73d9d2734419b8ca79fa3884d484947104061fd8.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_04fbe3b2ce38bef8999da245b5fcbf4e89d4e876.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_04fbe3b2ce38bef8999da245b5fcbf4e89d4e876.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_5ff2a624fc6b32551cf1edf0d61e405140004cf5.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_5ff2a624fc6b32551cf1edf0d61e405140004cf5.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_d17d0809cd186b7e022c69e0f04a24c2e872007b.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_d17d0809cd186b7e022c69e0f04a24c2e872007b.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_654e40d670cd85521269d6a1657f4786fe0259e6.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_654e40d670cd85521269d6a1657f4786fe0259e6.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_f8789a68ff18ce95d6fb8236cdad91e17770a484.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_f8789a68ff18ce95d6fb8236cdad91e17770a484.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_14c397687003d34c4038fe1d935719f053c49e3b.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_14c397687003d34c4038fe1d935719f053c49e3b.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_4370f00eb93a588ef05de31e0f84aae572612486.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_4370f00eb93a588ef05de31e0f84aae572612486.600x338.jpg?t=1683898039"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_63d420033d7d5a27f9fdcb5512104b75c7807ffd.1920x1080.jpg?t=1683898039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370390/ss_63d420033d7d5a27f9fdcb5512104b75c7807ffd.600x338.jpg?t=1683898039"
+        }
+    ],
+    "short_description": "Farm Business is an agricultural simulation game, planting and cultivating various types of crops, raising animals, and achieving achievements.",
+    "steam_appid": 2370390,
+    "support_info": {
+        "email": "lstgamessuporte@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

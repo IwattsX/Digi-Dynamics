@@ -1,0 +1,201 @@
+{
+    "about_the_game": "Tunnel Adventure is an exciting and addictive game that challenges players to guide a paper airplane through a perilous tunnel. <br />\r\n<br />\r\nThe objective of the game is simple: cover as much distance as possible without crashing into the walls of the tunnel.Players take on the role of the paper airplane pilot and must maneuver their craft up and down through the tunnel, using quick reflexes and expert timing to avoid the sharp edges of the tunnel walls.<br />\r\n<br />\r\nOverall, Tunnel Adventure is a thrilling and engaging game that offers hours of entertainment for players looking for a fast-paced and challenging gaming experience.<br />\r\n<br />\r\nGame Features :<br />\r\n- Daily bonuses<br />\r\n- More than 20 paper airplanes<br />\r\n- Collecting circles for points",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/page_bg_generated_v6b.jpg?t=1700473544",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/page_bg_generated.jpg?t=1700473544",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/capsule_231x87.jpg?t=1700473544",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/capsule_184x69.jpg?t=1700473544",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Tunnel Adventure is an exciting and addictive game that challenges players to guide a paper airplane through a perilous tunnel. <br />\r\n<br />\r\nThe objective of the game is simple: cover as much distance as possible without crashing into the walls of the tunnel.Players take on the role of the paper airplane pilot and must maneuver their craft up and down through the tunnel, using quick reflexes and expert timing to avoid the sharp edges of the tunnel walls.<br />\r\n<br />\r\nOverall, Tunnel Adventure is a thrilling and engaging game that offers hours of entertainment for players looking for a fast-paced and challenging gaming experience.<br />\r\n<br />\r\nGame Features :<br />\r\n- Daily bonuses<br />\r\n- More than 20 paper airplanes<br />\r\n- Collecting circles for points",
+    "developers": [
+        "Atomic"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/header.jpg?t=1700473544",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256979128,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256979128/movie480.mp4?t=1698847959",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256979128/movie_max.mp4?t=1698847959"
+            },
+            "name": "tr",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256979128/movie.293x165.jpg?t=1698847959",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256979128/movie480_vp9.webm?t=1698847959",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256979128/movie_max_vp9.webm?t=1698847959"
+            }
+        }
+    ],
+    "name": "Tunnel Adventure",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Tunnel Adventure - $0.99",
+                    "packageid": 950247,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Tunnel Adventure"
+        }
+    ],
+    "packages": [
+        950247
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> -<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Atomic"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 20, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_14ea9147597d37b17b88e9d8ff7b65e505547a48.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_14ea9147597d37b17b88e9d8ff7b65e505547a48.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_c6e9a7a91065d32a1b645166a57a5c101b0610ab.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_c6e9a7a91065d32a1b645166a57a5c101b0610ab.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_72db204da7af49926b56528b19222dbebbf5da9b.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_72db204da7af49926b56528b19222dbebbf5da9b.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_dbcfb5292ed8a004c09b98d689dabc5f98920c95.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_dbcfb5292ed8a004c09b98d689dabc5f98920c95.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_d74033e6da0e11a4085ae3ed010032fed6407cbf.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_d74033e6da0e11a4085ae3ed010032fed6407cbf.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_a828f0088ccc512e0570b7308a1f16a0c9da0f20.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_a828f0088ccc512e0570b7308a1f16a0c9da0f20.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_f47e68caaab42154bfd0aafd0d6908bec97fc9a9.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_f47e68caaab42154bfd0aafd0d6908bec97fc9a9.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_3c3e8636be2f09e634394b3f746852e64ef64236.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_3c3e8636be2f09e634394b3f746852e64ef64236.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_8903b159861ec30cefdee6f64f08044a7f9cecd5.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_8903b159861ec30cefdee6f64f08044a7f9cecd5.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_bb3956bdee40326b2d96ad54b5067b351043b65c.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_bb3956bdee40326b2d96ad54b5067b351043b65c.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_4acf746088a8669af85ccd4e43298ff99b16073f.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_4acf746088a8669af85ccd4e43298ff99b16073f.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_4126922cd7501e20a37f0a1964a47145f380f436.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_4126922cd7501e20a37f0a1964a47145f380f436.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_6f7629a7186fa7b6e643e7e34f005ec593543fc2.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_6f7629a7186fa7b6e643e7e34f005ec593543fc2.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_1925fc392e2780b7f97a5883fd3b24e0b0f09648.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_1925fc392e2780b7f97a5883fd3b24e0b0f09648.600x338.jpg?t=1700473544"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_71ecd74ce2622433d4cde21782cde5aa006cf387.1920x1080.jpg?t=1700473544",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651180/ss_71ecd74ce2622433d4cde21782cde5aa006cf387.600x338.jpg?t=1700473544"
+        }
+    ],
+    "short_description": "Tunnel Adventure is an exciting and addictive game that challenges players to guide a paper airplane through a perilous tunnel.",
+    "steam_appid": 2651180,
+    "support_info": {
+        "email": "business@atomicfabrik.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

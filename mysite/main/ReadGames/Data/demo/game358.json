@@ -1,0 +1,123 @@
+{
+    "about_the_game": "From the charming Farm to the icy thrills of the Winter Resort, and from the sun-soaked Beach to the enchanting depths of the Forest, get ready for a whirlwind of fun, laughter, and competition!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738370/extras/steam-2.gif?t=1703663508\" /><br><br>Grab your friends and family because Party Friends supports both single-player and local multiplayer modes with Remote Play Together support for up to 4 players. Challenge your loved ones in friendly competitions that will have you laughing, strategizing, and celebrating victory together. Easy-to-learn gameplay ensures that everyone can join in on the fun, making it an excellent addition to any social event. Plus, the stunning, colorful visuals will leave a lasting impression on players of all ages.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738370/extras/steam-1.gif?t=1703663508\" /><br><br>Get ready to unleash your inner party animal and embark on a joyous adventure with Party Friends. It's time to create unforgettable memories, share moments of hilarity, and establish yourself as the life of the party. <br><br>Let the games begin!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/page_bg_generated_v6b.jpg?t=1703663508",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/page_bg_generated.jpg?t=1703663508",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/capsule_231x87.jpg?t=1703663508",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/capsule_184x69.jpg?t=1703663508",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "From the charming Farm to the icy thrills of the Winter Resort, and from the sun-soaked Beach to the enchanting depths of the Forest, get ready for a whirlwind of fun, laughter, and competition!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738370/extras/steam-2.gif?t=1703663508\" /><br><br>Grab your friends and family because Party Friends supports both single-player and local multiplayer modes with Remote Play Together support for up to 4 players. Challenge your loved ones in friendly competitions that will have you laughing, strategizing, and celebrating victory together. Easy-to-learn gameplay ensures that everyone can join in on the fun, making it an excellent addition to any social event. Plus, the stunning, colorful visuals will leave a lasting impression on players of all ages.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738370/extras/steam-1.gif?t=1703663508\" /><br><br>Get ready to unleash your inner party animal and embark on a joyous adventure with Party Friends. It's time to create unforgettable memories, share moments of hilarity, and establish yourself as the life of the party. <br><br>Let the games begin!",
+    "developers": [
+        "Revulo Games"
+    ],
+    "fullgame": {
+        "appid": "2639500",
+        "name": "Party Friends"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/header.jpg?t=1703663508",
+    "is_free": true,
+    "legal_notice": "Revulo Games LLC",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Party Friends Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Revulo Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_c300ed52f1dc7db428f5208e5cf67e8e47efb598.1920x1080.jpg?t=1703663508",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_c300ed52f1dc7db428f5208e5cf67e8e47efb598.600x338.jpg?t=1703663508"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_0846906395295da54c02fdb2e32013ea900b1d8c.1920x1080.jpg?t=1703663508",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_0846906395295da54c02fdb2e32013ea900b1d8c.600x338.jpg?t=1703663508"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_e57716a2d242e59f835217a636db7b3421f5553b.1920x1080.jpg?t=1703663508",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_e57716a2d242e59f835217a636db7b3421f5553b.600x338.jpg?t=1703663508"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_8260b09a4c2adb02251c22e7b91899512c9c165c.1920x1080.jpg?t=1703663508",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_8260b09a4c2adb02251c22e7b91899512c9c165c.600x338.jpg?t=1703663508"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_f9c0ee26bace619590e1dd30b51df6a936ea4957.1920x1080.jpg?t=1703663508",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738370/ss_f9c0ee26bace619590e1dd30b51df6a936ea4957.600x338.jpg?t=1703663508"
+        }
+    ],
+    "short_description": "Join the party extravaganza with Party Friends, a riotous collection of over 20 mini-games spanning 4 wildly entertaining themes - up to 4 players in multiplayer.",
+    "steam_appid": 2738370,
+    "support_info": {
+        "email": "contact@revulogames.com",
+        "url": "revulogames.com"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

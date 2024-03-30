@@ -1,0 +1,98 @@
+{
+    "about_the_game": "The Echoes of Drill soundtrack is a collection of dark, brooding electronic tracks that perfectly capture the atmosphere of the game. Remastered to a longer length than the in-game versions, each track immerses the listener with atmospheric sounds, making it perfect for exploring the game's mysterious landscapes. Whether you're a fan of <strong>electronic music</strong> or simply looking for <strong>ambient music</strong>, this is something for you.<br><br>Additionally, we plan to add new tracks in the future to keep the experience fresh and exciting.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/page_bg_generated_v6b.jpg?t=1678268115",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/page_bg_generated.jpg?t=1678268115",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/capsule_231x87.jpg?t=1678268115",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/capsule_184x69.jpg?t=1678268115",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The Echoes of Drill soundtrack is a collection of dark, brooding electronic tracks that perfectly capture the atmosphere of the game. Remastered to a longer length than the in-game versions, each track immerses the listener with atmospheric sounds, making it perfect for exploring the game's mysterious landscapes. Whether you're a fan of <strong>electronic music</strong> or simply looking for <strong>ambient music</strong>, this is something for you.<br><br>Additionally, we plan to add new tracks in the future to keep the experience fresh and exciting.",
+    "developers": [
+        "2Dynamic Games",
+        "DreamArtSoundDesigners"
+    ],
+    "fullgame": {
+        "appid": "1713810",
+        "name": "Lumencraft"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/header.jpg?t=1678268115",
+    "is_free": false,
+    "legal_notice": "\u00a92022-2023 2Dynamic Games Sp. z o.o. Trademarks and trade names belong to their respective owners. Lumencraft logo is a trademark of 2Dynamic Games Sp. z o.o. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Lumencraft: Soundtrack - Echoes of Drill",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Lumencraft Soundtrack - <span class=\"discount_original_price\">$4.99</span> $3.44",
+                    "packageid": 839504,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-31% ",
+                    "price_in_cents_with_discount": 344
+                }
+            ],
+            "title": "Buy Lumencraft: Soundtrack - Echoes of Drill"
+        }
+    ],
+    "packages": [
+        839504
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 350 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 31,
+        "final": 344,
+        "final_formatted": "$3.44",
+        "initial": 499,
+        "initial_formatted": "$4.99"
+    },
+    "publishers": [
+        "2Dynamic Games",
+        "Star Drifters"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/ss_0958ff2bf54416cbc755b8760da2df47f0cce9ec.1920x1080.jpg?t=1678268115",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337400/ss_0958ff2bf54416cbc755b8760da2df47f0cce9ec.600x338.jpg?t=1678268115"
+        }
+    ],
+    "short_description": "The Echoes of Drill soundtrack is a collection of dark, brooding electronic tracks that perfectly capture the atmosphere of the game.",
+    "steam_appid": 2337400,
+    "support_info": {
+        "email": "support@lumencraft-game.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

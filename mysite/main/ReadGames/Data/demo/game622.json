@@ -1,0 +1,65 @@
+{
+    "about_the_game": "* Level up your sense of humor and art, while playing!<br>* Solve social problems whiling travel around the world in a funny way!<br>* Cat? or Dog? Customize your original main character as you like!<br>* Up to you play mode [Cozy or Dark], according to your mood.<br>---<br> <strong>Story mode</strong><br>\u3000* Cinematic Story (6 min \u00d7 18 chapters), each chapter contains new Skill &amp; fresh gimmick<br>\u3000* A touching story unlike anything you have ever seen before. <br>     Heart wrenching emotional climax (universe, soul, origin of mankind, bond with the owner)<br>---<br> <strong>Traveling mode</strong><br>\u3000* 1-6 min / play, Rogue Light type (randomly generated)<br>&gt; Tourism (Cozy, Werewolf, Relaxation, mini games)<br>&gt; Exorcism (Beat\u2019em up, Action Platform, mini games)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335310/page_bg_generated_v6b.jpg?t=1695275515",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335310/page.bg.jpg?t=1695275515",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335310/capsule_231x87.jpg?t=1695275515",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335310/capsule_184x69.jpg?t=1695275515",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "* Level up your sense of humor and art, while playing!<br>* Solve social problems whiling travel around the world in a funny way!<br>* Cat? or Dog? Customize your original main character as you like!<br>* Up to you play mode [Cozy or Dark], according to your mood.<br>---<br> <strong>Story mode</strong><br>\u3000* Cinematic Story (6 min \u00d7 18 chapters), each chapter contains new Skill &amp; fresh gimmick<br>\u3000* A touching story unlike anything you have ever seen before. <br>     Heart wrenching emotional climax (universe, soul, origin of mankind, bond with the owner)<br>---<br> <strong>Traveling mode</strong><br>\u3000* 1-6 min / play, Rogue Light type (randomly generated)<br>&gt; Tourism (Cozy, Werewolf, Relaxation, mini games)<br>&gt; Exorcism (Beat\u2019em up, Action Platform, mini games)",
+    "developers": [
+        "Daiyu.studio"
+    ],
+    "fullgame": {
+        "appid": "2328380",
+        "name": "Paw Paw Destiny"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335310/header.jpg?t=1695275515",
+    "is_free": true,
+    "legal_notice": "\u00a9Daiyu.studio",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Paw Paw Destiny Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> 1.6GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 340 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Daiyu.studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 14, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Should not have been born? A secret story that your buddy before meet you.",
+    "steam_appid": 2335310,
+    "support_info": {
+        "email": "game@daiyu.studio",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Thai, Portuguese - Brazil, Russian, Traditional Chinese, Japanese, Korean, Indonesian",
+    "type": "demo",
+    "website": "http://daiyu.studio/pawpawdestiny"
+}

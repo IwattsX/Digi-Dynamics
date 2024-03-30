@@ -1,0 +1,158 @@
+{
+    "about_the_game": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!<br />\r\n<br />\r\nFeatures 20 different levels for about 30 minutes of Gameplay.<br />\r\n<br />\r\nThis game was originally created for the Ludum Dare 50, with the theme &quot;delay the inevitable&quot;.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Game Completed",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/b56b0be850bc9f3d18743721e90b4409401e8da4.jpg"
+            },
+            {
+                "name": "First Loop",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/cd5622f080776d9630af19b8e87fbb88c78f79df.jpg"
+            },
+            {
+                "name": "Two Trolleys One Loop",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/5aceb903ca61d2d38527928ac4d7f99deea02abc.jpg"
+            },
+            {
+                "name": "First Kill",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/b859201daaf8f011e35a17ffaf04e5aeb7361d06.jpg"
+            },
+            {
+                "name": "Get Killed",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/c934cdff25318a15a6064187d9a5c891b9b00290.jpg"
+            },
+            {
+                "name": "Go Offpiste",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/b29c50be7a73712745ffa3e7d17a649e14514d7d.jpg"
+            },
+            {
+                "name": "The Longest Loop",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/bc9429413718cd0523e7d978313a9bcfa0e576be.jpg"
+            },
+            {
+                "name": "The Busiest Loop",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/ee1032f44cff57641fccc5d964d2afd4fed6398a.jpg"
+            },
+            {
+                "name": "Crash Between Two Trolleys",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2372500/4f09bff3e33099df3ffb53a7531f2221a44c0a87.jpg"
+            }
+        ],
+        "total": 9
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/page_bg_generated_v6b.jpg?t=1696353745",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/page_bg_generated.jpg?t=1696353745",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/capsule_231x87.jpg?t=1696353745",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/capsule_184x69.jpg?t=1696353745",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!<br />\r\n<br />\r\nFeatures 20 different levels for about 30 minutes of Gameplay.<br />\r\n<br />\r\nThis game was originally created for the Ludum Dare 50, with the theme &quot;delay the inevitable&quot;.",
+    "developers": [
+        "albertnez"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/header.jpg?t=1696353745",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu Linux<br></li><li><strong>Processor:</strong> Dual Core 2GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB OpenGL 3.3+<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Dual Core 2GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB OpenGL 3.3+<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256954877,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256954877/movie480.mp4?t=1695074258",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256954877/movie_max.mp4?t=1695074258"
+            },
+            "name": "FirstTrailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256954877/movie.293x165.jpg?t=1695074258",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256954877/movie480_vp9.webm?t=1695074258",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256954877/movie_max_vp9.webm?t=1695074258"
+            }
+        }
+    ],
+    "name": "Trolley Delayma",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Dual Core 2GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB OpenGL 3.3+<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "albertnez"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 3, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_6c3f164564c39e194d218216385502e3c8d620f6.1920x1080.jpg?t=1696353745",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_6c3f164564c39e194d218216385502e3c8d620f6.600x338.jpg?t=1696353745"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_31253d543e035a1450e760401efd3c7aec1c357b.1920x1080.jpg?t=1696353745",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_31253d543e035a1450e760401efd3c7aec1c357b.600x338.jpg?t=1696353745"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_ba2cddf5f29b3d14106343a6966115aa1cf91b08.1920x1080.jpg?t=1696353745",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_ba2cddf5f29b3d14106343a6966115aa1cf91b08.600x338.jpg?t=1696353745"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_f2e329e919cd592d3a3697a61ad5f890fcf13043.1920x1080.jpg?t=1696353745",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_f2e329e919cd592d3a3697a61ad5f890fcf13043.600x338.jpg?t=1696353745"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_5b03a7299329115e9fa1a300b3024958f88a9aaf.1920x1080.jpg?t=1696353745",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372500/ss_5b03a7299329115e9fa1a300b3024958f88a9aaf.600x338.jpg?t=1696353745"
+        }
+    ],
+    "short_description": "Top down puzzle game about manipulating the tracks to redirect the trolley to save the victims. Solve the trolley problem in various forms of tiny puzzles.",
+    "steam_appid": 2372500,
+    "support_info": {
+        "email": "",
+        "url": "https://twitter.com/albertnez"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

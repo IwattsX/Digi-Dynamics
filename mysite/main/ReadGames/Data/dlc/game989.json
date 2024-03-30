@@ -1,0 +1,120 @@
+{
+    "about_the_game": "The Age of Wonders 4: Eldritch Realms expansion opens portals to realms filled with arcane marvels and unspeakable horrors. New forces threaten the rule of the Godir of Magehaven.  New story content, strange monsters, new racial forms, magical realms and locations bring a new dimension to the game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/page_bg_generated_v6b.jpg?t=1687364018",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/page.bg.jpg?t=1687364018",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/capsule_231x87.jpg?t=1687364018",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/capsule_184x69.jpg?t=1687364018",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The Age of Wonders 4: Eldritch Realms expansion opens portals to realms filled with arcane marvels and unspeakable horrors. New forces threaten the rule of the Godir of Magehaven.  New story content, strange monsters, new racial forms, magical realms and locations bring a new dimension to the game.",
+    "developers": [
+        "Triumph Studios"
+    ],
+    "fullgame": {
+        "appid": "1669000",
+        "name": "Age of Wonders 4"
+    },
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/header.jpg?t=1687364018",
+    "is_free": false,
+    "legal_notice": "\u00a92023 developed by Triumph Studios and published by Paradox Interactive AB. AGE OF WONDERS 4, TRIUMPH STUDIOS and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S. and other countries",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Age of Wonders 4: Eldritch Realms",
+    "package_groups": [],
+    "packages": [
+        864140
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 Home 64 Bit<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-2500K or AMD\u00ae Ryzen\u2122 5 1600X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\u00ae GeForce\u2122 GTX 670 (2GB) or AMD\u00ae Radeon\u2122 HD 7870 (2GB) or Intel\u00ae Arc\u2122 A380 (6GB) or Intel\u00ae Iris\u2122 Xe G7 (Tiger Lake) or AMD\u00ae Radeon\u2122 Vega 8<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Additional Notes:</strong> 1080p (30FPS)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 Home 64 Bit or Windows\u00ae 11<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i7-9700K or AMD\u00ae Ryzen\u2122 5 5600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\u00ae GeForce\u2122 GTX 1070 Ti (8GB) or AMD\u00ae Radeon\u2122 RX 5700 XT (8GB)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> &gt;20 GB available space<br></li><li><strong>Additional Notes:</strong> 1080p (60FPS)</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Paradox Interactive"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": "13",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/ss_cd997208e0c557a9402a60ab419f50bc0e533797.1920x1080.jpg?t=1687364018",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401860/ss_cd997208e0c557a9402a60ab419f50bc0e533797.600x338.jpg?t=1687364018"
+        }
+    ],
+    "short_description": "The Age of Wonders 4: Eldritch Realms expansion opens portals to realms filled with arcane marvels and unspeakable horrors. New forces threaten the rule of the Godir of Magehaven. New story content, strange monsters, new racial forms, magical realms and locations bring a new dimension to the game.",
+    "steam_appid": 2401860,
+    "support_info": {
+        "email": "support@paradoxplaza.com",
+        "url": "http://support.paradoxplaza.com"
+    },
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://www.paradoxinteractive.com/games/age-of-wonders-4/add-ons/eldritch-realms"
+}

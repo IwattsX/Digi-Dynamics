@@ -1,0 +1,129 @@
+{
+    "about_the_game": "Embark on an exhilarating avian adventure with &quot;House of Jigsaw: Amazing Birds&quot; DLC! Immerse yourself in a world of vibrant plumage, captivating habitats, and astonishing avian species. This DLC introduces a fresh challenge to the House of Jigsaw universe, where you'll race against the clock to piece together stunning bird puzzles. Get ready to showcase your puzzle-solving skills while exploring the awe-inspiring world of feathered wonders!<br><br>Show your puzzle-solving prowess with &quot;House of Jigsaw: Amazing Birds&quot; DLC. From the resplendent rainforests to the sweeping savannas, immerse yourself in the world of these winged wonders and share your achievements with the House of Jigsaw community! Prepare for an adventure that celebrates the awe-inspiring diversity of birdlife in a way that is truly unparalleled. Can you solve the Bird jigsaws in the shortest amount of time? Show your results on the community page.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649650/extras/Features-english.png?t=1704808938\" /><br><br><ul class=\"bb_ul\"><li>Explore the beauty of these winged wonders<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/page_bg_generated_v6b.jpg?t=1704808938",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/page.bg.jpg?t=1704808938",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/capsule_231x87.jpg?t=1704808938",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/capsule_184x69.jpg?t=1704808938",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on an exhilarating avian adventure with &quot;House of Jigsaw: Amazing Birds&quot; DLC! Immerse yourself in a world of vibrant plumage, captivating habitats, and astonishing avian species. This DLC introduces a fresh challenge to the House of Jigsaw universe, where you'll race against the clock to piece together stunning bird puzzles. Get ready to showcase your puzzle-solving skills while exploring the awe-inspiring world of feathered wonders!<br><br>Show your puzzle-solving prowess with &quot;House of Jigsaw: Amazing Birds&quot; DLC. From the resplendent rainforests to the sweeping savannas, immerse yourself in the world of these winged wonders and share your achievements with the House of Jigsaw community! Prepare for an adventure that celebrates the awe-inspiring diversity of birdlife in a way that is truly unparalleled. Can you solve the Bird jigsaws in the shortest amount of time? Show your results on the community page.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649650/extras/Features-english.png?t=1704808938\" /><br><br><ul class=\"bb_ul\"><li>Explore the beauty of these winged wonders<br></li><li>Multiple puzzle selection<br></li><li>Cutouts up to 1000 pieces <br></li><li>Different edge cutouts<br></li><li>Change background color<br></li><li>Incredible zoom<br></li><li>Compare your time score with players on the community page</li></ul>",
+    "developers": [
+        "Graphium Studio"
+    ],
+    "fullgame": {
+        "appid": "2607920",
+        "name": "House of Jigsaw: Happy puzzling, Happy home"
+    },
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/header.jpg?t=1704808938",
+    "is_free": false,
+    "legal_notice": "\u00a9Denda Games 2023<br />\r\n\u00a9Graphium Studio 2023",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "House of Jigsaw: Amazing Birds",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "House of Jigsaw: Amazing Birds - $2.99",
+                    "packageid": 949749,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy House of Jigsaw: Amazing Birds"
+        }
+    ],
+    "packages": [
+        949749
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Denda Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 9, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_cdc93a7b1f52f6fbe9289baab01e2c7064a2ff55.1920x1080.jpg?t=1704808938",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_cdc93a7b1f52f6fbe9289baab01e2c7064a2ff55.600x338.jpg?t=1704808938"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_46c9567210280a7f43b8bcafc7a9edde9b81976e.1920x1080.jpg?t=1704808938",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_46c9567210280a7f43b8bcafc7a9edde9b81976e.600x338.jpg?t=1704808938"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_9b2748345c8535c8f998618e887241ded98e6831.1920x1080.jpg?t=1704808938",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_9b2748345c8535c8f998618e887241ded98e6831.600x338.jpg?t=1704808938"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_ebd635278070aee6764b86054785a27b337e5e4d.1920x1080.jpg?t=1704808938",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_ebd635278070aee6764b86054785a27b337e5e4d.600x338.jpg?t=1704808938"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_c958ce0e219e5628d83eb43d613a8a0788fbf257.1920x1080.jpg?t=1704808938",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649650/ss_c958ce0e219e5628d83eb43d613a8a0788fbf257.600x338.jpg?t=1704808938"
+        }
+    ],
+    "short_description": "Embark on an exhilarating avian adventure with House of Jigsaw: Amazing Birds DLC! Immerse yourself in a world of vibrant plumage, captivating habitats, and astonishing avian species.",
+    "steam_appid": 2649650,
+    "support_info": {
+        "email": "helpdesk@denda.com",
+        "url": "https://www.denda.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://denda-corporate.com/"
+}

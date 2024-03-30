@@ -1,0 +1,149 @@
+{
+    "about_the_game": "An incredibly groovy and varied soundtrack for the game! Includes 70 music tracks by Darkman007, RWG, Plegaci, Mardar, see u in the spring and SallyChaseXD in MP3. The soundtrack includes only original tunes recorded specifically for D.U.C.K.! <br />\r\n<br />\r\nBonus: some unused tracks and different cover-arts! Two tracks (How much is 8-bit and 5462) are included in the soundtrack with permission of the authors. Enjoy listening!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/page_bg_generated_v6b.jpg?t=1679952078",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/page_bg_generated.jpg?t=1679952078",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/capsule_231x87.jpg?t=1679952078",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/capsule_184x69.jpg?t=1679952078",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "An incredibly groovy and varied soundtrack for the game! Includes 70 music tracks by Darkman007, RWG, Plegaci, Mardar, see u in the spring and SallyChaseXD in MP3. The soundtrack includes only original tunes recorded specifically for D.U.C.K.! <br />\r\n<br />\r\nBonus: some unused tracks and different cover-arts! Two tracks (How much is 8-bit and 5462) are included in the soundtrack with permission of the authors. Enjoy listening!",
+    "developers": [
+        "Duck Team"
+    ],
+    "fullgame": {
+        "appid": "1820770",
+        "name": "DUCK: Dangerous Ultimate Cartridge Kidnapper"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/header.jpg?t=1679952078",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256933784,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933784/movie480.mp4?t=1677907115",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933784/movie_max.mp4?t=1677907115"
+            },
+            "name": "DUCK_OST",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933784/movie.293x165.jpg?t=1677907115",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933784/movie480_vp9.webm?t=1677907115",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933784/movie_max_vp9.webm?t=1677907115"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256933407,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933407/movie480.mp4?t=1677901680",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933407/movie_max.mp4?t=1677901680"
+            },
+            "name": "DUCK",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933407/movie.293x165.jpg?t=1677901680",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933407/movie480_vp9.webm?t=1677901680",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933407/movie_max_vp9.webm?t=1677901680"
+            }
+        }
+    ],
+    "name": "DUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "DUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack - $1.99",
+                    "packageid": 839112,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy DUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack"
+        }
+    ],
+    "packages": [
+        839112
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Take Aim Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_6b05133a01ef400a3e353d0f576abb62b6f2fd5b.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_6b05133a01ef400a3e353d0f576abb62b6f2fd5b.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_20e370289c2b931ecb6384312d27034a5ba8b4d6.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_20e370289c2b931ecb6384312d27034a5ba8b4d6.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_431efa3d6950bf82d94456501548cef0e9dbe362.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_431efa3d6950bf82d94456501548cef0e9dbe362.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_93623d566589b392083d3d7b9030623b18a13f54.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_93623d566589b392083d3d7b9030623b18a13f54.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_21077e9e8c1f2863eb678049cdc1b91eb0b83f03.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_21077e9e8c1f2863eb678049cdc1b91eb0b83f03.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_d97420055ac65b8791fbcfc7dc8a6a2c40306b56.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_d97420055ac65b8791fbcfc7dc8a6a2c40306b56.600x338.jpg?t=1679952078"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_e11c82f75780243eaa59e23a7d7a9d372aca3d59.1920x1080.jpg?t=1679952078",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336320/ss_e11c82f75780243eaa59e23a7d7a9d372aca3d59.600x338.jpg?t=1679952078"
+        }
+    ],
+    "short_description": "An incredibly groovy and varied soundtrack for the game! Includes 70 music tracks by various authors in MP3.",
+    "steam_appid": 2336320,
+    "support_info": {
+        "email": "duckteamgroup@gmail.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

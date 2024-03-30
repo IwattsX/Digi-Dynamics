@@ -1,0 +1,101 @@
+{
+    "about_the_game": "<strong>Chocolatio</strong> is a game where you build automated factories with the purpose of producing all kinds of chocolate.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif9New.gif?t=1702982633\" /><br><br>There's <strong>no time limit</strong> and <strong>no enemies</strong>, you can freely design your dream chocolate factory without <strong>any pressure</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif11New.gif?t=1702982633\" /><br><br>Gather natural resources and watch as you go from cocoa beans and sugar to a chocolate bar!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif10New.gif?t=1702982633\" /><br><br>                     Deliver resources to upgrade your factory and unlock new technology as to increase efficiency and find new ways to make chocolate.<br>                     Use different types of machines to achieve the ultimate goal of becoming the <strong>master chocolatier</strong>!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/page_bg_generated_v6b.jpg?t=1702982633",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/page_bg_generated.jpg?t=1702982633",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/capsule_231x87.jpg?t=1702982633",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/capsule_184x69.jpg?t=1702982633",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<strong>Chocolatio</strong> is a game where you build automated factories with the purpose of producing all kinds of chocolate.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif9New.gif?t=1702982633\" /><br><br>There's <strong>no time limit</strong> and <strong>no enemies</strong>, you can freely design your dream chocolate factory without <strong>any pressure</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif11New.gif?t=1702982633\" /><br><br>Gather natural resources and watch as you go from cocoa beans and sugar to a chocolate bar!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736760/extras/Gif10New.gif?t=1702982633\" /><br><br>                     Deliver resources to upgrade your factory and unlock new technology as to increase efficiency and find new ways to make chocolate.<br>                     Use different types of machines to achieve the ultimate goal of becoming the <strong>master chocolatier</strong>!",
+    "developers": [
+        "RawEgg"
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/header.jpg?t=1702982633",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988825,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988825/movie480.mp4?t=1702982624",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988825/movie_max.mp4?t=1702982624"
+            },
+            "name": "Teste",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988825/movie.293x165.jpg?t=1702982624",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988825/movie480_vp9.webm?t=1702982624",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988825/movie_max_vp9.webm?t=1702982624"
+            }
+        }
+    ],
+    "name": "Chocolatio",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> 2 Ghz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "RawEgg"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_9ea8de4e1c5cc0ebfd45e8ded61313674cfcd665.1920x1080.jpg?t=1702982633",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_9ea8de4e1c5cc0ebfd45e8ded61313674cfcd665.600x338.jpg?t=1702982633"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_dc8309c6ade05077c0a2df2fea9e8fcac4a50469.1920x1080.jpg?t=1702982633",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_dc8309c6ade05077c0a2df2fea9e8fcac4a50469.600x338.jpg?t=1702982633"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_535cb378d0a77ef8ec847d625bca534306038249.1920x1080.jpg?t=1702982633",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_535cb378d0a77ef8ec847d625bca534306038249.600x338.jpg?t=1702982633"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_0489e783f966e33f4d3b5a4e319a1a4351498bb4.1920x1080.jpg?t=1702982633",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_0489e783f966e33f4d3b5a4e319a1a4351498bb4.600x338.jpg?t=1702982633"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_c4474ad8cc975344cb13b7349045a0dd05c72165.1920x1080.jpg?t=1702982633",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736760/ss_c4474ad8cc975344cb13b7349045a0dd05c72165.600x338.jpg?t=1702982633"
+        }
+    ],
+    "short_description": "Create and build your own automated chocolate factory. Freely design and expand your factories to deliver a huge variety of chocolate themed resources.",
+    "steam_appid": 2736760,
+    "support_info": {
+        "email": "josepmribeiro98@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

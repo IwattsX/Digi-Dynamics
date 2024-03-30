@@ -1,0 +1,161 @@
+{
+    "about_the_game": "One day, a meteorite falls on Earth, causing monsters and putting the world in its most apocalyptic state, so a group has created a secret base and formed an organization called Heaven Diversion to defeat enemies that threaten humanity and restore the nature of the world to normal.<br />\r\nFeatures:<br />\r\n- Eliminate monster caused by disasters<br />\r\n- Find minerals that will buff the player stats<br />\r\n- 2 playable character<br />\r\n- 12 monsters (9 normal + 3 boss)<br />\r\n- 18 weapons (6 melee,  6 range, 6 etc.)<br />\r\n- can combine into 9 op weapons<br />\r\n- inventory system that can rearrange item to get extra buff",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/page_bg_generated_v6b.jpg?t=1704281880",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/page_bg_generated.jpg?t=1704281880",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/capsule_231x87.jpg?t=1704281880",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/capsule_184x69.jpg?t=1704281880",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "One day, a meteorite falls on Earth, causing monsters and putting the world in its most apocalyptic state, so a group has created a secret base and formed an organization called Heaven Diversion to defeat enemies that threaten humanity and restore the nature of the world to normal.<br />\r\nFeatures:<br />\r\n- Eliminate monster caused by disasters<br />\r\n- Find minerals that will buff the player stats<br />\r\n- 2 playable character<br />\r\n- 12 monsters (9 normal + 3 boss)<br />\r\n- 18 weapons (6 melee,  6 range, 6 etc.)<br />\r\n- can combine into 9 op weapons<br />\r\n- inventory system that can rearrange item to get extra buff",
+    "developers": [
+        "IntroWork"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/header.jpg?t=1704281880",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256990132,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990132/movie480.mp4?t=1703069445",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990132/movie_max.mp4?t=1703069445"
+            },
+            "name": "Game Trailer V0.1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990132/movie.293x165.jpg?t=1703069445",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990132/movie480_vp9.webm?t=1703069445",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990132/movie_max_vp9.webm?t=1703069445"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256987931,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987931/movie480.mp4?t=1703064826",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987931/movie_max.mp4?t=1703064826"
+            },
+            "name": "Short Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987931/movie.293x165.jpg?t=1703064826",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987931/movie480_vp9.webm?t=1703064826",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987931/movie_max_vp9.webm?t=1703064826"
+            }
+        }
+    ],
+    "name": "Alterhavoc",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Alterhavoc - $4.99",
+                    "packageid": 978574,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Alterhavoc"
+        }
+    ],
+    "packages": [
+        978574
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 11 64bit<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128MB OpenGL 3+<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "IntroWork"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 3, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_a6bdb43b342a7e2cfda1cab257bc296036d57baa.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_a6bdb43b342a7e2cfda1cab257bc296036d57baa.600x338.jpg?t=1704281880"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_0138e7219fa4473ef304fd466fd049430b79b85e.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_0138e7219fa4473ef304fd466fd049430b79b85e.600x338.jpg?t=1704281880"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_cfaaa9a85c2a175ee98a32d18a46e2334a5d5d52.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_cfaaa9a85c2a175ee98a32d18a46e2334a5d5d52.600x338.jpg?t=1704281880"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_d75fd2ac05618b2ef3fd6d3551acebbc193c5062.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_d75fd2ac05618b2ef3fd6d3551acebbc193c5062.600x338.jpg?t=1704281880"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_346806f7a2142997dec6668a165d4d6b7f76efe0.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_346806f7a2142997dec6668a165d4d6b7f76efe0.600x338.jpg?t=1704281880"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_c306a7e17c3b1db3956827e60fe43e0053ac72d0.1920x1080.jpg?t=1704281880",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734770/ss_c306a7e17c3b1db3956827e60fe43e0053ac72d0.600x338.jpg?t=1704281880"
+        }
+    ],
+    "short_description": "Alterhavoc is a Rogue-like Bullet hell game where players have to survive and fight monsters with an Inventory system where the resources can be arranged in a limited area to receive additional buffs.",
+    "steam_appid": 2734770,
+    "support_info": {
+        "email": "introworkgroup@gmail.com",
+        "url": "-"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

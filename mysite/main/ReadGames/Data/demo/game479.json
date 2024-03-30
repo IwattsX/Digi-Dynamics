@@ -1,0 +1,60 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733700/capsule_231x87.jpg?t=1702458729",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733700/capsule_184x69.jpg?t=1702458729",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "HapGames"
+    ],
+    "fullgame": {
+        "appid": "2685630",
+        "name": "Sling Puzzle: Gravity Master"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733700/header.jpg?t=1702458729",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Sling Puzzle: Gravity Master Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1 supported GPU<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "HapGames"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 13, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2733700,
+    "support_info": {
+        "email": "support@happytube.com",
+        "url": ""
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "demo",
+    "website": null
+}

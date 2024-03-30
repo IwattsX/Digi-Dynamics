@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Cook'n'Slash is a slasher game featuring multiple game modes: boss battles, territory clearing, arena battles and...cooking!<br><br>A large corporation has released a new kind of fertilizer that makes plants grow faster, literally by the hour. But things didn't go to plan: the plants didn't just grow, they came to life and started terrorizing the whole neighborhood! Only the chef at the small restaurant knows what to do: it's not the first time he has to deal with vegetables, and it's not the first time he toasted a steak!<br><br>It's up to you to rid the town of bloodthirsty vegetables and punish those responsible for this hilarious apocalypse!<br><br>Cook'n'Slash features:<br><ul class=\"bb_ul\"><li> Many various levels with different mechanics;<br></li><li> Bonuses and modifiers that allow you to do even more damage;<br></li><li> Several types of weapons, including ranged weapons;<br></li><li> Over a dozen of different enemies, from tomatoes and cucumbers to pomegranates, steaks and sausages!<br></li><li> Several powerful bosses that will test your mettle;<br></li><li> Colourful effects: juice splashes, explosions and more!</li></ul><br>If you feel brave and hugry, try your hand at Cook'n'Slash! Who knew chopping vegetables could be so cool!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/page_bg_generated_v6b.jpg?t=1699612314",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/page.bg.jpg?t=1699612314",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/capsule_231x87.jpg?t=1699612314",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/capsule_184x69.jpg?t=1699612314",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Cook'n'Slash is a slasher game featuring multiple game modes: boss battles, territory clearing, arena battles and...cooking!<br><br>A large corporation has released a new kind of fertilizer that makes plants grow faster, literally by the hour. But things didn't go to plan: the plants didn't just grow, they came to life and started terrorizing the whole neighborhood! Only the chef at the small restaurant knows what to do: it's not the first time he has to deal with vegetables, and it's not the first time he toasted a steak!<br><br>It's up to you to rid the town of bloodthirsty vegetables and punish those responsible for this hilarious apocalypse!<br><br>Cook'n'Slash features:<br><ul class=\"bb_ul\"><li> Many various levels with different mechanics;<br></li><li> Bonuses and modifiers that allow you to do even more damage;<br></li><li> Several types of weapons, including ranged weapons;<br></li><li> Over a dozen of different enemies, from tomatoes and cucumbers to pomegranates, steaks and sausages!<br></li><li> Several powerful bosses that will test your mettle;<br></li><li> Colourful effects: juice splashes, explosions and more!</li></ul><br>If you feel brave and hugry, try your hand at Cook'n'Slash! Who knew chopping vegetables could be so cool!",
+    "developers": [
+        "Drunk Fly Oy"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/header.jpg?t=1699612314",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256962137,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962137/movie480.mp4?t=1691309803",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962137/movie_max.mp4?t=1691309803"
+            },
+            "name": "Current (EN)",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256962137/movie.293x165.jpg?t=1691309803",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962137/movie480_vp9.webm?t=1691309803",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962137/movie_max_vp9.webm?t=1691309803"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256937781,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937781/movie480.mp4?t=1691269671",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937781/movie_max.mp4?t=1691269671"
+            },
+            "name": "Alpha",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937781/movie.293x165.jpg?t=1691269671",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937781/movie480_vp9.webm?t=1691269671",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937781/movie_max_vp9.webm?t=1691269671"
+            }
+        }
+    ],
+    "name": "Cook'n'Slash",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x64 or x86 with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable<br></li><li><strong>DirectX:</strong> Version 10</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x64 or x86 with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX11, DX12 capable<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Drunk Fly Oy"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3965ea3e8bacfe4936f70156057d20ac78b91883.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3965ea3e8bacfe4936f70156057d20ac78b91883.600x338.jpg?t=1699612314"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_8d76e1591c115e2df9067624b10a26bb2c4a26c8.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_8d76e1591c115e2df9067624b10a26bb2c4a26c8.600x338.jpg?t=1699612314"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_4cf3949cf6544506810c15b40fec7655f6b74b67.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_4cf3949cf6544506810c15b40fec7655f6b74b67.600x338.jpg?t=1699612314"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3ed20d858a77b3c4aa823c1c7c157bbd42d192db.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3ed20d858a77b3c4aa823c1c7c157bbd42d192db.600x338.jpg?t=1699612314"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3d0b29c6e76d4aaff32a6fd264f017e7afec371b.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_3d0b29c6e76d4aaff32a6fd264f017e7afec371b.600x338.jpg?t=1699612314"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_f1a8b00826e19ac87028e0eef457408ff09efb22.1920x1080.jpg?t=1699612314",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335450/ss_f1a8b00826e19ac87028e0eef457408ff09efb22.600x338.jpg?t=1699612314"
+        }
+    ],
+    "short_description": "Cook'n'Slash is a slasher game featuring multiple game modes: boss battles, territory clearing, arena battles and...cooking! It's up to you to rid the town of bloodthirsty vegetables and punish those responsible for this hilarious apocalypse!",
+    "steam_appid": 2335450,
+    "support_info": {
+        "email": "info@drunkfly.eu",
+        "url": "https://www.drunkfly.eu/contact-us"
+    },
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain, Russian<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

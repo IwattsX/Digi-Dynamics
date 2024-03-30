@@ -1,0 +1,105 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650390/extras/JFLogo_rezise_75.gif?t=1701564249\" /><br><br><strong>After almost 30 years, the pioneer of 3D platforming has returned!!</strong><br><br>Hello, my name is Ishaq Mohamed, better known as the man behind the alias <strong>Chem The Chameleon</strong> and the owner of the (Twitter/ X) handle<strong> @Robbit4life</strong>. And I'm a huge fan of the classic franchise<strong> 'Jumping Flash!'</strong>. To honour its thirtieth anniversary, I created a small vertical slice of a hypothetical <strong>'Jumping Flash 4!'</strong> to use it as as a playable pitch to get the attention of the IP owners. It's admittingly a bit basic, but imagine what I can do with a small team to create the <strong>Jumping Flash!</strong> sequel fans deserved!<br><br><strong><h2 class=\"bb_tag\">What this Concept Pitch contains:</h2></strong><br> <ul class=\"bb_ul\"><li>An updated recreation of the first level of <strong>Jumping Flash!: <i>World 1-1</i>!</strong><br></li><li> Powered by Unreal Engine 5.2!<br></li><li> Updated Controls suitable for a new audience!<br></li><li> A small secret for those a bit nostalgic...</li></ul><br><strong>LETS GO ROBBIT! JUMP AND GO!!</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650390/extras/JF4_GIF_1.gif?t=1701564249\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/page_bg_generated_v6b.jpg?t=1701564249",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/page.bg.jpg?t=1701564249",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/capsule_231x87.jpg?t=1701564249",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/capsule_184x69.jpg?t=1701564249",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650390/extras/JFLogo_rezise_75.gif?t=1701564249\" /><br><br><strong>After almost 30 years, the pioneer of 3D platforming has returned!!</strong><br><br>Hello, my name is Ishaq Mohamed, better known as the man behind the alias <strong>Chem The Chameleon</strong> and the owner of the (Twitter/ X) handle<strong> @Robbit4life</strong>. And I'm a huge fan of the classic franchise<strong> 'Jumping Flash!'</strong>. To honour its thirtieth anniversary, I created a small vertical slice of a hypothetical <strong>'Jumping Flash 4!'</strong> to use it as as a playable pitch to get the attention of the IP owners. It's admittingly a bit basic, but imagine what I can do with a small team to create the <strong>Jumping Flash!</strong> sequel fans deserved!<br><br><strong><h2 class=\"bb_tag\">What this Concept Pitch contains:</h2></strong><br> <ul class=\"bb_ul\"><li>An updated recreation of the first level of <strong>Jumping Flash!: <i>World 1-1</i>!</strong><br></li><li> Powered by Unreal Engine 5.2!<br></li><li> Updated Controls suitable for a new audience!<br></li><li> A small secret for those a bit nostalgic...</li></ul><br><strong>LETS GO ROBBIT! JUMP AND GO!!</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650390/extras/JF4_GIF_1.gif?t=1701564249\" />",
+    "developers": [
+        "Ishaq Mohamed (Chem The Chameleon)"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/header.jpg?t=1701564249",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": false,
+            "id": 256986269,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256986269/movie480.mp4?t=1701564242",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256986269/movie_max.mp4?t=1701564242"
+            },
+            "name": "Understand Everything in 17 Seconds...",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256986269/movie.293x165.jpg?t=1701564242",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256986269/movie480_vp9.webm?t=1701564242",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256986269/movie_max_vp9.webm?t=1701564242"
+            }
+        }
+    ],
+    "name": "Jumping Flash 4: Return of Robbit | Playable Concept Pitch",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 10 (64-bit)<br></li><li><strong>Processor:</strong> Core i5-5675C<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060 (6GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Please hire me Jim Ryan/Hiroki Totoki!"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_88dbad1a20a177e35675f71e83ece8dc4fb42407.1920x1080.jpg?t=1701564249",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_88dbad1a20a177e35675f71e83ece8dc4fb42407.600x338.jpg?t=1701564249"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_fd579f7815483cfe5d08580bbe372f21c8cb8bb6.1920x1080.jpg?t=1701564249",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_fd579f7815483cfe5d08580bbe372f21c8cb8bb6.600x338.jpg?t=1701564249"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_1a428ddf39c386a085dbc058399bd78f322c0a87.1920x1080.jpg?t=1701564249",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_1a428ddf39c386a085dbc058399bd78f322c0a87.600x338.jpg?t=1701564249"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_dd24f86fff071e0e943c02dd726167ffb812e97b.1920x1080.jpg?t=1701564249",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_dd24f86fff071e0e943c02dd726167ffb812e97b.600x338.jpg?t=1701564249"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_804c5cfc63ca2ef110bf660070ebc8827329f9b8.1920x1080.jpg?t=1701564249",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650390/ss_804c5cfc63ca2ef110bf660070ebc8827329f9b8.600x338.jpg?t=1701564249"
+        }
+    ],
+    "short_description": "The galaxy is under threat once again after almost thirty years of peace, only Robbit can bring justice! Warning: This is a fan-made game and it is created to seek job opportunities at PlayStation! Follow @ChameleonChem/@Robbit4life for more Info!",
+    "steam_appid": 2650390,
+    "support_info": {
+        "email": "ishaqmohamed15@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

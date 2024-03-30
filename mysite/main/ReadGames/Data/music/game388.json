@@ -1,0 +1,89 @@
+{
+    "about_the_game": "This is the soundtrack of the Snowman Story game, containing all 18 songs from the game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/page_bg_generated_v6b.jpg?t=1702717029",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/page_bg_generated.jpg?t=1702717029",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/capsule_231x87.jpg?t=1702717029",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/capsule_184x69.jpg?t=1702717029",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is the soundtrack of the Snowman Story game, containing all 18 songs from the game.",
+    "developers": [
+        "Jinjor"
+    ],
+    "fullgame": {
+        "appid": "2635930",
+        "name": "Snowman Story"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/header.jpg?t=1702717029",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Snowman Story OST",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Snowman Story Soundtrack - $2.99",
+                    "packageid": 979177,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Snowman Story OST"
+        }
+    ],
+    "packages": [
+        979177
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Odencat"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 16, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/ss_8aeb0915a0607b429388bf1b32da76087a473ef4.1920x1080.jpg?t=1702717029",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736620/ss_8aeb0915a0607b429388bf1b32da76087a473ef4.600x338.jpg?t=1702717029"
+        }
+    ],
+    "short_description": "Snowman Story OST presented by Jinjor",
+    "steam_appid": 2736620,
+    "support_info": {
+        "email": "contact@odencat.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

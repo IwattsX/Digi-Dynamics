@@ -1,0 +1,120 @@
+{
+    "about_the_game": "Shadow of Murders is a story-rich murder-solving game.<br><br>Doctor Joseph, at the age of 42, married his university sweetheart, Marry, after completing his studies. He established his own clinic and during this time, he also completed his master's and doctoral degrees. In the 5th year of their marriage, they had a child, but tragedy struck when his wife and child were lost in an accident, just as he had lost his parents. He struggled to overcome the grief, sought treatment in a hospital, and eventually closed his clinic. His life had turned upside down. After completing his treatment, he returned to the university to teach, dedicating himself to his work. He conducted numerous scientific research projects and became a renowned psychiatrist in his field. The FBI sought his expertise for a case, and he provided assistance. Subsequently, he continued to offer consultation and analysis for various cases for the FBI, and he still does so to this day.<br><br>How about solving the murders with Doctor Joseph?<h2 class=\"bb_tag\">Free Roam:</h2>Collect clues during your investigation, explore the locations you desire.<h2 class=\"bb_tag\">Interaction with Objects:</h2>Click on books and clues, and examine them closely.<h2 class=\"bb_tag\">Become a Psychiatrist:</h2>Become Doctor Joseph, talk to people, find the killer, and provide information to the FBI.<br><br>Remember, events and people are not normal.<br><br><strong>GAMEPLAY</strong><br>Make people talk. Gather evidence. Find the killer and report to the FBI.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/page_bg_generated_v6b.jpg?t=1703351069",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/page_bg_generated.jpg?t=1703351069",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/capsule_231x87.jpg?t=1703351069",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/capsule_184x69.jpg?t=1703351069",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Shadow of Murders is a story-rich murder-solving game.<br><br>Doctor Joseph, at the age of 42, married his university sweetheart, Marry, after completing his studies. He established his own clinic and during this time, he also completed his master's and doctoral degrees. In the 5th year of their marriage, they had a child, but tragedy struck when his wife and child were lost in an accident, just as he had lost his parents. He struggled to overcome the grief, sought treatment in a hospital, and eventually closed his clinic. His life had turned upside down. After completing his treatment, he returned to the university to teach, dedicating himself to his work. He conducted numerous scientific research projects and became a renowned psychiatrist in his field. The FBI sought his expertise for a case, and he provided assistance. Subsequently, he continued to offer consultation and analysis for various cases for the FBI, and he still does so to this day.<br><br>How about solving the murders with Doctor Joseph?<h2 class=\"bb_tag\">Free Roam:</h2>Collect clues during your investigation, explore the locations you desire.<h2 class=\"bb_tag\">Interaction with Objects:</h2>Click on books and clues, and examine them closely.<h2 class=\"bb_tag\">Become a Psychiatrist:</h2>Become Doctor Joseph, talk to people, find the killer, and provide information to the FBI.<br><br>Remember, events and people are not normal.<br><br><strong>GAMEPLAY</strong><br>Make people talk. Gather evidence. Find the killer and report to the FBI.",
+    "developers": [
+        "Selim Ozcan"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/header.jpg?t=1703351069",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256961575,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961575/movie480.mp4?t=1692644429",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961575/movie_max.mp4?t=1692644429"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256961575/movie.293x165.jpg?t=1692644429",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256961575/movie480_vp9.webm?t=1692644429",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256961575/movie_max_vp9.webm?t=1692644429"
+            }
+        }
+    ],
+    "name": "Shadow of Murders",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5 2500<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 16 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5 11400<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 2060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Selim Ozcan"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_6c63c13fa36c26d7261146cc5dd61d5b79e2c461.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_6c63c13fa36c26d7261146cc5dd61d5b79e2c461.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_9ac26c09863f6a3575d4cc13d0bf4b68d19d2a89.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_9ac26c09863f6a3575d4cc13d0bf4b68d19d2a89.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_bc90f95d3ed44c7eee8645ebeddd7a1333bd19d3.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_bc90f95d3ed44c7eee8645ebeddd7a1333bd19d3.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_8b29cb178da9cbb129e2c27ad20f25b8b395c776.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_8b29cb178da9cbb129e2c27ad20f25b8b395c776.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_44a810c8b87f19bb18613b64f5f45187f4fb26ef.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_44a810c8b87f19bb18613b64f5f45187f4fb26ef.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_ed85e6bc7ab80d3fe92401014c77ed98836e0477.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_ed85e6bc7ab80d3fe92401014c77ed98836e0477.600x338.jpg?t=1703351069"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_4e5775e821ddc07c4392560451e9f932ff18b20f.1920x1080.jpg?t=1703351069",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372930/ss_4e5775e821ddc07c4392560451e9f932ff18b20f.600x338.jpg?t=1703351069"
+        }
+    ],
+    "short_description": "Shadow of Murders is a murder-solving game.Help solve the FBI's unsolvable murders with Psychiatrist Joseph. People and situations are not normal. Make people talk. Gather evidence. Find the killer and inform the FBI.",
+    "steam_appid": 2372930,
+    "support_info": {
+        "email": "shadowofmurders@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

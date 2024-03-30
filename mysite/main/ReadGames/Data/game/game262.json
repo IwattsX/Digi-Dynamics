@@ -1,0 +1,120 @@
+{
+    "about_the_game": "Super RPS is a tactical strategy game in which two players have a series of Rock, Paper, Scissors matches on 5 fields concurrently. Each player has a secondary deck of &quot;Field Cards&quot; that have special abilities that can turn the match in your favor, such as Rock++ which will make Rock beat not only Scissors, but Paper as well! Strategize and place your &quot;Field Cards&quot; to try and win the most matches possible!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/page_bg_generated_v6b.jpg?t=1700870037",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/page_bg_generated.jpg?t=1700870037",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/capsule_231x87.jpg?t=1700870037",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/capsule_184x69.jpg?t=1700870037",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Super RPS is a tactical strategy game in which two players have a series of Rock, Paper, Scissors matches on 5 fields concurrently. Each player has a secondary deck of &quot;Field Cards&quot; that have special abilities that can turn the match in your favor, such as Rock++ which will make Rock beat not only Scissors, but Paper as well! Strategize and place your &quot;Field Cards&quot; to try and win the most matches possible!",
+    "developers": [
+        "BlueExabyte"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/header.jpg?t=1700870037",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Super RPS",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Graphics:</strong> Any GPU or integrated graphics</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "BlueExabyte"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_8a36e561eb20a5455c14335a6c7431d60d92d601.1920x1080.jpg?t=1700870037",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_8a36e561eb20a5455c14335a6c7431d60d92d601.600x338.jpg?t=1700870037"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_ae09515d6f0ef6b9ca73c0c5f3db5b8776876f27.1920x1080.jpg?t=1700870037",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_ae09515d6f0ef6b9ca73c0c5f3db5b8776876f27.600x338.jpg?t=1700870037"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_e3be85619a22a9f5cd796b507f57eeaffb91f337.1920x1080.jpg?t=1700870037",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_e3be85619a22a9f5cd796b507f57eeaffb91f337.600x338.jpg?t=1700870037"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_68e054c4b703ab4b62e645cb1fda85b8ab782f78.1920x1080.jpg?t=1700870037",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_68e054c4b703ab4b62e645cb1fda85b8ab782f78.600x338.jpg?t=1700870037"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_13bdd241d545b4c8ccad4014aadf41364f8cf458.1920x1080.jpg?t=1700870037",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634770/ss_13bdd241d545b4c8ccad4014aadf41364f8cf458.600x338.jpg?t=1700870037"
+        }
+    ],
+    "short_description": "Super RPS is a tactical strategy game in which two players have a series of Rock, Paper, Scissors matches on 5 fields concurrently. Each player has a secondary deck of &quot;Field Cards&quot; that have special abilities that can turn the match in your favor.",
+    "steam_appid": 2634770,
+    "support_info": {
+        "email": "blueexabyte@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

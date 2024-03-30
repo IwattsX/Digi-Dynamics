@@ -1,0 +1,159 @@
+{
+    "about_the_game": "This pixel tileset pack contains classroom materials with multiple attributes, emphasizing rich campus life! This diverse range of classroom tilesets, including general, science, home economics, art, gym, and nurse's office,will come in handy to create realistic and captivating classrooms.<br />\r\n<br />\r\n\u25a0\tSpecial specialized classroom material.<br />\r\nDiversified classrooms can be created to make campus exploration more interesting.<br />\r\n\u25a0\tDiversified collocations to create a dream campus life.<br />\r\nIncluding movable doors and fountains, making the school livelier.<br />\r\n-----------------------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n\u3010tilesets (4 sheets)\u3011<br />\r\n<br />\r\n\u30fbA5 tiles\uff1a1 sheets<br />\r\n\u30fbB~E tiles\uff1a3 sheets<br />\r\n<br />\r\n\u3010character (2 sheets)\u3011<br />\r\n<br />\r\n\u30fbFountain 192\u00d7144pixel (4 patterns)<br />\r\n\u30fbDoor 48\u00d796pixel (3 patterns)",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/page_bg_generated_v6b.jpg?t=1683766748",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/page_bg_generated.jpg?t=1683766748",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/capsule_231x87.jpg?t=1683766748",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/capsule_184x69.jpg?t=1683766748",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This pixel tileset pack contains classroom materials with multiple attributes, emphasizing rich campus life! This diverse range of classroom tilesets, including general, science, home economics, art, gym, and nurse's office,will come in handy to create realistic and captivating classrooms.<br />\r\n<br />\r\n\u25a0\tSpecial specialized classroom material.<br />\r\nDiversified classrooms can be created to make campus exploration more interesting.<br />\r\n\u25a0\tDiversified collocations to create a dream campus life.<br />\r\nIncluding movable doors and fountains, making the school livelier.<br />\r\n-----------------------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n\u3010tilesets (4 sheets)\u3011<br />\r\n<br />\r\n\u30fbA5 tiles\uff1a1 sheets<br />\r\n\u30fbB~E tiles\uff1a3 sheets<br />\r\n<br />\r\n\u3010character (2 sheets)\u3011<br />\r\n<br />\r\n\u30fbFountain 192\u00d7144pixel (4 patterns)<br />\r\n\u30fbDoor 48\u00d796pixel (3 patterns)",
+    "developers": [
+        "\u5348\u85cd Wulan",
+        "Gotcha Gotcha Games"
+    ],
+    "fullgame": {
+        "appid": "363890",
+        "name": "RPG Maker MV"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Education",
+            "id": "54"
+        },
+        {
+            "description": "Web Publishing",
+            "id": "59"
+        },
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/header.jpg?t=1683766748",
+    "is_free": false,
+    "legal_notice": "\u00a92023 Wulan \u00a9Gotcha Gotcha Games Inc.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "name": "RPG Maker MV - Specialized Classroom Tiles",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RPG Maker MV - Specialized Classroom Tiles - $8.99",
+                    "packageid": 864081,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 899
+                }
+            ],
+            "title": "Buy RPG Maker MV - Specialized Classroom Tiles"
+        }
+    ],
+    "packages": [
+        864081
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 899,
+        "final_formatted": "$8.99",
+        "initial": 899,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Gotcha Gotcha Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_190ecedd10c1e2570c24fecee8f318cddd319229.1920x1080.jpg?t=1683766748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_190ecedd10c1e2570c24fecee8f318cddd319229.600x338.jpg?t=1683766748"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_12c9c5037fb0a2510b6a1716ae7b49047834c0d3.1920x1080.jpg?t=1683766748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_12c9c5037fb0a2510b6a1716ae7b49047834c0d3.600x338.jpg?t=1683766748"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_82bb09d4adbb8f5453c14dff656eaefc19051fd8.1920x1080.jpg?t=1683766748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_82bb09d4adbb8f5453c14dff656eaefc19051fd8.600x338.jpg?t=1683766748"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_9e91a2c9fcea7919677f7bf0a45adc161fc588ba.1920x1080.jpg?t=1683766748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_9e91a2c9fcea7919677f7bf0a45adc161fc588ba.600x338.jpg?t=1683766748"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_f97936651fb20c17a230fba8e8b5fc973f8a5705.1920x1080.jpg?t=1683766748",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401691/ss_f97936651fb20c17a230fba8e8b5fc973f8a5705.600x338.jpg?t=1683766748"
+        }
+    ],
+    "short_description": "This pixel tileset pack contains classroom materials with multiple attributes, emphasizing rich campus life! This diverse range of classroom tilesets, including general, science, home economics, art, gym, and nurse's office,will come in handy to create realistic and captivating classrooms.",
+    "steam_appid": 2401691,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgmakerofficial.com/en/contactform/"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "dlc",
+    "website": "https://rpgmakerofficial.com/product/makerofficialdlc/"
+}

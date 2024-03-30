@@ -1,0 +1,150 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>About Game</strong></h2>You are a young girl who wakes up in a dark and mysterious dungeon. You don\u2019t know how you got there or why you are there. You only know that you want to escape.<br><br>As you explore the dungeon, you encounter a friendly spirit who claims to have been trapped there for a long time. He says he can\u2019t leave the dungeon but can help you find a way out. He also tells you that he has a secret that he can\u2019t reveal to you yet.<br><br>You decide to trust the spirit and work with him to solve the puzzles and challenges the dungeon presents. Along the way, you learn more about the spirit\u2019s past and his connection to the dungeon. You also discover that the dungeon is not what it seems and that there is a hidden truth behind your imprisonment.<br><br>Will you be able to free the spirit and yourself from the dungeon? What will you do when you find out the spirit\u2019s secret? How will you deal with the consequences of your actions?<br><br>This is a game of adventure, mystery, and friendship. It is a game where your choices matter and affect the story's outcome. It is a game where you will face danger, betrayal, and sacrifice. It is a game where you will find hope, courage, and love.<h2 class=\"bb_tag\"><strong>Game Feature</strong></h2><ul class=\"bb_ul\"><li> <strong>Character Switching</strong>: You can control both the girl and the spirit and switch between them at any time. Each character has different abilities and perspectives that can help you overcome obstacles and discover secrets in the dungeon.<br><br></li><li> <strong>Puzzle Solving</strong>: You will encounter various puzzles and challenges that require logic, creativity, and teamwork. You will need to use the girl's and the spirit's skills in combination to find solutions and progress through the dungeon.<br><br></li><li> <strong>Storytelling</strong>: You will experience a rich and immersive story that unfolds as you explore the dungeon. You will learn more about the girl's and the spirit's backgrounds, motivations, and personalities. You will also face choices that will affect the outcome of the story and the fate of the characters.</li></ul><h2 class=\"bb_tag\"><strong>About the Developer</strong></h2>We are a small team of indie game developers who are passionate about creating immersive and engaging games. This is our first game project, and we are excited to share it with you.<br><br>However, as this game is still in Early Access, it may contain some bugs and errors that we are working hard to fix. We appreciate your feedback and support, and we apologize for any inconvenience caused by the game's issues.<br><br>We hope you enjoy playing our game and exploring the dungeon with the girl and the spirit.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/page_bg_generated_v6b.jpg?t=1703864781",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/page_bg_generated.jpg?t=1703864781",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/capsule_231x87.jpg?t=1703864781",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/capsule_184x69.jpg?t=1703864781",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>About Game</strong></h2>You are a young girl who wakes up in a dark and mysterious dungeon. You don\u2019t know how you got there or why you are there. You only know that you want to escape.<br><br>As you explore the dungeon, you encounter a friendly spirit who claims to have been trapped there for a long time. He says he can\u2019t leave the dungeon but can help you find a way out. He also tells you that he has a secret that he can\u2019t reveal to you yet.<br><br>You decide to trust the spirit and work with him to solve the puzzles and challenges the dungeon presents. Along the way, you learn more about the spirit\u2019s past and his connection to the dungeon. You also discover that the dungeon is not what it seems and that there is a hidden truth behind your imprisonment.<br><br>Will you be able to free the spirit and yourself from the dungeon? What will you do when you find out the spirit\u2019s secret? How will you deal with the consequences of your actions?<br><br>This is a game of adventure, mystery, and friendship. It is a game where your choices matter and affect the story's outcome. It is a game where you will face danger, betrayal, and sacrifice. It is a game where you will find hope, courage, and love.<h2 class=\"bb_tag\"><strong>Game Feature</strong></h2><ul class=\"bb_ul\"><li> <strong>Character Switching</strong>: You can control both the girl and the spirit and switch between them at any time. Each character has different abilities and perspectives that can help you overcome obstacles and discover secrets in the dungeon.<br><br></li><li> <strong>Puzzle Solving</strong>: You will encounter various puzzles and challenges that require logic, creativity, and teamwork. You will need to use the girl's and the spirit's skills in combination to find solutions and progress through the dungeon.<br><br></li><li> <strong>Storytelling</strong>: You will experience a rich and immersive story that unfolds as you explore the dungeon. You will learn more about the girl's and the spirit's backgrounds, motivations, and personalities. You will also face choices that will affect the outcome of the story and the fate of the characters.</li></ul><h2 class=\"bb_tag\"><strong>About the Developer</strong></h2>We are a small team of indie game developers who are passionate about creating immersive and engaging games. This is our first game project, and we are excited to share it with you.<br><br>However, as this game is still in Early Access, it may contain some bugs and errors that we are working hard to fix. We appreciate your feedback and support, and we apologize for any inconvenience caused by the game's issues.<br><br>We hope you enjoy playing our game and exploring the dungeon with the girl and the spirit.",
+    "developers": [
+        "NotYet"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/header.jpg?t=1703864781",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987908,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987908/movie480.mp4?t=1702701980",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987908/movie_max.mp4?t=1702701980"
+            },
+            "name": "Unknow Soul With me \u2014 Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987908/movie.293x165.jpg?t=1702701980",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987908/movie480_vp9.webm?t=1702701980",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987908/movie_max_vp9.webm?t=1702701980"
+            }
+        }
+    ],
+    "name": "Unknown Soul With Me",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Unknown Soul With Me - $2.99",
+                    "packageid": 978581,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Unknown Soul With Me"
+        }
+    ],
+    "packages": [
+        978581
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel CPU Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel CPU Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 660<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "NotYet"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_4e05c62f23028498d0243c239f0132b06c6dc8c0.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_4e05c62f23028498d0243c239f0132b06c6dc8c0.600x338.jpg?t=1703864781"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_3c651468f801ecb8d81582ea360948fd6d5deaf6.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_3c651468f801ecb8d81582ea360948fd6d5deaf6.600x338.jpg?t=1703864781"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_96d5bd991e5e105c8ab83eba20b03057c015992b.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_96d5bd991e5e105c8ab83eba20b03057c015992b.600x338.jpg?t=1703864781"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_5cde2337cf2b1fa0f351b6234c80642e5c5bf27b.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_5cde2337cf2b1fa0f351b6234c80642e5c5bf27b.600x338.jpg?t=1703864781"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_4b217509f799bb9ad26581763ec56d902420eadd.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_4b217509f799bb9ad26581763ec56d902420eadd.600x338.jpg?t=1703864781"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_98281ffc718ff1018125420903c58b4b356f6692.1920x1080.jpg?t=1703864781",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734790/ss_98281ffc718ff1018125420903c58b4b356f6692.600x338.jpg?t=1703864781"
+        }
+    ],
+    "short_description": "This is a game where you play as a young girl abandoned in a dungeon. who was saved by a mysterious spirit The spirit introduced himself as having lived in this place. But can't go anywhere The young girl wanted to set this soul free. They worked together to find a way out of this place.",
+    "steam_appid": 2734790,
+    "support_info": {
+        "email": "notyetgame77@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}
