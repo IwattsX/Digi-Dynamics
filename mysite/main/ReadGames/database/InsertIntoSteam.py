@@ -1,5 +1,16 @@
 from .Connect_DB  import connect, close_connection
 
+def inDB(cursor, table: str, dictionary_wID : dict) -> bool:
+    query = f"SELECT id FROM {table} WHERE id = %s"
+    cursor.execute(query, (dictionary_wID['id'],))
+    
+    res = cursor.fetchone()
+    if res:
+        return True
+    else:
+        return False
+
+
 
 class Games():
     def __init__(self, id : str, name : str, support_info : str, dlc : str, Base_price : int, Current_price : int, Developer : str, Publisher,
@@ -36,22 +47,12 @@ class Games():
 
         self.insert()
     
-    def inDB(self, cursor):
-        query = """SELECT id from Games WHERE id = %s"""
-        cursor.execute(query, (self.Insert_dict['id'],))  # Corrected here
-
-        res = cursor.fetchone()
-        if res:
-            return True
-        else:
-            return False
-
     def insert(self):
 
         connection = connect()
         cursor = connection.cursor()
 
-        if(self.inDB(cursor)):
+        if inDB(cursor, "Games", self.Insert_dict):
             print("Already inserted into the table")
             self.close(connection=connection, cursor=cursor)
             return
@@ -93,120 +94,3 @@ class Games():
 
     def close(self,connection, cursor):
         close_connection(connection=connection, cursor=cursor, )
-
-    # ... (other methods)
-
-# If you have a specific table name for each class, you can pass it in the constructor.
-# Example: super().__init__("Games", self.columns, self.insert_statement, self.values)
-# This allows you to use the same class for multiple tables.
-
-
-        # Modeling the DB
-        # self.id = id
-        # self.name = name
-        # self.short_desc = short_description
-        # self.min_req = minimum_req
-        # self.rec_req = recommend_req
-
-# if __name__ == '__main':
-#     Games()
-
-
-
-# class DLC(SteamTables):
-#     def __init__(self, id, name, short_description, minimum_req, recommend_req):
-#         self.id = id
-#         self.name = name
-#         self.short_desc = short_description
-#         self.min_req = minimum_req
-#         self.rec_req = recommend_req
-
-#         self.Insert_dict = {
-#             'id' : self.id,
-#             'name' : self.name,
-#             'short_desc' : self.short_desc,
-#             'min_req' : self.min_req,
-#             'rec_req' : self.rec_req,
-#         }
-
-
-#         self.insert_statement = """
-#         INSERT INTO Games 
-#         (id, name, short_desc, min_requirments, rec_requirements) 
-#         VALUES (%(id)s, %(name)s, %(short_desc)s, %(min_req)s, %(rec_req)s); 
-#         """
-
-
-
-# class Demo():
-#     def __init__(self, id, name, short_description, minimum_req, recommend_req):
-#         self.id = id
-#         self.name = name
-#         self.short_desc = short_description
-#         self.min_req = minimum_req
-#         self.rec_req = recommend_req
-
-#         self.Insert_dict = {
-#             'id' : self.id,
-#             'name' : self.name,
-#             'short_desc' : self.short_desc,
-#             'min_req' : self.min_req,
-#             'rec_req' : self.rec_req,
-#         }
-
-
-#         self.insert_statement = """
-#         INSERT INTO Games 
-#         (id, name, short_desc, min_requirments, rec_requirements) 
-#         VALUES (%(id)s, %(name)s, %(short_desc)s, %(min_req)s, %(rec_req)s); 
-#         """
-    
-
-
-# class Music():
-#     def __init__(self, id, name, short_description, minimum_req, recommend_req):
-#         self.id = id
-#         self.name = name
-#         self.short_desc = short_description
-#         self.min_req = minimum_req
-#         self.rec_req = recommend_req
-
-#         self.Insert_dict = {
-#             'id' : self.id,
-#             'name' : self.name,
-#             'short_desc' : self.short_desc,
-#             'min_req' : self.min_req,
-#             'rec_req' : self.rec_req,
-#         }
-
-
-#         self.insert_statement = """
-#         INSERT INTO Games 
-#         (id, name, short_desc, min_requirments, rec_requirements) 
-#         VALUES (%(id)s, %(name)s, %(short_desc)s, %(min_req)s, %(rec_req)s); 
-#         """
-   
-
-
-# class Movies():
-#     def __init__(self, id, name, short_description, minimum_req, recommend_req):
-#         self.id = id
-#         self.name = name
-#         self.short_desc = short_description
-#         self.min_req = minimum_req
-#         self.rec_req = recommend_req
-
-#         self.Insert_dict = {
-#             'id' : self.id,
-#             'name' : self.name,
-#             'short_desc' : self.short_desc,
-#             'min_req' : self.min_req,
-#             'rec_req' : self.rec_req,
-#         }
-
-
-#         self.insert_statement = """
-#         INSERT INTO Games 
-#         (id, name, short_desc, min_requirments, rec_requirements) 
-#         VALUES (%(id)s, %(name)s, %(short_desc)s, %(min_req)s, %(rec_req)s); 
-#         """

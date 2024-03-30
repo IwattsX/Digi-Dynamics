@@ -4,7 +4,7 @@ import json
 # Gets game info based off appids 
 # NOTE: Using this for if the user types a game into the form, it will get the information if it isn't present in the database. 
 
-def get_game_info(appid, api_key):
+def get_game_info(appid, api_key = config("STEAM_API_KEY")):
     # Get detailed information about a specific game
     app_details_url = f'http://store.steampowered.com/api/appdetails?appids={appid}&key={api_key}'
     details_response = requests.get(app_details_url)
@@ -19,7 +19,7 @@ def get_game_info(appid, api_key):
             developer = game_info.get('developers', [])
             publisher = game_info.get('publishers', [])
 
-            with open("CODDLC.json", 'w') as outfile:
+            with open("Movies.json", 'w') as outfile:
                 json.dump(game_info, outfile, sort_keys=True, indent=4)
 
             print(f"Game: {game_info['name'].encode('utf-8')}")
@@ -35,4 +35,7 @@ if __name__ == '__main__':
     KEY = config("STEAM_API_KEY")
     # get_game_info(1086940, KEY)
     # get_game_info(1938090, KEY)
-    get_game_info(2053671, KEY)
+    # get_game_info(2053671, KEY)
+
+    # Movies test
+    get_game_info(2029566)
