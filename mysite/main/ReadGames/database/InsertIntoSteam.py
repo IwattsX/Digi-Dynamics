@@ -19,7 +19,7 @@ class Games():
         self.Insert_dict = {
             'id': id,
             'Name': name,
-            'support_info': support_info,
+            'support_info': support_info if support_info != '' else None,
             'DLC': dlc,
             'Base_price': Base_price,
             'Current_price': Current_price,
@@ -37,6 +37,7 @@ class Games():
             'windows': windows,
             'linux': linux,
             'mac': mac,
+            'Header_image': Header_image
         }
 
         # Explicitly list the columns in the INSERT statement
@@ -52,7 +53,7 @@ class Games():
         cursor = connection.cursor()
 
         if inDB(cursor, "Games", self.Insert_dict):
-            print("Already inserted into the table")
+            # print("Already inserted into the table")
             close_connection(connection=connection, cursor=cursor)
             return
         
@@ -100,7 +101,7 @@ class Music():
         self.Insert_dict = {
             'id': id,
             'Name': name,
-            'support_info': support_info,
+            'support_info': support_info if support_info != '' else None,
             'Base_price': Base_price,
             'Current_price': Current_price,
             'Developer' : Developer,

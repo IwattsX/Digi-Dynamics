@@ -11,9 +11,6 @@ from pprint import pprint
 
 # For trailers or how steam calls it "Movies"
 # TODO: Make this work with the Games_Hander for the Movies Data
-def Movie_Handler(Movies : dict):
-    pass
-
 
 def Game_Handler(game : dict):
     # Only elements we care about for the most part
@@ -34,8 +31,17 @@ def Game_Handler(game : dict):
                 game_res["Base_price"] = game_val.get("initial", None)
                 game_res["Current_price"] = game_val.get("final", None)
             
-            elif elem in ["developers", "publishers"]:
-                game_res[elem] = ", ".join(e for e in game_val)
+            elif elem == "developers":
+                if len(game_val) == 1 and game_val[0] == '':
+                    game_res[elem] = None
+                else:
+                    game_res[elem] = ", ".join(e for e in game_val)
+
+            elif elem  == "publishers":
+                if len(game_val) == 1 and game_val[0] == '':
+                    game_res[elem] = None
+                else:
+                    game_res[elem] = ", ".join(e for e in game_val)
             
             elif elem == "genres":
                 genres = [genre.get("description") for genre in game_val if genre]
@@ -63,6 +69,7 @@ def Game_Handler(game : dict):
             
             elif elem == "controller_support":
                 game_res["controller_support"] = game_val
+            
             elif elem in ["detailed_description", "short_description"]:
                 soup = BeautifulSoup(game_val, features='html.parser')
                 temp = ''.join(soup.stripped_strings)
@@ -88,26 +95,6 @@ def DLC_Handler(DLC:dict):
         print(v)
         print("------------------------")
 
-"""
-- SteamAppID
-- Name 
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Release_data
-- ControllerSupport
-- Image
-- Support Info
-- Website
-- Detailed Description
-- Short Description
-- Age Requirement
-- Platform ("platforms")
-- languages ("supported languages")
-- fullgame.appid 
-"""
-
 
 def Music_Handler(Music : dict):
     # pprint(Music)
@@ -128,8 +115,17 @@ def Music_Handler(Music : dict):
             elif elem == "fullgame":
                 music_res[elem] = music_val.get("appid", None)
 
-            elif elem in ["developers", "publishers"]:
-                music_res[elem] = ", ".join(e for e in music_val)
+            elif elem == "developers":
+                if len(music_val) == 1 and music_val[0] == '':
+                    music_res[elem] = None
+                else:
+                    music_res[elem] = ", ".join(e for e in music_val)
+
+            elif elem  == "publishers":
+                if len(music_val) == 1 and music_val[0] == '':
+                    music_res[elem] = None
+                else:
+                    music_res[elem] = ", ".join(e for e in music_val)
             
             elif elem == "genres":
                 genres = [genre.get("description") for genre in music_val if genre]
@@ -223,6 +219,7 @@ if __name__ == '__main__':
         "dlc" : 0,
         "demo" : 0,
     }
+
     for file in os.listdir(GamesDir):
         filePath = f"{GamesDir}/{file}"
 
@@ -234,7 +231,6 @@ if __name__ == '__main__':
 
             if typeOfData == "game":
                 Game_dict = Game_Handler(temp)
-
                 Games(
                     Game_dict.get('steam_appid'),
                     Game_dict.get('name'),
@@ -263,6 +259,7 @@ if __name__ == '__main__':
             elif typeOfData == "music":
                 Music_dict = Music_Handler(temp)
 
+
                 Music(
                     Music_dict.get("steam_appid"),
                     Music_dict.get("name"),
@@ -289,16 +286,18 @@ if __name__ == '__main__':
             elif typeOfData == "dlc":
                 continue
                 DLC_Handler(temp)
+
+
             
             
             elif typeOfData == "demo":
                 continue
                 Demo_Handler(temp)
+
+
                 
 
             # print(temp['name'])
             # print(typeOfData)
-
-
 
     print(dictTypes)
