@@ -19,7 +19,13 @@ class Games(forms.Form):
         ('dateyear', 'Date (Year)'),
     )
 
-    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by")
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+                                    widget=forms.Select(
+                                         attrs={
+                                            'id': 'searchBy'
+                                            }
+                                        )
+                                )
     #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):
