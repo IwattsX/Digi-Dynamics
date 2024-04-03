@@ -9,6 +9,17 @@ class Games(forms.Form):
             }
         ),
     )
+    # choices.py
+    GameSearch_CHOICES = (
+        ('name', 'Name'),
+        ('genre', 'Genre'),
+        ('publisher', 'Publisher'),
+        ('developer', 'Developer'),
+        ('price', 'Price'),
+        ('dateyear', 'Date (Year)'),
+    )
+
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by")
     #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):

@@ -15,7 +15,7 @@
                 <form class = "searchbar" method="get" actions="/games/">
                     {% csrf_token %}
                     {{ form.as_ul }}
-                    <select class="genreTag" style="height:25px;width:70px">
+                    {% comment %} <select class="genreTag" style="height:25px;width:70px">
                         <option value="N">Name</option>
                         <option value="G">Genre</option>
                         <option value="P">Publisher</option>
@@ -23,7 +23,7 @@
                         <option value="Pr">Price</option>
                         <option value="Y">Date (Year)</option>
                     </select>
-                    <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button>
+                    <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button> {% endcomment %}
                 </form>
             </div>
         </div>
