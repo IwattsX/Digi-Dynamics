@@ -9,7 +9,10 @@ from .ReadGames.database.Connect_DB import connect, close_connection
 def close(cursor, connection):
     close_connection(cursor=cursor, connection=connection)
 
-def select(table, columns='*', whereClause=None, limits=20):
+
+
+# TODO: joinClause can be implemented as a string
+def select(table, columns='*', whereClause=None, joinClause = None):
     if isinstance(columns, list):
         # Change columns to string type
         columns = ", ".join(columns)
@@ -18,11 +21,11 @@ def select(table, columns='*', whereClause=None, limits=20):
     if whereClause:
         sql_query = f"""
             SELECT {columns} FROM {table}
-            WHERE {whereClause} LIMIT {limits};
+            WHERE {whereClause};
         """
     else:
         sql_query = f"""
-            SELECT {columns} FROM {table} LIMIT {limits};
+            SELECT {columns} FROM {table};
         """
     
     connection = connect()
