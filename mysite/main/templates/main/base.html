@@ -32,9 +32,29 @@
         opacity: 0.77;
         color:white;
     }
-</style>
     </style>
-    
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#searchBy').change(function(){
+                var selectedOption = $(this).val();
+                if(selectedOption === 'name'){
+                    $('#placeholderName').attr('placeholder', 'Enter Game Name');
+                } else if(selectedOption === 'genre'){
+                    $('#placeholderName').attr('placeholder', 'Enter Genre');
+                } else if(selectedOption === 'publisher'){
+                    $('#placeholderName').attr('placeholder', 'Enter Publisher');
+                } else if(selectedOption === 'developer'){
+                    $('#placeholderName').attr('placeholder', 'Enter Developer');
+                } else if(selectedOption === 'price'){
+                    $('#placeholderName').attr('placeholder', 'Enter Price');
+                } else if(selectedOption === 'dateyear'){
+                    $('#placeholderName').attr('placeholder', 'Enter Year');
+                }
+            });
+        });
+    </script>
 
 </head>
         <div>
