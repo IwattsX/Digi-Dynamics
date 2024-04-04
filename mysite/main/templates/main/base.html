@@ -36,30 +36,48 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
+        function hideAll(listOfThingsToHide){
+            for(thingToHide of listOfThingsToHide){
+                $(thingToHide).hide();
+            }
+        }
+
         $(document).ready(function(){
-            $('#GameGenres').hide();
+
+            let AllplaceHolders = ["#placeholderPrice", "#placeholderYear", "#GameGenres"];
+            hideAll(AllplaceHolders);
+
 
             $('#searchBy').change(function(){
                 var selectedOption = $(this).val();
                 if(selectedOption === 'name'){
+                    hideAll(AllplaceHolders);
                     $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Game Name');
-                } else if(selectedOption === 'genre'){
+
+                } 
+                else if(selectedOption === 'genre'){
                     $('#placeholderName').hide();
                     $('#GameGenres').show();
                     //$('#placeholderName').attr('placeholder', 'Enter Genre');
-                } else if(selectedOption === 'publisher'){
+                } 
+                else if(selectedOption === 'publisher'){
+                    hideAll(AllplaceHolders);
                     $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Publisher');
-                } else if(selectedOption === 'developer'){
+                } 
+                else if(selectedOption === 'developer'){
+                    hideAll(AllplaceHolders);
                     $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Developer');
-                } else if(selectedOption === 'price'){
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Price');
-                } else if(selectedOption === 'dateyear'){
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Year');
+                } 
+                else if(selectedOption === 'price'){
+                    $('#placeholderName').hide();
+                    $('#placeholderPrice').show();
+                } 
+                else if(selectedOption === 'dateyear'){
+                    $('#placeholderName').hide();
+                    $('#placeholderYear').show();
                 }
             });
         });

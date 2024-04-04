@@ -14,6 +14,9 @@ def GamesSearchHandler(response, searchBy: str, games : list):
     if searchBy == 'name':
         name = response.GET.get('name', None)
         
+        # This doesn't display anything and doesn't do the name REGEXP '' that will always be true
+        if name == "":
+            return
         Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
         whereClause=f"Name REGEXP '{name}'")
         for row in Games_res:
@@ -25,6 +28,11 @@ def GamesSearchHandler(response, searchBy: str, games : list):
     
     elif searchBy == "genre":
         genres = response.GET.getlist('genres', None)
+
+        # Same thing, we want input there
+        if(len(genres) == 0):
+            return
+        
         genres_regex = ""
         for i, genre in enumerate(genres):
             genres_regex += f"({genre})"
