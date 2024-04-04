@@ -37,19 +37,28 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         $(document).ready(function(){
+            $('#GameGenres').hide();
+
             $('#searchBy').change(function(){
                 var selectedOption = $(this).val();
                 if(selectedOption === 'name'){
+                    $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Game Name');
                 } else if(selectedOption === 'genre'){
-                    $('#placeholderName').attr('placeholder', 'Enter Genre');
+                    $('#placeholderName').hide();
+                    $('#GameGenres').show();
+                    //$('#placeholderName').attr('placeholder', 'Enter Genre');
                 } else if(selectedOption === 'publisher'){
+                    $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Publisher');
                 } else if(selectedOption === 'developer'){
+                    $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Developer');
                 } else if(selectedOption === 'price'){
+                    $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Price');
                 } else if(selectedOption === 'dateyear'){
+                    $('#placeholderName').show();
                     $('#placeholderName').attr('placeholder', 'Enter Year');
                 }
             });

@@ -9,6 +9,44 @@ from .models import select
 # dictionary will have variable tokens so that way you can put them into the application.
 # NOTE: Use this aspect of django to render informationf from the database
 
+
+def GamesSearchHandler(response, searchBy: str, games : list):
+    if searchBy == 'name':
+        name = response.GET.get('name', None)
+        
+        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
+        whereClause=f"Name REGEXP '{name}'")
+        for row in Games_res:
+            if not row.get("Base_price") is None:
+                row["Base_price"] = row["Base_price"]/100
+            if not row.get("Current_price") is None:
+                row["Current_price"] = row["Current_price"]/100
+            games.append(row)
+    
+    elif searchBy == "genre":
+        genres = response.GET.getlist('genres', None)
+        genres_regex = ""
+        for i, genre in enumerate(genres):
+            genres_regex += f"({genre})"
+            if i == len(genres) - 1:
+                break
+            genres_regex += "|"
+
+        # print(genres_regex)
+
+        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
+                           whereClause=f"Genre REGEXP '{genres_regex}'")
+        for row in Games_res:
+            if not row.get("Base_price") is None:
+                row["Base_price"] = row["Base_price"]/100
+            if not row.get("Current_price") is None:
+                row["Current_price"] = row["Current_price"]/100
+            games.append(row)
+
+
+
+
+
 def base(response):
     my_dict = dict()
     # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
@@ -39,16 +77,12 @@ def games(response):
     elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
-        name = response.GET.get('name', None)
-        
-        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
-        whereClause=f"Name REGEXP '{name}'")
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
+
+        searchBy = response.GET.get("SearchBy", None)
+
+        print(searchBy)
+
+    GamesSearchHandler(response, searchBy, games) 
 
 
     return_dict = {

@@ -14,7 +14,7 @@
             <div style="padding: 10px;" >
                 <form class = "searchbar" method="get" actions="/games/">
                     {% csrf_token %}
-                    {{ form.as_ul }}
+                    {{ form.as_p }}
                     {% comment %} <select class="genreTag" style="height:25px;width:70px">
                         <option value="N">Name</option>
                         <option value="G">Genre</option>

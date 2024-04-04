@@ -3,7 +3,7 @@ from .choices import GameSearch_CHOICES, GENRE_CHOICES
 
 
 class Games(forms.Form):
-    name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
+    name = forms.CharField(label="", max_length=200, required=False, widget=forms.TextInput(
             attrs={
                 "class": "searchForm",
                 "placeholder": "Enter Game Name",
@@ -11,10 +11,11 @@ class Games(forms.Form):
             }
         ),
     )
-    genres = forms.MultipleChoiceField(choices=GENRE_CHOICES, label="Genres", widget=forms.CheckboxSelectMultiple(
+    genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
+                                       widget=forms.CheckboxSelectMultiple(
         attrs={
             "id" : "GameGenres",
-            "class" : "searchForm",
+            # "style": "display:none;",
         }
         ),
     )
