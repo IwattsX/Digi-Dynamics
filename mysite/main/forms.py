@@ -15,8 +15,8 @@ class Games(forms.Form):
             attrs={
                 "class": "searchForm",
                 "placeholder": "Enter year",
-                "pattern" : "([0-9]{2})|([0-9]{4})",
-                "title" : "Must be either YY or YYYY format",
+                "pattern" : "([0-9]{4})",
+                "title" : "Must be in YYYY format",
                 "id" : "placeholderYear",
             }
         ),
@@ -26,7 +26,7 @@ class Games(forms.Form):
             attrs={
                 "class": "searchForm",
                 "placeholder": "Enter price",
-                "pattern" : "[0-9]*(?:\.[0-9]{2})?",
+                "pattern" : "[0-9]*(?:\\.[0-9]{2})?",
                 "title" : "Input should be x.xx",
                 "id" : "placeholderPrice",
             }
