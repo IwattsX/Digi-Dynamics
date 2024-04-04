@@ -1,4 +1,6 @@
 from django import forms
+from .choices import GameSearch_CHOICES, GENRE_CHOICES
+
 
 class Games(forms.Form):
     name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
@@ -9,17 +11,22 @@ class Games(forms.Form):
             }
         ),
     )
-    # choices.py
-    GameSearch_CHOICES = (
-        ('name', 'Name'),
-        ('genre', 'Genre'),
-        ('publisher', 'Publisher'),
-        ('developer', 'Developer'),
-        ('price', 'Price'),
-        ('dateyear', 'Date (Year)'),
+    genres = forms.MultipleChoiceField(choices=GENRE_CHOICES, label="Genres", widget=forms.CheckboxSelectMultiple(
+        attrs={
+            "id" : "GameGenres",
+            "class" : "searchForm",
+        }
+        ),
     )
 
-    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by")
+
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+                                    widget=forms.Select(
+                                         attrs={
+                                            'id': 'searchBy'
+                                            }
+                                        )
+                                )
     #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):
