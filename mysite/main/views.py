@@ -90,7 +90,7 @@ def GamesSearchHandler(response, searchBy: str, games : list):
         if priceStr is None or priceStr == "":
             return
         
-        price = int(priceStr * 100)
+        price = int(float(priceStr) * 100)
 
 
         Games_res = select("Games",columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
