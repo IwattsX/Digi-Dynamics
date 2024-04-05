@@ -58,6 +58,7 @@
                 } 
                 else if(selectedOption === 'genre'){
                     $('#placeholderName').hide();
+                    hideAll(AllplaceHolders);
                     $('#GameGenres').show();
                     //$('#placeholderName').attr('placeholder', 'Enter Genre');
                 } 
@@ -73,10 +74,12 @@
                 } 
                 else if(selectedOption === 'price'){
                     $('#placeholderName').hide();
+                    hideAll(AllplaceHolders);
                     $('#placeholderPrice').show();
                 } 
                 else if(selectedOption === 'dateyear'){
                     $('#placeholderName').hide();
+                    hideAll(AllplaceHolders);
                     $('#placeholderYear').show();
                 }
             });
