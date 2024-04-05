@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Celestial Raider is an exciting and fun sci-fi vertical shoot'em up game. In the game, players pilot a high-tech fighter, soaring through a virtual universe and engaging in intense battles with enemies. With stunning graphics and realistic sound effects, the game offers a truly immersive gaming experience.<br />\r\n<br />\r\nThe gameplay in Celestial Raider is simple and intuitive. Players control their fighter to move up, down, left, and right, while firing weapons to defeat enemies. However, players must also face various enemies and obstacles, such as enemies firing bullet hell patterns and powerful energy waves that require players to utilize their maneuverability to avoid. Additionally, players must also avoid various obstacles like meteorites and planets.<br />\r\n<br />\r\nAs players progress through the game, they can level up and acquire stronger weapons and items by defeating enemies and collecting power-ups. These power-ups include speed boosters, shields, missiles, and more, which allow players to become even more powerful in combat.<br />\r\n<br />\r\nCelestial Raider is a challenging and exhilarating game suitable for players of all ages. Join the fight and become a true space pilot!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/page_bg_generated_v6b.jpg?t=1680881609",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/page_bg_generated.jpg?t=1680881609",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/capsule_231x87.jpg?t=1680881609",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/capsule_184x69.jpg?t=1680881609",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Celestial Raider is an exciting and fun sci-fi vertical shoot'em up game. In the game, players pilot a high-tech fighter, soaring through a virtual universe and engaging in intense battles with enemies. With stunning graphics and realistic sound effects, the game offers a truly immersive gaming experience.<br />\r\n<br />\r\nThe gameplay in Celestial Raider is simple and intuitive. Players control their fighter to move up, down, left, and right, while firing weapons to defeat enemies. However, players must also face various enemies and obstacles, such as enemies firing bullet hell patterns and powerful energy waves that require players to utilize their maneuverability to avoid. Additionally, players must also avoid various obstacles like meteorites and planets.<br />\r\n<br />\r\nAs players progress through the game, they can level up and acquire stronger weapons and items by defeating enemies and collecting power-ups. These power-ups include speed boosters, shields, missiles, and more, which allow players to become even more powerful in combat.<br />\r\n<br />\r\nCelestial Raider is a challenging and exhilarating game suitable for players of all ages. Join the fight and become a true space pilot!",
+    "developers": [
+        "Protect Food Game Studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/header.jpg?t=1680881609",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937456,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937456/movie480.mp4?t=1679678346",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937456/movie_max.mp4?t=1679678346"
+            },
+            "name": "1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937456/movie.293x165.jpg?t=1679678346",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937456/movie480_vp9.webm?t=1679678346",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937456/movie_max_vp9.webm?t=1679678346"
+            }
+        }
+    ],
+    "name": "Celestial Raider",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Celestial Raider - $29.99",
+                    "packageid": 852354,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Celestial Raider"
+        }
+    ],
+    "packages": [
+        852354
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windows 7/8/10/11<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1050<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Protect Food Game Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_ad43d2546ccb0ce6f757d7f1f3a6356ff9f63cae.1920x1080.jpg?t=1680881609",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_ad43d2546ccb0ce6f757d7f1f3a6356ff9f63cae.600x338.jpg?t=1680881609"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_4c89aaafdc1388f230123e3ef492800eca77b492.1920x1080.jpg?t=1680881609",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_4c89aaafdc1388f230123e3ef492800eca77b492.600x338.jpg?t=1680881609"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_86e49af0088460231c8208428a05cd0bd195e037.1920x1080.jpg?t=1680881609",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_86e49af0088460231c8208428a05cd0bd195e037.600x338.jpg?t=1680881609"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_39a0daf8b455ecff21ce7e54d8a806da4771ea9d.1920x1080.jpg?t=1680881609",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_39a0daf8b455ecff21ce7e54d8a806da4771ea9d.600x338.jpg?t=1680881609"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_bbb0db2ede7a805f4cf31f8c6035f38076c30ba4.1920x1080.jpg?t=1680881609",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370800/ss_bbb0db2ede7a805f4cf31f8c6035f38076c30ba4.600x338.jpg?t=1680881609"
+        }
+    ],
+    "short_description": "Celestial Raider is an exciting and fun sci-fi vertical shoot'em up game.",
+    "steam_appid": 2370800,
+    "support_info": {
+        "email": "chen@70it.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

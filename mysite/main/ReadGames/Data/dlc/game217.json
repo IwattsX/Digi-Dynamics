@@ -1,0 +1,165 @@
+{
+    "about_the_game": "<strong>100% of our proceeds from this item go to support Whale and Dolphin Conservation.</strong><h2 class=\"bb_tag\">ADD SOME EXTRA AIRSHIP FLAIR IN SUPPORT OF A GOOD CAUSE</h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635800/extras/DLC_GIF.gif?t=1702394687\" /><br><br>Decorate the interior of your airship with this unique, multi-colored, holographic globe depicting two dolphins swimming through eternity. <br><br>The artifact will be added to your basic fabricator items menu as a craftable item. You will be able to craft multiple copies of the item.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635800/extras/ezgif.com-optimize.gif?t=1702394687\" /><br><br>Far From Home Games will donate 100% of our net revenue to WDC, Whale and Dolphin Conservation. WDC is a UK registered charity no. 1014705.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/page_bg_generated_v6b.jpg?t=1702394687",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/page.bg.jpg?t=1702394687",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/capsule_231x87.jpg?t=1702394687",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/capsule_184x69.jpg?t=1702394687",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<strong>100% of our proceeds from this item go to support Whale and Dolphin Conservation.</strong><h2 class=\"bb_tag\">ADD SOME EXTRA AIRSHIP FLAIR IN SUPPORT OF A GOOD CAUSE</h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635800/extras/DLC_GIF.gif?t=1702394687\" /><br><br>Decorate the interior of your airship with this unique, multi-colored, holographic globe depicting two dolphins swimming through eternity. <br><br>The artifact will be added to your basic fabricator items menu as a craftable item. You will be able to craft multiple copies of the item.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635800/extras/ezgif.com-optimize.gif?t=1702394687\" /><br><br>Far From Home Games will donate 100% of our net revenue to WDC, Whale and Dolphin Conservation. WDC is a UK registered charity no. 1014705.",
+    "developers": [
+        "Far From Home"
+    ],
+    "fullgame": {
+        "appid": "1641960",
+        "name": "Forever Skies"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/header.jpg?t=1702394687",
+    "is_free": false,
+    "legal_notice": "2023 (C) Far From Home S.A.: Forever Skies and Far From Home are all trademarks and/or registered trademarks of Far From Home S.A. All rights reserved.<br />\r\nUnreal\u00ae Engine, Copyright 1998 - 2023, Epic Games, Inc. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987383,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987383/movie480.mp4?t=1702393461",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987383/movie_max.mp4?t=1702393461"
+            },
+            "name": "Printing",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987383/movie.293x165.jpg?t=1702393461",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987383/movie480_vp9.webm?t=1702393461",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987383/movie_max_vp9.webm?t=1702393461"
+            }
+        }
+    ],
+    "name": "Forever Skies - Whale and Dolphin Conservation Artifact",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Forever Skies - Whale & Dolphin Conservation Artifact - $2.99",
+                    "packageid": 945178,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Forever Skies - Whale and Dolphin Conservation Artifact"
+        }
+    ],
+    "packages": [
+        945178
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i5-7600 / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> RX 580 8GB VRAM / GeForce GTX 1060 6GB VRAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 31 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> System requirements may change during the development of the game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-7700K / AMD Ryzen 7 3800X or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> RX 5700-XT / GeForce RTX 2070 / Intel Arc A770 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 31 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> System requirements may change during the development of the game.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Far From Home"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_f30b8fce866ffa55136bc51d3c71041028fa62cb.1920x1080.jpg?t=1702394687",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_f30b8fce866ffa55136bc51d3c71041028fa62cb.600x338.jpg?t=1702394687"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_4977ebab31951d1a8faf8658f95c80da41f186ea.1920x1080.jpg?t=1702394687",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_4977ebab31951d1a8faf8658f95c80da41f186ea.600x338.jpg?t=1702394687"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_80c7c5a2ee0bab5048c8ccb6879540de23bb7586.1920x1080.jpg?t=1702394687",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_80c7c5a2ee0bab5048c8ccb6879540de23bb7586.600x338.jpg?t=1702394687"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_7cf53cc27661e931e14701c22ca7f87b1385fb0e.1920x1080.jpg?t=1702394687",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_7cf53cc27661e931e14701c22ca7f87b1385fb0e.600x338.jpg?t=1702394687"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_df9580b68483aa025d8664876a1b6e9481d03bb3.1920x1080.jpg?t=1702394687",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635800/ss_df9580b68483aa025d8664876a1b6e9481d03bb3.600x338.jpg?t=1702394687"
+        }
+    ],
+    "short_description": "Decorate the interior of your airship with this multi-colored, holographic globe depicting two dolphins swimming through eternity.",
+    "steam_appid": 2635800,
+    "support_info": {
+        "email": "info@farfromhome.games",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Russian, Polish, Simplified Chinese, Ukrainian, Italian",
+    "type": "dlc",
+    "website": "https://www.farfromhomegames.com/en/foreverskies"
+}

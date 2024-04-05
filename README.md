@@ -1,29 +1,82 @@
 # Digi-Dynamics
 **Name**: Steam Scout 
-**Collaborators**:  
-- Hunter Smith
-- Alfred Newsome
-- Isaac Watts
-- Tamia
+
+
+# Prereqs
+- Python version: 3.12
+- python-decouple==3.8
+- Django==5.0.1
+- beautifulsoup4==4.12.3
+- python-steam-api==1.2.2
+- mysql-connector-python==8.3.0
+- mySQL: https://dev.mysql.com/downloads/file/?id=526407 
+
+Install all prereqs (except mySQL, that needs to be done through the URL)
+
+Install Individually
+- Decouple
+```
+py -m pip install python-decouple
+```
+
+- Django
+```
+py -m pip install Django
+```
+- beutifulsoup4
+```
+py -m pip install beautifulsoup4
+```
+
+- python-steam-api
+```
+py -m pip install python-steam-api
+```
+
+- mysql-connector-python
+```
+py -m pip install mysql-connector-python
+```
+
+or 
+**Install all of it with**
+```
+py -m pip install -r requirements.txt
+```
+
+
+
+
+NOTE: You are going to have to create 2 .env files in mysite/APICalls and mysite/database
+
+mysite/APICalls/.env
+```
+STEAM_API_KEY= "<YOUR_API_KEY>"
+```
+Get this from <a href="https://steamcommunity.com/dev/apikey">https://steamcommunity.com/dev/apikey</a>
+
+
+mysite/ReadGames/database/.env
+```
+uname = "<Your_Uname>"
+pass = "<your_pass>"
+database = "steam"
+```
+
+Note: uname will run the SQL through 'uname'@'localhost', I named my database "steam" 
+
 
 # HOW TO RUN
 <a href="https://docs.djangoproject.com/en/5.0/">https://docs.djangoproject.com/en/5.0/ </a>
 
-1) Check version:
+1) change curr directory:
+
+``` 
+cd mysite 
+```
+2) Run django **(START HERE when you pull this code)**
   ```
-  python -m django --version
-  ```
-2) Use Django to start a project
-  ```
-  django-admin startproject mysite
-  ```
-  or if that doesn't work use  
-  ```
-  python -m django-admin startproject mysite
-  ```
-3) Run django **(START HERE when you pull this code)**
-  ```
-  python manage.py runserver
+  py manage.py runserver
   ```
   or 
   ```
@@ -34,12 +87,13 @@
 
 5) Note: if you need any help with finding a command, use
 ```
-python manage.py --help
+py manage.py --help
 ```
 or 
 ```
 py -m manage --help
 ```
+
 Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
 # TODO
 - [ ] Apply steam web API with a database
@@ -61,31 +115,9 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
   <li>DLC</li>
 </ul>
 
-# Database
-<b>Game Schema</b>
-- Type
-- Name
-- SteamAppID
-- Support Info
-- DLC ("dlc")
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Genre
-- Release_data
-- Top Seller
-- ControllerSupport
-- Image
-- Highlight
-- Trailer
-- Age Requirement
-- Platform ("platforms")
-- languages ("supported languages") 
-- tags ("categories") 
-- Detailed Description
-- Short Description
-- Website
+# Database Tables
+<b>Games</b>
+![alt "Games Table"](./descTables/Games.png)
 
 
 <b>Music Schema</b>
@@ -161,11 +193,13 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 PrimaryKey: SteamAppID
 ForeignKey: ?
 ```
-# Project Ideas
+# Project Idea
 - [x] Steam Game Search Engine
 
-# Dependencies
-- Django==5.0.1
-- beautifulsoup4==4.12.3
-- python-steam-api==1.2.2
-- mySQL: https://dev.mysql.com/downloads/file/?id=526407 
+
+# credit
+**Collaborators**:  
+- Hunter Smith
+- Alfred Newsome
+- Isaac Watts
+- Tamia

@@ -1,0 +1,135 @@
+{
+    "about_the_game": "If you want to support us, please purchase this DLC!<br>It includes 2 decorative items that do not affect the play of the game.<h2 class=\"bb_tag\"><strong>Two types of costumes that can change the appearance of the &quot;Chara&quot;</strong></h2><ul class=\"bb_ul\"><li>Rabbit Costume</li></ul><ul class=\"bb_ul\"><li>Silk Dress Costume</li></ul><br><strong><i>CAUTION!<br>These items cannot be obtained in any other way in the game.</i></strong>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/page_bg_generated_v6b.jpg?t=1691377694",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/page_bg_generated.jpg?t=1691377694",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/capsule_231x87.jpg?t=1691377694",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/capsule_184x69.jpg?t=1691377694",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "In this game includes content that deals with mature topics and may not be appropriate for all audiences. (clothing with exposure, subtle body exposure, and suggestions of murder.)"
+    },
+    "detailed_description": "If you want to support us, please purchase this DLC!<br>It includes 2 decorative items that do not affect the play of the game.<h2 class=\"bb_tag\"><strong>Two types of costumes that can change the appearance of the &quot;Chara&quot;</strong></h2><ul class=\"bb_ul\"><li>Rabbit Costume</li></ul><ul class=\"bb_ul\"><li>Silk Dress Costume</li></ul><br><strong><i>CAUTION!<br>These items cannot be obtained in any other way in the game.</i></strong>",
+    "developers": [
+        "Karume"
+    ],
+    "fullgame": {
+        "appid": "2358170",
+        "name": "Executioner Girls"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/header.jpg?t=1691377694",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Executioner Girls - Supporter Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Executioner Girls - Supporter Pack - $2.99",
+                    "packageid": 852935,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Executioner Girls - Supporter Pack"
+        }
+    ],
+    "packages": [
+        852935
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> window 7/8/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo or higher<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> GPU supporting OpenGL<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Karume"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 6, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_d7b0e5da6d08ec7efd30a6cc00f2750bdd0ae4ed.1920x1080.jpg?t=1691377694",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_d7b0e5da6d08ec7efd30a6cc00f2750bdd0ae4ed.600x338.jpg?t=1691377694"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_91c61bb008f3ee5981c47496161f34c15ab34510.1920x1080.jpg?t=1691377694",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_91c61bb008f3ee5981c47496161f34c15ab34510.600x338.jpg?t=1691377694"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_9fb0e956733566fcefbdd806045a181bb031514c.1920x1080.jpg?t=1691377694",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_9fb0e956733566fcefbdd806045a181bb031514c.600x338.jpg?t=1691377694"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_11dae83c61c982592dd72d501619262f3be330b8.1920x1080.jpg?t=1691377694",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372410/ss_11dae83c61c982592dd72d501619262f3be330b8.600x338.jpg?t=1691377694"
+        }
+    ],
+    "short_description": "If you buy this DLC, you can support us and get two exclusive costumes from Chara as well!",
+    "steam_appid": 2372410,
+    "support_info": {
+        "email": "tuezgaming@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Korean, Simplified Chinese",
+    "type": "dlc",
+    "website": null
+}

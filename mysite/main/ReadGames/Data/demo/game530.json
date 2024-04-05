@@ -1,0 +1,66 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337370/capsule_231x87.jpg?t=1687137405",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337370/capsule_184x69.jpg?t=1687137405",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "\u5e7f\u5dde\u96f7\u6c2a\u6c89\u6d78\u6280\u672f\u6709\u9650\u516c\u53f8"
+    ],
+    "fullgame": {
+        "appid": "2264950",
+        "name": "Mr. Bear's Bizarre Adventure"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337370/header.jpg?t=1687137405",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "\u718a\u5148\u751f\u7684\u5947\u5999\u65c5\u7a0b Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u5e7f\u5dde\u96f7\u6c2a\u6c89\u6d78\u6280\u672f\u6709\u9650\u516c\u53f8"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 16, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2337370,
+    "support_info": {
+        "email": "special@xrlinkup.com",
+        "url": ""
+    },
+    "type": "demo",
+    "website": null
+}

@@ -1,0 +1,178 @@
+{
+    "about_the_game": "A toy for stacking bricks. Be the creative you always were.<h2 class=\"bb_tag\">Features</h2><br><strong>Build and play</strong><br><ul class=\"bb_ul\"><li>Create a level, then play, then build some more.</li></ul><br><strong>Put your mind to work</strong><br><ul class=\"bb_ul\"><li>Challenge yourself with ever more complex levels and creations.</li></ul><br><strong>Relaxing zen</strong><br><ul class=\"bb_ul\"><li>Let go with minimalist graphics, peaceful music and fun sound effects.</li></ul><br><strong>Keep playing</strong><br><ul class=\"bb_ul\"><li>Endlessly create new levels. Play with different themes, play styles and much more.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/page_bg_generated_v6b.jpg?t=1702713869",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/page.bg.jpg?t=1702713869",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/capsule_231x87.jpg?t=1702713869",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/capsule_184x69.jpg?t=1702713869",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "A toy for stacking bricks. Be the creative you always were.<h2 class=\"bb_tag\">Features</h2><br><strong>Build and play</strong><br><ul class=\"bb_ul\"><li>Create a level, then play, then build some more.</li></ul><br><strong>Put your mind to work</strong><br><ul class=\"bb_ul\"><li>Challenge yourself with ever more complex levels and creations.</li></ul><br><strong>Relaxing zen</strong><br><ul class=\"bb_ul\"><li>Let go with minimalist graphics, peaceful music and fun sound effects.</li></ul><br><strong>Keep playing</strong><br><ul class=\"bb_ul\"><li>Endlessly create new levels. Play with different themes, play styles and much more.</li></ul>",
+    "developers": [
+        "Minsan Pte Ltd"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/header.jpg?t=1702713869",
+    "is_free": false,
+    "legal_notice": "\u00a9 2022-2024 Minsan Pte. Ltd.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256933249,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933249/movie480.mp4?t=1702713867",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933249/movie_max.mp4?t=1702713867"
+            },
+            "name": "Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933249/movie.293x165.jpg?t=1702713867",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933249/movie480_vp9.webm?t=1702713867",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933249/movie_max_vp9.webm?t=1702713867"
+            }
+        }
+    ],
+    "name": "Stack,Clack,Clock!",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Stack,Clack,Clock! - $1.99",
+                    "packageid": 839463,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy Stack,Clack,Clock!"
+        }
+    ],
+    "packages": [
+        839463
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or later<br></li><li><strong>Processor:</strong> 2.2 GHz Dual-Core Intel Core i7<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 6000 1536 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any Sound Card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Minsan Pte Ltd"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_2c01edbb8ee81de25635ea64f71e5de58ab2befb.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_2c01edbb8ee81de25635ea64f71e5de58ab2befb.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_88daf7cff933e4d222945d6ea3891fda0da8b568.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_88daf7cff933e4d222945d6ea3891fda0da8b568.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_823b8d923c0d3c02a178e1abd9aff86c405d5c84.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_823b8d923c0d3c02a178e1abd9aff86c405d5c84.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_b55c59a07b28f9c4126e3c1fbee0f34e8491e14c.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_b55c59a07b28f9c4126e3c1fbee0f34e8491e14c.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_7f702351a8c696f27c5ade40175deb1485cda8da.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_7f702351a8c696f27c5ade40175deb1485cda8da.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_5c87cbc103d261bbaed82fecd2e7e076dca93e7a.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_5c87cbc103d261bbaed82fecd2e7e076dca93e7a.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_15496d046f307bafc9755658e6997138e563420b.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_15496d046f307bafc9755658e6997138e563420b.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_2f30341a22d93d6c803637f9dbf834cf9feca77c.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_2f30341a22d93d6c803637f9dbf834cf9feca77c.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_b6b8788524abde12c74757404fc931fb5545f61b.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_b6b8788524abde12c74757404fc931fb5545f61b.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_21a00194e30d3ce2eca530ff1d33a62b8efe7c6d.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_21a00194e30d3ce2eca530ff1d33a62b8efe7c6d.600x338.jpg?t=1702713869"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_eb54e7c72afb033dafe1bfdf47de6ef195d61228.1920x1080.jpg?t=1702713869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337280/ss_eb54e7c72afb033dafe1bfdf47de6ef195d61228.600x338.jpg?t=1702713869"
+        }
+    ],
+    "short_description": "A toy for stacking bricks. Be the creative you always were.",
+    "steam_appid": 2337280,
+    "support_info": {
+        "email": "chris.wiseman@minsanstudio.com",
+        "url": "https://www.minsan.io/"
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese",
+    "type": "game",
+    "website": "https://www.minsan.io/"
+}

@@ -1,0 +1,112 @@
+{
+    "about_the_game": "The original soundtrack of Kyma, composed by Vabaira. This soundtrack is fully up to date, and includes 30 tracks. Provided in WAV and MP3 format.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/page_bg_generated_v6b.jpg?t=1680125128",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/page_bg_generated.jpg?t=1680125128",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/capsule_231x87.jpg?t=1680125128",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/capsule_184x69.jpg?t=1680125128",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The original soundtrack of Kyma, composed by Vabaira. This soundtrack is fully up to date, and includes 30 tracks. Provided in WAV and MP3 format.",
+    "developers": [
+        "Kidness"
+    ],
+    "fullgame": {
+        "appid": "1397300",
+        "name": "Kyma"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/header.jpg?t=1680125128",
+    "is_free": false,
+    "legal_notice": "Original Soundtrack by Vabaira for the game Kyma made Kidness",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937434,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937434/movie480.mp4?t=1679994043",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937434/movie_max.mp4?t=1679994043"
+            },
+            "name": "ost trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937434/movie.293x165.jpg?t=1679994043",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937434/movie480_vp9.webm?t=1679994043",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937434/movie_max_vp9.webm?t=1679994043"
+            }
+        }
+    ],
+    "name": "Kyma Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Kyma Soundtrack - $4.99",
+                    "packageid": 852179,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Kyma Soundtrack"
+        }
+    ],
+    "packages": [
+        852179
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 450 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 1500 MB available space<br></li><li><strong>Additional Notes:</strong> all files in WAV and MP3 format</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/ss_7abe8f489671073125b96a62fe6eb8fc2cdb1b15.1920x1080.jpg?t=1680125128",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370350/ss_7abe8f489671073125b96a62fe6eb8fc2cdb1b15.600x338.jpg?t=1680125128"
+        }
+    ],
+    "short_description": "The original soundtrack of Kyma, composed by Vabaira. This soundtrack is fully up to date, and includes 30 tracks. Provided in wav format.",
+    "steam_appid": 2370350,
+    "support_info": {
+        "email": "",
+        "url": "https://kymamakersisland.net/"
+    },
+    "type": "music",
+    "website": null
+}

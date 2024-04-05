@@ -1,0 +1,222 @@
+{
+    "about_the_game": "Asteroids: Multiplayer is a completely new interpretation of the classic Asteroids.<br />\r\n<br />\r\nThe game is focused on cooperative multiplayer. Thanks to the possibility of participation of an unlimited number of players, playing it with friends is especially fun! The gameplay allows you to share combat missions between participants. While some of them jointly manage a large ship, others provide support for it with fighters. A variety of ships and weapons will allow anyone to find a task to their liking.<br />\r\n<br />\r\nA realistic physics engine will make each passage of the level unique. And responsive controls in open space will provide players with vivid emotions. High-quality visual and sound design, as well as great music written specifically for this game, will immerse you in the exciting atmosphere of space battles.<br />\r\n<br />\r\nShoot asteroids and fight as a team against various opponents in the new game - Asteroids: Multiplayer!<br />\r\n<br />\r\n<br />\r\nGame Features:<br />\r\n\u25cf Unlimited Players<br />\r\n\u25cf Realistic physics engine<br />\r\n\u25cf Management of large ships and stations in several players<br />\r\n\u25cf Quality soundtracks and sound<br />\r\n\u25cf Nice graphics and special effects<br />\r\n\u25cf Original enemies and boss on every 5th level<br />\r\n\u25cf Various ships and weapons<br />\r\n\u25cf Can be played with keyboard and gamepad",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First boss",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/ae39bf5051e5e4fae4021a1118ff94192fd0ff71.jpg"
+            },
+            {
+                "name": "Laser boss",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/b038eca7647f0527320f030263319b14fe337244.jpg"
+            },
+            {
+                "name": "Boss miner",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/38061d1a7f45634ed540ce8cb717b0422cf95767.jpg"
+            },
+            {
+                "name": "Big boss",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/724994a6924103b99471acee73ff28ab471ba87e.jpg"
+            },
+            {
+                "name": "Core",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/72af6ebfc695d0c5bab11b9da8d452086e091e34.jpg"
+            },
+            {
+                "name": "Briefing completed",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/f0a0837ef1f7b107a9721ff07181e672228250db.jpg"
+            },
+            {
+                "name": "Squad",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/a9ee0d62af163903a24728afa52baeab827621fc.jpg"
+            },
+            {
+                "name": "\u0421rew",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/a6065467472bcbc944eb67998db6131a0bcc6b16.jpg"
+            },
+            {
+                "name": "Stationeers",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/6493746f52a2cd7ad80c865fddeb3f7b53a2e2c7.jpg"
+            },
+            {
+                "name": "Terminal velocity",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335340/e214b973c78a15e95b44929478d7f2d7b9ac91aa.jpg"
+            }
+        ],
+        "total": 12
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/page_bg_generated_v6b.jpg?t=1680152584",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/page.bg.jpg?t=1680152584",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/capsule_231x87.jpg?t=1680152584",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/capsule_184x69.jpg?t=1680152584",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Asteroids: Multiplayer is a completely new interpretation of the classic Asteroids.<br />\r\n<br />\r\nThe game is focused on cooperative multiplayer. Thanks to the possibility of participation of an unlimited number of players, playing it with friends is especially fun! The gameplay allows you to share combat missions between participants. While some of them jointly manage a large ship, others provide support for it with fighters. A variety of ships and weapons will allow anyone to find a task to their liking.<br />\r\n<br />\r\nA realistic physics engine will make each passage of the level unique. And responsive controls in open space will provide players with vivid emotions. High-quality visual and sound design, as well as great music written specifically for this game, will immerse you in the exciting atmosphere of space battles.<br />\r\n<br />\r\nShoot asteroids and fight as a team against various opponents in the new game - Asteroids: Multiplayer!<br />\r\n<br />\r\n<br />\r\nGame Features:<br />\r\n\u25cf Unlimited Players<br />\r\n\u25cf Realistic physics engine<br />\r\n\u25cf Management of large ships and stations in several players<br />\r\n\u25cf Quality soundtracks and sound<br />\r\n\u25cf Nice graphics and special effects<br />\r\n\u25cf Original enemies and boss on every 5th level<br />\r\n\u25cf Various ships and weapons<br />\r\n\u25cf Can be played with keyboard and gamepad",
+    "developers": [
+        "Irongate Apps"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/header.jpg?t=1680152584",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux 64bit<br></li><li><strong>Processor:</strong> 1.8GHz single core<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932621,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932621/movie480.mp4?t=1677689679",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932621/movie_max.mp4?t=1677689679"
+            },
+            "name": "Asteroids: Multiplayer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932621/movie.293x165.jpg?t=1677689679",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932621/movie480_vp9.webm?t=1677689679",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932621/movie_max_vp9.webm?t=1677689679"
+            }
+        }
+    ],
+    "name": "Asteroids: Multiplayer",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Asteroids: Multiplayer - $2.99",
+                    "packageid": 838792,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Asteroids: Multiplayer"
+        }
+    ],
+    "packages": [
+        838792
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> 2.0 Ghz DualCore CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000 with OpenGL 2.0 support<br></li><li><strong>Storage:</strong> 280 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.0+ Ghz QuadCore CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000 or higher with OpenGL 2.1 support<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Irongate Apps"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_d72d907b81f940aac87c70891b723e430d5d70b6.1920x1080.jpg?t=1680152584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_d72d907b81f940aac87c70891b723e430d5d70b6.600x338.jpg?t=1680152584"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_3fd76518549b2f8be211b42ecbb37d6a8295b4fa.1920x1080.jpg?t=1680152584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_3fd76518549b2f8be211b42ecbb37d6a8295b4fa.600x338.jpg?t=1680152584"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_724a412f193092fefdaf966fc64d3501edefb3ae.1920x1080.jpg?t=1680152584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_724a412f193092fefdaf966fc64d3501edefb3ae.600x338.jpg?t=1680152584"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_64b7b59ef2b87697b67018ef67ccc51e45551251.1920x1080.jpg?t=1680152584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_64b7b59ef2b87697b67018ef67ccc51e45551251.600x338.jpg?t=1680152584"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_e125d018f47a5d32d7aaa1f9c802e84fbfeafb22.1920x1080.jpg?t=1680152584",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335340/ss_e125d018f47a5d32d7aaa1f9c802e84fbfeafb22.600x338.jpg?t=1680152584"
+        }
+    ],
+    "short_description": "A modern version of the classic arcade game",
+    "steam_appid": 2335340,
+    "support_info": {
+        "email": "violoniste2@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Russian",
+    "type": "game",
+    "website": null
+}

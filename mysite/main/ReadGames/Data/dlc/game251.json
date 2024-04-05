@@ -1,0 +1,83 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>MEET THE FAIRY</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635610/extras/wrozka_t2.gif?t=1700745456\" /><br>Accompanying warriors on battlefields during the times of war, Asaradian Fairies don't have much to do in times of peace. Because of that, she will gladly help you on your way of becoming a Hero, by aiding you with some of her powers!<br><br><br><strong>Purchasing Warrior Fairy will unlock:</strong><br><br><br><ul class=\"bb_ul\"><li>Warrior Fairy skin<br></li><li>+1 training point for each hit<br></li><li>Additional skill point to use in the skill tree</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/page_bg_generated_v6b.jpg?t=1700745456",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/page_bg_generated.jpg?t=1700745456",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/capsule_231x87.jpg?t=1700745456",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/capsule_184x69.jpg?t=1700745456",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>MEET THE FAIRY</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635610/extras/wrozka_t2.gif?t=1700745456\" /><br>Accompanying warriors on battlefields during the times of war, Asaradian Fairies don't have much to do in times of peace. Because of that, she will gladly help you on your way of becoming a Hero, by aiding you with some of her powers!<br><br><br><strong>Purchasing Warrior Fairy will unlock:</strong><br><br><br><ul class=\"bb_ul\"><li>Warrior Fairy skin<br></li><li>+1 training point for each hit<br></li><li>Additional skill point to use in the skill tree</li></ul>",
+    "developers": [
+        "Weird Johnny Studio"
+    ],
+    "fullgame": {
+        "appid": "2513240",
+        "name": "Hero Tale"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/header.jpg?t=1700745456",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Hero Tale - Fairy Warrior",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Weird Johnny Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/ss_7e03f45fdff07d49dfbb28927238f166c89efa16.1920x1080.jpg?t=1700745456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635610/ss_7e03f45fdff07d49dfbb28927238f166c89efa16.600x338.jpg?t=1700745456"
+        }
+    ],
+    "short_description": "Warrior Fairy can aid you in your way of becoming a Hero by lending you some of her powers. Train faster, use additional skill point and see your companion in new apparel!",
+    "steam_appid": 2635610,
+    "support_info": {
+        "email": "support@weirdjohnnystudio.com",
+        "url": ""
+    },
+    "supported_languages": "English, Polish",
+    "type": "dlc",
+    "website": "https://weirdjohnnystudio.com/"
+}

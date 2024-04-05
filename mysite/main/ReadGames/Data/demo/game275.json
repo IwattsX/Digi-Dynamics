@@ -1,0 +1,66 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/REVERSEBULLETHELLROGUE.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/REVERBULLETHELL.gif?t=1696785259\" /><br><br>Survival is the name of the game! As hordes of bloodthirsty creatures emerge from beyond, ready to make you their next meal, your quick decisions will decide whether you live or die. Can you handle the pressure, or will you become an interstellar snack?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/BITECOSMICDUST.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/OCELOTARSENAL.gif?t=1696785259\" /><br><br><strong>But fear not! Death is only temporary! </strong> <br>Experience the thrill of an endless cycle of life and death. Die, regenerate, and mutate your own genetics to become stronger than ever before. Collect genetic material from slain enemies to upgrade yourself and an arsenal of 30+ weapons. It's like a never-ending game of evolution... with lasers!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/CONQUERTHEGALAXY.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/CONQUERTHEGALAXYGIF.gif?t=1696785259\" /><br><br>Embark on a journey of exploration and conquest across our initial maps. Uncover the secrets of our first two scouts, each with their own unique abilities and stories waiting to be revealed!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/COMBINEANDMUTATE.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/COMBINEANDMUTATE.gif?t=1696785259\" /><br><br>Unleash mayhem with devastating combos that will make your enemies tremble in their boots! Experiment with different build options, mix and match abilities and weapons to create the most mind-blowing synergistic combinations. Trust us, watching alien scum crumble under your wrath has never been this satisfying!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/WHATWAITINGFOR.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/WAITINGFOR.gif?t=1696785259\" /><br><br>Strap on your space boots, and prepare to DIE over and over and over\u2026and over and over\u2026.",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635060/capsule_231x87.jpg?t=1696785259",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635060/capsule_184x69.jpg?t=1696785259",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/REVERSEBULLETHELLROGUE.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/REVERBULLETHELL.gif?t=1696785259\" /><br><br>Survival is the name of the game! As hordes of bloodthirsty creatures emerge from beyond, ready to make you their next meal, your quick decisions will decide whether you live or die. Can you handle the pressure, or will you become an interstellar snack?<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/BITECOSMICDUST.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/OCELOTARSENAL.gif?t=1696785259\" /><br><br><strong>But fear not! Death is only temporary! </strong> <br>Experience the thrill of an endless cycle of life and death. Die, regenerate, and mutate your own genetics to become stronger than ever before. Collect genetic material from slain enemies to upgrade yourself and an arsenal of 30+ weapons. It's like a never-ending game of evolution... with lasers!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/CONQUERTHEGALAXY.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/CONQUERTHEGALAXYGIF.gif?t=1696785259\" /><br><br>Embark on a journey of exploration and conquest across our initial maps. Uncover the secrets of our first two scouts, each with their own unique abilities and stories waiting to be revealed!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/COMBINEANDMUTATE.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/COMBINEANDMUTATE.gif?t=1696785259\" /><br><br>Unleash mayhem with devastating combos that will make your enemies tremble in their boots! Experiment with different build options, mix and match abilities and weapons to create the most mind-blowing synergistic combinations. Trust us, watching alien scum crumble under your wrath has never been this satisfying!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/WHATWAITINGFOR.png?t=1696785259\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2635060/extras/WAITINGFOR.gif?t=1696785259\" /><br><br>Strap on your space boots, and prepare to DIE over and over and over\u2026and over and over\u2026.",
+    "developers": [
+        "Costa Blanca Studios"
+    ],
+    "fullgame": {
+        "appid": "2194190",
+        "name": "Ocelot Sunrise"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635060/header.jpg?t=1696785259",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Ocelot Sunrise Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Tribal-Storm"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 8, 2023"
+    },
+    "required_age": 0,
+    "short_description": "[/img]Survival is the name of the game! As hordes of bloodthirsty creatures emerge from beyond, ready to make you their next meal, your quick decisions will decide whether you live or die. Can you handle the pressure, or will you become an interstellar snack?[/img]But fear not! Death is only temporary!",
+    "steam_appid": 2635060,
+    "support_info": {
+        "email": "alexpoysky@gmail.com",
+        "url": "www.tribal-storm.com"
+    },
+    "type": "demo",
+    "website": null
+}

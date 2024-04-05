@@ -1,0 +1,166 @@
+{
+    "about_the_game": "&quot;<h2 class=\"bb_tag\"> D&amp;D Planescape: Adventures in the Multiverse</h2>  Infinite realms of immortals and impossibilities, the Outer Planes brim with celestials, fiends, gods, and the dead\u2014and they\u2019re all just a step away. Enter a portal to Sigil, the City of Doors\u2014an incredible metropolis where portals connect to every corner of the multiverse. From there, venture to the Outlands, the hub of the Outer Planes, and discover wonders beyond imagination. The possibilities \u2013 just like the realms \u2013 are endless.  Planescape: Adventures in the Multiverse comes with a plethora of new player options and provides Dungeon Masters everything they need to run adventures and campaigns set in Sigil and the Outlands, including adventure hooks, idiosyncratic locations, and multiversal calamities. <ul class=\"bb_ul\"> <li> Discover 2 new backgrounds, the Gate Warden &amp; the Planar Philosopher, to build planar characters </li><li> Channel 7 otherworldly feats, new intriguing magic spells &amp; more powered by planar energies </li><li> Explore 12 new ascendant factions, each with distinct cosmic ideologies </li><li> Face over 50 unusual creatures including planar incarnates, hierarch modrons, and time dragons </li><li> Journey across the Outlands in an adventure for characters levels 3-10 and 17 </li><li> Adds adventure hooks, encounter tables, maps of Sigil and the Outlands &amp; more to your game </li></ul>  This 3 books set comprises: <ul class=\"bb_ul\"> <li> Sigil and the Outlands: a setting book full of planar character options with details on the fantastic City of Doors, descriptions of the Outlands, the gate-towns that lead to the Outer planes, and more </li><li> Turn of Fortune's Wheel: an adventure set in Sigil and the Outlands designed for character levels 3-10 with a jump to level 17 </li><li> Morte\u2019s Planar Parade: Follow Morte as he presents over 50 inhabitants of the Outer Plane, including incarnates, hierarch modrons, time dragons, and more with their stats and descriptions </li></ul>   &quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/page_bg_generated_v6b.jpg?t=1697561888",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/page_bg_generated.jpg?t=1697561888",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/capsule_231x87.jpg?t=1697561888",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/capsule_184x69.jpg?t=1697561888",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;<h2 class=\"bb_tag\"> D&amp;D Planescape: Adventures in the Multiverse</h2>  Infinite realms of immortals and impossibilities, the Outer Planes brim with celestials, fiends, gods, and the dead\u2014and they\u2019re all just a step away. Enter a portal to Sigil, the City of Doors\u2014an incredible metropolis where portals connect to every corner of the multiverse. From there, venture to the Outlands, the hub of the Outer Planes, and discover wonders beyond imagination. The possibilities \u2013 just like the realms \u2013 are endless.  Planescape: Adventures in the Multiverse comes with a plethora of new player options and provides Dungeon Masters everything they need to run adventures and campaigns set in Sigil and the Outlands, including adventure hooks, idiosyncratic locations, and multiversal calamities. <ul class=\"bb_ul\"> <li> Discover 2 new backgrounds, the Gate Warden &amp; the Planar Philosopher, to build planar characters </li><li> Channel 7 otherworldly feats, new intriguing magic spells &amp; more powered by planar energies </li><li> Explore 12 new ascendant factions, each with distinct cosmic ideologies </li><li> Face over 50 unusual creatures including planar incarnates, hierarch modrons, and time dragons </li><li> Journey across the Outlands in an adventure for characters levels 3-10 and 17 </li><li> Adds adventure hooks, encounter tables, maps of Sigil and the Outlands &amp; more to your game </li></ul>  This 3 books set comprises: <ul class=\"bb_ul\"> <li> Sigil and the Outlands: a setting book full of planar character options with details on the fantastic City of Doors, descriptions of the Outlands, the gate-towns that lead to the Outer planes, and more </li><li> Turn of Fortune's Wheel: an adventure set in Sigil and the Outlands designed for character levels 3-10 with a jump to level 17 </li><li> Morte\u2019s Planar Parade: Follow Morte as he presents over 50 inhabitants of the Outer Plane, including incarnates, hierarch modrons, time dragons, and more with their stats and descriptions </li></ul>   &quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/header.jpg?t=1697561888",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2023. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fantasy Grounds - D&D Planescape: Adventures in the Multiverse",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - D&D Planescape: Adventures in the Multiverse - $49.99",
+                    "packageid": 946112,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy Fantasy Grounds - D&D Planescape: Adventures in the Multiverse"
+        }
+    ],
+    "packages": [
+        946112
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_9107dc4e09695832115e3770a27faa51fa3bfcad.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_9107dc4e09695832115e3770a27faa51fa3bfcad.600x338.jpg?t=1697561888"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_89a8d7d00b9409b6136bf505503dadfabadb1ebe.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_89a8d7d00b9409b6136bf505503dadfabadb1ebe.600x338.jpg?t=1697561888"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_f4a299a25ee69fdbbe2bce6e9971db7ca0eab5a0.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_f4a299a25ee69fdbbe2bce6e9971db7ca0eab5a0.600x338.jpg?t=1697561888"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_606d8b1aa81808b0e32363095da84aa66c7b7db9.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_606d8b1aa81808b0e32363095da84aa66c7b7db9.600x338.jpg?t=1697561888"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_31b6ff7c5aa95972b6dd090a06c032d62d7a9292.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_31b6ff7c5aa95972b6dd090a06c032d62d7a9292.600x338.jpg?t=1697561888"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_25d1326cff7bb93c1d0532d3dcd98242ed6680ed.1920x1080.jpg?t=1697561888",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638660/ss_25d1326cff7bb93c1d0532d3dcd98242ed6680ed.600x338.jpg?t=1697561888"
+        }
+    ],
+    "short_description": "&quot; D&amp;D Planescape: Adventures in the Multiverse Infinite realms of immortals and impossibilities, the Outer Planes brim with celestials, fiends, gods, and the dead\u2014and they\u2019re all just a step away. Enter a portal to Sigil, the City of Doors\u2014an incredible metropolis where portals connect to every corner of the multiverse.",
+    "steam_appid": 2638660,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

@@ -1,0 +1,108 @@
+{
+    "about_the_game": "Join our official Discord to keep up with all game development: <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FhmfdXs6hQK\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/hmfdXs6hQK</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam3.png?t=1704396905\" /><br><br><strong><i>Moussacre</i></strong> is a fast-paced 2D platformer inspired by classic cartoons; each animation being carefully drawn frame by frame. Run through levels at <i>blistering</i> speeds while slashing apart all who stand in your way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam1.gif?t=1704396905\" /><br><br>This isn't your normal, family-friendly cartoon mouse. Meet <strong>MouseTrap</strong>, the <i>paint</i>-thirsty killing machine who yearns to steal victims' <strong>color</strong>. Prison was not nice to this poor soul. After being forced to star in cartoons for nearly a century, he completely overhauls his identity to break away from who he once was, eventually adopting his prison name, &quot;MouseTrap.&quot; This all leads to him executing his grand prison escape, finally being free from the clutches of his owners. Still dead set on filling his life with color, MouseTrap heads for the <strong>Hue Fortress</strong>, a massive tower said to hold the ultimate source of color; the <strong>Prisma Diamond</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam2.gif?t=1704396905\" /><br><br><ul class=\"bb_ul\"><li><strong>Explore</strong> massive worlds, each with multiple objectives, clever secrets, and colorful characters to interact with.<br></li><li><strong>Kill</strong> the powerful rulers of the fortress, each with a myriad of tricky tactics and devastating powers.<br></li><li><strong>Earn</strong> the highest score, best time, or explore at your own pace.<br></li><li><strong>Become</strong> the ultimate source of color.<br><br>This journey with wacky animations and heart-stopping music will absolutely knock your socks off!<h2 class=\"bb_tag\">FLASHING IMAGE WARNING</h2><br>This game contains flickering images and patterns that may trigger seizures in those with photosensitive epilepsy. If you are prone to this, please do not play this game (or any other game for that matter). Thank you, and stay safe.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/page_bg_generated_v6b.jpg?t=1704396905",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/page.bg.jpg?t=1704396905",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/capsule_231x87.jpg?t=1704396905",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/capsule_184x69.jpg?t=1704396905",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Cartoon violence; dismemberment and paint (equivalent to blood)"
+    },
+    "controller_support": "full",
+    "detailed_description": "Join our official Discord to keep up with all game development: <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FhmfdXs6hQK\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/hmfdXs6hQK</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam3.png?t=1704396905\" /><br><br><strong><i>Moussacre</i></strong> is a fast-paced 2D platformer inspired by classic cartoons; each animation being carefully drawn frame by frame. Run through levels at <i>blistering</i> speeds while slashing apart all who stand in your way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam1.gif?t=1704396905\" /><br><br>This isn't your normal, family-friendly cartoon mouse. Meet <strong>MouseTrap</strong>, the <i>paint</i>-thirsty killing machine who yearns to steal victims' <strong>color</strong>. Prison was not nice to this poor soul. After being forced to star in cartoons for nearly a century, he completely overhauls his identity to break away from who he once was, eventually adopting his prison name, &quot;MouseTrap.&quot; This all leads to him executing his grand prison escape, finally being free from the clutches of his owners. Still dead set on filling his life with color, MouseTrap heads for the <strong>Hue Fortress</strong>, a massive tower said to hold the ultimate source of color; the <strong>Prisma Diamond</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2734500/extras/mousesteam2.gif?t=1704396905\" /><br><br><ul class=\"bb_ul\"><li><strong>Explore</strong> massive worlds, each with multiple objectives, clever secrets, and colorful characters to interact with.<br></li><li><strong>Kill</strong> the powerful rulers of the fortress, each with a myriad of tricky tactics and devastating powers.<br></li><li><strong>Earn</strong> the highest score, best time, or explore at your own pace.<br></li><li><strong>Become</strong> the ultimate source of color.<br><br>This journey with wacky animations and heart-stopping music will absolutely knock your socks off!<h2 class=\"bb_tag\">FLASHING IMAGE WARNING</h2><br>This game contains flickering images and patterns that may trigger seizures in those with photosensitive epilepsy. If you are prone to this, please do not play this game (or any other game for that matter). Thank you, and stay safe.</li></ul>",
+    "developers": [
+        "Nick Donnoli"
+    ],
+    "fullgame": {
+        "appid": "2668740",
+        "name": "Moussacre"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/header.jpg?t=1704396905",
+    "is_free": true,
+    "legal_notice": "\u00a9 Nicola Donnoli 2024. All rights reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Moussacre DEMO",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Nick Donnoli"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 1, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_b7f56c8fa86331264593011fc14ffc94e7a48402.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_b7f56c8fa86331264593011fc14ffc94e7a48402.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_2d1a24b56fc9ca14293c6a606f1f1cec6cb6d21a.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_2d1a24b56fc9ca14293c6a606f1f1cec6cb6d21a.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_0eeab46f5170481eca3afd3a384da5c1fdf889fd.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_0eeab46f5170481eca3afd3a384da5c1fdf889fd.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_d15606b586921976e57f1ce66a043f0145d2bf55.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_d15606b586921976e57f1ce66a043f0145d2bf55.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_339974f646e97f5a60389e2afb6268adb149b392.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_339974f646e97f5a60389e2afb6268adb149b392.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_eda61893ef061a75a92734b9639933b13cbe25eb.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_eda61893ef061a75a92734b9639933b13cbe25eb.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_eb93612123ccabf7cd4160d759475adac71cc535.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_eb93612123ccabf7cd4160d759475adac71cc535.600x338.jpg?t=1704396905"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_f5a3553e3979af352f4e46188b906f22911ddac6.1920x1080.jpg?t=1704396905",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734500/ss_f5a3553e3979af352f4e46188b906f22911ddac6.600x338.jpg?t=1704396905"
+        }
+    ],
+    "short_description": "Imprisoned for nearly a century, MouseTrap finally breaks out and goes on a rampage to steal color... by any means necessary. Experience fast-paced 2D platforming mayhem while slashing apart legions of victims who stand in your way.",
+    "steam_appid": 2734500,
+    "support_info": {
+        "email": "nickdonnoligames@gmail.com",
+        "url": "https://www.nickdonnoligames.com/about-me"
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": "https://www.nickdonnoligames.com/games-moussacre"
+}

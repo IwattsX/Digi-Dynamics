@@ -1,0 +1,109 @@
+{
+    "about_the_game": "Journey to an Ancient and Mysterious Civilization<br />\r\nThe Official Soundtrack for Islands of the Caliph invokes the Middle Eastern theme and sets the mood for the game.  Explore a vast and mysterious world of deserts and oceans, palaces and dungeons, through its textured and evocative melodies. <br />\r\n<br />\r\nThe Islands of the Caliph Official Soundtrack is composed by Hugo Rodrigue.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/page_bg_generated_v6b.jpg?t=1704241638",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/page_bg_generated.jpg?t=1704241638",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/capsule_231x87.jpg?t=1704241638",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/capsule_184x69.jpg?t=1704241638",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Journey to an Ancient and Mysterious Civilization<br />\r\nThe Official Soundtrack for Islands of the Caliph invokes the Middle Eastern theme and sets the mood for the game.  Explore a vast and mysterious world of deserts and oceans, palaces and dungeons, through its textured and evocative melodies. <br />\r\n<br />\r\nThe Islands of the Caliph Official Soundtrack is composed by Hugo Rodrigue.",
+    "developers": [
+        "Hugo Rodrigue"
+    ],
+    "fullgame": {
+        "appid": "1845670",
+        "name": "Islands of the Caliph"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/header.jpg?t=1704241638",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Islands of the Caliph Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Islands of the Caliph Soundtrack - $4.99",
+                    "packageid": 950418,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Islands of the Caliph Soundtrack"
+        }
+    ],
+    "packages": [
+        950418
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 133 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Schmidt Workshops"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_94ffa31c7c10af213b9629eec4fe7553cd5d5897.1920x1080.jpg?t=1704241638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_94ffa31c7c10af213b9629eec4fe7553cd5d5897.600x338.jpg?t=1704241638"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_2019be7c0eee32bba26a4e8530ddfee43af35dc3.1920x1080.jpg?t=1704241638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_2019be7c0eee32bba26a4e8530ddfee43af35dc3.600x338.jpg?t=1704241638"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_441f27652352f2070dfc4b9bf0fa1c719129a3b8.1920x1080.jpg?t=1704241638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_441f27652352f2070dfc4b9bf0fa1c719129a3b8.600x338.jpg?t=1704241638"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_34dd63b794039af3d070c843a5e63316fcc366ac.1920x1080.jpg?t=1704241638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_34dd63b794039af3d070c843a5e63316fcc366ac.600x338.jpg?t=1704241638"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_fc5234efc99ce070902e906325f65318be3c16d9.1920x1080.jpg?t=1704241638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651730/ss_fc5234efc99ce070902e906325f65318be3c16d9.600x338.jpg?t=1704241638"
+        }
+    ],
+    "short_description": "The Official Soundtrack for Islands of the Caliph invokes the Middle Eastern theme and sets the mood for the game.",
+    "steam_appid": 2651730,
+    "support_info": {
+        "email": "hurodrigue@icloud.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": "https://hurodrigue.wixsite.com/portfolio?fbclid=IwAR2VahUvH3f2HNsODTJLn9bTNKtI6SAuDFd3pmWFmE1QBjXSlzzctuj8G64"
+}

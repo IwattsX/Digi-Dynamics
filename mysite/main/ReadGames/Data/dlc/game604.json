@@ -1,0 +1,169 @@
+{
+    "about_the_game": "By purchasing this DLC, you will gain access to the complete Mini Golf Aeons experience, and that includes all the available maps and Local MP. Unlocking this DLC will allow you to fully immerse yourself in the world of Mini Golf Aeons and enjoy all the content it has to offer.<br />\r\n<br />\r\n<br />\r\n- Desert map.<br />\r\n- Antarctica map.<br />\r\n- Dino Swamp map.<br />\r\n- Local MP with HMD swap.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/page_bg_generated_v6b.jpg?t=1689271481",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/page.bg.jpg?t=1689271481",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/capsule_231x87.jpg?t=1689271481",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/capsule_184x69.jpg?t=1689271481",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "By purchasing this DLC, you will gain access to the complete Mini Golf Aeons experience, and that includes all the available maps and Local MP. Unlocking this DLC will allow you to fully immerse yourself in the world of Mini Golf Aeons and enjoy all the content it has to offer.<br />\r\n<br />\r\n<br />\r\n- Desert map.<br />\r\n- Antarctica map.<br />\r\n- Dino Swamp map.<br />\r\n- Local MP with HMD swap.",
+    "developers": [
+        "LastnOni"
+    ],
+    "fullgame": {
+        "appid": "2335910",
+        "name": "Mini Golf Aeons"
+    },
+    "genres": [
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/header.jpg?t=1689271481",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Mini Golf Aeons - Full Game",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Mini Golf Aeons - Full Game - <span class=\"discount_original_price\">$11.99</span> $9.59",
+                    "packageid": 838993,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-20% ",
+                    "price_in_cents_with_discount": 959
+                }
+            ],
+            "title": "Buy Mini Golf Aeons - Full Game"
+        }
+    ],
+    "packages": [
+        838993
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Win 7 sp1 x64 , Win 10 x64<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-4590 or equivalent<br></li><li><strong>Graphics:</strong> GTX 970 or equivalent<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>VR Support:</strong> SteamVR, Oculus PC, Oculus Quest Link, WMR, and Valve Index. Standing or Room Scale</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Win 7 sp1 x64 , Win 10 x64<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-4590 or equivalent<br></li><li><strong>Graphics:</strong> RTX 2070<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 20,
+        "final": 959,
+        "final_formatted": "$9.59",
+        "initial": 1199,
+        "initial_formatted": "$11.99"
+    },
+    "publishers": [
+        "Frozen Dreams"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jul 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_17acedd27df431d8a7e03703139e17f59d9cb5d9.1920x1080.jpg?t=1689271481",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_17acedd27df431d8a7e03703139e17f59d9cb5d9.600x338.jpg?t=1689271481"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_5be571193a7fbc476438a795eff3be65b805e880.1920x1080.jpg?t=1689271481",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_5be571193a7fbc476438a795eff3be65b805e880.600x338.jpg?t=1689271481"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_f1ffbf93504b6c8fae05219f592b9232b1823cb1.1920x1080.jpg?t=1689271481",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_f1ffbf93504b6c8fae05219f592b9232b1823cb1.600x338.jpg?t=1689271481"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_5b7da49be1b35c6e12488242285d7695210b3cfc.1920x1080.jpg?t=1689271481",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_5b7da49be1b35c6e12488242285d7695210b3cfc.600x338.jpg?t=1689271481"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_16ff718d8554592da68736ffeb9102dee588d16d.1920x1080.jpg?t=1689271481",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335950/ss_16ff718d8554592da68736ffeb9102dee588d16d.600x338.jpg?t=1689271481"
+        }
+    ],
+    "short_description": "By purchasing this DLC, you will gain access to the complete Mini Golf Aeons VR experience, and that includes all the available maps and Local MP. Unlocking this DLC will allow you to fully immerse yourself in the world of Mini Golf Aeons and enjoy all the content it has to offer.",
+    "steam_appid": 2335950,
+    "support_info": {
+        "email": "skyislimit2017@gmail.com",
+        "url": "http://frozen-dreams.com/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "http://frozen-dreams.com/"
+}

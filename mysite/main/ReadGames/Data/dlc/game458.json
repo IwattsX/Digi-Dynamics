@@ -1,0 +1,153 @@
+{
+    "about_the_game": "Embark on a whimsical journey with &quot;Squirrel Jump - Forest Pathway,&quot; a charming platform game that invites you to guide our adventurous squirrel through 30 levels of enchanted puzzles in the heart of the forest! Leap from platform to platform as the mystical surroundings transform around you, creating a vibrant and dynamic world. Skillfully time your jumps to land at the Squirrel House, overcoming challenges and unlocking the door to each level's cozy retreat. Immerse yourself in the thrill of playing this engaging game, where each level is a step closer to the squirrel's treetop haven. Are you ready to explore the Forest Pathway and discover the secrets of the Squirrel House? The adventure begins now!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/page_bg_generated_v6b.jpg?t=1702433815",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/page_bg_generated.jpg?t=1702433815",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/capsule_231x87.jpg?t=1702433815",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/capsule_184x69.jpg?t=1702433815",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on a whimsical journey with &quot;Squirrel Jump - Forest Pathway,&quot; a charming platform game that invites you to guide our adventurous squirrel through 30 levels of enchanted puzzles in the heart of the forest! Leap from platform to platform as the mystical surroundings transform around you, creating a vibrant and dynamic world. Skillfully time your jumps to land at the Squirrel House, overcoming challenges and unlocking the door to each level's cozy retreat. Immerse yourself in the thrill of playing this engaging game, where each level is a step closer to the squirrel's treetop haven. Are you ready to explore the Forest Pathway and discover the secrets of the Squirrel House? The adventure begins now!",
+    "developers": [
+        "Boogygames Studios"
+    ],
+    "fullgame": {
+        "appid": "1148000",
+        "name": "Squirrel Jump"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/header.jpg?t=1702433815",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Squirrel Jump - Forest Pathway",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Squirrel Jump - Forest Pathway - $0.99",
+                    "packageid": 978346,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Squirrel Jump - Forest Pathway"
+        }
+    ],
+    "packages": [
+        978346
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium 4 or higher, 2GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128MB or higher<br></li><li><strong>Storage:</strong> 280 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_2466e36dd39392f59d1b48925bd5408520827dc1.1920x1080.jpg?t=1702433815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_2466e36dd39392f59d1b48925bd5408520827dc1.600x338.jpg?t=1702433815"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_baa402f5524c78cf596e5b1461f158d429cfe25e.1920x1080.jpg?t=1702433815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_baa402f5524c78cf596e5b1461f158d429cfe25e.600x338.jpg?t=1702433815"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_86f0459b3ee9a4b4d451e949babc1ae442ad036a.1920x1080.jpg?t=1702433815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_86f0459b3ee9a4b4d451e949babc1ae442ad036a.600x338.jpg?t=1702433815"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_e01d371f0fe3687d4b1bc7a4e8d340cfda6296aa.1920x1080.jpg?t=1702433815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_e01d371f0fe3687d4b1bc7a4e8d340cfda6296aa.600x338.jpg?t=1702433815"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_c90e678559eede79d304945d74415473cb99ee36.1920x1080.jpg?t=1702433815",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734080/ss_c90e678559eede79d304945d74415473cb99ee36.600x338.jpg?t=1702433815"
+        }
+    ],
+    "short_description": "&quot;Squirrel Jump - Forest Pathway&quot; takes you on a charming adventure through 30 levels of vibrant forest puzzles. Leap through platforms, skillfully timing your jumps to reach the cozy Squirrel House. Immerse yourself in this engaging game, guiding the squirrel to its treetop haven!",
+    "steam_appid": 2734080,
+    "support_info": {
+        "email": "boogygames@outlook.com",
+        "url": "https://store.steampowered.com/developer/boogygames/"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": "https://store.steampowered.com/publisher/boogygames"
+}

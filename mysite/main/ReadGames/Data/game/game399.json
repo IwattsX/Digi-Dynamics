@@ -1,0 +1,98 @@
+{
+    "about_the_game": "Christmas Corp is a solo factory simulation game. As Christmas is revving up, you'll need to micro-manage your elves to make them produce a never ending amount of gifts for the custom... the children all over the world, without setting the North Pole on fire. Manage to get through every level so that Santa can reign master of the Winter this year again !<h2 class=\"bb_tag\"><strong><u>A Christmas Nightmare </u></strong></h2><br>The North Pole has always been the Santa Family's base of operations. Underneath the ice is one of the biggest factories in the world : the gift factory. From wood to steel, plastic to glass, you want to gift it ? They make it. However, the current Santa's running tired of managing elves, who want breaks every five hours. Why would they need a break ? So, to not cause a union revolt in the ranks of the elves, Santa hired you, an all new rookie manager to manage his elves. Tell them where to go, what conveyer belt to use, what lever to pull or push... You're in charge from now on. %<h2 class=\"bb_tag\"><strong><u>What does a gift factory manager do</u></strong></h2><br>As the new manager of the factory, your job is quite simple : manage each one of your elves schedules throughout <strong>multiple levels</strong> by clinking on them, and <strong>tell them when to take their breaks</strong>, <strong>what machine to activate when</strong>, to have more and more gifts reach the end of the conveyor belt, and meet your production goals.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/page_bg_generated_v6b.jpg?t=1705407204",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/page_bg_generated.jpg?t=1705407204",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/capsule_231x87.jpg?t=1705407204",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/capsule_184x69.jpg?t=1705407204",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Christmas Corp is a solo factory simulation game. As Christmas is revving up, you'll need to micro-manage your elves to make them produce a never ending amount of gifts for the custom... the children all over the world, without setting the North Pole on fire. Manage to get through every level so that Santa can reign master of the Winter this year again !<h2 class=\"bb_tag\"><strong><u>A Christmas Nightmare </u></strong></h2><br>The North Pole has always been the Santa Family's base of operations. Underneath the ice is one of the biggest factories in the world : the gift factory. From wood to steel, plastic to glass, you want to gift it ? They make it. However, the current Santa's running tired of managing elves, who want breaks every five hours. Why would they need a break ? So, to not cause a union revolt in the ranks of the elves, Santa hired you, an all new rookie manager to manage his elves. Tell them where to go, what conveyer belt to use, what lever to pull or push... You're in charge from now on. %<h2 class=\"bb_tag\"><strong><u>What does a gift factory manager do</u></strong></h2><br>As the new manager of the factory, your job is quite simple : manage each one of your elves schedules throughout <strong>multiple levels</strong> by clinking on them, and <strong>tell them when to take their breaks</strong>, <strong>what machine to activate when</strong>, to have more and more gifts reach the end of the conveyor belt, and meet your production goals.",
+    "developers": [
+        "Hammer and Cane"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/header.jpg?t=1705407204",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Christmas Corp",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> i5 7400 ou Ryzen 5 5500<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1050 ou AMD RX 570<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 11<br></li><li><strong>Processor:</strong> i7 7700k ou Ryzen 7 5800X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1080 ou AMD RX 5700<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "IIM Digital School"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_e6d3d563fe796cfcfd82ffdacf8ae40f916d3964.1920x1080.jpg?t=1705407204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_e6d3d563fe796cfcfd82ffdacf8ae40f916d3964.600x338.jpg?t=1705407204"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_c6bbe83c6b7dd5fc2872c883e041604f9a4c9b6d.1920x1080.jpg?t=1705407204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_c6bbe83c6b7dd5fc2872c883e041604f9a4c9b6d.600x338.jpg?t=1705407204"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_a13c1ec52b2d4c2ac5e3199117a870e17e359b1f.1920x1080.jpg?t=1705407204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_a13c1ec52b2d4c2ac5e3199117a870e17e359b1f.600x338.jpg?t=1705407204"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_8ab978b9da6a5eca24554e3e62658c2fa98d6bfb.1920x1080.jpg?t=1705407204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_8ab978b9da6a5eca24554e3e62658c2fa98d6bfb.600x338.jpg?t=1705407204"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_dd44ed0740cd5b1b80eae3c3ec1ba5a270cdfa92.1920x1080.jpg?t=1705407204",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736060/ss_dd44ed0740cd5b1b80eae3c3ec1ba5a270cdfa92.600x338.jpg?t=1705407204"
+        }
+    ],
+    "short_description": "Christmas is here, and the only way for elves to produce enough gifts in time, is to be micro-managed ! In Christmas Corp, Santa's elves are burnt out, and need to be told what to do every second. The player has to manage each of the elves' schedules so that the toy production goes smoothly.",
+    "steam_appid": 2736060,
+    "support_info": {
+        "email": "",
+        "url": "https://www.iim.fr/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

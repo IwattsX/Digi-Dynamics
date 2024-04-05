@@ -1,0 +1,129 @@
+{
+    "about_the_game": "Welcome to <strong>Tower Tales</strong>, our brand-new tower defense game! Prepare to travel through different worlds and live unique adventures! Your mission is to build and upgrade towers strategically to stop the incoming hordes of enemies. With each level, the enemies get stronger and more challenging, so you'll need to use all of your strategic skills to succeed.<br><br>Collect resources, select your favourite biomes, choose your strategy through the levels, and upgrade your towers to increase their damage, type, and range; but choose them wisely, as each world requires a different approach to defend against the incoming enemies. With friendly graphics and immersive sound effects, this tower defense game will transport you to a multiverse of adventure and excitement.<br><br>What are you waiting for? Bring your best skills and start defending these worlds against the forces of evil!<h2 class=\"bb_tag\">Build and Upgrade</h2><br>This fantasy tower defense game offers players four different types of towers to protect their kingdom. The towers are divided into two categories: physical damage and magical damage. The physical damage towers include the Archer Tower, which fires individual projectiles that deal direct damage to single targets, and the Barracks Tower, which spawns soldiers to engage enemies in close combat. <br>The magical damage towers include the Arcane Tower, which fires a stream of projectiles that deal damage in an area and have various effects, and the powerful Laser Tower, which deals consistent damage to a single enemy until it is defeated. Players must strategically use these towers to fend off waves of enemies and upgrade them to become an unstoppable force against any threat to their kingdom.<br><br>When upgrading, they can choose from a variety of upgrades to improve the tower's range, attack speed, damage, and type. For example, a player can upgrade the Archer Tower, which shoots individual projectiles that inflict direct damage to a single target, to become a Crossbow Tower that shoots faster and more accurately, increasing its range and damage.<br><br>Upgrading towers in Tower Tales can provide significant advantages to the player. Improving a tower's range can allow it to attack enemies from a greater distance, making it more difficult for the enemy to approach and attack the base. Increasing the tower's attack speed can allow it to fire more shots in a shorter amount of time, dealing more damage to enemies and potentially taking them down more quickly. Upgrading the damage of a tower can make it more effective against tougher enemies or enemy groups. And while improving each tower stats you will discover their stories too.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/page_bg_generated_v6b.jpg?t=1699818455",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/page.bg.jpg?t=1699818455",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/capsule_231x87.jpg?t=1699818455",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/capsule_184x69.jpg?t=1699818455",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to <strong>Tower Tales</strong>, our brand-new tower defense game! Prepare to travel through different worlds and live unique adventures! Your mission is to build and upgrade towers strategically to stop the incoming hordes of enemies. With each level, the enemies get stronger and more challenging, so you'll need to use all of your strategic skills to succeed.<br><br>Collect resources, select your favourite biomes, choose your strategy through the levels, and upgrade your towers to increase their damage, type, and range; but choose them wisely, as each world requires a different approach to defend against the incoming enemies. With friendly graphics and immersive sound effects, this tower defense game will transport you to a multiverse of adventure and excitement.<br><br>What are you waiting for? Bring your best skills and start defending these worlds against the forces of evil!<h2 class=\"bb_tag\">Build and Upgrade</h2><br>This fantasy tower defense game offers players four different types of towers to protect their kingdom. The towers are divided into two categories: physical damage and magical damage. The physical damage towers include the Archer Tower, which fires individual projectiles that deal direct damage to single targets, and the Barracks Tower, which spawns soldiers to engage enemies in close combat. <br>The magical damage towers include the Arcane Tower, which fires a stream of projectiles that deal damage in an area and have various effects, and the powerful Laser Tower, which deals consistent damage to a single enemy until it is defeated. Players must strategically use these towers to fend off waves of enemies and upgrade them to become an unstoppable force against any threat to their kingdom.<br><br>When upgrading, they can choose from a variety of upgrades to improve the tower's range, attack speed, damage, and type. For example, a player can upgrade the Archer Tower, which shoots individual projectiles that inflict direct damage to a single target, to become a Crossbow Tower that shoots faster and more accurately, increasing its range and damage.<br><br>Upgrading towers in Tower Tales can provide significant advantages to the player. Improving a tower's range can allow it to attack enemies from a greater distance, making it more difficult for the enemy to approach and attack the base. Increasing the tower's attack speed can allow it to fire more shots in a shorter amount of time, dealing more damage to enemies and potentially taking them down more quickly. Upgrading the damage of a tower can make it more effective against tougher enemies or enemy groups. And while improving each tower stats you will discover their stories too.",
+    "developers": [
+        "Auriga Games"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/header.jpg?t=1699818455",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Lion 10.7.5<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compilant with 512MB of video RAM<br></li><li><strong>Storage:</strong> 2000 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Lion 10.7.5<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compilant with 1.0GB of video RAM<br></li><li><strong>Storage:</strong> 3000 MB available space</li></ul>"
+    },
+    "name": "Tower Tales",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 8,10 64 bit<br></li><li><strong>Processor:</strong> Intel Core i5 6400 / AMD X8 FX-8300<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 960 / AMD Radeon R9 280<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64 bit<br></li><li><strong>Processor:</strong> Intel Core i5 7400 / AMD Ryzen 3 2300X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 / AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 compatible</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Auriga Games",
+        "U-tad"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_c6ddbfdc3f606aacdbffa3bfd1765aeb858fd295.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_c6ddbfdc3f606aacdbffa3bfd1765aeb858fd295.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_74e460a359de43689ffc4b43bcc84e6a58369772.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_74e460a359de43689ffc4b43bcc84e6a58369772.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_c756769e4c1e0f1e7358071ff65e1becfa385ddc.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_c756769e4c1e0f1e7358071ff65e1becfa385ddc.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_8fadadb3b70658ad9273b327d8f6d7b6c369b65f.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_8fadadb3b70658ad9273b327d8f6d7b6c369b65f.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_d04984addd3d7c6d704ed3b6fffcf3b166fee293.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_d04984addd3d7c6d704ed3b6fffcf3b166fee293.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_64eecd726bf486f9d6f711fa09250f3735b15e05.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_64eecd726bf486f9d6f711fa09250f3735b15e05.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_07a31a9f493294112974690459360fee68ce18a2.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_07a31a9f493294112974690459360fee68ce18a2.600x338.jpg?t=1699818455"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_fed16deba8603eaf71bdac5a213b9f8114ec8799.1920x1080.jpg?t=1699818455",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/ss_fed16deba8603eaf71bdac5a213b9f8114ec8799.600x338.jpg?t=1699818455"
+        }
+    ],
+    "short_description": "Tower Tales is a new tower defense game that takes you on a journey through unique worlds. Build and upgrade towers strategically to stop incoming hordes of enemies. Collect resources, choose biomes, and upgrade your towers to defend against the forces of evil. Start playing now and join the action!",
+    "steam_appid": 2337880,
+    "support_info": {
+        "email": "aurigagamesstudio@gmail.com",
+        "url": "https://discord.gg/qv5B5YctZS"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

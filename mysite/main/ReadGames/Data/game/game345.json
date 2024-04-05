@@ -1,0 +1,115 @@
+{
+    "about_the_game": "Dare to enter &quot;Candyland: Sweet Survival,&quot; a survival puzzle adventure set within the eerie confines of an abandoned chocolate factory. Swirling with chilling tales and dark legends, your mission is to ascend to the top floor, uncovering the factory's grim secrets along the way.<br />\r\nKey Features:<br />\r\nMysterious Chocolate Factory Setting: Traverse the vast, neglected chambers of a once-celebrated chocolate factory, where the echoes of a joyous past clash with a haunting reality.<br />\r\nIntricate Puzzles: Encounter a variety of mind-bending puzzles, ingeniously crafted from sinister toys and giant blocks, each challenging your intellect and ingenuity.<br />\r\nIntense Survival Gameplay: Evade the malevolent entities that dwell within the factory. Use stealth, cunning, and quick thinking to survive their pursuit.<br />\r\nCollect Precious Candies: Scour the factory to find special candies, key to progressing through its mysterious levels.<br />\r\nEngrossing Narrative: Each floor unveils a piece of the factory's shadowy history. What secrets does this place hide?<br />\r\nAtmospheric Visuals and Audio: The game comes to life with detailed graphics and an immersive soundtrack, enhancing the sense of dread and mystery.<br />\r\nAbout the Game:<br />\r\n&quot;Candyland: Sweet Survival&quot; merges the innocence of a chocolate wonderland with the thrill of survival horror. Inspired by the classic &quot;Charlie and the Chocolate Factory,&quot; this game transforms a well-known narrative into a dark, enthralling escapade. What truths lie hidden in the depths of this forsaken factory?<br />\r\nEmbark on this unforgettable adventure, where each solved puzzle draws you nearer to the truth, and shadows might conceal untold dangers. Are you brave enough to confront the secrets of Candyland?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/page_bg_generated_v6b.jpg?t=1704271457",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/page_bg_generated.jpg?t=1704271457",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/capsule_231x87.jpg?t=1704271457",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/capsule_184x69.jpg?t=1704271457",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Dare to enter &quot;Candyland: Sweet Survival,&quot; a survival puzzle adventure set within the eerie confines of an abandoned chocolate factory. Swirling with chilling tales and dark legends, your mission is to ascend to the top floor, uncovering the factory's grim secrets along the way.<br />\r\nKey Features:<br />\r\nMysterious Chocolate Factory Setting: Traverse the vast, neglected chambers of a once-celebrated chocolate factory, where the echoes of a joyous past clash with a haunting reality.<br />\r\nIntricate Puzzles: Encounter a variety of mind-bending puzzles, ingeniously crafted from sinister toys and giant blocks, each challenging your intellect and ingenuity.<br />\r\nIntense Survival Gameplay: Evade the malevolent entities that dwell within the factory. Use stealth, cunning, and quick thinking to survive their pursuit.<br />\r\nCollect Precious Candies: Scour the factory to find special candies, key to progressing through its mysterious levels.<br />\r\nEngrossing Narrative: Each floor unveils a piece of the factory's shadowy history. What secrets does this place hide?<br />\r\nAtmospheric Visuals and Audio: The game comes to life with detailed graphics and an immersive soundtrack, enhancing the sense of dread and mystery.<br />\r\nAbout the Game:<br />\r\n&quot;Candyland: Sweet Survival&quot; merges the innocence of a chocolate wonderland with the thrill of survival horror. Inspired by the classic &quot;Charlie and the Chocolate Factory,&quot; this game transforms a well-known narrative into a dark, enthralling escapade. What truths lie hidden in the depths of this forsaken factory?<br />\r\nEmbark on this unforgettable adventure, where each solved puzzle draws you nearer to the truth, and shadows might conceal untold dangers. Are you brave enough to confront the secrets of Candyland?",
+    "developers": [
+        "Geekon"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/header.jpg?t=1704271457",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "CANDYLAND: Sweet Survival",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Midnight Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_a66df8910f56ec0ec1d24e6e8f75033a95b708f6.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_a66df8910f56ec0ec1d24e6e8f75033a95b708f6.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_d4d75d9c84bf95ea1e0b65f955f43d7940fe480a.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_d4d75d9c84bf95ea1e0b65f955f43d7940fe480a.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_6e95bfeadbef15c7c0a9f78a03bd220677af88c6.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_6e95bfeadbef15c7c0a9f78a03bd220677af88c6.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_b077bd0dc71ded5af2057f3a14fcc355b431168e.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_b077bd0dc71ded5af2057f3a14fcc355b431168e.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_82f106bd3f78ee436a55b6b058577bb6b0c32f06.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_82f106bd3f78ee436a55b6b058577bb6b0c32f06.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_afb75a5fa02e9dc033587e72d82ba5d15fa01371.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_afb75a5fa02e9dc033587e72d82ba5d15fa01371.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_2bd281791b87b7554c2a1f817ada9914fc4aa6fe.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_2bd281791b87b7554c2a1f817ada9914fc4aa6fe.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_0dda877999fbc09299a3fc5278269c01da0ac808.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_0dda877999fbc09299a3fc5278269c01da0ac808.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_fdfe6e089522a8167199f5b165824e52b5980a77.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_fdfe6e089522a8167199f5b165824e52b5980a77.600x338.jpg?t=1704271457"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_8c5c612b70526524f4c884998e607484241444f5.1920x1080.jpg?t=1704271457",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738890/ss_8c5c612b70526524f4c884998e607484241444f5.600x338.jpg?t=1704271457"
+        }
+    ],
+    "short_description": "Uncover the ominous mysteries of an abandoned chocolate factory. Navigate eerie levels, solve sinister puzzles, and outwit malevolent entities. Collect precious candies, unveil the factory's secrets, and confront the darkness. Are you brave enough to explore Candyland's dark secrets?",
+    "steam_appid": 2738890,
+    "support_info": {
+        "email": "support@midnight.games",
+        "url": "https://midnight.games/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

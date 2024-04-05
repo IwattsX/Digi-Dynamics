@@ -1,0 +1,123 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif3.gif?t=1703233979\" /><br>In Sol Cesto, your objective is to travel through the floors of a random dungeon, descending ever lower and trying to find the sun lost for years. Each screen contains 4 rooms, which you can go to at any time with a single click. You choose the room, but you don't choose which location you come across: an enemy that hurts you? A chest full of gold? A secret ? Everything can happen\u2026<br><br>It's up to you to measure the risks of coming across a particular location as you clear a screen. Your character will become stronger, and items and skills will help you harness chance to make sure it is on your side.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif2.gif?t=1703233979\" /><br><br>In Sol Cesto, each adventure is different:<br><ul class=\"bb_ul\"><li>5 biomes hiding monsters and traps with unique behaviors<br></li><li>10 characters with different powers, stats and abilities<br></li><li>Cursed teeth that modify your chances of encountering certain dangers<br></li><li>Numerous objects to get rid of your enemies or turn randomness to your advantage<br></li><li>And many more surprises...</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif1.gif?t=1703233979\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/page_bg_generated_v6b.jpg?t=1703233979",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/page_bg_generated.jpg?t=1703233979",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/capsule_231x87.jpg?t=1703233979",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/capsule_184x69.jpg?t=1703233979",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h1>RECOMMENDED FOR YOU</h1><p><a href=\"https://store.steampowered.com/app/1793170?utm_source=steam&amp;utm_campaign=crosspromo&amp;utm_content=solcesto\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1793170?utm_source=steam&amp;utm_campaign=crosspromo&amp;utm_content=solcesto</a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif3.gif?t=1703233979\" /><br>In Sol Cesto, your objective is to travel through the floors of a random dungeon, descending ever lower and trying to find the sun lost for years. Each screen contains 4 rooms, which you can go to at any time with a single click. You choose the room, but you don't choose which location you come across: an enemy that hurts you? A chest full of gold? A secret ? Everything can happen\u2026<br><br>It's up to you to measure the risks of coming across a particular location as you clear a screen. Your character will become stronger, and items and skills will help you harness chance to make sure it is on your side.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif2.gif?t=1703233979\" /><br><br>In Sol Cesto, each adventure is different:<br><ul class=\"bb_ul\"><li>5 biomes hiding monsters and traps with unique behaviors<br></li><li>10 characters with different powers, stats and abilities<br></li><li>Cursed teeth that modify your chances of encountering certain dangers<br></li><li>Numerous objects to get rid of your enemies or turn randomness to your advantage<br></li><li>And many more surprises...</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738490/extras/SC_gif1.gif?t=1703233979\" />",
+    "developers": [
+        "Tambouille",
+        "G\u00e9raud Zucchini",
+        "Chariospirale"
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/header.jpg?t=1703233979",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988488,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988488/movie480.mp4?t=1702654234",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988488/movie_max.mp4?t=1702654234"
+            },
+            "name": "Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988488/movie.293x165.jpg?t=1702654234",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988488/movie480_vp9.webm?t=1702654234",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988488/movie_max_vp9.webm?t=1702654234"
+            }
+        }
+    ],
+    "name": "Sol Cesto",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> TBD<br></li><li><strong>Processor:</strong> TBD<br></li><li><strong>Graphics:</strong> TBD</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> TBD<br></li><li><strong>Processor:</strong> TBD<br></li><li><strong>Graphics:</strong> TBD</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Goblinz Publishing"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_0bf8e6c82a449b7fb68293419ae7b3cf75c39e77.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_0bf8e6c82a449b7fb68293419ae7b3cf75c39e77.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_4af441a44c3e07f405ed78adfceac2caa9d02546.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_4af441a44c3e07f405ed78adfceac2caa9d02546.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_051fe7d0767013a59f768fc540723fda4dab070a.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_051fe7d0767013a59f768fc540723fda4dab070a.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_ebfd073ca5b57c1df285a23845d8ae2bcb5e7177.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_ebfd073ca5b57c1df285a23845d8ae2bcb5e7177.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_a8bde1700b051a759a2f13378badc32f68c7d1c1.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_a8bde1700b051a759a2f13378badc32f68c7d1c1.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_0a573a5fb988aa88b85a521348bc05bd8d03cb61.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_0a573a5fb988aa88b85a521348bc05bd8d03cb61.600x338.jpg?t=1703233979"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_e12eaa59b17e579c4c42e1980cce4473ef7ce85c.1920x1080.jpg?t=1703233979",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738490/ss_e12eaa59b17e579c4c42e1980cce4473ef7ce85c.600x338.jpg?t=1703233979"
+        }
+    ],
+    "short_description": "Sol Cesto is a tactical and frenetic roguelite in which you have to master your luck. Choose a hero and reach the bottom of a random dungeon. In this grim world, every action has consequences...",
+    "steam_appid": 2738490,
+    "support_info": {
+        "email": "support@goblinzstudio.com",
+        "url": ""
+    },
+    "supported_languages": "English, French",
+    "type": "game",
+    "website": null
+}

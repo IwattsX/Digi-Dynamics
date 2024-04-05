@@ -1,0 +1,139 @@
+{
+    "about_the_game": "&quot;Three Kingdoms Chronicle&quot; is a real-time strategy game with a grand map scene based on the true history of the Three Kingdoms. The player can experience the fun of conquering cities, directing the country, and ultimately ending the Three Kingdoms disputes and uniting the world through their own efforts in the simulated historical background of the game!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/page_bg_generated_v6b.jpg?t=1704676275",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/page.bg.jpg?t=1704676275",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/capsule_231x87.jpg?t=1704676275",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/capsule_184x69.jpg?t=1704676275",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;Three Kingdoms Chronicle&quot; is a real-time strategy game with a grand map scene based on the true history of the Three Kingdoms. The player can experience the fun of conquering cities, directing the country, and ultimately ending the Three Kingdoms disputes and uniting the world through their own efforts in the simulated historical background of the game!",
+    "developers": [
+        "\u77f3\u5bb6\u5e84\u9f99\u6e38\u79d1\u6280\u6709\u9650\u516c\u53f8"
+    ],
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/header.jpg?t=1704676275",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989233,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989233/movie480.mp4?t=1703465991",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989233/movie_max.mp4?t=1703465991"
+            },
+            "name": "movie1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989233/movie.293x165.jpg?t=1703465991",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989233/movie480_vp9.webm?t=1703465991",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989233/movie_max_vp9.webm?t=1703465991"
+            }
+        }
+    ],
+    "name": "\u4e09\u56fd\u4e89\u96c4",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "\u4e09\u56fd\u4e89\u96c4 - $10.99",
+                    "packageid": 980222,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1099
+                }
+            ],
+            "title": "Buy \u4e09\u56fd\u4e89\u96c4"
+        }
+    ],
+    "packages": [
+        980222
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> CPU 400MHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> \u652f\u6301 Shader Model 1.1<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> CPU 1GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> \u652f\u6301 Shader Model 1.1<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1099,
+        "final_formatted": "$10.99",
+        "initial": 1099,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "\u77f3\u5bb6\u5e84\u9f99\u6e38\u79d1\u6280\u6709\u9650\u516c\u53f8"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 7, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_42ba045e88762f50d6d584468865d8f9e8e91df6.1920x1080.jpg?t=1704676275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_42ba045e88762f50d6d584468865d8f9e8e91df6.600x338.jpg?t=1704676275"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_1a99fa2b65b2f5574d7107e7c454baf1dd6f4b57.1920x1080.jpg?t=1704676275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_1a99fa2b65b2f5574d7107e7c454baf1dd6f4b57.600x338.jpg?t=1704676275"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_070fa15c04054285c6f87266a13753d63367ffb4.1920x1080.jpg?t=1704676275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_070fa15c04054285c6f87266a13753d63367ffb4.600x338.jpg?t=1704676275"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_69c9948d5870da7c2a3990fe8c59d47054c505d8.1920x1080.jpg?t=1704676275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_69c9948d5870da7c2a3990fe8c59d47054c505d8.600x338.jpg?t=1704676275"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_b9301f4e31978138b504cd6797a6f398171e96cd.1920x1080.jpg?t=1704676275",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739680/ss_b9301f4e31978138b504cd6797a6f398171e96cd.600x338.jpg?t=1704676275"
+        }
+    ],
+    "short_description": "A real-time strategy game based on the history of the Three Kingdoms. The player can experience the fun of conquering cities, directing the country, and ultimately ending the Three Kingdoms disputes and uniting the world through their own efforts in the simulated historical background of the game!",
+    "steam_appid": 2739680,
+    "support_info": {
+        "email": "longyoukeji@163.com",
+        "url": "www.game7000.com"
+    },
+    "supported_languages": "Simplified Chinese",
+    "type": "game",
+    "website": null
+}

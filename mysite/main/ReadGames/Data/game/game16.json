@@ -1,0 +1,147 @@
+{
+    "about_the_game": "Welcome to Wonderland, a bone-chilling first-person horror game that plunges you into the depths of an old, eerie mansion shrouded in mystery and darkness. Dare to uncover the secrets that lie within its decaying walls and hidden chambers.<br />\r\n<br />\r\nGameplay:<br />\r\n<br />\r\nIn Wonderland, you step into the shoes of a brave soul determined to explore an abandoned mansion with a sinister past. As you traverse its haunting corridors, you will encounter cryptic puzzles, spine-tingling challenges, and unsolved mysteries that demand your wit and courage to unravel. With each puzzle solved, you inch closer to the heart of the mansion's enigma, but beware \u2013 every solved mystery unveils another layer of the mansion's terrifying history.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\nImmersive First-Person Horror: Experience an immersive first-person perspective that will keep you on the edge of your seat as you navigate the mansion's ominous rooms and eerie hallways.<br />\r\n<br />\r\nMind-Bending Puzzles: Engage your intellect to solve a variety of mind-bending puzzles scattered throughout the mansion. Each puzzle you solve brings you closer to the mansion's dark secrets.<br />\r\n<br />\r\nAtmospheric Exploration: Immerse yourself in the richly detailed and atmospheric environment of the abandoned mansion. Explore every nook and cranny to uncover hidden clues and unravel the mansion's disturbing past.<br />\r\n<br />\r\nTerrifying Encounters: Be prepared to encounter terrifying entities as you delve deeper into the mansion's mysteries. Use your wits and whatever resources you can find to survive the supernatural threats that lurk in the shadows.<br />\r\n<br />\r\nRich Narrative: Piece together the story of the mansion and its former inhabitants through notes, diaries, and other in-game artifacts. Uncover a tale of tragedy, betrayal, and malevolence that will send shivers down your spine.<br />\r\n<br />\r\nAre you brave enough to face the horrors that await within the walls of Wonderland? Prepare yourself for a chilling adventure where every corner may conceal the next puzzle or a lurking terror. Enter if you dare...<br />\r\n<br />\r\nWonderland",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/page_bg_generated_v6b.jpg?t=1705577536",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/page_bg_generated.jpg?t=1705577536",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/capsule_231x87.jpg?t=1705577536",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/capsule_184x69.jpg?t=1705577536",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "In Wonderland, players should be aware of mature content that includes the death of the main character and intense horror elements, including blood, screams, and jump scares. The game explores themes of mortality and fear, creating an immersive and suspenseful experience. Player discretion is advised, especially for individuals sensitive to themes of death and horror. We have aimed to craft these elements with care and respect for the player experience, but the game's content is designed to elicit fear and suspense, enhancing the overall atmosphere of the gameplay."
+    },
+    "detailed_description": "Welcome to Wonderland, a bone-chilling first-person horror game that plunges you into the depths of an old, eerie mansion shrouded in mystery and darkness. Dare to uncover the secrets that lie within its decaying walls and hidden chambers.<br />\r\n<br />\r\nGameplay:<br />\r\n<br />\r\nIn Wonderland, you step into the shoes of a brave soul determined to explore an abandoned mansion with a sinister past. As you traverse its haunting corridors, you will encounter cryptic puzzles, spine-tingling challenges, and unsolved mysteries that demand your wit and courage to unravel. With each puzzle solved, you inch closer to the heart of the mansion's enigma, but beware \u2013 every solved mystery unveils another layer of the mansion's terrifying history.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\nImmersive First-Person Horror: Experience an immersive first-person perspective that will keep you on the edge of your seat as you navigate the mansion's ominous rooms and eerie hallways.<br />\r\n<br />\r\nMind-Bending Puzzles: Engage your intellect to solve a variety of mind-bending puzzles scattered throughout the mansion. Each puzzle you solve brings you closer to the mansion's dark secrets.<br />\r\n<br />\r\nAtmospheric Exploration: Immerse yourself in the richly detailed and atmospheric environment of the abandoned mansion. Explore every nook and cranny to uncover hidden clues and unravel the mansion's disturbing past.<br />\r\n<br />\r\nTerrifying Encounters: Be prepared to encounter terrifying entities as you delve deeper into the mansion's mysteries. Use your wits and whatever resources you can find to survive the supernatural threats that lurk in the shadows.<br />\r\n<br />\r\nRich Narrative: Piece together the story of the mansion and its former inhabitants through notes, diaries, and other in-game artifacts. Uncover a tale of tragedy, betrayal, and malevolence that will send shivers down your spine.<br />\r\n<br />\r\nAre you brave enough to face the horrors that await within the walls of Wonderland? Prepare yourself for a chilling adventure where every corner may conceal the next puzzle or a lurking terror. Enter if you dare...<br />\r\n<br />\r\nWonderland",
+    "developers": [
+        "Hamza Siad"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/header.jpg?t=1705577536",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978823,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978823/movie480.mp4?t=1699603448",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978823/movie_max.mp4?t=1699603448"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978823/movie.293x165.jpg?t=1699603448",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978823/movie480_vp9.webm?t=1699603448",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978823/movie_max_vp9.webm?t=1699603448"
+            }
+        }
+    ],
+    "name": "Wonderland",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Wonderland - $4.99",
+                    "packageid": 950439,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Wonderland"
+        }
+    ],
+    "packages": [
+        950439
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Dual-core processor (Intel Core i3 or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 or AMD Radeon HD 7850<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card or integrated chipset</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Quad-core processor or better (Intel Core i5 or AMD equivalent)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or AMD Radeon RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card or integrated chipset</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Clown Tribes"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_fac4d19d632962e02443f9d3844a784f63652b3c.1920x1080.jpg?t=1705577536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_fac4d19d632962e02443f9d3844a784f63652b3c.600x338.jpg?t=1705577536"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_965d06779ee434a0cbffb0360d855d5fcb2a1eb3.1920x1080.jpg?t=1705577536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_965d06779ee434a0cbffb0360d855d5fcb2a1eb3.600x338.jpg?t=1705577536"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_5c8e77be01b59d699bf52c4ebc683863d8fddb38.1920x1080.jpg?t=1705577536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_5c8e77be01b59d699bf52c4ebc683863d8fddb38.600x338.jpg?t=1705577536"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_5c4f2e6319743d5367d983ec34cceebb169a2953.1920x1080.jpg?t=1705577536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_5c4f2e6319743d5367d983ec34cceebb169a2953.600x338.jpg?t=1705577536"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_2191641892671ff41071011f42f340eff8f97883.1920x1080.jpg?t=1705577536",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651790/ss_2191641892671ff41071011f42f340eff8f97883.600x338.jpg?t=1705577536"
+        }
+    ],
+    "short_description": "Dive into fear in Wonderland, a first-person horror game where you navigate an abandoned mansion, solving puzzles and uncovering mysteries. Face chilling challenges, explore haunted rooms, and decipher the mansion's dark secrets. Can you survive the terror and unveil the truth?",
+    "steam_appid": 2651790,
+    "support_info": {
+        "email": "huliomxuea@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

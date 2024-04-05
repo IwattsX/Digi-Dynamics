@@ -1,0 +1,240 @@
+{
+    "about_the_game": "Welcome to &quot;Well...&quot;, a very difficult first-person precision platformer with engaging lore and storyline! In this game, you'll find yourself in a mysterious magic well with a few strange rats. To climb your way out of this unfamiliar terrain, you must strafe platform to platform while relying on your intuition for navigation. Along the way, you'll discover and collect hidden journals; these will enlighten you on the well's history.  Four levels must be beat in order to save this perplexing world.  The levels progress in difficulty, making your journey continually more rewarding and rage-inducing.<br />\r\n<br />\r\nWith its intuitive controls and fun gameplay, &quot;Well...&quot; is the perfect game for anyone who loves a good platformer with a twist. So why not join us on this adventure and see what lies waiting at the bottom of the well?",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Above and Beyond",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/ccea5244242e891993d44a2b2b3a1f762f31e050.jpg"
+            },
+            {
+                "name": "Parkour Master",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/6e21744dcecccbc791d7034c87ca09fbe771d534.jpg"
+            },
+            {
+                "name": "You've Birthed a Master",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/cecb10ab04b058182db22d717d27d41f941ca3b3.jpg"
+            },
+            {
+                "name": "Watch Your Ankles",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/de93357d697c538c964babdb82174c0af8c060c6.jpg"
+            },
+            {
+                "name": "You are a Hero",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/7e65af678b59604e75c8f103683cdfacfbe9ee4f.jpg"
+            },
+            {
+                "name": "You Found History",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/49e8da4e860d62a6682bca94a9d174189d15f64b.jpg"
+            },
+            {
+                "name": "Revenge is Nigh",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/a7f07e94c3ccba5ee063431fa869cae050f5d05e.jpg"
+            },
+            {
+                "name": "No, like it's actually nigh",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/5e2cee14fe8b8bec1175236d87a32bb343f7b13e.jpg"
+            },
+            {
+                "name": "Eye Did It",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/87418c5b62b3289ad2d076714386b4e1333b6900.jpg"
+            },
+            {
+                "name": "Mad Hops",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336290/d2eb48431fa5cfa3ef822fe3497142d493b682d8.jpg"
+            }
+        ],
+        "total": 10
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/page_bg_generated_v6b.jpg?t=1704822787",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/page.bg.jpg?t=1704822787",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/capsule_231x87.jpg?t=1704822787",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/capsule_184x69.jpg?t=1704822787",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to &quot;Well...&quot;, a very difficult first-person precision platformer with engaging lore and storyline! In this game, you'll find yourself in a mysterious magic well with a few strange rats. To climb your way out of this unfamiliar terrain, you must strafe platform to platform while relying on your intuition for navigation. Along the way, you'll discover and collect hidden journals; these will enlighten you on the well's history.  Four levels must be beat in order to save this perplexing world.  The levels progress in difficulty, making your journey continually more rewarding and rage-inducing.<br />\r\n<br />\r\nWith its intuitive controls and fun gameplay, &quot;Well...&quot; is the perfect game for anyone who loves a good platformer with a twist. So why not join us on this adventure and see what lies waiting at the bottom of the well?",
+    "developers": [
+        "JustJeff"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/header.jpg?t=1704822787",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256939101,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939101/movie480.mp4?t=1680462708",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939101/movie_max.mp4?t=1680462708"
+            },
+            "name": "\"Well...\" Video Game Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939101/movie.293x165.jpg?t=1680462708",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939101/movie480_vp9.webm?t=1680462708",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939101/movie_max_vp9.webm?t=1680462708"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256932708,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932708/movie480.mp4?t=1677612900",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932708/movie_max.mp4?t=1677612900"
+            },
+            "name": "Well... Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932708/movie.293x165.jpg?t=1677612900",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932708/movie480_vp9.webm?t=1677612900",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932708/movie_max_vp9.webm?t=1677612900"
+            }
+        }
+    ],
+    "name": "Well...",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Well... - $3.99",
+                    "packageid": 839103,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Well..."
+        }
+    ],
+    "packages": [
+        839103
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-2410M @ 2.30GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i5-7500 @ 3.40GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560 / AMD Radeon R7-260X<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "The Reef Production Co."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 31, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_e384eb1a2069ca8fdd03d7dd9a9cab3177b5128b.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_e384eb1a2069ca8fdd03d7dd9a9cab3177b5128b.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_66a7e3190decc2523b79b9075ebf93da674dc0f4.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_66a7e3190decc2523b79b9075ebf93da674dc0f4.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_770d4e2142c8e1723b4d0faa1bb32ea668f93a95.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_770d4e2142c8e1723b4d0faa1bb32ea668f93a95.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_815d45313df194e1a179295b0a89aee293faab0d.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_815d45313df194e1a179295b0a89aee293faab0d.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_68326c03284ac96722209ee51090bc20bbeeb9a6.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_68326c03284ac96722209ee51090bc20bbeeb9a6.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_d3995c358d0f6b2c621f947047279ea0907dc3d2.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_d3995c358d0f6b2c621f947047279ea0907dc3d2.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_99548e8082c6c52cd89621d5f8b2f8124dc32092.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_99548e8082c6c52cd89621d5f8b2f8124dc32092.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_b26566eaf45e6bf682cb5eefdc56dd219c8f500f.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_b26566eaf45e6bf682cb5eefdc56dd219c8f500f.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_fd316aaa70649003faf60a723d6be1eac4f6af2a.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_fd316aaa70649003faf60a723d6be1eac4f6af2a.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_9f55096e854e98fbe1dbc9b292b6bcbe4f5f3f27.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_9f55096e854e98fbe1dbc9b292b6bcbe4f5f3f27.600x338.jpg?t=1704822787"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_80539f8c2c461395b0286c0afdfe1c740a50569f.1920x1080.jpg?t=1704822787",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/ss_80539f8c2c461395b0286c0afdfe1c740a50569f.600x338.jpg?t=1704822787"
+        }
+    ],
+    "short_description": "&quot;Well...&quot; is a very difficult first-person platformer. Start off by helping an old woman get a ring that she &quot;dropped&quot; down the well, what happens after, you'll never expect. Disclaimer: If you're experienced at CS climb, this game may be easy for you.",
+    "steam_appid": 2336290,
+    "support_info": {
+        "email": "thereefproductions@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

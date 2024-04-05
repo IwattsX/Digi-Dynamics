@@ -1,0 +1,75 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/page_bg_generated_v6b.jpg?t=1702046383",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/page_bg_generated.jpg?t=1702046383",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/capsule_231x87.jpg?t=1702046383",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/capsule_184x69.jpg?t=1702046383",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "\u5357\u660c\u4f17\u745f\u82ac\u82b8\u6e38\u620f\u79d1\u6280\u6709\u9650\u516c\u53f8"
+    ],
+    "fullgame": {
+        "appid": "2548180",
+        "name": "BATTLE RECORDS OF ROTA"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/header.jpg?t=1702046383",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "\u841d\u5854\u6218\u8bb0DEMO",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u5357\u660c\u4f17\u745f\u82ac\u82b8\u6e38\u620f\u79d1\u6280\u6709\u9650\u516c\u53f8"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_756a03dbc60f344675d31b4a7e2524da68f4eb12.1920x1080.jpg?t=1702046383",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_756a03dbc60f344675d31b4a7e2524da68f4eb12.600x338.jpg?t=1702046383"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_fb55b6e8ac5c52c00fd2bcdb43075f15a8711bd5.1920x1080.jpg?t=1702046383",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_fb55b6e8ac5c52c00fd2bcdb43075f15a8711bd5.600x338.jpg?t=1702046383"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_d04436ed1644ea826139c9fd21b54b1e35c05977.1920x1080.jpg?t=1702046383",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650670/ss_d04436ed1644ea826139c9fd21b54b1e35c05977.600x338.jpg?t=1702046383"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2650670,
+    "support_info": {
+        "email": "nczsfy2023@163.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese",
+    "type": "demo",
+    "website": null
+}

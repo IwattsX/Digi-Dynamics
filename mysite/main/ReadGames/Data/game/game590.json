@@ -1,0 +1,173 @@
+{
+    "about_the_game": "The Die Is Cast takes you into the world of role-playing.<br><br><ul class=\"bb_ul\"><li> Build your character sheet by balancing your three skills: strength, knowledge and social.<br></li><li> Go on an adventure in an immersive medieval-fantasy universe.<br></li><li> Make the right decisions and influence the scenario.<br></li><li> Roll the die to see if your actions are successes or failures.</li></ul><br>When you finish the game, retry the adventure by taking other paths to discover new stories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336650/extras/Image_description_EN.PNG?t=1679504681\" />",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Explorer",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336650/423af96e0b9892ae81e2d2cb4fcd338194de3ad8.jpg"
+            },
+            {
+                "name": "Encounter",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336650/11c68124bf836c2de237e67290bac9926955739b.jpg"
+            },
+            {
+                "name": "Coward",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336650/62e0b8c62f59ad04ffb24e8b952ce300cd99e7b7.jpg"
+            }
+        ],
+        "total": 3
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/page_bg_generated_v6b.jpg?t=1679504681",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/page.bg.jpg?t=1679504681",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/capsule_231x87.jpg?t=1679504681",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/capsule_184x69.jpg?t=1679504681",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The Die Is Cast takes you into the world of role-playing.<br><br><ul class=\"bb_ul\"><li> Build your character sheet by balancing your three skills: strength, knowledge and social.<br></li><li> Go on an adventure in an immersive medieval-fantasy universe.<br></li><li> Make the right decisions and influence the scenario.<br></li><li> Roll the die to see if your actions are successes or failures.</li></ul><br>When you finish the game, retry the adventure by taking other paths to discover new stories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336650/extras/Image_description_EN.PNG?t=1679504681\" />",
+    "developers": [
+        "Odyss\u00e9e"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/header.jpg?t=1679504681",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932817,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932817/movie480.mp4?t=1677827805",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932817/movie_max.mp4?t=1677827805"
+            },
+            "name": "Trailer_EN",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932817/movie.293x165.jpg?t=1677827805",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932817/movie480_vp9.webm?t=1677827805",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932817/movie_max_vp9.webm?t=1677827805"
+            }
+        }
+    ],
+    "name": "The Die Is Cast",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Die Is Cast - $4.99",
+                    "packageid": 839224,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy The Die Is Cast"
+        }
+    ],
+    "packages": [
+        839224
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista<br></li><li><strong>Processor:</strong> 1 GHz processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> WebGL compatible graphic card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 GHz processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> WebGL compatible graphic card<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Odyss\u00e9e"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_4b4b6cf671b7a6cc1672bb8b5a4c7b0ce57802c7.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_4b4b6cf671b7a6cc1672bb8b5a4c7b0ce57802c7.600x338.jpg?t=1679504681"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_05eb69c5bf37e2fb45ea983f75e650dcf55a5121.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_05eb69c5bf37e2fb45ea983f75e650dcf55a5121.600x338.jpg?t=1679504681"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_8b6dbaf7bbad4343e2780d2960010fc7adf9e2e0.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_8b6dbaf7bbad4343e2780d2960010fc7adf9e2e0.600x338.jpg?t=1679504681"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_27fb0cd4b45cff5ee8f74c5e8063479ba314c38f.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_27fb0cd4b45cff5ee8f74c5e8063479ba314c38f.600x338.jpg?t=1679504681"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_aaf1cb5f40b37f2679d43186a3efe315f70da70e.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_aaf1cb5f40b37f2679d43186a3efe315f70da70e.600x338.jpg?t=1679504681"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_4e2386ce1db78e300b9c11fd51daf746cd450a9c.1920x1080.jpg?t=1679504681",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336650/ss_4e2386ce1db78e300b9c11fd51daf746cd450a9c.600x338.jpg?t=1679504681"
+        }
+    ],
+    "short_description": "The Die Is Cast is an interactive fiction set in a medieval-fantasy universe. You will have to balance your skills and make the right decisions to survive the scenario and reach your goal.",
+    "steam_appid": 2336650,
+    "support_info": {
+        "email": "studiodyssee@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

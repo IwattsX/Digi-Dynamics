@@ -1,0 +1,89 @@
+{
+    "about_the_game": "Original soundtrack for the Black Jackal video game Shadows of Duat, created by composer Adri\u00e1n Berenguer.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/page_bg_generated_v6b.jpg?t=1697971580",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/page_bg_generated.jpg?t=1697971580",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/capsule_231x87.jpg?t=1697971580",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/capsule_184x69.jpg?t=1697971580",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Original soundtrack for the Black Jackal video game Shadows of Duat, created by composer Adri\u00e1n Berenguer.",
+    "developers": [
+        "Adri\u00e1n Berenguer"
+    ],
+    "fullgame": {
+        "appid": "2342750",
+        "name": "Shadows of Duat"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/header.jpg?t=1697971580",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Shadows of Duat Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Shadows of Duat Soundtrack - $0.99",
+                    "packageid": 945977,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Shadows of Duat Soundtrack"
+        }
+    ],
+    "packages": [
+        945977
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 41 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "ANBR Music"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/ss_d7a9c6412da9a6f5f050fa63475b6a8dfa3b3422.1920x1080.jpg?t=1697971580",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638270/ss_d7a9c6412da9a6f5f050fa63475b6a8dfa3b3422.600x338.jpg?t=1697971580"
+        }
+    ],
+    "short_description": "Original soundtrack for the Black Jackal video game Shadows of Duat, created by composer Adri\u00e1n Berenguer.",
+    "steam_appid": 2638270,
+    "support_info": {
+        "email": "blackjackalsgames@gmail.com",
+        "url": "https://www.blackjackalsgames.com/"
+    },
+    "type": "music",
+    "website": "https://anbr.adrianberenguer.com/"
+}

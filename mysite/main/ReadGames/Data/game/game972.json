@@ -1,0 +1,112 @@
+{
+    "about_the_game": "<i>Experience An Dark Epic Journey Of Meeting Your Heroes</i><br>An Action-Adventure-RPG of what it means to not meet your heroes. In front of the privilege, they are nothing short of a shining star, but to you and everyone else, your tormentors?<br><br><i>Be The One To Make A Difference</i><br>Things can not go on like this. Sometimes sacrifices need to be made for the greater good. <br><br><ul class=\"bb_ul\"><li> Go against the status quo. Realize the world needs a different type of savior.<br><br></li><li> Meet your heroes face-to-face.<br><br></li><li> Explore a vivid world.<br><br></li><li> Intense boss fights.<br><br></li><li> Get stronger with new found weapons, armor, and skills while preparing for the worst.<br><br></li><li> Simple action combat controls for any skill level.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/page_bg_generated_v6b.jpg?t=1701954205",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/page.bg.jpg?t=1701954205",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/capsule_231x87.jpg?t=1701954205",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/capsule_184x69.jpg?t=1701954205",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<i>Experience An Dark Epic Journey Of Meeting Your Heroes</i><br>An Action-Adventure-RPG of what it means to not meet your heroes. In front of the privilege, they are nothing short of a shining star, but to you and everyone else, your tormentors?<br><br><i>Be The One To Make A Difference</i><br>Things can not go on like this. Sometimes sacrifices need to be made for the greater good. <br><br><ul class=\"bb_ul\"><li> Go against the status quo. Realize the world needs a different type of savior.<br><br></li><li> Meet your heroes face-to-face.<br><br></li><li> Explore a vivid world.<br><br></li><li> Intense boss fights.<br><br></li><li> Get stronger with new found weapons, armor, and skills while preparing for the worst.<br><br></li><li> Simple action combat controls for any skill level.</li></ul>",
+    "developers": [
+        "Omega Tier"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/header.jpg?t=1701954205",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Path of Disdain",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 Or Later<br></li><li><strong>Processor:</strong> 2.4GHZ Dual Core Processor Or Higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 9800GT Or Equivalent<br></li><li><strong>DirectX:</strong> Version 9.0</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Omega Tier"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_d5c60e641ddcf44347ed990803519a3a4b17777d.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_d5c60e641ddcf44347ed990803519a3a4b17777d.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_f61f2ff302d9b31dc38a8d41b2cbf682d0533bde.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_f61f2ff302d9b31dc38a8d41b2cbf682d0533bde.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_b2fa8eb63ba77f5f75762273b91d93368f0b65fc.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_b2fa8eb63ba77f5f75762273b91d93368f0b65fc.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_f122d3b6b7fd64073e9209e8a835295e3c70a997.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_f122d3b6b7fd64073e9209e8a835295e3c70a997.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_bdd44021ab37db9bfc0b3a1b0ea73ea7807f8027.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_bdd44021ab37db9bfc0b3a1b0ea73ea7807f8027.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_ab82cc5c4f1e26cfbc6f4c6010b2b72d2a673c16.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_ab82cc5c4f1e26cfbc6f4c6010b2b72d2a673c16.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_a459c5e5f5af7223c956c6b42ce949da79b981ad.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_a459c5e5f5af7223c956c6b42ce949da79b981ad.600x338.jpg?t=1701954205"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_998988b1ac6964ba8311c6f4db58edc84e6f9bf5.1920x1080.jpg?t=1701954205",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402230/ss_998988b1ac6964ba8311c6f4db58edc84e6f9bf5.600x338.jpg?t=1701954205"
+        }
+    ],
+    "short_description": "Witness the unfolding of a dark fantasy tale of meeting your &quot;Heroes&quot;. When your words fall onto deaf ears...maybe its time to make the ultimate sacrifice for the greater good.",
+    "steam_appid": 2402230,
+    "support_info": {
+        "email": "custsv.otgaming@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

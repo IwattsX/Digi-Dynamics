@@ -1,0 +1,146 @@
+{
+    "about_the_game": "Aculeata is inspired by old platformer games of early 199x and RPG games of the same era. On top of that mix there is a single unusual feature - the absence of conflict resolution by brutality. That reshaped the world, typical combat practices and weaponry make sense no more, so we had to re-implement fights in the new way.  With the exception of interaction with monsters, gameplay is more or less standard: explore the world,  jump, climb, fall, talk to NPC, complete quests, collect items.<br />\r\n<br />\r\nSome objects, like boxes, are movable: you can pick, carry and put them in place. For example to build a ladder and find the way to otherwise unreachable location.<br />\r\n<br />\r\nMonsters will pick you up as if you are a box, carry and throw. You can do the same to them, but you have to grab them from the back. Sometimes, you can jump on top of the monster and use it like a moving platform. You can also make monster throw you in the desired direction.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/page_bg_generated_v6b.jpg?t=1703853922",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/page_bg_generated.jpg?t=1703853922",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/capsule_231x87.jpg?t=1703853922",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/capsule_184x69.jpg?t=1703853922",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Aculeata is inspired by old platformer games of early 199x and RPG games of the same era. On top of that mix there is a single unusual feature - the absence of conflict resolution by brutality. That reshaped the world, typical combat practices and weaponry make sense no more, so we had to re-implement fights in the new way.  With the exception of interaction with monsters, gameplay is more or less standard: explore the world,  jump, climb, fall, talk to NPC, complete quests, collect items.<br />\r\n<br />\r\nSome objects, like boxes, are movable: you can pick, carry and put them in place. For example to build a ladder and find the way to otherwise unreachable location.<br />\r\n<br />\r\nMonsters will pick you up as if you are a box, carry and throw. You can do the same to them, but you have to grab them from the back. Sometimes, you can jump on top of the monster and use it like a moving platform. You can also make monster throw you in the desired direction.",
+    "developers": [
+        "AgaveStorm Inc."
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/header.jpg?t=1703853922",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux 6.3.8<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6200<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux 6.3.8<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6200<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256985250,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256985250/movie480.mp4?t=1702644992",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256985250/movie_max.mp4?t=1702644992"
+            },
+            "name": "Into and basic gameplay demo",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256985250/movie.293x165.jpg?t=1702644992",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256985250/movie480_vp9.webm?t=1702644992",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256985250/movie_max_vp9.webm?t=1702644992"
+            }
+        }
+    ],
+    "name": "Aculeata",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Aculeata - $6.99",
+                    "packageid": 962442,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 699
+                }
+            ],
+            "title": "Buy Aculeata"
+        }
+    ],
+    "packages": [
+        962442
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6200<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6200<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 699,
+        "final_formatted": "$6.99",
+        "initial": 699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "AgaveStrom Inc."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_058f94de5ba9772735d178cf2b2705bd23b0ec9d.1920x1080.jpg?t=1703853922",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_058f94de5ba9772735d178cf2b2705bd23b0ec9d.600x338.jpg?t=1703853922"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_4a7a391545e0212e3117791ce51579081a938dde.1920x1080.jpg?t=1703853922",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_4a7a391545e0212e3117791ce51579081a938dde.600x338.jpg?t=1703853922"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_b326e62a3759af42c144441e5a2365a79012e723.1920x1080.jpg?t=1703853922",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_b326e62a3759af42c144441e5a2365a79012e723.600x338.jpg?t=1703853922"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_ab049713b3a89e9422ee366aaf8708b450817672.1920x1080.jpg?t=1703853922",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_ab049713b3a89e9422ee366aaf8708b450817672.600x338.jpg?t=1703853922"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_a087d1ca39a1c2d6af205d319d702020c456a587.1920x1080.jpg?t=1703853922",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2687130/ss_a087d1ca39a1c2d6af205d319d702020c456a587.600x338.jpg?t=1703853922"
+        }
+    ],
+    "short_description": "2D platformer with some RPG elements. Explore the world, complete quests, collect items. Move objects to find your way through the dungeon. Kill monst.. no, monsters are immortal in this strange world and so are you. But you can throw em out of your way or use em to your advantage.",
+    "steam_appid": 2687130,
+    "support_info": {
+        "email": "gamedev.agavestorm@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

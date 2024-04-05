@@ -1,0 +1,158 @@
+{
+    "about_the_game": "Join IP-One in his adventure to escape the facility. Filled with autobots, moving platforms to jump across, flying UFOs and all other manner of foes that block your path!<br><br>Use objects to your advantage and collect all the computer chips and disks to gain new abilities!<br><br><ul class=\"bb_ul\"><li> Jump and shoot your way through a huge world and avoid robots, UFOS and other creatures<br></li><li> Collect all the chips and floppy disks to unlock new abilities!<br></li><li> Collect a lazer card to defeat the end boss!</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/page_bg_generated_v6b.jpg?t=1704469345",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/page.bg.jpg?t=1704469345",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/capsule_231x87.jpg?t=1704469345",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/capsule_184x69.jpg?t=1704469345",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Join IP-One in his adventure to escape the facility. Filled with autobots, moving platforms to jump across, flying UFOs and all other manner of foes that block your path!<br><br>Use objects to your advantage and collect all the computer chips and disks to gain new abilities!<br><br><ul class=\"bb_ul\"><li> Jump and shoot your way through a huge world and avoid robots, UFOS and other creatures<br></li><li> Collect all the chips and floppy disks to unlock new abilities!<br></li><li> Collect a lazer card to defeat the end boss!</li></ul>",
+    "developers": [
+        "Tincat Games Ltd"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/header.jpg?t=1704469345",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any modern distro<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-7100U | AMD Ryzen 3 1300X<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae HD Graphics 620<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> No</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS, Ubuntu or any other modern distro<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-6400 | AMD Ryzen 5 1600X<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 720 | AMD Radeon HD 5500<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256989129,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989129/movie480.mp4?t=1703262461",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989129/movie_max.mp4?t=1703262461"
+            },
+            "name": "Robot Adventure",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989129/movie.293x165.jpg?t=1703262461",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989129/movie480_vp9.webm?t=1703262461",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989129/movie_max_vp9.webm?t=1703262461"
+            }
+        }
+    ],
+    "name": "Robot Adventure",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Robot Adventure - $3.99",
+                    "packageid": 980287,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Robot Adventure"
+        }
+    ],
+    "packages": [
+        980287
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-7100U | AMD Ryzen 3 1300X<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae HD Graphics 620<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> No</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-6400 | AMD Ryzen 5 1600X<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 720 | AMD Radeon HD 5500<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Tincat Games Ltd"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 5, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_d66f7527e2029a340d303b5e7655b61f9646f854.1920x1080.jpg?t=1704469345",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_d66f7527e2029a340d303b5e7655b61f9646f854.600x338.jpg?t=1704469345"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_9a9996f99ef45b4eb3a04d8f7dcaca79576060eb.1920x1080.jpg?t=1704469345",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_9a9996f99ef45b4eb3a04d8f7dcaca79576060eb.600x338.jpg?t=1704469345"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_f78a93d9d30e798ff2df6d4d92889ed082a5e21e.1920x1080.jpg?t=1704469345",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_f78a93d9d30e798ff2df6d4d92889ed082a5e21e.600x338.jpg?t=1704469345"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_3e68eefdd505d37fcc7cd001ce0655ae29190e50.1920x1080.jpg?t=1704469345",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_3e68eefdd505d37fcc7cd001ce0655ae29190e50.600x338.jpg?t=1704469345"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_c941f1ceb644a1389de2738c79132f4296ebb11a.1920x1080.jpg?t=1704469345",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739870/ss_c941f1ceb644a1389de2738c79132f4296ebb11a.600x338.jpg?t=1704469345"
+        }
+    ],
+    "short_description": "Join IP-One in his adventure to escape the facility. Filled with autobots, moving platforms to jump across, flying UFOS and all other manner of foes that block your path!",
+    "steam_appid": 2739870,
+    "support_info": {
+        "email": "steve@tincatgames.co.uk",
+        "url": "https://www.tincatgames.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.tincatgames.com"
+}

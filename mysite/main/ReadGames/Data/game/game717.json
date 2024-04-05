@@ -1,0 +1,146 @@
+{
+    "about_the_game": "Cat Rescue is a 2D Platformer game about a cat finding it's way back home. Can YOU complete the journey?<br />\r\n<br />\r\nThis game includes 10 fun and challenging levels set in 4 unique areas.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/page_bg_generated_v6b.jpg?t=1681297456",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/page_bg_generated.jpg?t=1681297456",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/capsule_231x87.jpg?t=1681297456",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/capsule_184x69.jpg?t=1681297456",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Cat Rescue is a 2D Platformer game about a cat finding it's way back home. Can YOU complete the journey?<br />\r\n<br />\r\nThis game includes 10 fun and challenging levels set in 4 unique areas.",
+    "developers": [
+        "Team47Games"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/header.jpg?t=1681297456",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 65 MB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 65 MB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937805,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937805/movie480.mp4?t=1680095334",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937805/movie_max.mp4?t=1680095334"
+            },
+            "name": "Cat Rescue Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937805/movie.293x165.jpg?t=1680095334",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937805/movie480_vp9.webm?t=1680095334",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937805/movie_max_vp9.webm?t=1680095334"
+            }
+        }
+    ],
+    "name": "Cat Rescue",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Cat Rescue - $0.99",
+                    "packageid": 852974,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Cat Rescue"
+        }
+    ],
+    "packages": [
+        852974
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Anything with OpenGL 2.1+ support<br></li><li><strong>Storage:</strong> 65 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Team47Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_79c92b7b586c7c3dff8f9112da84373b7bc46dda.1920x1080.jpg?t=1681297456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_79c92b7b586c7c3dff8f9112da84373b7bc46dda.600x338.jpg?t=1681297456"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_d6d27438b98afb63ed4de5a47faa2babbb4bce33.1920x1080.jpg?t=1681297456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_d6d27438b98afb63ed4de5a47faa2babbb4bce33.600x338.jpg?t=1681297456"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_b72364ea5d16e5d801bf756e168c0d87928b2dc5.1920x1080.jpg?t=1681297456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_b72364ea5d16e5d801bf756e168c0d87928b2dc5.600x338.jpg?t=1681297456"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_a644f91df22be9ee930791f02244cf922de295b6.1920x1080.jpg?t=1681297456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_a644f91df22be9ee930791f02244cf922de295b6.600x338.jpg?t=1681297456"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_a5abf51ce9c88403c2c40ffbe0feea476f8274ce.1920x1080.jpg?t=1681297456",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372520/ss_a5abf51ce9c88403c2c40ffbe0feea476f8274ce.600x338.jpg?t=1681297456"
+        }
+    ],
+    "short_description": "Cat Rescue is a casual 2D Platformer game about a cat finding it's way back home. Can YOU complete the journey?",
+    "steam_appid": 2372520,
+    "support_info": {
+        "email": "team47games@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,98 @@
+{
+    "about_the_game": "The player takes the role of a fairy who has traveled through the world, filled with magical spells, powerful martial arts and ancient legends. The world is full of unknown things, legends, and rules. Many people strive to achieve the goal of fairy cultivation and grow in this world!<br><br><strong> To be a true fairy </strong><br>We have designed a set of immortal cultivation system, including realm, skills, combat, elements and other diversified operations. The breakthrough system of immortal cultivation includes qi cultivation, foundation building, Dan knot, etc., from the initial stage to the great perfection. Generally speaking, it takes a series of practices and experiences for a person to gradually break through, with each breakthrough leading to greater strength and a higher state.<br><br><strong> Random diversity</strong><br>We set up dozens of random events, in the game, there are various random events, the player has to make the right choice according to different events, in order to achieve a satisfactory ending. Random events are constantly changing, and the player must adapt to them in order to move the game forward. Completing different tasks gives the player a variety of rewards, which drives the game forward. , increase the randomness and fun of the game, more can be brought into the fairy world, experience different happiness!<br><br>[/b] Main plot [/b]<br>We describe the story of a young man who starts to learn the magic from the ignorant, and sets foot on the road to learn the magic from the beginning to the end. Each story has a different feeling from the beginning to the end. The main story gameplay focuses more on the player to complete the complete task stage, so as to continue to complete the whole game process. You get a full game story, and you really get to know the background of the game. And the story is yours to write!<br><br><strong> Card battle </strong><br>Players can learn skills to acquire the avatar, we have designed dozens of avatar classes, by combining different avatar and rules, change the situation or deal high damage. Initial cards are handed out each time, new cards are handed out at the end of the game session, and throughout the game, players can use a variety of cards for different elements of combat, launch skills, and more.<br><br><strong> Diversity of NPCS </strong><br>There are dozens of NPCS in the game. In the world of many NPCS, you can interact with them, communicate with them, complete various tasks, and assist players to complete various tasks. You may gain benefits or disadvantages from them, with random opportunities and constant events.<br><br>The road is long, no one knows, only the name, do not know its shape.<br>The fairy world, do you look forward to? Then let's do the fairy work together",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/page_bg_generated_v6b.jpg?t=1685811655",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/page_bg_generated.jpg?t=1685811655",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/capsule_231x87.jpg?t=1685811655",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/capsule_184x69.jpg?t=1685811655",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The player takes the role of a fairy who has traveled through the world, filled with magical spells, powerful martial arts and ancient legends. The world is full of unknown things, legends, and rules. Many people strive to achieve the goal of fairy cultivation and grow in this world!<br><br><strong> To be a true fairy </strong><br>We have designed a set of immortal cultivation system, including realm, skills, combat, elements and other diversified operations. The breakthrough system of immortal cultivation includes qi cultivation, foundation building, Dan knot, etc., from the initial stage to the great perfection. Generally speaking, it takes a series of practices and experiences for a person to gradually break through, with each breakthrough leading to greater strength and a higher state.<br><br><strong> Random diversity</strong><br>We set up dozens of random events, in the game, there are various random events, the player has to make the right choice according to different events, in order to achieve a satisfactory ending. Random events are constantly changing, and the player must adapt to them in order to move the game forward. Completing different tasks gives the player a variety of rewards, which drives the game forward. , increase the randomness and fun of the game, more can be brought into the fairy world, experience different happiness!<br><br>[/b] Main plot [/b]<br>We describe the story of a young man who starts to learn the magic from the ignorant, and sets foot on the road to learn the magic from the beginning to the end. Each story has a different feeling from the beginning to the end. The main story gameplay focuses more on the player to complete the complete task stage, so as to continue to complete the whole game process. You get a full game story, and you really get to know the background of the game. And the story is yours to write!<br><br><strong> Card battle </strong><br>Players can learn skills to acquire the avatar, we have designed dozens of avatar classes, by combining different avatar and rules, change the situation or deal high damage. Initial cards are handed out each time, new cards are handed out at the end of the game session, and throughout the game, players can use a variety of cards for different elements of combat, launch skills, and more.<br><br><strong> Diversity of NPCS </strong><br>There are dozens of NPCS in the game. In the world of many NPCS, you can interact with them, communicate with them, complete various tasks, and assist players to complete various tasks. You may gain benefits or disadvantages from them, with random opportunities and constant events.<br><br>The road is long, no one knows, only the name, do not know its shape.<br>The fairy world, do you look forward to? Then let's do the fairy work together",
+    "developers": [
+        "XiaoxuStudio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/header.jpg?t=1685811655",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "\u4ed9\u9014 Immortal Journey",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / Windows 8 / Windows 10 64 bit<br></li><li><strong>Processor:</strong> Intel Core I7 1255U<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel(R) Iris(R) Xe Graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / Windows 8 / Windows 10 64 bit<br></li><li><strong>Processor:</strong> Intel Core I7 1255U\u6216\u66f4\u9ad8<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel(R) Iris(R) Xe Graphics\u6216\u66f4\u9ad8<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "XiaoxuStudio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_ffdcc2f8e9823756e49d6223cf18ae8517b8f6a6.1920x1080.jpg?t=1685811655",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_ffdcc2f8e9823756e49d6223cf18ae8517b8f6a6.600x338.jpg?t=1685811655"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_80dfb031437806847243561e10f51de5b5b99229.1920x1080.jpg?t=1685811655",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_80dfb031437806847243561e10f51de5b5b99229.600x338.jpg?t=1685811655"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_4b8269ada36c0a173a6f46ec69a7834e173f5d18.1920x1080.jpg?t=1685811655",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_4b8269ada36c0a173a6f46ec69a7834e173f5d18.600x338.jpg?t=1685811655"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_97ff39d2e170090aeb50a5975f8505270b040ce5.1920x1080.jpg?t=1685811655",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_97ff39d2e170090aeb50a5975f8505270b040ce5.600x338.jpg?t=1685811655"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_9f22804985dc389222915dc41ea4846538a0ef9e.1920x1080.jpg?t=1685811655",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/ss_9f22804985dc389222915dc41ea4846538a0ef9e.600x338.jpg?t=1685811655"
+        }
+    ],
+    "short_description": "Here you are just a lonely immortal, you can make friends, break through the realm, practice, alchemy, refiner and so on, practice the way you decide, in the unknown world is full of unknown things, you need to explore by yourself, the immortal road is long, are you ready?",
+    "steam_appid": 2337190,
+    "support_info": {
+        "email": "xugame@foxmail.com",
+        "url": "https://www.xiaoxustudio.top/"
+    },
+    "supported_languages": "Simplified Chinese",
+    "type": "game",
+    "website": "https://www.xiaoxustudio.top/"
+}

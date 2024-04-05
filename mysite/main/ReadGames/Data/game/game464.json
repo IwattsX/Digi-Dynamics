@@ -1,0 +1,138 @@
+{
+    "about_the_game": "This is a highly challenging casual relaxation game.<br />\r\n<br />\r\n<br />\r\n<br />\r\nThis is a fast dodge type game.<br />\r\n<br />\r\nThe ball will continue to move forward, and you need to manipulate it to avoid upcoming obstacles.<br />\r\n<br />\r\n<br />\r\n<br />\r\nSend the ball home, avoid numerous obstacles, and accumulate wealth by obtaining diamonds on the way. In the game, you will play as a brave little ball, facing various complex obstacles and traps. Through flexible finger sliding operations, you need to constantly jump, turn, and roll to avoid falling or hitting obstacles. The exquisite graphics and beautiful sound effects of the game will immerse you in it and experience new gaming fun.<br />\r\n<br />\r\n<br />\r\n<br />\r\nChallenge yourself, push your limits, and become a king! Come and experience this challenging game.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/page_bg_generated_v6b.jpg?t=1703918522",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/page_bg_generated.jpg?t=1703918522",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/capsule_231x87.jpg?t=1703918522",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/capsule_184x69.jpg?t=1703918522",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is a highly challenging casual relaxation game.<br />\r\n<br />\r\n<br />\r\n<br />\r\nThis is a fast dodge type game.<br />\r\n<br />\r\nThe ball will continue to move forward, and you need to manipulate it to avoid upcoming obstacles.<br />\r\n<br />\r\n<br />\r\n<br />\r\nSend the ball home, avoid numerous obstacles, and accumulate wealth by obtaining diamonds on the way. In the game, you will play as a brave little ball, facing various complex obstacles and traps. Through flexible finger sliding operations, you need to constantly jump, turn, and roll to avoid falling or hitting obstacles. The exquisite graphics and beautiful sound effects of the game will immerse you in it and experience new gaming fun.<br />\r\n<br />\r\n<br />\r\n<br />\r\nChallenge yourself, push your limits, and become a king! Come and experience this challenging game.",
+    "developers": [
+        "Politea"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/header.jpg?t=1703918522",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987876,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987876/movie480.mp4?t=1702695874",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987876/movie_max.mp4?t=1702695874"
+            },
+            "name": "Polite animals",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987876/movie.293x165.jpg?t=1702695874",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987876/movie480_vp9.webm?t=1702695874",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987876/movie_max_vp9.webm?t=1702695874"
+            }
+        }
+    ],
+    "name": "Polite animals",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Polite animals - $6.99",
+                    "packageid": 978432,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 699
+                }
+            ],
+            "title": "Buy Polite animals"
+        }
+    ],
+    "packages": [
+        978432
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-Bit (32-bit not supported)<br></li><li><strong>Processor:</strong> Intel Core i7 860, Intel Core i5 750, or AMD FX-4100 (SSE 4.2 support required)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11+ capable Graphics Card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 699,
+        "final_formatted": "$6.99",
+        "initial": 699,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Politea"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_f931df000674c3bca9e5240a8d96b11785e74ac6.1920x1080.jpg?t=1703918522",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_f931df000674c3bca9e5240a8d96b11785e74ac6.600x338.jpg?t=1703918522"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_1b88c61056881af619471506a423793d359fd472.1920x1080.jpg?t=1703918522",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_1b88c61056881af619471506a423793d359fd472.600x338.jpg?t=1703918522"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_c9fbf424f83bae7c9c892ab0b3747ad509ff2316.1920x1080.jpg?t=1703918522",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_c9fbf424f83bae7c9c892ab0b3747ad509ff2316.600x338.jpg?t=1703918522"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_f99d9ba621f995ec26e96d2d040570923eb509ed.1920x1080.jpg?t=1703918522",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_f99d9ba621f995ec26e96d2d040570923eb509ed.600x338.jpg?t=1703918522"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_5a2c2c19ae65238440b6b1a40326c540c8e5279c.1920x1080.jpg?t=1703918522",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734340/ss_5a2c2c19ae65238440b6b1a40326c540c8e5279c.600x338.jpg?t=1703918522"
+        }
+    ],
+    "short_description": "This is a challenging casual relaxation game.",
+    "steam_appid": 2734340,
+    "support_info": {
+        "email": "Kg3Wk1Xr9Jn5@126.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,181 @@
+{
+    "about_the_game": "Expand your police, fire and EMS garages even further with the Flashing Lights Thunder Sport Sedan Pack!<br><br>Included in the Thunder Sport Sedan Pack:<br><ul class=\"bb_ul\"><li>Police Thunder Sport Sedan<br>- Sheriff livery<br>- Black and white livery<br>- White livery<br>- Unmarked black livery<br></li><li>EMS Thunder Sport Sedan<br></li><li>Fire Thunder Sport Sedan</li></ul><br>Plus, venture into the sandbox mode in-game to access the civilian version of the Thunder Sport Sedan.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/page_bg_generated_v6b.jpg?t=1700582322",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/page_bg_generated.jpg?t=1700582322",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/capsule_231x87.jpg?t=1700582322",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/capsule_184x69.jpg?t=1700582322",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Expand your police, fire and EMS garages even further with the Flashing Lights Thunder Sport Sedan Pack!<br><br>Included in the Thunder Sport Sedan Pack:<br><ul class=\"bb_ul\"><li>Police Thunder Sport Sedan<br>- Sheriff livery<br>- Black and white livery<br>- White livery<br>- Unmarked black livery<br></li><li>EMS Thunder Sport Sedan<br></li><li>Fire Thunder Sport Sedan</li></ul><br>Plus, venture into the sandbox mode in-game to access the civilian version of the Thunder Sport Sedan.",
+    "developers": [
+        "Nils Jakrins"
+    ],
+    "fullgame": {
+        "appid": "605740",
+        "name": "Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/header.jpg?t=1700582322",
+    "is_free": false,
+    "legal_notice": "Excalibur Publishing \u00a9 2023 - All rights reserved",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Flashing Lights - Thunder Sport Sedan Pack (Police, Fire, EMS)",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Flashing Lights - Thunder Sport Sedan Pack - $2.99",
+                    "packageid": 949686,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Flashing Lights - Thunder Sport Sedan Pack (Police, Fire, EMS)"
+        }
+    ],
+    "packages": [
+        949686
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Excalibur Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_5a4a3a9a58da332247c03bacd6317f5837458849.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_5a4a3a9a58da332247c03bacd6317f5837458849.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_d38106eef6b3d4b11af119d5a7892fd1a4892ab4.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_d38106eef6b3d4b11af119d5a7892fd1a4892ab4.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_241adcf7b7a55d6a1c690ce60be450fee807b753.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_241adcf7b7a55d6a1c690ce60be450fee807b753.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_e12450434e6b605bd35f396ae5efba8960a2feb5.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_e12450434e6b605bd35f396ae5efba8960a2feb5.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_e47187e4a6c3355a00979a6b910070943bdaf024.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_e47187e4a6c3355a00979a6b910070943bdaf024.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_be1b157b3ebdf93c7c1139e773d6c8adc6ba12ed.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_be1b157b3ebdf93c7c1139e773d6c8adc6ba12ed.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_82a6a5457bebd650248189370afd1c5d780de053.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_82a6a5457bebd650248189370afd1c5d780de053.600x338.jpg?t=1700582322"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_a6fa9f66864ca29540d7407916757ec5e0719fa5.1920x1080.jpg?t=1700582322",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649430/ss_a6fa9f66864ca29540d7407916757ec5e0719fa5.600x338.jpg?t=1700582322"
+        }
+    ],
+    "short_description": "Expand your police, fire and EMS garages even further with the Flashing Lights Thunder Sport Sedan Pack!",
+    "steam_appid": 2649430,
+    "support_info": {
+        "email": "support@excalibur-publishing.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese, German, Russian, Spanish - Spain, French, Danish, Dutch, Polish, Portuguese - Brazil, Swedish, Traditional Chinese, Italian, Czech, Finnish, Turkish, Greek, Hungarian, Norwegian, Latvian",
+    "type": "dlc",
+    "website": "http://www.excalibur-games.com"
+}

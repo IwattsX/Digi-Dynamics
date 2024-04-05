@@ -1,0 +1,156 @@
+{
+    "about_the_game": "By purchasing DLC, you will get extra content in the game 100 Asian Cats.<br>Get an extra level with 100 more adorable cats!<br><br><strong>DLC INCLUDE:</strong><br><ul class=\"bb_ul\"><li>1x New level<br></li><li>1x Temple Key (<strong>Consumable.</strong> Consumed by opening the lock)<br></li><li>10x Extra Hints (<strong>Consumable.</strong> Consumed when using hints during the game)<br></li><li>100x New Hidden Cats</li></ul><br><i>Keep in mind that this DLC includes consumable goods.</i>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/page_bg_generated_v6b.jpg?t=1702807292",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/page_bg_generated.jpg?t=1702807292",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/capsule_231x87.jpg?t=1702807292",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/capsule_184x69.jpg?t=1702807292",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "By purchasing DLC, you will get extra content in the game 100 Asian Cats.<br>Get an extra level with 100 more adorable cats!<br><br><strong>DLC INCLUDE:</strong><br><ul class=\"bb_ul\"><li>1x New level<br></li><li>1x Temple Key (<strong>Consumable.</strong> Consumed by opening the lock)<br></li><li>10x Extra Hints (<strong>Consumable.</strong> Consumed when using hints during the game)<br></li><li>100x New Hidden Cats</li></ul><br><i>Keep in mind that this DLC includes consumable goods.</i>",
+    "developers": [
+        "100 Hidden Animals"
+    ],
+    "fullgame": {
+        "appid": "2667970",
+        "name": "100 Asian Cats"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/header.jpg?t=1702807292",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "100 Asian Cats - Extra Content",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "100 Asian Cats - Extra Content - $0.99",
+                    "packageid": 978300,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy 100 Asian Cats - Extra Content"
+        }
+    ],
+    "packages": [
+        978300
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "100 Cozy Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_998d0f0816db4d469425b48e18ed4466a4ca88ff.1920x1080.jpg?t=1702807292",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_998d0f0816db4d469425b48e18ed4466a4ca88ff.600x338.jpg?t=1702807292"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_418d0d3d8e379d4608db90178e4d8949bf7e8dfd.1920x1080.jpg?t=1702807292",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_418d0d3d8e379d4608db90178e4d8949bf7e8dfd.600x338.jpg?t=1702807292"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_589b4ef3384aed2edf3daa97b8428ce73fe0fc86.1920x1080.jpg?t=1702807292",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_589b4ef3384aed2edf3daa97b8428ce73fe0fc86.600x338.jpg?t=1702807292"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_a876d0b4193791e94c74ca1de948f82fb0b872dd.1920x1080.jpg?t=1702807292",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_a876d0b4193791e94c74ca1de948f82fb0b872dd.600x338.jpg?t=1702807292"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_0f9802bac64efdfd062e1c68fb656be5b0669c82.1920x1080.jpg?t=1702807292",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733930/ss_0f9802bac64efdfd062e1c68fb656be5b0669c82.600x338.jpg?t=1702807292"
+        }
+    ],
+    "short_description": "By purchasing DLC, you will get extra content in the game 100 Asian Cats.",
+    "steam_appid": 2733930,
+    "support_info": {
+        "email": "100cozygames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Indonesian, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Azerbaijani, Albanian, Amharic, Armenian, Assamese, Afrikaans, Basque, Belarusian, Bangla, Bosnian, Valencian, Welsh, Wolof, Galician, Georgian, Gujarati, Dari, Zulu, Hebrew, Igbo, Irish, Icelandic, Yoruba, Kazakh, Kannada, Catalan, Quechua, Kinyarwanda, K'iche', Konkani, Xhosa, Khmer, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Persian, Serbian, Sotho, Sinhala, Sindhi, Slovak, Slovenian, Sorani, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Uzbek, Uyghur, Urdu, Filipino, Hausa, Hindi, Croatian, Cherokee, Scots, Estonian",
+    "type": "dlc",
+    "website": null
+}

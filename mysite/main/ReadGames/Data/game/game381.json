@@ -1,0 +1,125 @@
+{
+    "about_the_game": "Wartop is a virtual tabletop system created specifically for playing tabletop skirmish and war games. Built from the ground up to handle the specific needs of these kinds of games. Full freedom camera controls, interactive record sheets, a universal map editor, and the ability to build your armies and unit stats ahead of time, once you're ready to play it takes little time to go from starting a match to actually playing. <br />\r\n<br />\r\nThe base game includes  an implementation of the original war game, Little Wars and Many Ages from Hobby Dungeon Games.<br />\r\n<br />\r\nWartop is not designed as a sandbox, all game systems feature a bespoke implementation for their system to support their specific needs.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/page_bg_generated_v6b.jpg?t=1705344240",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/page_bg_generated.jpg?t=1705344240",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/capsule_231x87.jpg?t=1705344240",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/capsule_184x69.jpg?t=1705344240",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Wartop is a virtual tabletop system created specifically for playing tabletop skirmish and war games. Built from the ground up to handle the specific needs of these kinds of games. Full freedom camera controls, interactive record sheets, a universal map editor, and the ability to build your armies and unit stats ahead of time, once you're ready to play it takes little time to go from starting a match to actually playing. <br />\r\n<br />\r\nThe base game includes  an implementation of the original war game, Little Wars and Many Ages from Hobby Dungeon Games.<br />\r\n<br />\r\nWartop is not designed as a sandbox, all game systems feature a bespoke implementation for their system to support their specific needs.",
+    "developers": [
+        "2 Beards Games"
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/header.jpg?t=1705344240",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256994174,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256994174/movie480.mp4?t=1705344233",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256994174/movie_max.mp4?t=1705344233"
+            },
+            "name": "Initial",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256994174/movie.293x165.jpg?t=1705344233",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256994174/movie480_vp9.webm?t=1705344233",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256994174/movie_max_vp9.webm?t=1705344233"
+            }
+        }
+    ],
+    "name": "Wartop",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 1070<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "2 Beards Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_541e098ce8fd8e7e126926ea03c97e498524225d.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_541e098ce8fd8e7e126926ea03c97e498524225d.600x338.jpg?t=1705344240"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_3273b53c954017ee7b6a459e2886a412a9f7d901.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_3273b53c954017ee7b6a459e2886a412a9f7d901.600x338.jpg?t=1705344240"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_6b710e0df0a91b5194e818c2b8b7bd80523dd2b3.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_6b710e0df0a91b5194e818c2b8b7bd80523dd2b3.600x338.jpg?t=1705344240"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_0ff23d6e7923dd8eca5cab7a75e5d048efa433e7.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_0ff23d6e7923dd8eca5cab7a75e5d048efa433e7.600x338.jpg?t=1705344240"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_411869454a110f769c9db5572a3ada3538cc1263.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_411869454a110f769c9db5572a3ada3538cc1263.600x338.jpg?t=1705344240"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_a0beb68d104166232de476c929308e031328b52e.1920x1080.jpg?t=1705344240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737310/ss_a0beb68d104166232de476c929308e031328b52e.600x338.jpg?t=1705344240"
+        }
+    ],
+    "short_description": "Wartop is a virtual tabletop system created specifically for playing tabletop skirmish and war games. Built from the ground up to handle the specific needs of these kinds of games. A focus on visual fidelity and ease of play.",
+    "steam_appid": 2737310,
+    "support_info": {
+        "email": "",
+        "url": "https://discord.gg/D2yRYyk5Zf"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.facebook.com/WartopVTT"
+}

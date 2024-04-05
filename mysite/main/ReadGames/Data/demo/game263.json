@@ -1,0 +1,58 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634790/capsule_231x87.jpg?t=1696595351",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634790/capsule_184x69.jpg?t=1696595351",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "STUDIO DWIG"
+    ],
+    "fullgame": {
+        "appid": "2052710",
+        "name": "Hello Again"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634790/header.jpg?t=1696595351",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Hello Again Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "STUDIO DWIG"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2634790,
+    "support_info": {
+        "email": "dwightgamedev@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

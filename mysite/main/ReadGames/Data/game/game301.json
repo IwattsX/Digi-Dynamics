@@ -1,0 +1,142 @@
+{
+    "about_the_game": "Immerse yourself in the captivating world of horse racing and construct a remarkable rags-to-riches narrative. Start as a humble stablehand and ascend the industry by establishing your very own horse racing stable. This dynamic game offers freedom and deep simulation.<h2 class=\"bb_tag\"><strong>Diverse Career Paths</strong></h2>Start your journey by honing your skills in established stables, mastering the intricacies of the sport. As you accumulate the necessary resources, seize the opportunity to establish your very own stable.<h2 class=\"bb_tag\"><strong>Breed the Next Champion</strong></h2>Delve into the complexities of horse genetics and breeding, aiming to produce the ultimate racing superstar.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/steam_page_breeding.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Tailor Your Horse's Training and Nutrition</strong></h2>Fine-tune your horse's journey to greatness with personalized training and dietary choices. Decide whether to amplify its natural speed or develop its stamina for endurance races. Every decision impacts its performance, sculpting a unique path to the winner's circle.<h2 class=\"bb_tag\"><strong>Experience the Thrill of the Race</strong></h2>Step into the saddle and either watch your horse's performance from the sidelines or take direct control during the race, making split-second decisions that could lead to victory. Embark on a journey, progressing from racing on obscure back alley tracks to competing on the global stage for substantial prize money.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/steam_running_gif.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Build Your Dream Team</strong></h2>Hire team of professionals, including jockeys, head trainers, trainers, veterinarians, farriers, stablehands, and even landscapers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/negotiation_v1.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Facility Upgrades</strong></h2>Invest in your stable's facilities to provide top-notch training and care for your horses.<h2 class=\"bb_tag\"><strong>Financial Management</strong></h2>Keep a vigilant eye on your financial resources, managing your budget to ensure the sustainability and growth of your stable.<h2 class=\"bb_tag\"><strong>Stay Informed</strong></h2>Remain up-to-date with a comprehensive news system that delivers the latest updates on races, competitors, and industry developments.<br><br>Forge your destiny in the heart-pounding realm of horse racing, where your choices and strategies will determine your path to glory. Can you lead your stable to victory and become a true legend in the world of equestrian sports? The journey begins now.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/page_bg_generated_v6b.jpg?t=1705164103",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/page.bg.jpg?t=1705164103",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/capsule_231x87.jpg?t=1705164103",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/capsule_184x69.jpg?t=1705164103",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Immerse yourself in the captivating world of horse racing and construct a remarkable rags-to-riches narrative. Start as a humble stablehand and ascend the industry by establishing your very own horse racing stable. This dynamic game offers freedom and deep simulation.<h2 class=\"bb_tag\"><strong>Diverse Career Paths</strong></h2>Start your journey by honing your skills in established stables, mastering the intricacies of the sport. As you accumulate the necessary resources, seize the opportunity to establish your very own stable.<h2 class=\"bb_tag\"><strong>Breed the Next Champion</strong></h2>Delve into the complexities of horse genetics and breeding, aiming to produce the ultimate racing superstar.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/steam_page_breeding.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Tailor Your Horse's Training and Nutrition</strong></h2>Fine-tune your horse's journey to greatness with personalized training and dietary choices. Decide whether to amplify its natural speed or develop its stamina for endurance races. Every decision impacts its performance, sculpting a unique path to the winner's circle.<h2 class=\"bb_tag\"><strong>Experience the Thrill of the Race</strong></h2>Step into the saddle and either watch your horse's performance from the sidelines or take direct control during the race, making split-second decisions that could lead to victory. Embark on a journey, progressing from racing on obscure back alley tracks to competing on the global stage for substantial prize money.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/steam_running_gif.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Build Your Dream Team</strong></h2>Hire team of professionals, including jockeys, head trainers, trainers, veterinarians, farriers, stablehands, and even landscapers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2740170/extras/negotiation_v1.gif?t=1705164103\" /><h2 class=\"bb_tag\"><strong>Facility Upgrades</strong></h2>Invest in your stable's facilities to provide top-notch training and care for your horses.<h2 class=\"bb_tag\"><strong>Financial Management</strong></h2>Keep a vigilant eye on your financial resources, managing your budget to ensure the sustainability and growth of your stable.<h2 class=\"bb_tag\"><strong>Stay Informed</strong></h2>Remain up-to-date with a comprehensive news system that delivers the latest updates on races, competitors, and industry developments.<br><br>Forge your destiny in the heart-pounding realm of horse racing, where your choices and strategies will determine your path to glory. Can you lead your stable to victory and become a true legend in the world of equestrian sports? The journey begins now.",
+    "developers": [
+        "Sheep Meadow Road Games"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/header.jpg?t=1705164103",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Big Sur or newer<br></li><li><strong>Processor:</strong> Apple Silicon and Intel<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Horse Racing Manager",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or newer<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Sheep Meadow Road Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_8aed93b483fa1c4a86dac1fcb5ae4b369a75ec88.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_8aed93b483fa1c4a86dac1fcb5ae4b369a75ec88.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_e659776b179f6cd39e7a1a21d41c2e5dad42fbdd.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_e659776b179f6cd39e7a1a21d41c2e5dad42fbdd.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_6dd8674218c0837a26f88541da6d5e756b24d92e.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_6dd8674218c0837a26f88541da6d5e756b24d92e.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_1d68565737235ea56fd63734f0f0093092d77a0e.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_1d68565737235ea56fd63734f0f0093092d77a0e.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_66110533d22bbe9ea94282870ea79d517e7e40ca.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_66110533d22bbe9ea94282870ea79d517e7e40ca.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_889679a6967b2dda2f6ea118e09e763a9f27de79.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_889679a6967b2dda2f6ea118e09e763a9f27de79.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_31262897fcf22f96187cbdd5ec8dfdbfb42f6ed4.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_31262897fcf22f96187cbdd5ec8dfdbfb42f6ed4.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_c1e5469df11b160b5b9834068f11a592340d4df2.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_c1e5469df11b160b5b9834068f11a592340d4df2.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_a8c0f11fe5aa30e46d494ab4ffdc12367f96089f.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_a8c0f11fe5aa30e46d494ab4ffdc12367f96089f.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_9d97216ebc3e208c7c075a602540dab250c7fea8.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_9d97216ebc3e208c7c075a602540dab250c7fea8.600x338.jpg?t=1705164103"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_e276a69e738f29f9864ba623de4b02147cdab182.1920x1080.jpg?t=1705164103",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740170/ss_e276a69e738f29f9864ba623de4b02147cdab182.600x338.jpg?t=1705164103"
+        }
+    ],
+    "short_description": "Build your legacy in the horse racing world. Breed the next champion, making key decisions on training the horse and choosing its diet. Every choice counts, and every race tells a story. Create your own rags-to-riches journey, from being a stablehand to owning the greatest racing stable in the game.",
+    "steam_appid": 2740170,
+    "support_info": {
+        "email": "help@sheepmeadowroad.games",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

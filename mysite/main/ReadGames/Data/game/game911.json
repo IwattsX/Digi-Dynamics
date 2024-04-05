@@ -1,0 +1,148 @@
+{
+    "about_the_game": "Dungeon of Destiny is a roguelite adventure where you get personality traits and combine them to get classes, abilities and bonuses.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/fight-medium.gif?t=1700482800\" /><h2 class=\"bb_tag\">1. Choose personality traits as you go forth</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/choose.gif?t=1700482800\" /><br>Do you feel smart or strong today? Kind or wicked?<h2 class=\"bb_tag\">2. Combine traits into other traits, classes and something even more complex</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/combine-optimized.gif?t=1700482800\" /><h2 class=\"bb_tag\">3. Fight and explore the rich and peculiar world</h2>Visit strange places, meet strange creatures, choose how you deal with them. Not everyone needs to be your enemy, and the personality you\u2019ve built so far may highly affect your future decisions!<h2 class=\"bb_tag\">4. Your looks, fighting style and personality are shaped with every pick</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/customization.gif?t=1700482800\" /><br>Stubborn paladin? Arrogant wizard? Outgoing heretic? You can be all of that - and even all of that at once!<h2 class=\"bb_tag\">5. Explore <strong>over 100 traits and classes</strong></h2>Find incredible synergies to beat cunning enemies. Plan your strategy to get to the core of the crazy Dungeon and determine its and your own fate!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/page_bg_generated_v6b.jpg?t=1700482800",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/page_bg_generated.jpg?t=1700482800",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/capsule_231x87.jpg?t=1700482800",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/capsule_184x69.jpg?t=1700482800",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Add to Wishlist</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/wishlist.gif?t=1700482800\" /></p><br><h1>About the Game</h1>Dungeon of Destiny is a roguelite adventure where you get personality traits and combine them to get classes, abilities and bonuses.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/fight-medium.gif?t=1700482800\" /><h2 class=\"bb_tag\">1. Choose personality traits as you go forth</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/choose.gif?t=1700482800\" /><br>Do you feel smart or strong today? Kind or wicked?<h2 class=\"bb_tag\">2. Combine traits into other traits, classes and something even more complex</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/combine-optimized.gif?t=1700482800\" /><h2 class=\"bb_tag\">3. Fight and explore the rich and peculiar world</h2>Visit strange places, meet strange creatures, choose how you deal with them. Not everyone needs to be your enemy, and the personality you\u2019ve built so far may highly affect your future decisions!<h2 class=\"bb_tag\">4. Your looks, fighting style and personality are shaped with every pick</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403110/extras/customization.gif?t=1700482800\" /><br>Stubborn paladin? Arrogant wizard? Outgoing heretic? You can be all of that - and even all of that at once!<h2 class=\"bb_tag\">5. Explore <strong>over 100 traits and classes</strong></h2>Find incredible synergies to beat cunning enemies. Plan your strategy to get to the core of the crazy Dungeon and determine its and your own fate!",
+    "developers": [
+        "Chaotic Banana"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/header.jpg?t=1700482800",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256954153,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256954153/movie480.mp4?t=1699090900",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256954153/movie_max.mp4?t=1699090900"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256954153/movie.293x165.jpg?t=1699090900",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256954153/movie480_vp9.webm?t=1699090900",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256954153/movie_max_vp9.webm?t=1699090900"
+            }
+        }
+    ],
+    "name": "Dungeon of Destiny",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> i3 or better<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 3.2<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Chaotic Banana"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_f7c7485dc1f06627e1164dc894f9da84802e1f1e.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_f7c7485dc1f06627e1164dc894f9da84802e1f1e.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_8051af19f0bb4eabdf8d08afaff47941b11e8dcc.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_8051af19f0bb4eabdf8d08afaff47941b11e8dcc.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_ac4f8087a1d55e5e2ec03e85ff67627dce079e24.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_ac4f8087a1d55e5e2ec03e85ff67627dce079e24.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_0be0dc4da084b1111274690b9877bcfb200d81c2.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_0be0dc4da084b1111274690b9877bcfb200d81c2.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_e0664d9f6b557a91f906b6c0ae55919dc959578b.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_e0664d9f6b557a91f906b6c0ae55919dc959578b.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_886e0200eb39013bbe819a796ec4c472ed6fd619.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_886e0200eb39013bbe819a796ec4c472ed6fd619.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_889c428dab7cf8cb2dcada3d49ffd3fbcb037b40.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_889c428dab7cf8cb2dcada3d49ffd3fbcb037b40.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_f850ee9754020e31fda34a1d7e533e8736573f3f.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_f850ee9754020e31fda34a1d7e533e8736573f3f.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_507379f9706398cc72c40d15e21572fa7aea9bd9.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_507379f9706398cc72c40d15e21572fa7aea9bd9.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_7e71bf1c51777eebd0ccbdec0881ff4b4a0bb93e.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_7e71bf1c51777eebd0ccbdec0881ff4b4a0bb93e.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_71733c6e15830aa344746b85ebbad5ba83b2ef32.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_71733c6e15830aa344746b85ebbad5ba83b2ef32.600x338.jpg?t=1700482800"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_7e2f10c52bdc56301eabd672df0ab3e897059f1d.1920x1080.jpg?t=1700482800",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403110/ss_7e2f10c52bdc56301eabd672df0ab3e897059f1d.600x338.jpg?t=1700482800"
+        }
+    ],
+    "short_description": "A roguelite adventure where your hero\u2019s personality is your combat power. Get personality traits and combine them into classes. Then combine classes into better classes! Every decision shapes your looks, behavior and fighting style!",
+    "steam_appid": 2403110,
+    "support_info": {
+        "email": "chaoticbananahelp@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Spanish - Spain, Russian, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

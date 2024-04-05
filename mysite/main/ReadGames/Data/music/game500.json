@@ -1,0 +1,127 @@
+{
+    "about_the_game": "This is the Super Soul Bros\u2019 Fraymakers Original Soundtrack, featuring jazz covers of indie game music and the Fraymakers Main Theme, an original composition. Super Soul Bros are a live jazz band based out of San Jose, CA that you might recognize from events like TwitchCon, MAGFest, PAX West, Super Smash Con and many more. Every Super Soul Bros track created during Fraymakers Early Access will be added to this soundtrack as they\u2019re released.<br><br><strong>Note: This soundtrack contains only tracks written by Super Soul Bros - other artists will have their own soundtracks sold as separate DLC in the future.</strong>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/page_bg_generated_v6b.jpg?t=1695177141",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/page_bg_generated.jpg?t=1695177141",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/capsule_231x87.jpg?t=1695177141",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/capsule_184x69.jpg?t=1695177141",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is the Super Soul Bros\u2019 Fraymakers Original Soundtrack, featuring jazz covers of indie game music and the Fraymakers Main Theme, an original composition. Super Soul Bros are a live jazz band based out of San Jose, CA that you might recognize from events like TwitchCon, MAGFest, PAX West, Super Smash Con and many more. Every Super Soul Bros track created during Fraymakers Early Access will be added to this soundtrack as they\u2019re released.<br><br><strong>Note: This soundtrack contains only tracks written by Super Soul Bros - other artists will have their own soundtracks sold as separate DLC in the future.</strong>",
+    "developers": [
+        "Team Fray",
+        "McLeodGaming"
+    ],
+    "fullgame": {
+        "appid": "1420350",
+        "name": "Fraymakers"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/header.jpg?t=1695177141",
+    "is_free": false,
+    "legal_notice": "\u00a9 2020-2023 Team Fray. All rights reserved.<br />\r\n<br />\r\nAll third-party copyrights and/or trademarks of any character, stage environment, music composition, logo, and/or image have been licensed for commercial use for Fraymakers and are the sole property of their respective owners.<br />\r\n<br />\r\nFighter Select (Rivals of Aether) - Original composition by flashygoodness",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fraymakers Original Soundtrack - Super Soul Bros",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fraymakers Original Soundtrack (Super Soul Bros) - $4.99",
+                    "packageid": 839639,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Fraymakers Original Soundtrack - Super Soul Bros"
+        }
+    ],
+    "packages": [
+        839639
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 55 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 175 MB available space<br></li><li><strong>Additional Notes:</strong> Additional Super Soul Bros tracks will be added to the soundtrack as they are released in-game.</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Team Fray"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 15, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_7012043c6428c8fb9966f32dec8015d63e18d20f.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_7012043c6428c8fb9966f32dec8015d63e18d20f.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_4e12e54e06cda7338c26bc279857ecc725071da1.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_4e12e54e06cda7338c26bc279857ecc725071da1.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_82108824e5e31e218c10665212c868cb4f8f3782.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_82108824e5e31e218c10665212c868cb4f8f3782.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_03c5d846e46b20a37311d6819d3a24622dc40837.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_03c5d846e46b20a37311d6819d3a24622dc40837.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_704fad75604bd0bf8e8370661aa7f48dc192dded.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_704fad75604bd0bf8e8370661aa7f48dc192dded.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_86529468c59a07b72c1c11a15232f310a2cb0dbf.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_86529468c59a07b72c1c11a15232f310a2cb0dbf.600x338.jpg?t=1695177141"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_a7cd3b892b045276b394ce7133eb9c2e6702bad6.1920x1080.jpg?t=1695177141",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337810/ss_a7cd3b892b045276b394ce7133eb9c2e6702bad6.600x338.jpg?t=1695177141"
+        }
+    ],
+    "short_description": "This is the official Super Soul Bros\u2019 Fraymakers Original Soundtrack, featuring jazz covers of indie game music and the Fraymakers Main Theme, an original composition.",
+    "steam_appid": 2337810,
+    "support_info": {
+        "email": "support@fraymakers.com",
+        "url": "https://fraymakers.com/feedback"
+    },
+    "type": "music",
+    "website": null
+}

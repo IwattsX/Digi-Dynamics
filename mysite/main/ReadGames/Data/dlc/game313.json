@@ -1,0 +1,127 @@
+{
+    "about_the_game": "-Added small ball fire skin.<br />\r\n-Added small ball scrolling effect.<br />\r\n-Contains more challenging levels<br />\r\n-New challenges are waiting for you to fight!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/page_bg_generated_v6b.jpg?t=1703146985",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/page_bg_generated.jpg?t=1703146985",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/capsule_231x87.jpg?t=1703146985",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/capsule_184x69.jpg?t=1703146985",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "-Added small ball fire skin.<br />\r\n-Added small ball scrolling effect.<br />\r\n-Contains more challenging levels<br />\r\n-New challenges are waiting for you to fight!",
+    "developers": [
+        "Old Micheal Act"
+    ],
+    "fullgame": {
+        "appid": "2300910",
+        "name": "Ultimate Ball"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/header.jpg?t=1703146985",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Ultimate Ball - Fire Ball",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Ultimate Ball - Fire Ball - $9.99",
+                    "packageid": 980266,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Ultimate Ball - Fire Ball"
+        }
+    ],
+    "packages": [
+        980266
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Old Micheal Act"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_91989cf00697ad14ee20d7acec14e107cfcdd576.1920x1080.jpg?t=1703146985",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_91989cf00697ad14ee20d7acec14e107cfcdd576.600x338.jpg?t=1703146985"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_168ce33c4ddfeb7817d81d763752100e96e58a07.1920x1080.jpg?t=1703146985",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_168ce33c4ddfeb7817d81d763752100e96e58a07.600x338.jpg?t=1703146985"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_258901bf05c6999b0ef1d02259a035492fa534d9.1920x1080.jpg?t=1703146985",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739820/ss_258901bf05c6999b0ef1d02259a035492fa534d9.600x338.jpg?t=1703146985"
+        }
+    ],
+    "short_description": "-Added small ball fire skin. -Added small ball scrolling effect. -Contains more challenging levels -New challenges are waiting for you to fight!",
+    "steam_appid": 2739820,
+    "support_info": {
+        "email": "brase@91act.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

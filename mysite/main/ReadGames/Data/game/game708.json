@@ -1,0 +1,141 @@
+{
+    "about_the_game": "Welcome to Projector Platformer, an innovative and immersive game that seamlessly merges the digital and physical realms! Using any normal projector connected to a laptop, beam your custom-designed characters into the real world. Whether it's your living room, a night club, your backyard, or even a public park, Projector Platformer will transform any space into a thrilling and dynamic digital adventure!<h2 class=\"bb_tag\">\ud83c\udf1f How does it work? \ud83c\udf1f</h2><br>Hook up your laptop to a projector and draw your level on top of real world objects. (No automatic detection with a camera, that's why all you need is a projector!) Then press Play to hide the level and watch as your favorite digital characters come to life, running and jumping around your house, furniture, and kitchen. Unleash your creativity by designing your own dynamic levels using the real world as your canvas.<h2 class=\"bb_tag\">\ud83c\udf83 Holidays and Events Just Got More Exciting \ud83c\udf83</h2><br>Turn your house into the ultimate holiday light display with Projector Platformer! Customize your characters to match any theme, from Halloween to Christmas, and become the talk of the neighborhood. No more struggling with tangled lights or worrying about weather damage\u2014just set up your projector, and you're ready to dazzle!<h2 class=\"bb_tag\">\ud83d\udee0\ufe0f Customize Your Characters and Levels \ud83d\udee0\ufe0f</h2><br>Create a unique cast of characters and tailor them to your heart's desire! Customize their appearance, abilities, and attributes to make them truly your own. With an extensive library of assets and endless customization options, your imagination is the only limit.<h2 class=\"bb_tag\">\ud83d\udca1 Easy Setup and User-Friendly Interface \ud83d\udca1</h2><br>Projector Platformer doesn't require any complicated scanning or difficult programming to set up. Just place set up your scene, trace the real world objects with your mouse, and start jumping around. All you need is a laptop, a projector, and your boundless imagination!<br><br>Are you ready to embark on the most immersive gaming experience of your life? Get your hands on Projector Platformer today and help break those game characters out of their screens!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/page_bg_generated_v6b.jpg?t=1686697083",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/page.bg.jpg?t=1686697083",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/capsule_231x87.jpg?t=1686697083",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/capsule_184x69.jpg?t=1686697083",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to Projector Platformer, an innovative and immersive game that seamlessly merges the digital and physical realms! Using any normal projector connected to a laptop, beam your custom-designed characters into the real world. Whether it's your living room, a night club, your backyard, or even a public park, Projector Platformer will transform any space into a thrilling and dynamic digital adventure!<h2 class=\"bb_tag\">\ud83c\udf1f How does it work? \ud83c\udf1f</h2><br>Hook up your laptop to a projector and draw your level on top of real world objects. (No automatic detection with a camera, that's why all you need is a projector!) Then press Play to hide the level and watch as your favorite digital characters come to life, running and jumping around your house, furniture, and kitchen. Unleash your creativity by designing your own dynamic levels using the real world as your canvas.<h2 class=\"bb_tag\">\ud83c\udf83 Holidays and Events Just Got More Exciting \ud83c\udf83</h2><br>Turn your house into the ultimate holiday light display with Projector Platformer! Customize your characters to match any theme, from Halloween to Christmas, and become the talk of the neighborhood. No more struggling with tangled lights or worrying about weather damage\u2014just set up your projector, and you're ready to dazzle!<h2 class=\"bb_tag\">\ud83d\udee0\ufe0f Customize Your Characters and Levels \ud83d\udee0\ufe0f</h2><br>Create a unique cast of characters and tailor them to your heart's desire! Customize their appearance, abilities, and attributes to make them truly your own. With an extensive library of assets and endless customization options, your imagination is the only limit.<h2 class=\"bb_tag\">\ud83d\udca1 Easy Setup and User-Friendly Interface \ud83d\udca1</h2><br>Projector Platformer doesn't require any complicated scanning or difficult programming to set up. Just place set up your scene, trace the real world objects with your mouse, and start jumping around. All you need is a laptop, a projector, and your boundless imagination!<br><br>Are you ready to embark on the most immersive gaming experience of your life? Get your hands on Projector Platformer today and help break those game characters out of their screens!",
+    "developers": [
+        "Pandamander LLC"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/header.jpg?t=1686697083",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 570<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a Projector</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256948664,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948664/movie480.mp4?t=1684897221",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948664/movie_max.mp4?t=1684897221"
+            },
+            "name": "Projector Platformer Trailer 1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256948664/movie.293x165.jpg?t=1684897221",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948664/movie480_vp9.webm?t=1684897221",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948664/movie_max_vp9.webm?t=1684897221"
+            }
+        }
+    ],
+    "name": "Pandamander's Projector Platformer",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Pandamander's Projector Platformer - $2.99",
+                    "packageid": 853148,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Pandamander's Projector Platformer"
+        }
+    ],
+    "packages": [
+        853148
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64 bit)<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a Projector</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Pandamander LLC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 13, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_ee68935ebe4a78d8b092a5bed04363e2374ee3b8.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_ee68935ebe4a78d8b092a5bed04363e2374ee3b8.600x338.jpg?t=1686697083"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_82683f8fe63e92cd540a3909e5187b7bf9db38a2.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_82683f8fe63e92cd540a3909e5187b7bf9db38a2.600x338.jpg?t=1686697083"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_176e332dbdfecd85aef68733d9758139e4d1000b.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_176e332dbdfecd85aef68733d9758139e4d1000b.600x338.jpg?t=1686697083"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_78a5be392a6123f6d6b7f462b4896a6d0c67afcb.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_78a5be392a6123f6d6b7f462b4896a6d0c67afcb.600x338.jpg?t=1686697083"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_88783a8604454205c1fbe2e865bfc4174d95c1ce.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_88783a8604454205c1fbe2e865bfc4174d95c1ce.600x338.jpg?t=1686697083"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_02d28aa59667254c01148a4074d8a860c9bd9385.1920x1080.jpg?t=1686697083",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373050/ss_02d28aa59667254c01148a4074d8a860c9bd9385.600x338.jpg?t=1686697083"
+        }
+    ],
+    "short_description": "Bring your digital characters to life in the real world! Use any projector to make unique characters, create custom levels, and transform any space into a thrilling gaming experience. Immerse yourself and redefine holidays with this game that pushes boundaries of gaming!",
+    "steam_appid": 2373050,
+    "support_info": {
+        "email": "pandamander.games@gmail.com",
+        "url": "https://www.pandamandergames.com/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

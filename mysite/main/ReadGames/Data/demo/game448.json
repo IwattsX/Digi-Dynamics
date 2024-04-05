@@ -1,0 +1,67 @@
+{
+    "about_the_game": "This trial is simply a beginner's tutorial on &quot;rules&quot; gameplay",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734820/capsule_231x87.jpg?t=1702638485",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734820/capsule_184x69.jpg?t=1702638485",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This trial is simply a beginner's tutorial on &quot;rules&quot; gameplay",
+    "developers": [
+        "\u865a\u62df\u5b87\u5b99"
+    ],
+    "fullgame": {
+        "appid": "2450950",
+        "name": "\u5929\u89c4\u5929\u6761 Rule"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734820/header.jpg?t=1702638485",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "\u5929\u89c4\u5929\u6761 Rule Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u865a\u62df\u5b87\u5b99"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 15, 2023"
+    },
+    "required_age": 0,
+    "short_description": "This trial is simply a beginner's tutorial on &quot;rules&quot; gameplay",
+    "steam_appid": 2734820,
+    "support_info": {
+        "email": "UnrealUniverse@163.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, Russian, Simplified Chinese",
+    "type": "demo",
+    "website": null
+}

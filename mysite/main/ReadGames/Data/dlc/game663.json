@@ -1,0 +1,196 @@
+{
+    "about_the_game": "&quot;<h2 class=\"bb_tag\"> Shadow of the Demon Lord Hunger in the Void</h2>  The world of Urth and the entire universe stand in the shadow of a dread power, a force of destruction beyond imagining. The Demon Lord, also called the Hunger in the Void, the Devourer in the Dark, and the One Foretold, draws nearer to the world, causing plagues and blights, war and upheaval, all of which harken the end times. In this supplement for Shadow of the Demon Lord, the Demon Lord and its obscene legions are revealed in all their awful glory. In these foul pages, you'll find: <br><ul class=\"bb_ul\"> <li> Campaign models incorporating the various shadows of the Demon Lord <br> </li><li> Details on eight vile cults sworn to serving the Demon Lord <br> </li><li> Rules for joining and serving these cults, including the priest of the Demon Lord novice path <br> </li><li> A selection of horrible spells used by the servants of darkness <br> </li><li> Expanded information on the beastmen, including rules for creating beastmen characters <br> </li><li> Extensive rules for building and customizing demons <br> </li><li> Statistics for the dreaded demon princes, the chief servants of the Demon Lord <br> </li><li> Rules for exploring the Void and what sorts of terrible things one might find there <br> </li><li> The incarnation ancestry, body snatchers who descend to the world to fight against the Hunger in the Void </li></ul>  The Hunger in the Void shines a light on the most terrifying creatures and most dangerous threat in the game. For the terrible secrets it reveals and the bevy of new and unnerving options it offers, The Hunger in the Void is an essential supplement for Shadow of the Demon Lord. <br>  &quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/page_bg_generated_v6b.jpg?t=1677593783",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/page_bg_generated.jpg?t=1677593783",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/capsule_231x87.jpg?t=1677593783",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/capsule_184x69.jpg?t=1677593783",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;<h2 class=\"bb_tag\"> Shadow of the Demon Lord Hunger in the Void</h2>  The world of Urth and the entire universe stand in the shadow of a dread power, a force of destruction beyond imagining. The Demon Lord, also called the Hunger in the Void, the Devourer in the Dark, and the One Foretold, draws nearer to the world, causing plagues and blights, war and upheaval, all of which harken the end times. In this supplement for Shadow of the Demon Lord, the Demon Lord and its obscene legions are revealed in all their awful glory. In these foul pages, you'll find: <br><ul class=\"bb_ul\"> <li> Campaign models incorporating the various shadows of the Demon Lord <br> </li><li> Details on eight vile cults sworn to serving the Demon Lord <br> </li><li> Rules for joining and serving these cults, including the priest of the Demon Lord novice path <br> </li><li> A selection of horrible spells used by the servants of darkness <br> </li><li> Expanded information on the beastmen, including rules for creating beastmen characters <br> </li><li> Extensive rules for building and customizing demons <br> </li><li> Statistics for the dreaded demon princes, the chief servants of the Demon Lord <br> </li><li> Rules for exploring the Void and what sorts of terrible things one might find there <br> </li><li> The incarnation ancestry, body snatchers who descend to the world to fight against the Hunger in the Void </li></ul>  The Hunger in the Void shines a light on the most terrifying creatures and most dangerous threat in the game. For the terrible secrets it reveals and the bevy of new and unnerving options it offers, The Hunger in the Void is an essential supplement for Shadow of the Demon Lord. <br>  &quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/header.jpg?t=1677593783",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2022. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz processor or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 compatible video adapter<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>"
+    },
+    "name": "Fantasy Grounds - Shadow of the Demon Lord Hunger in the Void",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - Shadow of the Demon Lord Hunger in the Void - $10.99",
+                    "packageid": 838718,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1099
+                }
+            ],
+            "title": "Buy Fantasy Grounds - Shadow of the Demon Lord Hunger in the Void"
+        }
+    ],
+    "packages": [
+        838718
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 1.6 GHz or higher processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card recommended<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7x, 8x, or 10x<br></li><li><strong>Processor:</strong> 2.0 GHz or higher processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1099,
+        "final_formatted": "$10.99",
+        "initial": 1099,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_f2b0f087352ef5d1c2185aca410fd5710738d7e4.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_f2b0f087352ef5d1c2185aca410fd5710738d7e4.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_ddad89969b4526e8adbe54e8cdd4465fbad4637f.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_ddad89969b4526e8adbe54e8cdd4465fbad4637f.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_8a782563e02b1cb161eff2834241ad63793c433c.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_8a782563e02b1cb161eff2834241ad63793c433c.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_08b258289c9c562faf4b2cb5a501ff4c721ffb15.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_08b258289c9c562faf4b2cb5a501ff4c721ffb15.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_5e623a127a2c1323476e58526d977a0fb610df92.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_5e623a127a2c1323476e58526d977a0fb610df92.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_a7aaaa89821819efbfa19f69d24c41699b97aa71.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_a7aaaa89821819efbfa19f69d24c41699b97aa71.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_bea21da75ecb13387726be4719c225e185720ec8.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_bea21da75ecb13387726be4719c225e185720ec8.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_1ffd7eb51598743eb39adccbb01ef33b06bdff3d.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_1ffd7eb51598743eb39adccbb01ef33b06bdff3d.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_bbfaa5246672a0a5db994c7e9f367d153d13d60d.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_bbfaa5246672a0a5db994c7e9f367d153d13d60d.600x338.jpg?t=1677593783"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_6f6c5ee74db69b251d2fe41399ed7f3bbe57117f.1920x1080.jpg?t=1677593783",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335100/ss_6f6c5ee74db69b251d2fe41399ed7f3bbe57117f.600x338.jpg?t=1677593783"
+        }
+    ],
+    "short_description": "&quot; Shadow of the Demon Lord Hunger in the Void The world of Urth and the entire universe stand in the shadow of a dread power, a force of destruction beyond imagining. The Demon Lord, also called the Hunger in the Void, the Devourer in the Dark, and the One Foretold, draws nearer to the world, causing plagues and blights, war and...",
+    "steam_appid": 2335100,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

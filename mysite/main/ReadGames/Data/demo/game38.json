@@ -1,0 +1,61 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650500/capsule_231x87.jpg?t=1697599114",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650500/capsule_184x69.jpg?t=1697599114",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Blood, monster, you will see a lot of dead bodies in bags!"
+    },
+    "detailed_description": "",
+    "developers": [
+        "Metapolis Games"
+    ],
+    "fullgame": {
+        "appid": "2605430",
+        "name": "The Lab Thing"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650500/header.jpg?t=1697599114",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "The Lab Thing Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Metapolis Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 17, 2023"
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2650500,
+    "support_info": {
+        "email": "siavash@metapolis.games",
+        "url": "https://www.metapolis.games/"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://metapolis.games/"
+}

@@ -1,0 +1,114 @@
+{
+    "about_the_game": "A beautiful pack of art from Hidden Cats in Rome is available as a Coloring Book, including the Rome level and other 6 bonus scenarios. Also Coloring a Poster with the huge Art of Paris level. Both are PDF files with printing resolution, but can also be used to make a nice digital painting on your preferred software.<br><br>A nice gift that you can get for family, friends, or yourself. Let's relax and stimulate our creativity, and share your paintings.<br>Meow, and this is a great way to support us!<br><br><br><strong>Contents:</strong><br><ul class=\"bb_ul\"><li>colorbook_hcrome.pdf  (A4 page size)<br></li><li>poster_A0_hcrome.pdf (A0 page size)</li></ul>  <br><br>After downloading, get the PDF files in the game directory where it is installed.<br><br>1 - Go to your library, find the game, and click the second mouse button.<br>2 - Click on Properties, Local Files<br>3 - Click on Browse<br><br>This will open the game directory and you'll see the DLC_Coloring_Book folder with the content.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/page_bg_generated_v6b.jpg?t=1700256219",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/page_bg_generated.jpg?t=1700256219",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/capsule_231x87.jpg?t=1700256219",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/capsule_184x69.jpg?t=1700256219",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A beautiful pack of art from Hidden Cats in Rome is available as a Coloring Book, including the Rome level and other 6 bonus scenarios. Also Coloring a Poster with the huge Art of Paris level. Both are PDF files with printing resolution, but can also be used to make a nice digital painting on your preferred software.<br><br>A nice gift that you can get for family, friends, or yourself. Let's relax and stimulate our creativity, and share your paintings.<br>Meow, and this is a great way to support us!<br><br><br><strong>Contents:</strong><br><ul class=\"bb_ul\"><li>colorbook_hcrome.pdf  (A4 page size)<br></li><li>poster_A0_hcrome.pdf (A0 page size)</li></ul>  <br><br>After downloading, get the PDF files in the game directory where it is installed.<br><br>1 - Go to your library, find the game, and click the second mouse button.<br>2 - Click on Properties, Local Files<br>3 - Click on Browse<br><br>This will open the game directory and you'll see the DLC_Coloring_Book folder with the content.",
+    "developers": [
+        "Nukearts Studio"
+    ],
+    "fullgame": {
+        "appid": "2560530",
+        "name": "Hidden Cats in Rome"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/header.jpg?t=1700256219",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Additional Notes:</strong> A PDF reader is necessary to preview the downloaded content.</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Additional Notes:</strong> A PDF reader is necessary to preview the downloaded content.</li></ul>"
+    },
+    "name": "Hidden Cats in Rome - Printable PDF Coloring Book and Poster",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Hidden Cats in Rome - Printable PDF Coloring Book and Poster - $3.99",
+                    "packageid": 949761,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy Hidden Cats in Rome - Printable PDF Coloring Book and Poster"
+        }
+    ],
+    "packages": [
+        949761
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Additional Notes:</strong> A PDF reader is necessary to preview the downloaded content.</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Nukearts Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/ss_c7620b1665a4d5e48bbf95778cbdeadd3e38f0d7.1920x1080.jpg?t=1700256219",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649690/ss_c7620b1665a4d5e48bbf95778cbdeadd3e38f0d7.600x338.jpg?t=1700256219"
+        }
+    ],
+    "short_description": "A nice gift containing a Coloring Book and Coloring Poster from Hidden Cats in Rome that you can get for family, friends, or yourself. Let's relax and stimulate your creativity, and share your paintings.",
+    "steam_appid": 2649690,
+    "support_info": {
+        "email": "support@nukearts.com.br",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

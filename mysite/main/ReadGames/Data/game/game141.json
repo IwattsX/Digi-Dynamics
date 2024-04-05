@@ -1,0 +1,207 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\"><strong>&quot;YOU WILL NEVER REACH THE TOP OF THIS TEMPLE!!!</strong></h2><br>&quot;Temple Guy's Quest for the chest&quot; is a 2d-precision platformer.<br>Climb the Temple of Despair and grab the chest!<br>Can you make it to the top? - I don't think you can! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638670/extras/banner1.png?t=1701608278\" /><br><br>Don't get too impatient! Every jump is significant!<br>Keep calm and show perseverance!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638670/extras/banner2.png?t=1701608278\" />",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "The journey begins",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/d5b0e6d0379d1569f82337f165e400af23e7c4e1.jpg"
+            },
+            {
+                "name": "The stairway",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/d5b0e6d0379d1569f82337f165e400af23e7c4e1.jpg"
+            },
+            {
+                "name": "Godswindow",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/d5b0e6d0379d1569f82337f165e400af23e7c4e1.jpg"
+            },
+            {
+                "name": "The top",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/d5b0e6d0379d1569f82337f165e400af23e7c4e1.jpg"
+            },
+            {
+                "name": "Speedrunner",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/8e71086d80374452a1a934fbaaf422443feff004.jpg"
+            },
+            {
+                "name": "No more than necessary",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/47e7d3827f4743b6906a3458f7a7ebb3a9888db2.jpg"
+            },
+            {
+                "name": "No broken bones",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/baee7aa717e7699ce4bce18cca56ccbb1ed9676f.jpg"
+            },
+            {
+                "name": "Get trolled",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/0aebc61f1a54286a55b1eac633c333c7ee8071b1.jpg"
+            },
+            {
+                "name": "Deep fall",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2638670/377c423865bd23197df7eafaf840959deea06bee.jpg"
+            }
+        ],
+        "total": 9
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/page_bg_generated_v6b.jpg?t=1701608278",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/page.bg.jpg?t=1701608278",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/capsule_231x87.jpg?t=1701608278",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/capsule_184x69.jpg?t=1701608278",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\"><strong>&quot;YOU WILL NEVER REACH THE TOP OF THIS TEMPLE!!!</strong></h2><br>&quot;Temple Guy's Quest for the chest&quot; is a 2d-precision platformer.<br>Climb the Temple of Despair and grab the chest!<br>Can you make it to the top? - I don't think you can! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638670/extras/banner1.png?t=1701608278\" /><br><br>Don't get too impatient! Every jump is significant!<br>Keep calm and show perseverance!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638670/extras/banner2.png?t=1701608278\" />",
+    "developers": [
+        "madmakesgames"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/header.jpg?t=1701608278",
+    "is_free": false,
+    "legal_notice": "Trailer music by:<br />\r\nFuzzeke - born ready",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978431,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978431/movie480.mp4?t=1698319748",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978431/movie_max.mp4?t=1698319748"
+            },
+            "name": "Temple Guy - Release Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978431/movie.293x165.jpg?t=1698319748",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978431/movie480_vp9.webm?t=1698319748",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978431/movie_max_vp9.webm?t=1698319748"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256976241,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976241/movie480.mp4?t=1698257159",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976241/movie_max.mp4?t=1698257159"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256976241/movie.293x165.jpg?t=1698257159",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256976241/movie480_vp9.webm?t=1698257159",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256976241/movie_max_vp9.webm?t=1698257159"
+            }
+        }
+    ],
+    "name": "Temple Guy - Quest for chest",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Temple Guy's - Quest for the chest - <span class=\"discount_original_price\">$1.99</span> $1.39",
+                    "packageid": 946121,
+                    "percent_savings": 0,
+                    "percent_savings_text": "-30% ",
+                    "price_in_cents_with_discount": 139
+                }
+            ],
+            "title": "Buy Temple Guy - Quest for chest"
+        }
+    ],
+    "packages": [
+        946121
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 64 bit<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with 2GB VRAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 64 bit<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with 4GB VRAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 30,
+        "final": 139,
+        "final_formatted": "$1.39",
+        "initial": 199,
+        "initial_formatted": "$1.99"
+    },
+    "publishers": [
+        "madmakesgames"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 3, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_573de3b428a06e175f678e72da0babffa61f89c9.1920x1080.jpg?t=1701608278",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_573de3b428a06e175f678e72da0babffa61f89c9.600x338.jpg?t=1701608278"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_28a24789e1688638d263e7d0dc5a2fe863dde941.1920x1080.jpg?t=1701608278",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_28a24789e1688638d263e7d0dc5a2fe863dde941.600x338.jpg?t=1701608278"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_cca96b5a8e1a7f7dd942020cb2e2192b3414bfab.1920x1080.jpg?t=1701608278",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_cca96b5a8e1a7f7dd942020cb2e2192b3414bfab.600x338.jpg?t=1701608278"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_c3450712434971406076df809f01a3f1839d8d99.1920x1080.jpg?t=1701608278",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_c3450712434971406076df809f01a3f1839d8d99.600x338.jpg?t=1701608278"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_12e596124c871ff83853fc4789b1e8c7cb3e4c99.1920x1080.jpg?t=1701608278",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638670/ss_12e596124c871ff83853fc4789b1e8c7cb3e4c99.600x338.jpg?t=1701608278"
+        }
+    ],
+    "short_description": "A chest full of diamonds awaits you on top of the Temple of Despair! Challenge yourself and climb the temple in this 2d-precision platformer!",
+    "steam_appid": 2638670,
+    "support_info": {
+        "email": "madmakesgames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

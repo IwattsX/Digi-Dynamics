@@ -1,0 +1,115 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738620/extras/Steam_micro_trailer_3.gif?t=1705418776\" /><br>Bounce across cocoa swamps, slide through popsicle caves, and explore a spooky dollhouse in this charming 2D platformer. Help Merry Bear find her mascot neighbors (and maybe some chic furniture) in a delightful, hand-drawn world influenced by mid-century illustration and advertising.<br><br>Merry Bear has always dreamed of becoming a theme park mascot, so she moves to the base of Summit Park. When she arrives, however, the neighborhood of mascots is empty and the Summit Park cable car is broken. To solve her dilemma, Merry Bear must travel through themed lands filled with fruit punch waterfalls, figure out how to make espresso, explore the depths of a drive-in cinema, and navigate a giant freezer filled with TV dinners and skating penguins.<br><br>But just because a lady bear has a job to do it doesn't mean she can't take a minute to furnish her mod A-frame, find some new outfits, or even fill out her vinyl collection. If all goes well, you might just save the neighborhood and finally reach your dream upon Summit Park's peak!<br><br><ul class=\"bb_ul\"><li> Openly explore a hand-drawn world filled with heavily themed lands<br></li><li> Dance with a narwahl and other friendly creatures<br></li><li> Discover new furniture, plants, records, and outfits to fill out your new house<br></li><li> Solve platforming puzzles and discover new areas by:</li></ul>-Learning How to Swim<br>-Becoming fireproof by getting wrapped like a burrito<br>-Getting sucked into a projector and becoming a beam of light<br>-Making a pile of popcorn, then jumping in!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/page_bg_generated_v6b.jpg?t=1705418776",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/page.bg.jpg?t=1705418776",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/capsule_231x87.jpg?t=1705418776",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/capsule_184x69.jpg?t=1705418776",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2738620/extras/Steam_micro_trailer_3.gif?t=1705418776\" /><br>Bounce across cocoa swamps, slide through popsicle caves, and explore a spooky dollhouse in this charming 2D platformer. Help Merry Bear find her mascot neighbors (and maybe some chic furniture) in a delightful, hand-drawn world influenced by mid-century illustration and advertising.<br><br>Merry Bear has always dreamed of becoming a theme park mascot, so she moves to the base of Summit Park. When she arrives, however, the neighborhood of mascots is empty and the Summit Park cable car is broken. To solve her dilemma, Merry Bear must travel through themed lands filled with fruit punch waterfalls, figure out how to make espresso, explore the depths of a drive-in cinema, and navigate a giant freezer filled with TV dinners and skating penguins.<br><br>But just because a lady bear has a job to do it doesn't mean she can't take a minute to furnish her mod A-frame, find some new outfits, or even fill out her vinyl collection. If all goes well, you might just save the neighborhood and finally reach your dream upon Summit Park's peak!<br><br><ul class=\"bb_ul\"><li> Openly explore a hand-drawn world filled with heavily themed lands<br></li><li> Dance with a narwahl and other friendly creatures<br></li><li> Discover new furniture, plants, records, and outfits to fill out your new house<br></li><li> Solve platforming puzzles and discover new areas by:</li></ul>-Learning How to Swim<br>-Becoming fireproof by getting wrapped like a burrito<br>-Getting sucked into a projector and becoming a beam of light<br>-Making a pile of popcorn, then jumping in!",
+    "developers": [
+        "Ooi Iro"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/header.jpg?t=1705418776",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.15 or above<br></li><li><strong>Processor:</strong> 2 Ghz CPU - Apple M1 or Intel Core M<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Merry Bear",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> 2 Ghz CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or equivalent<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Ooi Iro"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_b9a06cfc86dad4d2c1ea6ad85613ec1d154ba2d3.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_b9a06cfc86dad4d2c1ea6ad85613ec1d154ba2d3.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_4b9d9a5b8b6b1d7282b6c8195215f3fc5535806d.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_4b9d9a5b8b6b1d7282b6c8195215f3fc5535806d.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_6ab88cb8daa2da58e6b2b0d412c6e62e5a215347.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_6ab88cb8daa2da58e6b2b0d412c6e62e5a215347.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_943a3885c5ca61ce897adc2644617484c5d2a720.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_943a3885c5ca61ce897adc2644617484c5d2a720.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_9d1f872f32bcc4bdaa0ead79accdcbd6ffe6b9c1.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_9d1f872f32bcc4bdaa0ead79accdcbd6ffe6b9c1.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_12690db58c56463ad8106b6f807d55df87695d6a.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_12690db58c56463ad8106b6f807d55df87695d6a.600x338.jpg?t=1705418776"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_0adbfdfd98042596d8e6d8b6ea46e52156216ddd.1920x1080.jpg?t=1705418776",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2738620/ss_0adbfdfd98042596d8e6d8b6ea46e52156216ddd.600x338.jpg?t=1705418776"
+        }
+    ],
+    "short_description": "A charming 2D platformer where you traverse through themed lands of giant fruit, TV dinners, spooky dollhouses, and your cozy, new A-frame cabin. Help Merry Bear find her mascot neighbors (and maybe some chic furniture) in a delightful, hand-drawn world influenced by mid-century illustration.",
+    "steam_appid": 2738620,
+    "support_info": {
+        "email": "contact@corysheldoncreative.com",
+        "url": "http://www.ooiiro.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "http://www.ooiiro.com/"
+}

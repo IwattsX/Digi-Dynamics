@@ -1,0 +1,143 @@
+{
+    "about_the_game": "A simple platformer with no checkpoints, with a goal of getting all the way UP.<br>If that's not all, we time your run, so you can show your friends how sh*t they are.<br><br>Raging is expected in most individuals while playing. <br>Please take <u>caution</u> and make sure you don't have any fragile items around you while playing.<br>Your mom wouldn't like it if the new vase got broken by &quot;accident&quot;.<br><br><u>GAMEPLAY</u><br>- Jumping to the top<br>- Without dying at all<br>- 16-Floor BASE Level<br>- 50-Floor MAIN Level<br><br><u>FEATURES</u><br>- Timer<br>- Death Counter<br>- Jumping",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/page_bg_generated_v6b.jpg?t=1704313240",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/page_bg_generated.jpg?t=1704313240",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/capsule_231x87.jpg?t=1704313240",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/capsule_184x69.jpg?t=1704313240",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "A simple platformer with no checkpoints, with a goal of getting all the way UP.<br>If that's not all, we time your run, so you can show your friends how sh*t they are.<br><br>Raging is expected in most individuals while playing. <br>Please take <u>caution</u> and make sure you don't have any fragile items around you while playing.<br>Your mom wouldn't like it if the new vase got broken by &quot;accident&quot;.<br><br><u>GAMEPLAY</u><br>- Jumping to the top<br>- Without dying at all<br>- 16-Floor BASE Level<br>- 50-Floor MAIN Level<br><br><u>FEATURES</u><br>- Timer<br>- Death Counter<br>- Jumping",
+    "developers": [
+        "Fawkes"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/header.jpg?t=1704313240",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975116,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975116/movie480.mp4?t=1697274256",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975116/movie_max.mp4?t=1697274256"
+            },
+            "name": "ToiTony Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975116/movie.293x165.jpg?t=1697274256",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975116/movie480_vp9.webm?t=1697274256",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975116/movie_max_vp9.webm?t=1697274256"
+            }
+        }
+    ],
+    "name": "ToiTony",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "ToiTony - $1.99",
+                    "packageid": 946036,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy ToiTony"
+        }
+    ],
+    "packages": [
+        946036
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Fawkes"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_fc14ee59bf30d83f6c387c38a7b52e64ea625f10.1920x1080.jpg?t=1704313240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_fc14ee59bf30d83f6c387c38a7b52e64ea625f10.600x338.jpg?t=1704313240"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_c9c721fd1d24ececc198201eaded7b42b9dbd4f9.1920x1080.jpg?t=1704313240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_c9c721fd1d24ececc198201eaded7b42b9dbd4f9.600x338.jpg?t=1704313240"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_d86e9583b0ba7fd8fd8a18b2b5b917ed53ac67ee.1920x1080.jpg?t=1704313240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_d86e9583b0ba7fd8fd8a18b2b5b917ed53ac67ee.600x338.jpg?t=1704313240"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_756a658e6088f5d6e78b85f9bb16447b80d5a510.1920x1080.jpg?t=1704313240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_756a658e6088f5d6e78b85f9bb16447b80d5a510.600x338.jpg?t=1704313240"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_3a49a373f1708775086ae79e62578e4b45f51bd2.1920x1080.jpg?t=1704313240",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638430/ss_3a49a373f1708775086ae79e62578e4b45f51bd2.600x338.jpg?t=1704313240"
+        }
+    ],
+    "short_description": "A simple rage-inducing game. No saves. No Checkpoints. Only a scaffholding with... pain.",
+    "steam_appid": 2638430,
+    "support_info": {
+        "email": "FawkesTRV+support@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

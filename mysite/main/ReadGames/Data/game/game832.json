@@ -1,0 +1,159 @@
+{
+    "about_the_game": "<i>Note: Keep in mind that v1.0 is still considered early development. Accuracy and ease-of-use will improve over time.</i><br><br><i>Standable Full Body Estimation</i> is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions. Using the continuous positional data from any VR headset / HMD, Standable FBE can emulate the general movement of an 11-point tracking solution.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Quick Calibration allows for less time during setup and more time in virtual worlds!<br></li><li>8 estimated points<br></li><li>Parses natural leg movement from 3-point tracking solutions<br></li><li>Lay down in any direction (stomach, back, left, right, etc)<br></li><li>Smooth transition between standing and laying positions.<br></li><li>Improved Elbow angle estimation (no more rotation flipping!)<br></li><li>Support for every SteamVR app that can use Full Body Tracking.</li></ul><h2 class=\"bb_tag\">Confirmed SFBE supported SteamVR apps:</h2><ul class=\"bb_ul\"><li><strong>VRChat</strong> - For best experience: set Avatar Measurement to Height, disable shoulder tracking, and set lock all in VRChat settings.<br></li><li><strong>Neos</strong> - SUPPORTED<br></li><li><strong>ChilloutVR</strong> - Elbow and Knee rotations can act weird. Looking into a solution.</li></ul><h2 class=\"bb_tag\">SteamVR apps with Issues:</h2><ul class=\"bb_ul\"><li><strong>Blade &amp; Sorcery</strong> - 'Auto Trackers' does not seem to recognize SFBE trackers.<br></li><li><strong>Zenith</strong> - Does not recognize SFBE trackers.</li></ul><br><strong>If you find solutions or other issues please contact me with details</strong><h2 class=\"bb_tag\">Helpful Gifs</h2>When calibrating it explains the user has to &quot;flick&quot; their wrists while in a t-pose. &quot;Flick&quot; in this context doesn't require it to be quick. Instead of a flick think of it as putting your thumbs upward then downward (pictured below)<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/ezgif.com-crop.gif?t=1684123178\" /><br><br><strong>How to calibrate (VRChat)</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/calibration_vrc_sfbe.gif?t=1684123178\" /><br><br><strong>How do fix shoulder tracking in VRChat</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/disable_shoulders_sfbe.gif?t=1684123178\" /><br><br><strong>Explanation/Visual of knee and elbow trackers</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/elbow_knees_floating_sfbe.gif?t=1684123178\" /><br><br><strong>Make sure you have correct posture when calibrating</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/posture_sfbe.gif?t=1684123178\" /><br><br><strong>How to set the floor height (get the headset at least 4 feet away from the controllers)</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/set_floor_sfbe.gif?t=1684123178\" /><br><br><strong>Make sure you leave calibration mode after calibrating your avatar</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/stuck_calibration_sfbe.gif?t=1684123178\" /><br><br><strong>How to toggle calibration mode</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/toggle_calibration_sfbe.gif?t=1684123178\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/page_bg_generated_v6b.jpg?t=1684123178",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/page.bg.jpg?t=1684123178",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/capsule_231x87.jpg?t=1684123178",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/capsule_184x69.jpg?t=1684123178",
+    "categories": [
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2397530,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<i>Note: Keep in mind that v1.0 is still considered early development. Accuracy and ease-of-use will improve over time.</i><br><br><i>Standable Full Body Estimation</i> is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions. Using the continuous positional data from any VR headset / HMD, Standable FBE can emulate the general movement of an 11-point tracking solution.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Quick Calibration allows for less time during setup and more time in virtual worlds!<br></li><li>8 estimated points<br></li><li>Parses natural leg movement from 3-point tracking solutions<br></li><li>Lay down in any direction (stomach, back, left, right, etc)<br></li><li>Smooth transition between standing and laying positions.<br></li><li>Improved Elbow angle estimation (no more rotation flipping!)<br></li><li>Support for every SteamVR app that can use Full Body Tracking.</li></ul><h2 class=\"bb_tag\">Confirmed SFBE supported SteamVR apps:</h2><ul class=\"bb_ul\"><li><strong>VRChat</strong> - For best experience: set Avatar Measurement to Height, disable shoulder tracking, and set lock all in VRChat settings.<br></li><li><strong>Neos</strong> - SUPPORTED<br></li><li><strong>ChilloutVR</strong> - Elbow and Knee rotations can act weird. Looking into a solution.</li></ul><h2 class=\"bb_tag\">SteamVR apps with Issues:</h2><ul class=\"bb_ul\"><li><strong>Blade &amp; Sorcery</strong> - 'Auto Trackers' does not seem to recognize SFBE trackers.<br></li><li><strong>Zenith</strong> - Does not recognize SFBE trackers.</li></ul><br><strong>If you find solutions or other issues please contact me with details</strong><h2 class=\"bb_tag\">Helpful Gifs</h2>When calibrating it explains the user has to &quot;flick&quot; their wrists while in a t-pose. &quot;Flick&quot; in this context doesn't require it to be quick. Instead of a flick think of it as putting your thumbs upward then downward (pictured below)<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/ezgif.com-crop.gif?t=1684123178\" /><br><br><strong>How to calibrate (VRChat)</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/calibration_vrc_sfbe.gif?t=1684123178\" /><br><br><strong>How do fix shoulder tracking in VRChat</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/disable_shoulders_sfbe.gif?t=1684123178\" /><br><br><strong>Explanation/Visual of knee and elbow trackers</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/elbow_knees_floating_sfbe.gif?t=1684123178\" /><br><br><strong>Make sure you have correct posture when calibrating</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/posture_sfbe.gif?t=1684123178\" /><br><br><strong>How to set the floor height (get the headset at least 4 feet away from the controllers)</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/set_floor_sfbe.gif?t=1684123178\" /><br><br><strong>Make sure you leave calibration mode after calibrating your avatar</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/stuck_calibration_sfbe.gif?t=1684123178\" /><br><br><strong>How to toggle calibration mode</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2370570/extras/toggle_calibration_sfbe.gif?t=1684123178\" />",
+    "developers": [
+        "Standable"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Utilities",
+            "id": "57"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/header.jpg?t=1684123178",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941681,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941681/movie480.mp4?t=1682381669",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941681/movie_max.mp4?t=1682381669"
+            },
+            "name": "SFBE Setup",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941681/movie.293x165.jpg?t=1682381669",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941681/movie480_vp9.webm?t=1682381669",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941681/movie_max_vp9.webm?t=1682381669"
+            }
+        }
+    ],
+    "name": "Standable: Full Body Estimation",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Standable: Full Body Estimation - $19.99",
+                    "packageid": 852276,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1999
+                }
+            ],
+            "title": "Buy Standable: Full Body Estimation"
+        }
+    ],
+    "packages": [
+        852276
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>VR Support:</strong> SteamVR Only, requires motion controllers</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1999,
+        "final_formatted": "$19.99",
+        "initial": 1999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Standable"
+    ],
+    "recommendations": {
+        "total": 425
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 8, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_8ab4d5bb6a074d6ac56616513ffc74c19fed99b3.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_8ab4d5bb6a074d6ac56616513ffc74c19fed99b3.600x338.jpg?t=1684123178"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_5b2b0084dec5eb694dca06d0ef981cf6ad0e812a.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_5b2b0084dec5eb694dca06d0ef981cf6ad0e812a.600x338.jpg?t=1684123178"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_a3f502d00b6c90ca469cbd35a232ea1f96ed4b02.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_a3f502d00b6c90ca469cbd35a232ea1f96ed4b02.600x338.jpg?t=1684123178"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_cd7aa6bb0549b3c458938fe9644c3938def797b7.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_cd7aa6bb0549b3c458938fe9644c3938def797b7.600x338.jpg?t=1684123178"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_e90a8af1bfd467deb121b1fe5893084800d79af0.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_e90a8af1bfd467deb121b1fe5893084800d79af0.600x338.jpg?t=1684123178"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_7ba9e40d88dbeee434785bbb6895808623dfdfee.1920x1080.jpg?t=1684123178",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370570/ss_7ba9e40d88dbeee434785bbb6895808623dfdfee.600x338.jpg?t=1684123178"
+        }
+    ],
+    "short_description": "Standable Full Body Estimation is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions.",
+    "steam_appid": 2370570,
+    "support_info": {
+        "email": "standablegames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.standablevr.com"
+}

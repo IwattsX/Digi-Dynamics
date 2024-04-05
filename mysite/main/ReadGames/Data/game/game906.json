@@ -1,0 +1,157 @@
+{
+    "about_the_game": "This is a very interesting leisure game. In this game, you will manipulate a small drone, walk freely in the dense forest, and come to a primitive dinosaur world. Players can explore various landscapes in the vast forests and contact dinosaurs intimately. Through this small drone, you can observe each dinosaur at close range, and even accompany them to fly in the air.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/1.png?t=1687932495\" /><br> <br>The forests in the game have colorful vegetation and animal ecosystems. You can see tall trees and various strange plants. In this world, dinosaurs are aboriginals. You can see a variety of dinosaurs by controlling drones, grass dragons, meat foods, and pterosaurs flying in the sky.<br>In this game, you only need to use the handle in your hand to control the flight of small drones. You can fly to any place where any dinosaurs are available for better observation.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/2.png?t=1687932495\" /><br> <br>In general, this is a very interesting and fascinating game, especially suitable for those who like to explore and adventure. The operation in the game is very simple, and it can be completely immersed in the natural beauty of forests and dinosaurs. If you want to try to observe dinosaurs in the air and explore the fun of virgin forests, this game is definitely worth trying!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/3.png?t=1687932495\" /><br><br>Operation method:<br>Left/right to the left handle to the left/to the right<br>Flying forward/backward left handle up/downward/downward<br>Bost up/down the right handle up/downward/downward<br>Left left handle trigger<br>Right -right handle trigger<br>Reset the VR left handle handle<br>Menu menu key",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/page_bg_generated_v6b.jpg?t=1687932495",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/page_bg_generated.jpg?t=1687932495",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/capsule_231x87.jpg?t=1687932495",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/capsule_184x69.jpg?t=1687932495",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "VR Only",
+            "id": 54
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "This is a very interesting leisure game. In this game, you will manipulate a small drone, walk freely in the dense forest, and come to a primitive dinosaur world. Players can explore various landscapes in the vast forests and contact dinosaurs intimately. Through this small drone, you can observe each dinosaur at close range, and even accompany them to fly in the air.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/1.png?t=1687932495\" /><br> <br>The forests in the game have colorful vegetation and animal ecosystems. You can see tall trees and various strange plants. In this world, dinosaurs are aboriginals. You can see a variety of dinosaurs by controlling drones, grass dragons, meat foods, and pterosaurs flying in the sky.<br>In this game, you only need to use the handle in your hand to control the flight of small drones. You can fly to any place where any dinosaurs are available for better observation.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/2.png?t=1687932495\" /><br> <br>In general, this is a very interesting and fascinating game, especially suitable for those who like to explore and adventure. The operation in the game is very simple, and it can be completely immersed in the natural beauty of forests and dinosaurs. If you want to try to observe dinosaurs in the air and explore the fun of virgin forests, this game is definitely worth trying!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2403060/extras/3.png?t=1687932495\" /><br><br>Operation method:<br>Left/right to the left handle to the left/to the right<br>Flying forward/backward left handle up/downward/downward<br>Bost up/down the right handle up/downward/downward<br>Left left handle trigger<br>Right -right handle trigger<br>Reset the VR left handle handle<br>Menu menu key",
+    "developers": [
+        "Rocky Studio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/header.jpg?t=1687932495",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942664,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942664/movie480.mp4?t=1683683972",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942664/movie_max.mp4?t=1683683972"
+            },
+            "name": "WRJKL",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942664/movie.293x165.jpg?t=1683683972",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942664/movie480_vp9.webm?t=1683683972",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942664/movie_max_vp9.webm?t=1683683972"
+            }
+        }
+    ],
+    "name": "Dinosaur Land Aerial Photograph",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Dinosaur Land Aerial Photograph - $4.99",
+                    "packageid": 864586,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Dinosaur Land Aerial Photograph"
+        }
+    ],
+    "packages": [
+        864586
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft Windows 7<br></li><li><strong>Processor:</strong> Intel Pentium G4560 / AMD FX 8300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX  960<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio<br></li><li><strong>VR Support:</strong> HTC Vive</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350 or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX  1050 or higher<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> NVIDIA High Definition Audio<br></li><li><strong>VR Support:</strong> HTC Vive</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Rocky Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_8e458bf4eb02f94e07360896bddc17cfb903793c.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_8e458bf4eb02f94e07360896bddc17cfb903793c.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_94f8a97aaf958f97295342929374e312492c40b1.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_94f8a97aaf958f97295342929374e312492c40b1.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_019d4216f16015d6d510a8b10d575670aae3d03f.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_019d4216f16015d6d510a8b10d575670aae3d03f.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_46044d6b0a9d4585b179a59fa0c50e34f2e11e05.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_46044d6b0a9d4585b179a59fa0c50e34f2e11e05.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_10c30759b93e3601282f4a1953ebfef8635477d8.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_10c30759b93e3601282f4a1953ebfef8635477d8.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_d19df0507662389a689addec3aef146522d4c8e5.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_d19df0507662389a689addec3aef146522d4c8e5.600x338.jpg?t=1687932495"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_a549f0f4ab0f1887d445bd7f9e88dbb2487daea7.1920x1080.jpg?t=1687932495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2403060/ss_a549f0f4ab0f1887d445bd7f9e88dbb2487daea7.600x338.jpg?t=1687932495"
+        }
+    ],
+    "short_description": "This is a fun casual game. In this game, control a small drone and come to a world of primitive dinosaurs. Players can explore various landscapes in the vast forest, observe each dinosaur up close, have close contact with dinosaurs, and accompany them to soar in the air.",
+    "steam_appid": 2403060,
+    "support_info": {
+        "email": "RockyStudio@outlook.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese, Traditional Chinese",
+    "type": "game",
+    "website": null
+}

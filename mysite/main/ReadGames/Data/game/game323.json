@@ -1,0 +1,223 @@
+{
+    "about_the_game": "Knights travel from across the lands, determined to cleanse the Rogue Dungeon of three demon knights that lurk within.<br />\r\n<br />\r\nEver shifting, the depths below demand mastery of resurrection, combat, luck, magic, and thrift.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Six uniquely themed dungeons, infested with enemies and traps: each more challenging than the last.<br />\r\n<br />\r\n- Intuitive, responsive controls running at a silky smooth 60 frames per second.<br />\r\n<br />\r\n- Varied cast of playable knights: including Sir Redmoor, Lady Steadfast, Max (Mutant Mudds\u2122), and Skullahad.<br />\r\n<br />\r\n- Upgrade Shop, featuring: Extra Lives, Knight Power Increaser, Lucky Charms, Invincible Armors, Death Tax Reducer, and devastating Vanquish Spells.<br />\r\n<br />\r\nOnce you hop, it's hard to stop.",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Learning the Basics!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/5bb7dc62629668654fa88f070ae6081532fd8a52.jpg"
+            },
+            {
+                "name": "Dank Dungeon Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/ee93226139fc72e6bf482efd31f55eded1724c52.jpg"
+            },
+            {
+                "name": "Graveyard Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/9571e2549dff3d0964062457930a90cc82428c0d.jpg"
+            },
+            {
+                "name": "Demon Knight I Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/4a891458487ecb3667db2eb9254b95a4fe0a8ddb.jpg"
+            },
+            {
+                "name": "Ice Dungeon Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/4da135c66c1417ce94e2d29ffcd7d30fe0a80752.jpg"
+            },
+            {
+                "name": "Frost Blight Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/020e2ba3d1dc0a5d03881c8fc3b52c28ce1a4e67.jpg"
+            },
+            {
+                "name": "Demon Knight II Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/65689936feff475fd910d98ec0e96b1f18ed6d13.jpg"
+            },
+            {
+                "name": "Lava Dungeon Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/8d3f9cba3d956ec992a29c6c11acd51739b3994b.jpg"
+            },
+            {
+                "name": "Fiery Planes Defeated!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/8af9ebfb6ad30a849a2487277f9bcf26668ae7c1.jpg"
+            },
+            {
+                "name": "Getting Lucky!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2739140/7a1d7844d26e7099fa6e1915185c282a58cca8c1.jpg"
+            }
+        ],
+        "total": 32
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/page_bg_generated_v6b.jpg?t=1705006866",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/page_bg_generated.jpg?t=1705006866",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/capsule_231x87.jpg?t=1705006866",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/capsule_184x69.jpg?t=1705006866",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Knights travel from across the lands, determined to cleanse the Rogue Dungeon of three demon knights that lurk within.<br />\r\n<br />\r\nEver shifting, the depths below demand mastery of resurrection, combat, luck, magic, and thrift.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Six uniquely themed dungeons, infested with enemies and traps: each more challenging than the last.<br />\r\n<br />\r\n- Intuitive, responsive controls running at a silky smooth 60 frames per second.<br />\r\n<br />\r\n- Varied cast of playable knights: including Sir Redmoor, Lady Steadfast, Max (Mutant Mudds\u2122), and Skullahad.<br />\r\n<br />\r\n- Upgrade Shop, featuring: Extra Lives, Knight Power Increaser, Lucky Charms, Invincible Armors, Death Tax Reducer, and devastating Vanquish Spells.<br />\r\n<br />\r\nOnce you hop, it's hard to stop.",
+    "developers": [
+        "Atooi LLC"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/header.jpg?t=1705006866",
+    "is_free": false,
+    "legal_notice": "Copyright \u00a9 Atooi LLC. All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+ (64-bit only)<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core at 2 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics 4400 or better<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+    },
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256993025,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993025/movie480.mp4?t=1704835853",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993025/movie_max.mp4?t=1704835853"
+            },
+            "name": "Accolades",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256993025/movie.293x165.jpg?t=1704835853",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993025/movie480_vp9.webm?t=1704835853",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993025/movie_max_vp9.webm?t=1704835853"
+            }
+        },
+        {
+            "highlight": false,
+            "id": 256990074,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990074/movie480.mp4?t=1704835858",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990074/movie_max.mp4?t=1704835858"
+            },
+            "name": "Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990074/movie.293x165.jpg?t=1704835858",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990074/movie480_vp9.webm?t=1704835858",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990074/movie_max_vp9.webm?t=1704835858"
+            }
+        }
+    ],
+    "name": "Knights of the Rogue Dungeon",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Knights of the Rogue Dungeon - $9.99",
+                    "packageid": 980879,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Knights of the Rogue Dungeon"
+        }
+    ],
+    "packages": [
+        980879
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (or later)<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core at 2 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics 4400 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Atooi LLC"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 4, 2024"
+    },
+    "required_age": 0,
+    "reviews": "\u201cAn excellent game!\u201d<br>8.3 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fmediennerd.de%2Fknights-of-the-rogue-dungeon%2F\" target=\"_blank\" rel=\" noopener\"  >Mediennerd</a><br><br>\u201cPurely, incredibly addictive!\u201d<br>7.9 \u2013 <a href=\"https://youtu.be/5oPTi_-hHEI?si=xOAoi0RYjqXyyana&amp;t=298\" target=\"_blank\" rel=\"\"  >SwitchUp</a><br><br>\u201cEasy to pick up, hard to put down!\u201d<br>7.5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpurenintendo.com%2Freview-knights-of-the-rogue-dungeon-nintendo-switch%2F\" target=\"_blank\" rel=\" noopener\"  >Pure Nintendo</a><br>",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_b96c32ea6732ec83db722d2f3ad2594589d8c997.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_b96c32ea6732ec83db722d2f3ad2594589d8c997.600x338.jpg?t=1705006866"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_4d0ecf6dcaebc701a0ecc99ea2439d9eb602957a.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_4d0ecf6dcaebc701a0ecc99ea2439d9eb602957a.600x338.jpg?t=1705006866"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_0bc5a35fbc5a499fad6cdb9bded94478d55a45b0.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_0bc5a35fbc5a499fad6cdb9bded94478d55a45b0.600x338.jpg?t=1705006866"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_18e48b24f46a7eb029b5f2c6edfefd653267b23b.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_18e48b24f46a7eb029b5f2c6edfefd653267b23b.600x338.jpg?t=1705006866"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_bb970190478513bf338b8d06d2953edee854b826.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_bb970190478513bf338b8d06d2953edee854b826.600x338.jpg?t=1705006866"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_b57aed08410b060c075574a20c7c2ee1d6109c6b.1920x1080.jpg?t=1705006866",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739140/ss_b57aed08410b060c075574a20c7c2ee1d6109c6b.600x338.jpg?t=1705006866"
+        }
+    ],
+    "short_description": "Cleanse the Rogue Dungeon of three Demon Knights as you battle through the depths in this addicting rogue-like dungeon hopper from the creators of Mutant Mudds\u2122 and Xeodrifter\u2122.",
+    "steam_appid": 2739140,
+    "support_info": {
+        "email": "info@atooi.com",
+        "url": "https://www.atooi.com/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.atooi.com/"
+}

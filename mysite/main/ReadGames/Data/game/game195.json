@@ -1,0 +1,102 @@
+{
+    "about_the_game": "Buckle up, 'cuz we've got an alien brain-party going on! The little green guys have cranked up their mind control to 11 and taken over everybody on the planet, and guess who's the last survivor left on Earth? You! The irritable, morally flexible, car-loving protagonist with an insatiable appetite for destruction! You are the last man... er woman... standing!<br><br>Oh, what's that? You were hoping for a deep, emotional storyline? Tough luck, pal! Instead, you're in for a wild ride of mayhem and machine guns. You got enough firepower to make the bravest hero blush, a cute anime girl who's got a date with final destiny, and a gas-guzzling, 900-horsepower beast of a modified sports car that's armed to the teeth and a tank full of fuel, and a driver seat full of rage! <br><br>How long can you survive against the alien brain bending onslaught before they come down to deal with you themselves?<br><br><ul class=\"bb_ul\"><li> Quick rounds for pick up and play styles<br></li><li> Unlock multiple weapons<br></li><li> Tune your vehicle of slaughter to fit your driving style<br></li><li> Jam to a vibrant soundtrack<br></li><li> Drive through hordes of enemies</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/page_bg_generated_v6b.jpg?t=1704350850",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/page.bg.jpg?t=1704350850",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/capsule_231x87.jpg?t=1704350850",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/capsule_184x69.jpg?t=1704350850",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Buckle up, 'cuz we've got an alien brain-party going on! The little green guys have cranked up their mind control to 11 and taken over everybody on the planet, and guess who's the last survivor left on Earth? You! The irritable, morally flexible, car-loving protagonist with an insatiable appetite for destruction! You are the last man... er woman... standing!<br><br>Oh, what's that? You were hoping for a deep, emotional storyline? Tough luck, pal! Instead, you're in for a wild ride of mayhem and machine guns. You got enough firepower to make the bravest hero blush, a cute anime girl who's got a date with final destiny, and a gas-guzzling, 900-horsepower beast of a modified sports car that's armed to the teeth and a tank full of fuel, and a driver seat full of rage! <br><br>How long can you survive against the alien brain bending onslaught before they come down to deal with you themselves?<br><br><ul class=\"bb_ul\"><li> Quick rounds for pick up and play styles<br></li><li> Unlock multiple weapons<br></li><li> Tune your vehicle of slaughter to fit your driving style<br></li><li> Jam to a vibrant soundtrack<br></li><li> Drive through hordes of enemies</li></ul>",
+    "developers": [
+        "Gnaw Paw Studios, LLC"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/header.jpg?t=1704350850",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Auto Auto: Maximum Autodrive In The Alien Apocalypse",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 or AMD equivalent<br></li><li><strong>Graphics:</strong> OpenGL 3 compatible<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Gnaw Paw Studios, LLC"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Mar 7, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_11cc23f6eeea1950d268a49c23975e50a5de6cc9.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_11cc23f6eeea1950d268a49c23975e50a5de6cc9.600x338.jpg?t=1704350850"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_81c6fb2674566717a961d117b5ef86071d7e8213.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_81c6fb2674566717a961d117b5ef86071d7e8213.600x338.jpg?t=1704350850"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_b2e038f9770508ddf42a9437f21f420b65076d1a.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_b2e038f9770508ddf42a9437f21f420b65076d1a.600x338.jpg?t=1704350850"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_eee76081ddc0a38d095efafe3b475f3370cb47bf.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_eee76081ddc0a38d095efafe3b475f3370cb47bf.600x338.jpg?t=1704350850"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_f9dbd97a1e08be430e06f1bc33b5d6cf8dd2218d.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_f9dbd97a1e08be430e06f1bc33b5d6cf8dd2218d.600x338.jpg?t=1704350850"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_650def50eb7c9d41a048924666b0be6a637a2d69.1920x1080.jpg?t=1704350850",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636380/ss_650def50eb7c9d41a048924666b0be6a637a2d69.600x338.jpg?t=1704350850"
+        }
+    ],
+    "short_description": "Oh no! Aliens have taken over! All of humanity is a hive mind with one goal... to destroy the last person standing! Drive, drift, and shoot your way through the onslaught before the aliens decide to deal with their little problem themselves. How long will your spirit keep the last person alive?",
+    "steam_appid": 2636380,
+    "support_info": {
+        "email": "support@gnawpawstudios.com",
+        "url": "https://www.gnawpawstudios.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,214 @@
+{
+    "about_the_game": "<strong>Haunted Things</strong> - is an indie horror game that you can choose as third person or first person to be comfortable in carrying out survival horror actions. Play as Guna, looking for his brother who mysteriously disappeared. On his journey, he is haunted by bad things from other worlds and even from his own world.<br><br>With his background as a police officer, Guna has to leave his job to look for his brother who mysteriously disappeared. He has to face various threats, from ghosts, demons, to rebel soldiers.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif3.gif?t=1697991867\" /><h2 class=\"bb_tag\">Gameplay</h2>You have to look for various clues at Guna's brother's house and continue your journey to find his brother.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif1.gif?t=1697991867\" /><h2 class=\"bb_tag\">Features</h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif2.gif?t=1697991867\" /><br><br><ul class=\"bb_ul\"><li>Experience the atmosphere of the game.<br></li><li>Battle against terrifying beings from a supernatural realm.<br></li><li>Battle against rebel soldiers.<br></li><li>Use weapons to banish them all.<br></li><li>Solve mysteriuos puzzles that block your path.<br></li><li>Switch between first person and third person view.</li></ul>",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "First Greeting",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/527116e992507eb78d17ba3c83e0c28d20d0d095.jpg"
+            },
+            {
+                "name": "Welcome Home",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/099cd30ad897310f26f9f959f3686cb4126353ff.jpg"
+            },
+            {
+                "name": "Demon Slayer",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/313e22cfa4c8fe0da58b1deb85d95944f74c7272.jpg"
+            },
+            {
+                "name": "Nightmare Begins",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/9277fe6b5fb7b0ed7920b7017d8009735746c98b.jpg"
+            },
+            {
+                "name": "Falling Down",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/d7ccb549dcc4ec6892a4774cd73c2d4371c6b582.jpg"
+            },
+            {
+                "name": "Chaotic Place",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/40f94cb4615d984287f1fcb684268a080e54dc49.jpg"
+            },
+            {
+                "name": "Better Than Swim",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2634420/e26c38e1233be61679d83fd77e91c9822d3d0c63.jpg"
+            }
+        ],
+        "total": 7
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/page_bg_generated_v6b.jpg?t=1697991867",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/page.bg.jpg?t=1697991867",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/capsule_231x87.jpg?t=1697991867",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/capsule_184x69.jpg?t=1697991867",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    },
+    "detailed_description": "<strong>Haunted Things</strong> - is an indie horror game that you can choose as third person or first person to be comfortable in carrying out survival horror actions. Play as Guna, looking for his brother who mysteriously disappeared. On his journey, he is haunted by bad things from other worlds and even from his own world.<br><br>With his background as a police officer, Guna has to leave his job to look for his brother who mysteriously disappeared. He has to face various threats, from ghosts, demons, to rebel soldiers.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif3.gif?t=1697991867\" /><h2 class=\"bb_tag\">Gameplay</h2>You have to look for various clues at Guna's brother's house and continue your journey to find his brother.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif1.gif?t=1697991867\" /><h2 class=\"bb_tag\">Features</h2><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2634420/extras/HTGif2.gif?t=1697991867\" /><br><br><ul class=\"bb_ul\"><li>Experience the atmosphere of the game.<br></li><li>Battle against terrifying beings from a supernatural realm.<br></li><li>Battle against rebel soldiers.<br></li><li>Use weapons to banish them all.<br></li><li>Solve mysteriuos puzzles that block your path.<br></li><li>Switch between first person and third person view.</li></ul>",
+    "developers": [
+        "Quadflare Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/header.jpg?t=1697991867",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256973322,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973322/movie480.mp4?t=1697991866",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973322/movie_max.mp4?t=1697991866"
+            },
+            "name": "Haunted Things Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973322/movie.293x165.jpg?t=1697991866",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973322/movie480_vp9.webm?t=1697991866",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973322/movie_max_vp9.webm?t=1697991866"
+            }
+        }
+    ],
+    "name": "Haunted Things",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Haunted Things - $5.99",
+                    "packageid": 944733,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy Haunted Things"
+        }
+    ],
+    "packages": [
+        944733
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Pentium G6400<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-4790 / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Quadflare Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 22, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_641c352cc2ec45397356f3b1e1e1117eeb13cd70.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_641c352cc2ec45397356f3b1e1e1117eeb13cd70.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_70b90b6b16253cfc62387e5a271815e4f3f85178.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_70b90b6b16253cfc62387e5a271815e4f3f85178.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_88c0ecae10b75631a12307971ad4882b0c2ec0c8.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_88c0ecae10b75631a12307971ad4882b0c2ec0c8.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_4798d86409289cde5cdbea341c441721ed8fc786.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_4798d86409289cde5cdbea341c441721ed8fc786.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_b182d313484a4c6e6a3c4bb2ff4f50c6f971c4ee.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_b182d313484a4c6e6a3c4bb2ff4f50c6f971c4ee.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_427fb2207e9c802835d2a7b426cc12f47df42b91.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_427fb2207e9c802835d2a7b426cc12f47df42b91.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_acc6d58a4b1af93c97415b4a180c0e03eb998039.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_acc6d58a4b1af93c97415b4a180c0e03eb998039.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_57dc906d471b493f58f2e15c74a283839b85550c.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_57dc906d471b493f58f2e15c74a283839b85550c.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_724fa83389d984be7dfc8d7c51cab818c5508bed.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_724fa83389d984be7dfc8d7c51cab818c5508bed.600x338.jpg?t=1697991867"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_853b884e16fae7cb5c569fafb9d3858b5a162cb8.1920x1080.jpg?t=1697991867",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634420/ss_853b884e16fae7cb5c569fafb9d3858b5a162cb8.600x338.jpg?t=1697991867"
+        }
+    ],
+    "short_description": "Haunted Things is an indie horror game that you can choose as third person or first person view in carrying out survival horror actions. Play as Guna, looking for his brother who mysteriously disappeared. On his journey, he is haunted by bad things from other worlds and even from his own world.",
+    "steam_appid": 2634420,
+    "support_info": {
+        "email": "quadflare21@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.youtube.com/channel/UCwtwEMuWxOAXrRjChoxldGw"
+}

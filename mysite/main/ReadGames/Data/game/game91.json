@@ -1,0 +1,182 @@
+{
+    "about_the_game": "Only up Samarkand is a parkour game where speed is important.<br />\r\nStrive to reach the top, overcoming a variety of dynamic obstacles.<br />\r\nOne mistake and back to the beginning...<br />\r\nMade in Uzbekistan",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/page_bg_generated_v6b.jpg?t=1702079058",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/page.bg.jpg?t=1702079058",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/capsule_231x87.jpg?t=1702079058",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/capsule_184x69.jpg?t=1702079058",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Only up Samarkand is a parkour game where speed is important.<br />\r\nStrive to reach the top, overcoming a variety of dynamic obstacles.<br />\r\nOne mistake and back to the beginning...<br />\r\nMade in Uzbekistan",
+    "developers": [
+        "SAYF GAMES"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/header.jpg?t=1702079058",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256981073,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981073/movie480.mp4?t=1702079052",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981073/movie_max.mp4?t=1702079052"
+            },
+            "name": "Only Up Samarkand",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256981073/movie.293x165.jpg?t=1702079052",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981073/movie480_vp9.webm?t=1702079052",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981073/movie_max_vp9.webm?t=1702079052"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256984142,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984142/movie480.mp4?t=1700641643",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984142/movie_max.mp4?t=1700641643"
+            },
+            "name": "Only up Samarkand",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256984142/movie.293x165.jpg?t=1700641643",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984142/movie480_vp9.webm?t=1700641643",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984142/movie_max_vp9.webm?t=1700641643"
+            }
+        }
+    ],
+    "name": "Only Up Samarkand",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Only Up Samarkand - $0.99",
+                    "packageid": 949671,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Only Up Samarkand"
+        }
+    ],
+    "packages": [
+        949671
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8/10/11<br></li><li><strong>Processor:</strong> Intel Core i2-6600 or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 512 or equivalent<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8/10/11<br></li><li><strong>Processor:</strong> Intel Core i5-6600 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650 or equivalent<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SAYF GAMES"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_234703e682a6b92d7d69fdc8a7600419b6ad5cc7.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_234703e682a6b92d7d69fdc8a7600419b6ad5cc7.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_46ff388b6ddaaaa9a185fa90dc789103fa1d9295.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_46ff388b6ddaaaa9a185fa90dc789103fa1d9295.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_826a089efd0a43dcc5a748b4fcf89a42154a5402.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_826a089efd0a43dcc5a748b4fcf89a42154a5402.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_02185176782bad428485315da90160460691caf4.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_02185176782bad428485315da90160460691caf4.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_55f91af0b56c70814b20a67e4890a14a97817010.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_55f91af0b56c70814b20a67e4890a14a97817010.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_9464b057ffef92f256c010de0e989e807411b537.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_9464b057ffef92f256c010de0e989e807411b537.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_f6eec6a415b267218d51e43f554aa8ba559a61c1.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_f6eec6a415b267218d51e43f554aa8ba559a61c1.600x338.jpg?t=1702079058"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_8c2d3c4e10a5be1cb8f44d5ac072453cff79220e.1920x1080.jpg?t=1702079058",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649380/ss_8c2d3c4e10a5be1cb8f44d5ac072453cff79220e.600x338.jpg?t=1702079058"
+        }
+    ],
+    "short_description": "Only up Samarkand is a parkour game where speed and agility are important so as not to fall and start again! Reaching the end is an important milestone in the game.",
+    "steam_appid": 2649380,
+    "support_info": {
+        "email": "mastersayf1@gmail.com",
+        "url": "https://www.instagram.com/sayf_gamesuzb/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.instagram.com/sayf_gamesuzb/"
+}

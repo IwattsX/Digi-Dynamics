@@ -1,0 +1,170 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-title.gif?t=1701447039\" /><br><br>A retro-style <strong>JPRG</strong> crossed with a<strong> modular ship building</strong> &amp; combat game.<br><br>Level up your ship, build it bigger...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-builder.gif?t=1701447039\" /><br><br>Battle enemy ships...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-battle.gif?t=1701447039\" /><br><br>Explore the solar system...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-explore.gif?t=1701447039\" /><br><br>And save the human race!<h2 class=\"bb_tag\">Detailed Info:</h2><br>You start off with three blocks (engine, mounting block, cockpit) that you can rearrange as you like, when you defeat enemies you gain XP, can level up to get more blocks to add to your ship. You also get money for defeating enemies, and you can buy things at space stations. Mountable weapons (<strong>guns, machine guns, lasers, launchers</strong>), a mountable <strong>shield</strong>, ammo (<strong>torpedoes and emp torpedoes</strong>), and consumable items for heating and in-battle stats increases. You can also find weapons and other items in certain places in the map.<br><br>You must make your way through the map and the various &quot;dungeons&quot; to find and defeat the Red Juggernaut. There are <strong>over 30</strong> types of enemy ships that you will encounter as you travel, with a varying degree of difficulty. In battle, once you drop their defense screens you can damage blocks individually. If you destroy a component that causes a large portion of the enemy ship to be detached from it's cockpit, those orphaned blocks will be destroyed as well. You can also evade torpedo strikes, and make yourself less vulnerable to attack by using your engines. As well, you can utilize <strong>EMP strikes</strong> to take down enemy shields, and disable enemy weapons temporarily.<h2 class=\"bb_tag\">Controls:</h2><br><ul class=\"bb_ul\"> <li> Supports XBOX style controllers: DPad, A, B<br> </li><li> Keyboard: Arrow Keys, Space/Enter for A, Z/Escape for B</li></ul><h2 class=\"bb_tag\">Credits:</h2><br><ul class=\"bb_ul\"> <li> chadams - Coding, art, music, sfx<br> </li><li> Lil Lyon - Beta testing<br> </li><li> LZ - Beta testing</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/page_bg_generated_v6b.jpg?t=1701447039",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/page_bg_generated.jpg?t=1701447039",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/capsule_231x87.jpg?t=1701447039",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/capsule_184x69.jpg?t=1701447039",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-title.gif?t=1701447039\" /><br><br>A retro-style <strong>JPRG</strong> crossed with a<strong> modular ship building</strong> &amp; combat game.<br><br>Level up your ship, build it bigger...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-builder.gif?t=1701447039\" /><br><br>Battle enemy ships...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-battle.gif?t=1701447039\" /><br><br>Explore the solar system...<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2638290/extras/trj-explore.gif?t=1701447039\" /><br><br>And save the human race!<h2 class=\"bb_tag\">Detailed Info:</h2><br>You start off with three blocks (engine, mounting block, cockpit) that you can rearrange as you like, when you defeat enemies you gain XP, can level up to get more blocks to add to your ship. You also get money for defeating enemies, and you can buy things at space stations. Mountable weapons (<strong>guns, machine guns, lasers, launchers</strong>), a mountable <strong>shield</strong>, ammo (<strong>torpedoes and emp torpedoes</strong>), and consumable items for heating and in-battle stats increases. You can also find weapons and other items in certain places in the map.<br><br>You must make your way through the map and the various &quot;dungeons&quot; to find and defeat the Red Juggernaut. There are <strong>over 30</strong> types of enemy ships that you will encounter as you travel, with a varying degree of difficulty. In battle, once you drop their defense screens you can damage blocks individually. If you destroy a component that causes a large portion of the enemy ship to be detached from it's cockpit, those orphaned blocks will be destroyed as well. You can also evade torpedo strikes, and make yourself less vulnerable to attack by using your engines. As well, you can utilize <strong>EMP strikes</strong> to take down enemy shields, and disable enemy weapons temporarily.<h2 class=\"bb_tag\">Controls:</h2><br><ul class=\"bb_ul\"> <li> Supports XBOX style controllers: DPad, A, B<br> </li><li> Keyboard: Arrow Keys, Space/Enter for A, Z/Escape for B</li></ul><h2 class=\"bb_tag\">Credits:</h2><br><ul class=\"bb_ul\"> <li> chadams - Coding, art, music, sfx<br> </li><li> Lil Lyon - Beta testing<br> </li><li> LZ - Beta testing</li></ul>",
+    "developers": [
+        "Chadams Studios"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/header.jpg?t=1701447039",
+    "is_free": false,
+    "legal_notice": "\u00a9 2023 Chadams Studios",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS 3.0<br></li><li><strong>Processor:</strong> Dual Core 2.5 GHZ<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS 3.4<br></li><li><strong>Processor:</strong> SteamDeck APU<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> SteamDeck APU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975483,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975483/movie480.mp4?t=1697486752",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975483/movie_max.mp4?t=1697486752"
+            },
+            "name": "Main Traler",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975483/movie.293x165.jpg?t=1697486752",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975483/movie480_vp9.webm?t=1697486752",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975483/movie_max_vp9.webm?t=1697486752"
+            }
+        }
+    ],
+    "name": "The Red Juggernaut",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "The Red Juggernaut - $4.99",
+                    "packageid": 945983,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy The Red Juggernaut"
+        }
+    ],
+    "packages": [
+        945983
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Dual Core 2.5 GHZ<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Quad Core 3.5 GHZ<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1050<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Chadams Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_c7742b895783b0013a9b6684dc8e45a86bbeac39.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_c7742b895783b0013a9b6684dc8e45a86bbeac39.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_b509ec33effa39de4ab558eb0848bc0dd507af78.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_b509ec33effa39de4ab558eb0848bc0dd507af78.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_35d0464520043af5f33f9e6fdef9867b1821c85d.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_35d0464520043af5f33f9e6fdef9867b1821c85d.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_cde0ecc16f3d3ed62e9d6041a16ed584471206ca.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_cde0ecc16f3d3ed62e9d6041a16ed584471206ca.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_c83f0dbea9f71198a4836d8b839c26fc92cd7641.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_c83f0dbea9f71198a4836d8b839c26fc92cd7641.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_a28943eaef7ef0ab1abb502345a50ea36cebef17.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_a28943eaef7ef0ab1abb502345a50ea36cebef17.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_b51f179d0f090b04413d3410d73b720349b52805.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_b51f179d0f090b04413d3410d73b720349b52805.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_cc386df3153867c47baefd3f8626ff120f714209.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_cc386df3153867c47baefd3f8626ff120f714209.600x338.jpg?t=1701447039"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_6e231ba3b263a57e7525a78625b230e074196c70.1920x1080.jpg?t=1701447039",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638290/ss_6e231ba3b263a57e7525a78625b230e074196c70.600x338.jpg?t=1701447039"
+        }
+    ],
+    "short_description": "&quot;The Red juggernaut&quot; is a retro-style JPRG crossed with a modular ship building &amp; combat game. Level up your ship, build it bigger, battle enemy ships, explore the solar system, and save the human race!",
+    "steam_appid": 2638290,
+    "support_info": {
+        "email": "chadams.studios@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

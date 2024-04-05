@@ -1,0 +1,156 @@
+{
+    "about_the_game": "<strong>Brace yourselves\u2014winter has come to Byteland! </strong><br><br>Get ready to jump into a festive fiesta with 5 new winter islands. Skate and slide your way into this new chilly chapter filled with slippery challenges all around the HUB area. <br><br>Unlock new material pieces and bring them back to the SnowWorkshop to rock that winter vibe with new skins! <br><br><strong>Do you have what it takes to find all of the hidden gifts?</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736460/extras/Winter_GIF_12mb.gif?t=1703406412\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/page_bg_generated_v6b.jpg?t=1703406412",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/page.bg.jpg?t=1703406412",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/capsule_231x87.jpg?t=1703406412",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/capsule_184x69.jpg?t=1703406412",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<strong>Brace yourselves\u2014winter has come to Byteland! </strong><br><br>Get ready to jump into a festive fiesta with 5 new winter islands. Skate and slide your way into this new chilly chapter filled with slippery challenges all around the HUB area. <br><br>Unlock new material pieces and bring them back to the SnowWorkshop to rock that winter vibe with new skins! <br><br><strong>Do you have what it takes to find all of the hidden gifts?</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2736460/extras/Winter_GIF_12mb.gif?t=1703406412\" />",
+    "developers": [
+        "Purple Ray Studio"
+    ],
+    "fullgame": {
+        "appid": "2161050",
+        "name": "Boti: Byteland Overclocked"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/header.jpg?t=1703406412",
+    "is_free": true,
+    "legal_notice": "2023 Untold Tales S.A. and Purple Ray Studio SP. Z O.O., BOTI: Byteland Overclocked, The Untold Tales Logo and Purple Ray Studio logo are trademarks of Untold Tales S.A. and/or Purple Ray Studio Sp. Z O.O.. All rights reserved. All trademarks are the property of their respective owners.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256990350,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990350/movie480.mp4?t=1703166338",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990350/movie_max.mp4?t=1703166338"
+            },
+            "name": "Hidden Giftware DLC video",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990350/movie.293x165.jpg?t=1703166338",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990350/movie480_vp9.webm?t=1703166338",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990350/movie_max_vp9.webm?t=1703166338"
+            }
+        }
+    ],
+    "name": "Boti: Byteland Overclocked - Hidden Giftware DLC",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Untold Tales"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 21, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_79ea598c06bb72e421bcaf72c2f8501ac3b4d2a6.1920x1080.jpg?t=1703406412",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_79ea598c06bb72e421bcaf72c2f8501ac3b4d2a6.600x338.jpg?t=1703406412"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_756c28f9a2099a35efb786c4f4da7388e9c50236.1920x1080.jpg?t=1703406412",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_756c28f9a2099a35efb786c4f4da7388e9c50236.600x338.jpg?t=1703406412"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_7ad44c9634feec4cc61c7f0eba2e5b4a2a533189.1920x1080.jpg?t=1703406412",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_7ad44c9634feec4cc61c7f0eba2e5b4a2a533189.600x338.jpg?t=1703406412"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_e09f5a29734e123ce447de50c2b1ed3de9a0127c.1920x1080.jpg?t=1703406412",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736460/ss_e09f5a29734e123ce447de50c2b1ed3de9a0127c.600x338.jpg?t=1703406412"
+        }
+    ],
+    "short_description": "Brace yourselves\u2014winter has come to Byteland! Get ready to jump into a festive fiesta with 5 new winter island levels. Skate and slide your way into this new chilly chapter filled with slippery challenges all around the HUB area.",
+    "steam_appid": 2736460,
+    "support_info": {
+        "email": "contact@purpleray.studio",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, German, Polish, Portuguese - Brazil, Spanish - Latin America, Simplified Chinese, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://purpleray.studio/"
+}

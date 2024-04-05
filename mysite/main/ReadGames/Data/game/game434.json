@@ -1,0 +1,161 @@
+{
+    "about_the_game": "Pirates vs Ninjas  [Multiplayer]  -  Ninjas and Sea Creatures are attacking Pirate Island.<br>You and Your crew must take out ALL of them to Save Your Booty.<br><br>This is a Fast Paced RPG Style Looter Shooter.<br><br>The game includes a Multiplayer &amp; Single Player system.<br>PvP OR CO-OP.<br>You can Invite Your Steam Friends with the ' + ' Icon on the Main Menu !<br><br>The Game is packed with a complete inventory management and looting system, swimming system, level-ups, AI, combat mechanics, and many more features.<br>It has been tested online with clients under server-load.<br>Directly Compatible with the Steam online subsystem.<br><br>* NOTE : You should have a Stable &amp; Fast Internet Connection for Best Results *<br><br>Features:<br><br>Advanced Inventory System<br>Inventory Quickslots<br>Item Durability<br>Fully Host System-based Saving System<br>Entity and Loot spawning system<br>Advanced Skill and Level Up system<br>Percentual Reward Division (Based on Damage)<br>Player Lobby and Menu system<br>Dynamic Crosshair System<br>Range and Melee weapons with damage, ammunition handling, and FX.<br>Throwable Grenades, Molotovs, etc<br>Advanced Enemy AI<br>Advanced Damage System<br>Advanced Player knockout and death system<br>Full SFX + Music<br>Interaction system<br>Fully interactable Water system with Swimming and Diving<br>Sniper Rifle scoping (zooming) mechanics<br><br>Large Map<br>Lots of Enemies to battle<br>Pirate Ships to Travel around in<br>** { ONLY HOST CAN CAPTAIN THE SHIP } **<br>- Press the &quot;U&quot; Key to drive the ship!<br><br><br>. . . and More !",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/page_bg_generated_v6b.jpg?t=1704581326",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/page.bg.jpg?t=1704581326",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/capsule_231x87.jpg?t=1704581326",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/capsule_184x69.jpg?t=1704581326",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Pirates vs Ninjas  [Multiplayer]  -  Ninjas and Sea Creatures are attacking Pirate Island.<br>You and Your crew must take out ALL of them to Save Your Booty.<br><br>This is a Fast Paced RPG Style Looter Shooter.<br><br>The game includes a Multiplayer &amp; Single Player system.<br>PvP OR CO-OP.<br>You can Invite Your Steam Friends with the ' + ' Icon on the Main Menu !<br><br>The Game is packed with a complete inventory management and looting system, swimming system, level-ups, AI, combat mechanics, and many more features.<br>It has been tested online with clients under server-load.<br>Directly Compatible with the Steam online subsystem.<br><br>* NOTE : You should have a Stable &amp; Fast Internet Connection for Best Results *<br><br>Features:<br><br>Advanced Inventory System<br>Inventory Quickslots<br>Item Durability<br>Fully Host System-based Saving System<br>Entity and Loot spawning system<br>Advanced Skill and Level Up system<br>Percentual Reward Division (Based on Damage)<br>Player Lobby and Menu system<br>Dynamic Crosshair System<br>Range and Melee weapons with damage, ammunition handling, and FX.<br>Throwable Grenades, Molotovs, etc<br>Advanced Enemy AI<br>Advanced Damage System<br>Advanced Player knockout and death system<br>Full SFX + Music<br>Interaction system<br>Fully interactable Water system with Swimming and Diving<br>Sniper Rifle scoping (zooming) mechanics<br><br>Large Map<br>Lots of Enemies to battle<br>Pirate Ships to Travel around in<br>** { ONLY HOST CAN CAPTAIN THE SHIP } **<br>- Press the &quot;U&quot; Key to drive the ship!<br><br><br>. . . and More !",
+    "developers": [
+        "Archor Wright"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/header.jpg?t=1704581326",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256987982,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987982/movie480.mp4?t=1702514269",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987982/movie_max.mp4?t=1702514269"
+            },
+            "name": "Pirates vs Ninjas - Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256987982/movie.293x165.jpg?t=1702514269",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256987982/movie480_vp9.webm?t=1702514269",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256987982/movie_max_vp9.webm?t=1702514269"
+            }
+        }
+    ],
+    "name": "Pirates vs Ninjas",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Pirates vs Ninjas - $0.99",
+                    "packageid": 978744,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Pirates vs Ninjas"
+        }
+    ],
+    "packages": [
+        978744
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Archor Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 27, 2023"
+    },
+    "required_age": 0,
+    "reviews": "\u201cWould Recommend!\u201d<br>10/10 \u2013 <a href=\"http://youtube.com/live/YX1Z61kjmt0?t=3450\" target=\"_blank\" rel=\"\"  >Desirable Bottom</a><br>",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_548fc2ab6c9a00b945b7245b79c39c395f847e79.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_548fc2ab6c9a00b945b7245b79c39c395f847e79.600x338.jpg?t=1704581326"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_037a167f5e98ea7af8287462303324ce7db85acc.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_037a167f5e98ea7af8287462303324ce7db85acc.600x338.jpg?t=1704581326"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_82f7d4e2401188b2c45255eb602bbe17cbd77ad6.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_82f7d4e2401188b2c45255eb602bbe17cbd77ad6.600x338.jpg?t=1704581326"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_2309e2fa5c2bb4795a312c30ad53719a3b0858ea.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_2309e2fa5c2bb4795a312c30ad53719a3b0858ea.600x338.jpg?t=1704581326"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_1c34e157b155aa801136c63950738d58e8872772.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_1c34e157b155aa801136c63950738d58e8872772.600x338.jpg?t=1704581326"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_bcf6c33b335f822a98ada7f358d0e4ca7b1073e5.1920x1080.jpg?t=1704581326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735260/ss_bcf6c33b335f822a98ada7f358d0e4ca7b1073e5.600x338.jpg?t=1704581326"
+        }
+    ],
+    "short_description": "Pirates vs Ninjas [Multiplayer] - Ninjas are attacking Pirate Island. You and Your crew must take out ALL of them to Save Your Booty.",
+    "steam_appid": 2735260,
+    "support_info": {
+        "email": "archor@archor.com",
+        "url": "http://store.steampowered.com/search/?publisher=Archor%20Games"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "http://store.steampowered.com/search/?publisher=Archor%20Games"
+}

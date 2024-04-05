@@ -1,0 +1,87 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/page_bg_generated_v6b.jpg?t=1697213364",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/page_bg_generated.jpg?t=1697213364",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/capsule_231x87.jpg?t=1697213364",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/capsule_184x69.jpg?t=1697213364",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Clement DIS"
+    ],
+    "fullgame": {
+        "appid": "2640790",
+        "name": "Uninitialized"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/header.jpg?t=1697213364",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "The Depths Within Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Clement DIS"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_575aa077c7ca9844fe4a9a60fcaa22fa54224660.1920x1080.jpg?t=1697213364",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_575aa077c7ca9844fe4a9a60fcaa22fa54224660.600x338.jpg?t=1697213364"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_59e3a2cea6c2b721b4048d87b4b72be6b53ee861.1920x1080.jpg?t=1697213364",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_59e3a2cea6c2b721b4048d87b4b72be6b53ee861.600x338.jpg?t=1697213364"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_bf0748ba57ecedcc41d273ed3552335c7e8dc92d.1920x1080.jpg?t=1697213364",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_bf0748ba57ecedcc41d273ed3552335c7e8dc92d.600x338.jpg?t=1697213364"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_0ccbfe2c003dee7b72ef6b04241511451b55931f.1920x1080.jpg?t=1697213364",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_0ccbfe2c003dee7b72ef6b04241511451b55931f.600x338.jpg?t=1697213364"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_20e0158a9b826f94e215be5bc17cee6271a53d5c.1920x1080.jpg?t=1697213364",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650180/ss_20e0158a9b826f94e215be5bc17cee6271a53d5c.600x338.jpg?t=1697213364"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2650180,
+    "support_info": {
+        "email": "thedepthswithinhelp@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

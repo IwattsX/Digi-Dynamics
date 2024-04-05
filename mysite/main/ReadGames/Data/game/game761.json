@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Steel Thunder is an action-packed runner where you play as a knight and race through a castle while jumping and dodging obstacles to collect coins. The game is an exciting adventure that requires quick reflexes and strategic thinking to conquer each level.<br />\r\n<br />\r\nAs a knight, you must jump over walls with agility and agility, avoiding deadly traps<br />\r\n<br />\r\nThe game's stunning graphics and fast-paced gameplay make Steel Thunder an unforgettable experience. Difficulty increases as time progresses, providing a challenge to keep you on your toes.<br />\r\n<br />\r\nGet ready to jump, dodge and collect coins in Steel Thunder, the ultimate runner that will keep you entertained for hours.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/page_bg_generated_v6b.jpg?t=1700984213",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/page_bg_generated.jpg?t=1700984213",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/capsule_231x87.jpg?t=1700984213",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/capsule_184x69.jpg?t=1700984213",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Steel Thunder is an action-packed runner where you play as a knight and race through a castle while jumping and dodging obstacles to collect coins. The game is an exciting adventure that requires quick reflexes and strategic thinking to conquer each level.<br />\r\n<br />\r\nAs a knight, you must jump over walls with agility and agility, avoiding deadly traps<br />\r\n<br />\r\nThe game's stunning graphics and fast-paced gameplay make Steel Thunder an unforgettable experience. Difficulty increases as time progresses, providing a challenge to keep you on your toes.<br />\r\n<br />\r\nGet ready to jump, dodge and collect coins in Steel Thunder, the ultimate runner that will keep you entertained for hours.",
+    "developers": [
+        "White Player Game Studios"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/header.jpg?t=1700984213",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937840,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937840/movie480.mp4?t=1679945354",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937840/movie_max.mp4?t=1679945354"
+            },
+            "name": "1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937840/movie.293x165.jpg?t=1679945354",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937840/movie480_vp9.webm?t=1679945354",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937840/movie_max_vp9.webm?t=1679945354"
+            }
+        }
+    ],
+    "name": "Steel Thunder",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Iron Guardian - $29.99",
+                    "packageid": 852898,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Steel Thunder"
+        }
+    ],
+    "packages": [
+        852898
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windows 7/8/10/11<br></li><li><strong>Processor:</strong> I5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> gts250<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "White Player Game Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_712745833f00e8c5867dc949d94f92789e76540e.1920x1080.jpg?t=1700984213",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_712745833f00e8c5867dc949d94f92789e76540e.600x338.jpg?t=1700984213"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_7c845429c9f5a721dda9a69f8cd7aa5c6c5e8fb5.1920x1080.jpg?t=1700984213",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_7c845429c9f5a721dda9a69f8cd7aa5c6c5e8fb5.600x338.jpg?t=1700984213"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_218d14ca16fa50ce27303e35c333be809695a1be.1920x1080.jpg?t=1700984213",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_218d14ca16fa50ce27303e35c333be809695a1be.600x338.jpg?t=1700984213"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_680804c733985ce4e662f4098006aa84ff040e9d.1920x1080.jpg?t=1700984213",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_680804c733985ce4e662f4098006aa84ff040e9d.600x338.jpg?t=1700984213"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_d019954c645d92ada388119ca30ef2384285df63.1920x1080.jpg?t=1700984213",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372300/ss_d019954c645d92ada388119ca30ef2384285df63.600x338.jpg?t=1700984213"
+        }
+    ],
+    "short_description": "Steel Thunder is an action-packed runner where you play as a knight and race through a castle while jumping and dodging obstacles to collect coins. The game is an exciting adventure that requires quick reflexes and strategic thinking to conquer each level.",
+    "steam_appid": 2372300,
+    "support_info": {
+        "email": "caowei520zmx@70it.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

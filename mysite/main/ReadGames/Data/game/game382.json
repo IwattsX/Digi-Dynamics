@@ -1,0 +1,236 @@
+{
+    "about_the_game": "Dr Morgo has been testing on human subject forcing them to battle in a tournament to join his army. Only the strongest shall defeat Dr Morgo and his Minions, will it be you or parish? Experience the intensity of head-to-head battles with Exotic Fighter Choose from 10 iconic characters, then battle against friends",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/page_bg_generated_v6b.jpg?t=1705112923",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/page.bg.jpg?t=1705112923",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/capsule_231x87.jpg?t=1705112923",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/capsule_184x69.jpg?t=1705112923",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Dr Morgo has been testing on human subject forcing them to battle in a tournament to join his army. Only the strongest shall defeat Dr Morgo and his Minions, will it be you or parish? Experience the intensity of head-to-head battles with Exotic Fighter Choose from 10 iconic characters, then battle against friends",
+    "developers": [
+        "Eric Hodges",
+        "External Revenue llc"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/header.jpg?t=1705112923",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256993716,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993716/movie480.mp4?t=1705112915",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993716/movie_max.mp4?t=1705112915"
+            },
+            "name": "Exotic Fighter 60sec trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256993716/movie.293x165.jpg?t=1705112915",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256993716/movie480_vp9.webm?t=1705112915",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256993716/movie_max_vp9.webm?t=1705112915"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256989977,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989977/movie480.mp4?t=1704941138",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989977/movie_max.mp4?t=1704941138"
+            },
+            "name": "Exotic Fighter",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256989977/movie.293x165.jpg?t=1704941138",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256989977/movie480_vp9.webm?t=1704941138",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256989977/movie_max_vp9.webm?t=1704941138"
+            }
+        }
+    ],
+    "name": "Exotic Fighter",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Requires a 64-bit processor and operating system OS *: Windows 7<br></li><li><strong>Processor:</strong> core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 700 series, equivalent or better.<br></li><li><strong>Storage:</strong> 1.8 GB available space<br></li><li><strong>VR Support:</strong> NA<br></li><li><strong>Additional Notes:</strong> These requirements are an estimation, the game might not run as intended on old hardware. RECOMMENDED:</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 900 series, equivalent or better.<br></li><li><strong>Storage:</strong> 1.8 GB available space<br></li><li><strong>Additional Notes:</strong> These requirements are an estimation, the game might not run as intended on old hardware.</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Eric Hodges"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Feb 1, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_89c8c379b7c85ce7673558203e59dd0118427a13.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_89c8c379b7c85ce7673558203e59dd0118427a13.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_0fa8f74fbc576fa4ba0809404e4b550278157cbf.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_0fa8f74fbc576fa4ba0809404e4b550278157cbf.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_cd49d9a35ae7d58f7469fe15bac11b0e398717cf.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_cd49d9a35ae7d58f7469fe15bac11b0e398717cf.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_6b9b20f51f2fc5a65003ed4e284315f4091b86a0.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_6b9b20f51f2fc5a65003ed4e284315f4091b86a0.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_b6a49244eca8687c958e1ed8b59b3afd5ccb455a.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_b6a49244eca8687c958e1ed8b59b3afd5ccb455a.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_c56b27d5511d1dad8b86fd412e7855199d97bebe.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_c56b27d5511d1dad8b86fd412e7855199d97bebe.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_33a440f42c177056d6e785c553c76d12b234fae7.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_33a440f42c177056d6e785c553c76d12b234fae7.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_28069383bbeb310b765ff0493d9ef5a889a47807.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_28069383bbeb310b765ff0493d9ef5a889a47807.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_1c37f68356b8eb9c0a2e41c2cbbe867b900cd5c6.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_1c37f68356b8eb9c0a2e41c2cbbe867b900cd5c6.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_6ee15427eae57f30462ad0383e6d3c0ed83d835a.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_6ee15427eae57f30462ad0383e6d3c0ed83d835a.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_2dd278503585e7458feb6aa98f33cb9090582959.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_2dd278503585e7458feb6aa98f33cb9090582959.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_1d2b43133f25832a89240e849281900d50e15716.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_1d2b43133f25832a89240e849281900d50e15716.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_b4be359e3ac8c1a8de493d986d1e1c480f6a9208.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_b4be359e3ac8c1a8de493d986d1e1c480f6a9208.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_de06e48e696f35bb73e72aa59322d08d2560ddcf.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_de06e48e696f35bb73e72aa59322d08d2560ddcf.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_9af5a43c97317bfe2b69ae6563708dd90296d286.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_9af5a43c97317bfe2b69ae6563708dd90296d286.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_f1f5c8a8e3fa6742e7452545b704aa2f91e02dbf.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_f1f5c8a8e3fa6742e7452545b704aa2f91e02dbf.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_85ea75a4186770aa27dec0b85550bf3f8ec2d4a1.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_85ea75a4186770aa27dec0b85550bf3f8ec2d4a1.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_a2aebafaaa08010d681b51d72230f298f8d9afe3.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_a2aebafaaa08010d681b51d72230f298f8d9afe3.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_7f9c924de427b1fa457b12b2c5451fef15096ef8.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_7f9c924de427b1fa457b12b2c5451fef15096ef8.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_11e175840f10e618a2fbd73265bf74fe124cb53a.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_11e175840f10e618a2fbd73265bf74fe124cb53a.600x338.jpg?t=1705112923"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_36d07d4cf6a46960677077f980ae95815a11fe41.1920x1080.jpg?t=1705112923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2737430/ss_36d07d4cf6a46960677077f980ae95815a11fe41.600x338.jpg?t=1705112923"
+        }
+    ],
+    "short_description": "Action fighter game.",
+    "steam_appid": 2737430,
+    "support_info": {
+        "email": "externalrevenue@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

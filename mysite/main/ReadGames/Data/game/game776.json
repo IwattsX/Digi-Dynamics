@@ -1,0 +1,224 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">THE SUPREME ACTION PLATFORMER</h2>Take your sword and engage in the most satisfying 2d combat ever put to screen. Between elite sword techniques, bombastic magical spells, and a plethora of movement techniques, your flimsy opponents don't stand a chance.<h2 class=\"bb_tag\">ALPHA SORCERER</h2>Thought to be dead for hundreds of years, a feared tyrant from ages past mysteriously awakens into an unfamiliar future filled with grotesque monsters and oppressive rulers. What follows is a bloody and explosive quest for revenge as you, the legendary sorcerer king, thought dead 300 years ago, hack and slash your way back to the throne, now occupied by a strange cult with alien powers.<br><br><br>Constantly hunted by soldiers desperate to put you back in the grave where they think you belong, and hounded relentlessly by a horde of monstrous creatures which have spread across the world tormenting its inhabitants, the sanctity of this dying planet is upended by your unexpected presence - various characters from differing origins frantically try to make sense of your sudden reappearance as they are forced to reconsider their loyalties. But are you really as bad as they think you are? Perhaps this world can be saved?",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Relic Hunter",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/fcbf5b21d8e2ca413e4b7ad95291c5a69b57fc4e.jpg"
+            },
+            {
+                "name": "Grand Magus",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/9e1c60b83a4cf097366aa97f4edc28283faad17e.jpg"
+            },
+            {
+                "name": "Unbreakable",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/adfe1675f814f36e4c67b3850eec2ed38043586c.jpg"
+            },
+            {
+                "name": "Flow State",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/3bf162015305783e29922147b27e12b7fca516d2.jpg"
+            },
+            {
+                "name": "Mageblade",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/4d0b3078d0a62fd8e530c0fc6797257a5ad4d184.jpg"
+            },
+            {
+                "name": "Relentless",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/6a66f35e01409d66355e51326ccc5a4b39cbbe7d.jpg"
+            },
+            {
+                "name": "Regicide",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/b68a1b33fd6f108a2eb15c8929bb7bb7fff57776.jpg"
+            },
+            {
+                "name": "Force of Nature",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/9d67d8be5a0b19737a555fd747c92557d028bf3d.jpg"
+            },
+            {
+                "name": "No Sandbagging",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/c2e75e2ed85656d3074041f3b7992329d79637dd.jpg"
+            },
+            {
+                "name": "Samurai Jack (of all trades)",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2371560/d037c651f8a78c1202820e4f4a8cfd2405e072fe.jpg"
+            }
+        ],
+        "total": 11
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/page_bg_generated_v6b.jpg?t=1695661125",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/page_bg_generated.jpg?t=1695661125",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/capsule_231x87.jpg?t=1695661125",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/capsule_184x69.jpg?t=1695661125",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Frequent stylized violence and gore."
+    },
+    "controller_support": "full",
+    "detailed_description": "<h2 class=\"bb_tag\">THE SUPREME ACTION PLATFORMER</h2>Take your sword and engage in the most satisfying 2d combat ever put to screen. Between elite sword techniques, bombastic magical spells, and a plethora of movement techniques, your flimsy opponents don't stand a chance.<h2 class=\"bb_tag\">ALPHA SORCERER</h2>Thought to be dead for hundreds of years, a feared tyrant from ages past mysteriously awakens into an unfamiliar future filled with grotesque monsters and oppressive rulers. What follows is a bloody and explosive quest for revenge as you, the legendary sorcerer king, thought dead 300 years ago, hack and slash your way back to the throne, now occupied by a strange cult with alien powers.<br><br><br>Constantly hunted by soldiers desperate to put you back in the grave where they think you belong, and hounded relentlessly by a horde of monstrous creatures which have spread across the world tormenting its inhabitants, the sanctity of this dying planet is upended by your unexpected presence - various characters from differing origins frantically try to make sense of your sudden reappearance as they are forced to reconsider their loyalties. But are you really as bad as they think you are? Perhaps this world can be saved?",
+    "developers": [
+        "Corey Hardman"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/header.jpg?t=1695661125",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256956551,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256956551/movie480.mp4?t=1688515128",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256956551/movie_max.mp4?t=1688515128"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256956551/movie.293x165.jpg?t=1688515128",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256956551/movie480_vp9.webm?t=1688515128",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256956551/movie_max_vp9.webm?t=1688515128"
+            }
+        }
+    ],
+    "name": "Alpha Sorcerer",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Alpha Sorcerer - $7.99",
+                    "packageid": 852609,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 799
+                }
+            ],
+            "title": "Buy Alpha Sorcerer"
+        }
+    ],
+    "packages": [
+        852609
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista or later<br></li><li><strong>Processor:</strong> 1.5 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 Memory card, DX9 compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 125 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 799,
+        "final_formatted": "$7.99",
+        "initial": 799,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Corey Hardman"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 25, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_b31afa9e814ecba7ca78199d15e42506100262de.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_b31afa9e814ecba7ca78199d15e42506100262de.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_6ccc4ce52442674085cad4c50250017734a5d5a6.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_6ccc4ce52442674085cad4c50250017734a5d5a6.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_3d8246479464ee3e91614a75c4eb11622e822dd5.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_3d8246479464ee3e91614a75c4eb11622e822dd5.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_db4cc0d897abd73b6441d6459d8978af6fa756b5.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_db4cc0d897abd73b6441d6459d8978af6fa756b5.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_fa09bc189480d69ae3524a16ddc68c6a43c75765.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_fa09bc189480d69ae3524a16ddc68c6a43c75765.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_80b4b960815a1a295ff42d48e95cc4d0330633c1.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_80b4b960815a1a295ff42d48e95cc4d0330633c1.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_423077c89f1c7e8855121d9f265822f3ca14cb52.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_423077c89f1c7e8855121d9f265822f3ca14cb52.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_82498140a452a7d17348555b8f1752df8f889734.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_82498140a452a7d17348555b8f1752df8f889734.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_01a62d0ab7a39d80264ab244eda124d3eb1b6495.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_01a62d0ab7a39d80264ab244eda124d3eb1b6495.600x338.jpg?t=1695661125"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_0697f0686af43bdb69372e0f5e97d45c81ca1142.1920x1080.jpg?t=1695661125",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371560/ss_0697f0686af43bdb69372e0f5e97d45c81ca1142.600x338.jpg?t=1695661125"
+        }
+    ],
+    "short_description": "An elite sorcerer king with forgotten magical powers mysteriously reappears in a bloody quest for revenge in the supreme action platformer.",
+    "steam_appid": 2371560,
+    "support_info": {
+        "email": "cdd.hardman@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://alphasorcerer.com"
+}

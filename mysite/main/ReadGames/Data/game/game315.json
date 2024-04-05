@@ -1,0 +1,189 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">RPG: Conquer the World<br>... at least our Village :-)</h2><br><strong>Pixel art RPG adventure. Experience the story of a common young boy, visit school, fight enemies, find your first love, and most importantly: Conquer the world!</strong><br><br>Welcome, new soul, to the land of Lanthir Lamath! Since you can't have a mortgage, a car lease, or an empty credit card here, you can certainly have a bunch of other problems.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/jacob.gif?t=1705578638\" /><br>As the main hero, you go by the name Jacob.<br> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/home.gif?t=1705578638\" /><br>You're an ordinary boy who lives with your parents, goes to school, fights with classmates, and falls in love with the teacher's daughter. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/dead.gif?t=1705578638\" /><br>Sometimes, you even die in a pool of blood while kicking your feet.<br><br><br>In the game, you'll learn to keep secrets, not trust anyone, and wash your hands after using the toilet. And the most important task? You want to conquer the entire world! Well, at least our village.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/8chapters.jpg?t=1705578638\" /><br>The game consists of 8 chapters, several tasks, many sarcastic dialogues, and humorous situations. You'll enjoy a lot of pleasant fun.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/page_bg_generated_v6b.jpg?t=1705578638",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/page.bg.jpg?t=1705578638",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/capsule_231x87.jpg?t=1705578638",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/capsule_184x69.jpg?t=1705578638",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2748110,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h2 class=\"bb_tag\">RPG: Conquer the World<br>... at least our Village :-)</h2><br><strong>Pixel art RPG adventure. Experience the story of a common young boy, visit school, fight enemies, find your first love, and most importantly: Conquer the world!</strong><br><br>Welcome, new soul, to the land of Lanthir Lamath! Since you can't have a mortgage, a car lease, or an empty credit card here, you can certainly have a bunch of other problems.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/jacob.gif?t=1705578638\" /><br>As the main hero, you go by the name Jacob.<br> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/home.gif?t=1705578638\" /><br>You're an ordinary boy who lives with your parents, goes to school, fights with classmates, and falls in love with the teacher's daughter. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/dead.gif?t=1705578638\" /><br>Sometimes, you even die in a pool of blood while kicking your feet.<br><br><br>In the game, you'll learn to keep secrets, not trust anyone, and wash your hands after using the toilet. And the most important task? You want to conquer the entire world! Well, at least our village.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2739860/extras/8chapters.jpg?t=1705578638\" /><br>The game consists of 8 chapters, several tasks, many sarcastic dialogues, and humorous situations. You'll enjoy a lot of pleasant fun.",
+    "developers": [
+        "LL studio, spol. s r.o."
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/header.jpg?t=1705578638",
+    "is_free": false,
+    "legal_notice": "Copyright LL studio, spol. s r.o.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988707,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988707/movie480.mp4?t=1704017416",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988707/movie_max.mp4?t=1704017416"
+            },
+            "name": "RPG Conquer the world - Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988707/movie.293x165.jpg?t=1704017416",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988707/movie480_vp9.webm?t=1704017416",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988707/movie_max_vp9.webm?t=1704017416"
+            }
+        }
+    ],
+    "name": "RPG Conquer the World",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (64-bit) or better<br></li><li><strong>Processor:</strong> 2 GHz Intel i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11-compatible GPU<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Additional Notes:</strong> A 64-bit system is required to run the game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "LL studio, spol. s r.o."
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_93737d2e65ca07e4c0b4bce8ac8e8b9c353b399f.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_93737d2e65ca07e4c0b4bce8ac8e8b9c353b399f.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_8acb69075ea616f40bd53e7228b31aea8deb812b.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_8acb69075ea616f40bd53e7228b31aea8deb812b.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_6bf1389c78c1f7ba7c562bef826936e57c80625d.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_6bf1389c78c1f7ba7c562bef826936e57c80625d.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_f1620a9701f280ec425270a91c07b87600ed3619.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_f1620a9701f280ec425270a91c07b87600ed3619.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_baf297fa3a30f5c1b614067261c155d2a75d2cc4.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_baf297fa3a30f5c1b614067261c155d2a75d2cc4.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_11ad519903672b680bce6cde1008747e24223213.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_11ad519903672b680bce6cde1008747e24223213.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_76569c9472d13cabcfe0000634f7f0fa0fdf88c5.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_76569c9472d13cabcfe0000634f7f0fa0fdf88c5.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_bdef7566641c4395bed9e03d58ec7195fb6666b5.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_bdef7566641c4395bed9e03d58ec7195fb6666b5.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_75993ee696db9c34ec673f89ccb8f2d8ad21aabf.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_75993ee696db9c34ec673f89ccb8f2d8ad21aabf.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_200ce28675d3f168cfe9f14eaaa22fb3b266a83d.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_200ce28675d3f168cfe9f14eaaa22fb3b266a83d.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_1848d3c738fe026440f13a04d493567c50c7344a.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_1848d3c738fe026440f13a04d493567c50c7344a.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_3b38795897b9c20aa2e960529aba57bb450b8d2e.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_3b38795897b9c20aa2e960529aba57bb450b8d2e.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_4b24c12d37de1ddcf9a05cb47e2a4014caf942e8.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_4b24c12d37de1ddcf9a05cb47e2a4014caf942e8.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_51b8b1f373d007b2872baddbebbc6a9e36154684.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_51b8b1f373d007b2872baddbebbc6a9e36154684.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_40d08d9efaffad17d85fb83a2ebcf084431cd3aa.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_40d08d9efaffad17d85fb83a2ebcf084431cd3aa.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_5f24f2529a98f69ad827c13ba2efefedce218b8b.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_5f24f2529a98f69ad827c13ba2efefedce218b8b.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_6ccf559cc9b28914815efb3ae8ab903399d948e5.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_6ccf559cc9b28914815efb3ae8ab903399d948e5.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_05c5d5feba0639dc83e857bd379f16acaab705fd.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_05c5d5feba0639dc83e857bd379f16acaab705fd.600x338.jpg?t=1705578638"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_675231892ef2e801eb01bd64180484b43164ed8e.1920x1080.jpg?t=1705578638",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739860/ss_675231892ef2e801eb01bd64180484b43164ed8e.600x338.jpg?t=1705578638"
+        }
+    ],
+    "short_description": "Pixel art RPG adventure. Experience the story of a common young boy, visit school, fight enemies, find your first love, and most importantly: Conquer the world!",
+    "steam_appid": 2739860,
+    "support_info": {
+        "email": "info@llstd.com",
+        "url": "https://llstudio.games"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://llstd.com/rpg-conquer-the-world/"
+}

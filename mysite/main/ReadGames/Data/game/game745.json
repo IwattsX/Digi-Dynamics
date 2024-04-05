@@ -1,0 +1,98 @@
+{
+    "about_the_game": "Complete objectives to move from level to level.<br>Collect gems to upgrade the mystery box and get more powerful guns.<br>Complete quests for money and powerups.<h2 class=\"bb_tag\">Background</h2>Otter Turmoil is a Top-Down Roguelike Survival Shooter. In the search for power, you opened up Panda's Box unleashing otherworldly beast and mayhem around you. Yet this chaos is the perfect opportunity you needed, with plentiful ways to become stronger within. Travel through the world and fight the creatures to become the most dominant being alive.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/page_bg_generated_v6b.jpg?t=1695928198",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/page_bg_generated.jpg?t=1695928198",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/capsule_231x87.jpg?t=1695928198",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/capsule_184x69.jpg?t=1695928198",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Complete objectives to move from level to level.<br>Collect gems to upgrade the mystery box and get more powerful guns.<br>Complete quests for money and powerups.<h2 class=\"bb_tag\">Background</h2>Otter Turmoil is a Top-Down Roguelike Survival Shooter. In the search for power, you opened up Panda's Box unleashing otherworldly beast and mayhem around you. Yet this chaos is the perfect opportunity you needed, with plentiful ways to become stronger within. Travel through the world and fight the creatures to become the most dominant being alive.",
+    "developers": [
+        "Red Monkeroni"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/header.jpg?t=1695928198",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Otter Turmoil",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-6100 / AMD FX-8350<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> GTX 580 / AMD HD 7870<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>VR Support:</strong> Nope</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-6100 / AMD FX-8350<br></li><li><strong>Graphics:</strong> GTX 580 / AMD HD 7870<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>VR Support:</strong> Nope</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Red Monkeroni"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_e895016a32888764f717ebbccbab9a5a9615de92.1920x1080.jpg?t=1695928198",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_e895016a32888764f717ebbccbab9a5a9615de92.600x338.jpg?t=1695928198"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_0b6d699f71ec601953aadb59e1bd4ceb17ef964c.1920x1080.jpg?t=1695928198",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_0b6d699f71ec601953aadb59e1bd4ceb17ef964c.600x338.jpg?t=1695928198"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_bf76f4a534273684f8d011f5c580c6d1fecb81ae.1920x1080.jpg?t=1695928198",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_bf76f4a534273684f8d011f5c580c6d1fecb81ae.600x338.jpg?t=1695928198"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_7b2af7175001b462fd1aa9a89d20b693a2fc5373.1920x1080.jpg?t=1695928198",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_7b2af7175001b462fd1aa9a89d20b693a2fc5373.600x338.jpg?t=1695928198"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_203dc582157d9104a21318cc44aa01515c7874e6.1920x1080.jpg?t=1695928198",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372050/ss_203dc582157d9104a21318cc44aa01515c7874e6.600x338.jpg?t=1695928198"
+        }
+    ],
+    "short_description": "Play as an Otter in this Rogue-lite action shooter. Mow down through hordes of goons and enemies as you traverse through Panda's Box. Loot among many guns and powerups to conquer the new world.",
+    "steam_appid": 2372050,
+    "support_info": {
+        "email": "RedMonkeroni@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://redmacaroni.itch.io/otterturmoil"
+}

@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Spiral Smash is a very interesting game. Players need to control a ball to continuously fall and destroy obstacles. The ball in the game will rotate continuously. Players need to click the screen at the right time to let the ball destroy obstacles and continue to fall. The difficulty of the game will increase over time. Players need to constantly improve their reaction speed and skills to get higher scores.<br />\r\n<br />\r\nSpiral Smash has a rich level design, and players can challenge their limits in different scenes. The ball in the game is also very diverse, and players can choose different balls to play the game. In addition, there are various obstacles in the game, and players need to constantly improve their skills to get higher scores.<br />\r\n<br />\r\nThe operation of Spiral Smash is very simple. Players only need to click the screen at the right time. The graphics of the game are very exquisite, and the sound effects are also very good, allowing players to better enjoy the fun of the game. In short, Spiral Smash is a very interesting game, you can challenge your limits in the game and experience different game fun.\ud83d\ude0a",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/page_bg_generated_v6b.jpg?t=1680881848",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/page_bg_generated.jpg?t=1680881848",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/capsule_231x87.jpg?t=1680881848",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/capsule_184x69.jpg?t=1680881848",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Spiral Smash is a very interesting game. Players need to control a ball to continuously fall and destroy obstacles. The ball in the game will rotate continuously. Players need to click the screen at the right time to let the ball destroy obstacles and continue to fall. The difficulty of the game will increase over time. Players need to constantly improve their reaction speed and skills to get higher scores.<br />\r\n<br />\r\nSpiral Smash has a rich level design, and players can challenge their limits in different scenes. The ball in the game is also very diverse, and players can choose different balls to play the game. In addition, there are various obstacles in the game, and players need to constantly improve their skills to get higher scores.<br />\r\n<br />\r\nThe operation of Spiral Smash is very simple. Players only need to click the screen at the right time. The graphics of the game are very exquisite, and the sound effects are also very good, allowing players to better enjoy the fun of the game. In short, Spiral Smash is a very interesting game, you can challenge your limits in the game and experience different game fun.\ud83d\ude0a",
+    "developers": [
+        "Heaven and earth game studio"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/header.jpg?t=1680881848",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937464,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937464/movie480.mp4?t=1679677950",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937464/movie_max.mp4?t=1679677950"
+            },
+            "name": "1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937464/movie.293x165.jpg?t=1679677950",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937464/movie480_vp9.webm?t=1679677950",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937464/movie_max_vp9.webm?t=1679677950"
+            }
+        }
+    ],
+    "name": "Spiral Smash",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Spiral Smash - $29.99",
+                    "packageid": 852396,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Spiral Smash"
+        }
+    ],
+    "packages": [
+        852396
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windows 7/8/10/11<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 660<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Heaven and earth game studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_ed3af003e891b36f1f0c7bd1eb73f218410241ae.1920x1080.jpg?t=1680881848",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_ed3af003e891b36f1f0c7bd1eb73f218410241ae.600x338.jpg?t=1680881848"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_7a23cfacaaa9a57f85f14df8e54b21d9567e6491.1920x1080.jpg?t=1680881848",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_7a23cfacaaa9a57f85f14df8e54b21d9567e6491.600x338.jpg?t=1680881848"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_6accb529b6414f9d8bc18466b66377e612789c8e.1920x1080.jpg?t=1680881848",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_6accb529b6414f9d8bc18466b66377e612789c8e.600x338.jpg?t=1680881848"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_922904e5478fa15b429c51c5feda8ddc062d921b.1920x1080.jpg?t=1680881848",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_922904e5478fa15b429c51c5feda8ddc062d921b.600x338.jpg?t=1680881848"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_cc8671563c5187038bbb8a7bbbb359bfbf281c1a.1920x1080.jpg?t=1680881848",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370920/ss_cc8671563c5187038bbb8a7bbbb359bfbf281c1a.600x338.jpg?t=1680881848"
+        }
+    ],
+    "short_description": "Spiral Smash is a very interesting game. Players need to control a ball to continuously fall and destroy obstacles.",
+    "steam_appid": 2370920,
+    "support_info": {
+        "email": "momo@70it.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

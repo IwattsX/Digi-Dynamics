@@ -1,0 +1,132 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651170/extras/title.png?t=1702722447\" /><br>Yurei is a top-down, arena-style slasher game. Face off fearsome enemies where you will slash, dodge, and eliminate those that stand on your path for revenge. Grab your katana, fight with honor, and prove your skills.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651170/extras/yurei_short_gameplay.gif?t=1702722447\" /><br><br><strong>Features</strong><br>- DASH through enemies to eliminate them.<br>- CHARGE your dash attack for more distance and damage.<br>- STAMINA is used to attack, so keep an eye out for it.<br>- DODGE incoming enemy attacks and get some stamina back.<br>- BUY gear to get stronger and face more difficult enemies.<br>- EQUIP amulets to unlock unique abilities.<br>- PRAY for a Fortune God to increase the drop rate while making enemies tougher.<br>- Over 30 levels.<br><br><a href=\"https://store.steampowered.com/app/2651170\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/2651170</a>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/page_bg_generated_v6b.jpg?t=1702722447",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/page.bg.jpg?t=1702722447",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/capsule_231x87.jpg?t=1702722447",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/capsule_184x69.jpg?t=1702722447",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651170/extras/title.png?t=1702722447\" /><br>Yurei is a top-down, arena-style slasher game. Face off fearsome enemies where you will slash, dodge, and eliminate those that stand on your path for revenge. Grab your katana, fight with honor, and prove your skills.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2651170/extras/yurei_short_gameplay.gif?t=1702722447\" /><br><br><strong>Features</strong><br>- DASH through enemies to eliminate them.<br>- CHARGE your dash attack for more distance and damage.<br>- STAMINA is used to attack, so keep an eye out for it.<br>- DODGE incoming enemy attacks and get some stamina back.<br>- BUY gear to get stronger and face more difficult enemies.<br>- EQUIP amulets to unlock unique abilities.<br>- PRAY for a Fortune God to increase the drop rate while making enemies tougher.<br>- Over 30 levels.<br><br><a href=\"https://store.steampowered.com/app/2651170\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2651170</a>",
+    "developers": [
+        "Bright Flask Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/header.jpg?t=1702722447",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256980095,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980095/movie480.mp4?t=1699113008",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980095/movie_max.mp4?t=1699113008"
+            },
+            "name": "Steam Wishlist Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256980095/movie.293x165.jpg?t=1699113008",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980095/movie480_vp9.webm?t=1699113008",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980095/movie_max_vp9.webm?t=1699113008"
+            }
+        }
+    ],
+    "name": "Yurei",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.4 GHz Intel Core 2 Duo or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Bright Flask Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_8078292aa16636aec63e747fd0055dcb55834434.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_8078292aa16636aec63e747fd0055dcb55834434.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_b6c62983a7afd8886755db4a90bb29d36e32c786.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_b6c62983a7afd8886755db4a90bb29d36e32c786.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_8868808f09cfbe1ebf9787d12b1034a3e2e8de4f.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_8868808f09cfbe1ebf9787d12b1034a3e2e8de4f.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_423e0a2749d903607ea22c6139081e1fe5cdd6cc.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_423e0a2749d903607ea22c6139081e1fe5cdd6cc.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_ddc3ad01067d2172486058bed2671bbb58f90aa1.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_ddc3ad01067d2172486058bed2671bbb58f90aa1.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_a8b08789a3bb5460a5ac5dfb69889eadb0ef6768.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_a8b08789a3bb5460a5ac5dfb69889eadb0ef6768.600x338.jpg?t=1702722447"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_ad38e165c82cb1a5e6a4844cb010008868936ade.1920x1080.jpg?t=1702722447",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651170/ss_ad38e165c82cb1a5e6a4844cb010008868936ade.600x338.jpg?t=1702722447"
+        }
+    ],
+    "short_description": "Yurei is a top-down, arena-style slasher game. Face off fearsome enemies where you will slash, dodge, and eliminate those that stand on your path for revenge. Grab your katana, fight with honor, and prove your skills.",
+    "steam_appid": 2651170,
+    "support_info": {
+        "email": "isfuturebright@gmail.com",
+        "url": "http://brightflaskgames.com"
+    },
+    "supported_languages": "English, Japanese, Portuguese - Brazil",
+    "type": "game",
+    "website": "http://brightflaskgames.com"
+}

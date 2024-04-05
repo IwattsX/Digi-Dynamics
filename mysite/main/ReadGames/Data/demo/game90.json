@@ -1,0 +1,77 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/page_bg_generated_v6b.jpg?t=1701178072",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/page.bg.jpg?t=1701178072",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/capsule_231x87.jpg?t=1701178072",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/capsule_184x69.jpg?t=1701178072",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Studio Gathering Storm"
+    ],
+    "fullgame": {
+        "appid": "2608570",
+        "name": "Jennifer's Fragments"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/header.jpg?t=1701178072",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Jennifer's Fragments Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Studio Gathering Storm"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/ss_1a726c3593359f98a538419412c6bbd3915144f1.1920x1080.jpg?t=1701178072",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650370/ss_1a726c3593359f98a538419412c6bbd3915144f1.600x338.jpg?t=1701178072"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2650370,
+    "support_info": {
+        "email": "info@studiogatheringstorm.com",
+        "url": "https://studiogatheringstorm.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

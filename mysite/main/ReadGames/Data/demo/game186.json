@@ -1,0 +1,60 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637140/extras/Add_to_your_wishlist.gif?t=1696876249\" /><h2 class=\"bb_tag\">Create your own hero!</h2>Work your way up from a country boy to a real knight. Train, fight, trade and complete quests as you travel through the fantasy world. Choose your own style of play and become a champion of tiny lands.<h2 class=\"bb_tag\">Find your element!</h2>Electrocute, freeze, incinerate, poison, stun, exhaust and explode your enemies. Combine the effects of different types of damage. Match elements to biomes and weather conditions to enhance their effect.<h2 class=\"bb_tag\">Choose the right toys!</h2>Use dozens of unique items in battle. Potions, traps, snare, bombs, shurikens, harpoons, darts, wild bee hives, homemade pistol, and even dynamite! A true knight is willing to do anything to achieve victory.<h2 class=\"bb_tag\">Distract yourself from the battles!</h2>The life of a medieval knight is full of fun. Participate in medieval and fictional games. Compete in fist fights, tug-of-war, chicken throwing, sack races and other village fun.<h2 class=\"bb_tag\">Watch out for your hero and equipment!</h2>Train your hero, raise his level and unlock new abilities. Heal injuries and acquired diseases that were received in duels. Repair weapons and armour that have become unusable.<h2 class=\"bb_tag\">Organize sabotage!</h2>Bribe the tournament organiser and change the rules of the match. Weaken your opponent. Maybe you can slip poison in his hand, rig up his shield, throw thorns under his feet or stab him in the back. But be careful, because in his place you will find yourself.<h2 class=\"bb_tag\">Decide whose side you're on!</h2>Don't think you can do whatever you want with impunity. For frequent lawbreaking, the guards will send you to jail! Prove to the local cons that you're the best, but remember - there are no rules in prison fights. Train, fight, win, and get early release or just escape.<h2 class=\"bb_tag\">Play with a friend!</h2>Choose the right arena, fighters, set up tournament rules, and fight a duel on the same computer. Dual player matches and point scoring contests are available. Don't forget the gamepads, for a comfortable game.",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637140/capsule_231x87.jpg?t=1696876249",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637140/capsule_184x69.jpg?t=1696876249",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637140/extras/Add_to_your_wishlist.gif?t=1696876249\" /><h2 class=\"bb_tag\">Create your own hero!</h2>Work your way up from a country boy to a real knight. Train, fight, trade and complete quests as you travel through the fantasy world. Choose your own style of play and become a champion of tiny lands.<h2 class=\"bb_tag\">Find your element!</h2>Electrocute, freeze, incinerate, poison, stun, exhaust and explode your enemies. Combine the effects of different types of damage. Match elements to biomes and weather conditions to enhance their effect.<h2 class=\"bb_tag\">Choose the right toys!</h2>Use dozens of unique items in battle. Potions, traps, snare, bombs, shurikens, harpoons, darts, wild bee hives, homemade pistol, and even dynamite! A true knight is willing to do anything to achieve victory.<h2 class=\"bb_tag\">Distract yourself from the battles!</h2>The life of a medieval knight is full of fun. Participate in medieval and fictional games. Compete in fist fights, tug-of-war, chicken throwing, sack races and other village fun.<h2 class=\"bb_tag\">Watch out for your hero and equipment!</h2>Train your hero, raise his level and unlock new abilities. Heal injuries and acquired diseases that were received in duels. Repair weapons and armour that have become unusable.<h2 class=\"bb_tag\">Organize sabotage!</h2>Bribe the tournament organiser and change the rules of the match. Weaken your opponent. Maybe you can slip poison in his hand, rig up his shield, throw thorns under his feet or stab him in the back. But be careful, because in his place you will find yourself.<h2 class=\"bb_tag\">Decide whose side you're on!</h2>Don't think you can do whatever you want with impunity. For frequent lawbreaking, the guards will send you to jail! Prove to the local cons that you're the best, but remember - there are no rules in prison fights. Train, fight, win, and get early release or just escape.<h2 class=\"bb_tag\">Play with a friend!</h2>Choose the right arena, fighters, set up tournament rules, and fight a duel on the same computer. Dual player matches and point scoring contests are available. Don't forget the gamepads, for a comfortable game.",
+    "developers": [
+        "Mad Deviloper"
+    ],
+    "fullgame": {
+        "appid": "1493220",
+        "name": "Tiny Fight"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637140/header.jpg?t=1696876249",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Tiny Fight Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft\u00ae Windows\u00ae XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Any processor with at least 1.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Any card with at least 128 MB<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> Xbox gamepad support</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Mad Deviloper"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 9, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Tiny Knights is an arcade fighting game in medieval fantasy, with elements of management, trade and pumping up the fighter.",
+    "steam_appid": 2637140,
+    "support_info": {
+        "email": "maddeviloper@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": null
+}

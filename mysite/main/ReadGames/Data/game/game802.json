@@ -1,0 +1,204 @@
+{
+    "about_the_game": "Play as an adventurer, Grant Eliott, accompanied by his historian girlfriend, Anna Murphy, as they explore the most haunted castle in all of Ireland. What seems to be a normal visit for the two tourists becomes a haunted mystery. <br />\r\n<br />\r\nLore: Curse Of The Elemental is the first installment of the Lore game series. Adventure, horror, action, and mystery lie ahead. <br />\r\n<br />\r\nThis game was inspired by Uncharted, Tomb Raider, Indiana Jones, and The Mummy and is sure to surprise all newcomers as it makes its own unique footprint in the adventure genre. <br />\r\n<br />\r\nThis short adventure involves mystery, puzzle solving, third person perspective, shotgun shooting, jump scares, and many cinematic cutscenes.  <br />\r\n<br />\r\nThe location is based off of a real location in Ireland that is said to be actually haunted. My wife and I visited in 2019 and were greatly inspired by our experience there. All purchases of this game will be used to finance our next game Lore: The Secret Order.<br />\r\n<br />\r\nBefore playing the game I recommend to visit the &quot;options&quot; menu and select the optimize option. This should configure the game to match your system.<br />\r\n<br />\r\nPlease enjoy my first game! :D",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/page_bg_generated_v6b.jpg?t=1694159216",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/page.bg.jpg?t=1694159216",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/capsule_231x87.jpg?t=1694159216",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/capsule_184x69.jpg?t=1694159216",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Play as an adventurer, Grant Eliott, accompanied by his historian girlfriend, Anna Murphy, as they explore the most haunted castle in all of Ireland. What seems to be a normal visit for the two tourists becomes a haunted mystery. <br />\r\n<br />\r\nLore: Curse Of The Elemental is the first installment of the Lore game series. Adventure, horror, action, and mystery lie ahead. <br />\r\n<br />\r\nThis game was inspired by Uncharted, Tomb Raider, Indiana Jones, and The Mummy and is sure to surprise all newcomers as it makes its own unique footprint in the adventure genre. <br />\r\n<br />\r\nThis short adventure involves mystery, puzzle solving, third person perspective, shotgun shooting, jump scares, and many cinematic cutscenes.  <br />\r\n<br />\r\nThe location is based off of a real location in Ireland that is said to be actually haunted. My wife and I visited in 2019 and were greatly inspired by our experience there. All purchases of this game will be used to finance our next game Lore: The Secret Order.<br />\r\n<br />\r\nBefore playing the game I recommend to visit the &quot;options&quot; menu and select the optimize option. This should configure the game to match your system.<br />\r\n<br />\r\nPlease enjoy my first game! :D",
+    "developers": [
+        "Fred Grant Studios",
+        "Fred Grant"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/header.jpg?t=1694159216",
+    "is_free": false,
+    "legal_notice": "LORE: CURSE OF THE ELEMENTAL software \u00a9 2023 Grant Films, LLC Developed by Fred Grant Studios. LORE series characters, names and related indicia \u00a9 and \u2122 Grant Films, LLC.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256945061,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945061/movie480.mp4?t=1683727895",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945061/movie_max.mp4?t=1683727895"
+            },
+            "name": "Lore Trailer #1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256945061/movie.293x165.jpg?t=1683727895",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945061/movie480_vp9.webm?t=1683727895",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945061/movie_max_vp9.webm?t=1683727895"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256939963,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939963/movie480.mp4?t=1680795912",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939963/movie_max.mp4?t=1680795912"
+            },
+            "name": "Lore Announcement Teaser #1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256939963/movie.293x165.jpg?t=1680795912",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256939963/movie480_vp9.webm?t=1680795912",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256939963/movie_max_vp9.webm?t=1680795912"
+            }
+        }
+    ],
+    "name": "Lore: Curse Of The Elemental",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Lore: Curse Of The Elemental - $5.99",
+                    "packageid": 852456,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy Lore: Curse Of The Elemental"
+        }
+    ],
+    "packages": [
+        852456
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or higher (Requires a 64-bit processor and operating system)<br></li><li><strong>Processor:</strong> Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti With 4GB VRAm<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> Please Read: You may have to go to options and lower the settings that best work for your PC***   SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Additional Notes:</strong> SD, 1080p/60 fps, High Quality Settings</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Fred Grant Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 10, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_c257abf825f030ca1d5bf64135f6f982294da386.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_c257abf825f030ca1d5bf64135f6f982294da386.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_705dddb18948a823fc657fbdd38ae6f5d661f655.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_705dddb18948a823fc657fbdd38ae6f5d661f655.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_6880d8015d33c3678861a9f8ed5a4e69bc280543.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_6880d8015d33c3678861a9f8ed5a4e69bc280543.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_0065007ffae4013a8aea89fac8331374814fc6f5.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_0065007ffae4013a8aea89fac8331374814fc6f5.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_441f29649a6b63c514053ab288c0ea60ddb2e73e.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_441f29649a6b63c514053ab288c0ea60ddb2e73e.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_39a86d5ad6c168d3b3f0d7db4f4c179683a8f9f2.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_39a86d5ad6c168d3b3f0d7db4f4c179683a8f9f2.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_802a47b4702bd73ce9f6d0b64e32ffc4a7f4509a.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_802a47b4702bd73ce9f6d0b64e32ffc4a7f4509a.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_24a5dff73f8352861ca5daa45e188f0e49ffa7ce.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_24a5dff73f8352861ca5daa45e188f0e49ffa7ce.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_d60000e9f7c1e9f5b39a323971989ac33d8b27f2.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_d60000e9f7c1e9f5b39a323971989ac33d8b27f2.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_770371bffb7fbd7546996d8aa2fc15927ef94b2e.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_770371bffb7fbd7546996d8aa2fc15927ef94b2e.600x338.jpg?t=1694159216"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_09b6229e77299fe358c1a77067ab59eed76cee62.1920x1080.jpg?t=1694159216",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371120/ss_09b6229e77299fe358c1a77067ab59eed76cee62.600x338.jpg?t=1694159216"
+        }
+    ],
+    "short_description": "Play as an adventurer, along side your companion, and uncover a dark secret within the most haunted castle in Ireland. This is a third person mystery adventure and the first installment of a larger series.",
+    "steam_appid": 2371120,
+    "support_info": {
+        "email": "",
+        "url": "https://www.facebook.com/GrantFilmsLLC"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.facebook.com/GrantFilmsLLC"
+}

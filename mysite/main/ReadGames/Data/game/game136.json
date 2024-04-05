@@ -1,0 +1,162 @@
+{
+    "about_the_game": "Hey. Gil, here. Your average 20-something with few career prospects. Ya know, when I applied for this job at Spotless Services LLC, I thought it would be like any other after-hours cleaning gig. Quiet, simple, gross at times, sure, but at the end of the shift I go home to veg-out and not think about work until my next clock-in. <br><br><i>I was so wrong.</i><br><br>This ain\u2019t no ordinary gig. The boss lady, Nat, managed to procure contracts for some of the sketchiest places around town. The clients are total psychos, and they leave these sites filthy. Like, dustbunnies-hopping-right-at-your-face, filthy. At this point, I\u2019m happy to make it out of a shift with all of my fingers attached. And then I spend all my time off anxiously preparing for the next shift, hoping to do just a little better. I guess working for Spotless does have some benefits though\u2026<br><br><ul class=\"bb_ul\"><li>Clearing out enemies and trash quicker comes with bonuses and more Evaluation Stars from the clients<br></li><li>Redeeming Evaluation Stars to Nat gets me game-changing upgrades for use on subsequent sites<br></li><li>Working multiple sites back-to-back gets me a sweet overtime pay multiplier, at the risk of losing cash due to damages on more difficult sites. Sometimes you gotta know when to just play it safe and clock out<br></li><li>If I do a real thorough job, I can find secrets, that can be sold back to clients or other unsavory buyers. I\u2019m not saying it\u2019s ethical, but it provides a much appreciated bump in pay<br></li><li>Saving up enough cash allows me to purchase more permanent upgrades to my supplies and personal abilities. Might even be enough to move out of my parents\u2019 house...someday</li></ul>It\u2019s a dirty job, but somebody\u2019s gotta do it!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/page_bg_generated_v6b.jpg?t=1703913495",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/page_bg_generated.jpg?t=1703913495",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/capsule_231x87.jpg?t=1703913495",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/capsule_184x69.jpg?t=1703913495",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Hey. Gil, here. Your average 20-something with few career prospects. Ya know, when I applied for this job at Spotless Services LLC, I thought it would be like any other after-hours cleaning gig. Quiet, simple, gross at times, sure, but at the end of the shift I go home to veg-out and not think about work until my next clock-in. <br><br><i>I was so wrong.</i><br><br>This ain\u2019t no ordinary gig. The boss lady, Nat, managed to procure contracts for some of the sketchiest places around town. The clients are total psychos, and they leave these sites filthy. Like, dustbunnies-hopping-right-at-your-face, filthy. At this point, I\u2019m happy to make it out of a shift with all of my fingers attached. And then I spend all my time off anxiously preparing for the next shift, hoping to do just a little better. I guess working for Spotless does have some benefits though\u2026<br><br><ul class=\"bb_ul\"><li>Clearing out enemies and trash quicker comes with bonuses and more Evaluation Stars from the clients<br></li><li>Redeeming Evaluation Stars to Nat gets me game-changing upgrades for use on subsequent sites<br></li><li>Working multiple sites back-to-back gets me a sweet overtime pay multiplier, at the risk of losing cash due to damages on more difficult sites. Sometimes you gotta know when to just play it safe and clock out<br></li><li>If I do a real thorough job, I can find secrets, that can be sold back to clients or other unsavory buyers. I\u2019m not saying it\u2019s ethical, but it provides a much appreciated bump in pay<br></li><li>Saving up enough cash allows me to purchase more permanent upgrades to my supplies and personal abilities. Might even be enough to move out of my parents\u2019 house...someday</li></ul>It\u2019s a dirty job, but somebody\u2019s gotta do it!",
+    "developers": [
+        "Ghostie Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/header.jpg?t=1703913495",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04+<br></li><li><strong>Processor:</strong> 2 Cores<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 400+<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+    },
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256978290,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978290/movie480.mp4?t=1703913487",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978290/movie_max.mp4?t=1703913487"
+            },
+            "name": "Spotless Mini Teaser Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256978290/movie.293x165.jpg?t=1703913487",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256978290/movie480_vp9.webm?t=1703913487",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256978290/movie_max_vp9.webm?t=1703913487"
+            }
+        }
+    ],
+    "name": "Spotless",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 2 Cores<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 400+<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Ghostie Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_659c2756c7aa3d0126c209210fa0deb0d028c4db.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_659c2756c7aa3d0126c209210fa0deb0d028c4db.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_ee9312ead07f59863b3bb5c7729f2ae6a5d08d30.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_ee9312ead07f59863b3bb5c7729f2ae6a5d08d30.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_c26bdb82a7bdb33fbbf34d754a3eb07c36eee805.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_c26bdb82a7bdb33fbbf34d754a3eb07c36eee805.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_cbd3c2d5dd6030f4fe725a475084d6b745704cef.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_cbd3c2d5dd6030f4fe725a475084d6b745704cef.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_784bd481c4996241092e8d130bd32694e488de3a.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_784bd481c4996241092e8d130bd32694e488de3a.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_da7248736339a0854a6376eeedc6de7d957b95e3.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_da7248736339a0854a6376eeedc6de7d957b95e3.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_7209d324beeb9dc4034a6cd1764dfe6530a7b5c4.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_7209d324beeb9dc4034a6cd1764dfe6530a7b5c4.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_b3d40ceb5330427c0e04b40482a7db93a2154f4e.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_b3d40ceb5330427c0e04b40482a7db93a2154f4e.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_431f1c6d6f205555c8192ac1458d3621069ece3f.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_431f1c6d6f205555c8192ac1458d3621069ece3f.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_3a988498dde6c54b05bc2ba02322c1653bdd0e16.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_3a988498dde6c54b05bc2ba02322c1653bdd0e16.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_66eb001283603e8a5de93b73c2c0a3fb4fe7b08d.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_66eb001283603e8a5de93b73c2c0a3fb4fe7b08d.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_41a0f84706b6bdbb11e8c9fb2a629c09f2975918.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_41a0f84706b6bdbb11e8c9fb2a629c09f2975918.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_c9f3bafd06fbe7483a7bf2b5d507e96cf979209b.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_c9f3bafd06fbe7483a7bf2b5d507e96cf979209b.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_965769fdc8c944ac85f9c4311cf1ca5f52c79f84.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_965769fdc8c944ac85f9c4311cf1ca5f52c79f84.600x338.jpg?t=1703913495"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_d239db5bb65c816c420f5835c3522773c5cf648b.1920x1080.jpg?t=1703913495",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638610/ss_d239db5bb65c816c420f5835c3522773c5cf648b.600x338.jpg?t=1703913495"
+        }
+    ],
+    "short_description": "Spray, splash, and sweep through the crummiest corners of this Single-Player Rogue-Lite. Spend your meager earnings wisely on both permanent and temporary upgrades, so that even the thriving haunts of cute and creepy creatures can\u2019t stop you from cleaning until everything is Spotless!",
+    "steam_appid": 2638610,
+    "support_info": {
+        "email": "ghostiegamesdev@gmail.com",
+        "url": "https://discord.gg/gEVqcnhY"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

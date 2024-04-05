@@ -1,0 +1,61 @@
+{
+    "about_the_game": "The West of the Witchlands demo contains all singleplayer gameplay up to the first boss",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650270/capsule_231x87.jpg?t=1697752132",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650270/capsule_184x69.jpg?t=1697752132",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            2,
+            5
+        ],
+        "notes": "Violence, Firearms, Use of Alcohol"
+    },
+    "detailed_description": "The West of the Witchlands demo contains all singleplayer gameplay up to the first boss",
+    "developers": [
+        "IronFeather Games"
+    ],
+    "fullgame": {
+        "appid": "2584570",
+        "name": "West of the Witchlands"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650270/header.jpg?t=1697752132",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "West of the Witchlands Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "IronFeather Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 19, 2023"
+    },
+    "required_age": 0,
+    "short_description": "West of the Witchlands is a twin-stick shooter / roguelike about killing ancient gods with magic and revolvers",
+    "steam_appid": 2650270,
+    "support_info": {
+        "email": "ironfeathergamesco@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://www.ironfeathergames.com/"
+}

@@ -1,0 +1,131 @@
+{
+    "about_the_game": "Airscrew Racing heavy focuses on weapons and combat.  Weapons and items are crafted automatically and upgrade over time. The tiered weapon system rewards those who take the lead and helps those that are lagging! It provides simpler, auto pitch controls for younger gamers and exciting weapons for the more experienced ones. Up to four players can join locally in this wacky competitive racing game.<h2 class=\"bb_tag\">Control Weapons</h2>Aim, steer, shoot, fly and detonate weapons while your plane races in autopilot.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336240/extras/600x338_Gatling_Deli.gif?t=1699837239\" /><h2 class=\"bb_tag\">Item Crafting</h2>Airscrew Racing brings the choice to the player in deciding what weapons to select. Items level up with time. But watch out! You will loose any progress if your shot down.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336240/extras/600x338_Snow_Deli_2_player.gif?t=1699837239\" /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Unique item crafting system<br></li><li>Over 15 unique items<br></li><li>5 pilot-able weapons<br></li><li>Race in Cities, lava caves, artic landscapes, senic terrain and much more<br></li><li>Customizable airplanes<br></li><li>Auto-pitch controls availible<br></li><li>Gamemodes: Racing, TBA</li></ul><h2 class=\"bb_tag\">Credits</h2>Haakon Davidson: Music<br><br>Collin Creekmore: Quil<br>Jasmin Bartlett: Iris<br>Keventendo: Blaze<br>Liza Jacob: Jade<br>Reeko Brooks: Sprock<br>Walter Mack: Crank",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/page_bg_generated_v6b.jpg?t=1699837239",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/page_bg_generated.jpg?t=1699837239",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/capsule_231x87.jpg?t=1699837239",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/capsule_184x69.jpg?t=1699837239",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<h1>JOIN OUR DISCORD</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2Fb6YMEJ8tJ5\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336240/extras/discord.png?t=1699837239\" /></a></p><br><h1>About the Game</h1>Airscrew Racing heavy focuses on weapons and combat.  Weapons and items are crafted automatically and upgrade over time. The tiered weapon system rewards those who take the lead and helps those that are lagging! It provides simpler, auto pitch controls for younger gamers and exciting weapons for the more experienced ones. Up to four players can join locally in this wacky competitive racing game.<h2 class=\"bb_tag\">Control Weapons</h2>Aim, steer, shoot, fly and detonate weapons while your plane races in autopilot.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336240/extras/600x338_Gatling_Deli.gif?t=1699837239\" /><h2 class=\"bb_tag\">Item Crafting</h2>Airscrew Racing brings the choice to the player in deciding what weapons to select. Items level up with time. But watch out! You will loose any progress if your shot down.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336240/extras/600x338_Snow_Deli_2_player.gif?t=1699837239\" /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Unique item crafting system<br></li><li>Over 15 unique items<br></li><li>5 pilot-able weapons<br></li><li>Race in Cities, lava caves, artic landscapes, senic terrain and much more<br></li><li>Customizable airplanes<br></li><li>Auto-pitch controls availible<br></li><li>Gamemodes: Racing, TBA</li></ul><h2 class=\"bb_tag\">Credits</h2>Haakon Davidson: Music<br><br>Collin Creekmore: Quil<br>Jasmin Bartlett: Iris<br>Keventendo: Blaze<br>Liza Jacob: Jade<br>Reeko Brooks: Sprock<br>Walter Mack: Crank",
+    "developers": [
+        "GiddilyGeekin LLC"
+    ],
+    "genres": [
+        {
+            "description": "Racing",
+            "id": "9"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/header.jpg?t=1699837239",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256960189,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256960189/movie480.mp4?t=1690346286",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256960189/movie_max.mp4?t=1690346286"
+            },
+            "name": "June 2023 Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256960189/movie.293x165.jpg?t=1690346286",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256960189/movie480_vp9.webm?t=1690346286",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256960189/movie_max_vp9.webm?t=1690346286"
+            }
+        }
+    ],
+    "name": "Airscrew Racing",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 12th Gen Intel(R) Core(TM) i5-12450H   2.00 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GEFORCE GTX<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Realtek<br></li><li><strong>VR Support:</strong> No</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "GiddilyGeekin LLC"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_694dbca2d202827c8fb1eec5ba6d2e6129f5dec1.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_694dbca2d202827c8fb1eec5ba6d2e6129f5dec1.600x338.jpg?t=1699837239"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_4d96a0680a11371dbd07c73c780cedbb9c6940da.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_4d96a0680a11371dbd07c73c780cedbb9c6940da.600x338.jpg?t=1699837239"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_8813f16f31c331a64755d4a3cb7bbccbdf5074ba.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_8813f16f31c331a64755d4a3cb7bbccbdf5074ba.600x338.jpg?t=1699837239"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_41267586fc4c991049f71132deb3964f81eba730.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_41267586fc4c991049f71132deb3964f81eba730.600x338.jpg?t=1699837239"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_11a4cb1c1ab3454225beda074b15c0a5981e707b.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_11a4cb1c1ab3454225beda074b15c0a5981e707b.600x338.jpg?t=1699837239"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_7c372ef6d7013a6e47daeba101061b8c81feafc1.1920x1080.jpg?t=1699837239",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336240/ss_7c372ef6d7013a6e47daeba101061b8c81feafc1.600x338.jpg?t=1699837239"
+        }
+    ],
+    "short_description": "Take flight on a chaotic and ruthless fusion of Third-person shooter and high-speed aerial racing. Harness your marksmanship and lightning-fast reflexes to outmaneuver opponents and seize victory. Will you conquer the skies and rise as the ultimate ace?",
+    "steam_appid": 2336240,
+    "support_info": {
+        "email": "GiddilyGeekin@gmail.com",
+        "url": "https://giddilygeekin.wixsite.com/home"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

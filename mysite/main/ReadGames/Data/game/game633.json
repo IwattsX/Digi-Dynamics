@@ -1,0 +1,246 @@
+{
+    "about_the_game": "Delivery Impossible is an arcade truck driving simulator spiced with fun and a little bit of madness.<br><br>Tom's life and career were perfect: he could easily take the most expensive and interesting delivery orders. But one day everything changed: new &quot;effective&quot; managers fired him after 20 years of hard work. In order to stay afloat, Tom decided to start his own delivery company. Now he is forced to take on the most bizarre, ridiculous and crazy jobs: how about getting a group of tipsy tourists who can't help but fall off the bus all the way to the fair? Easy, I can do it with my eyes shut! A bunch of dynamites with a lit fuse? Without blinking an eye! A UFO? Nothing is impossible if you love your job!<br><br>Delivery Impossible features:<br><ul class=\"bb_ul\"><li>10 different levels and cargo types;<br></li><li>Multiple vehicle types, from a small sedan to heavy trucks;<br></li><li>A varied soundtrack.</li></ul><br>Immerse yourself in the world of Delivery Impossible and see for yourself what it is all about - real drive, fun and madness!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Delivery Boy",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/2242dde10bd96691599c37345b6a694c51b24c37.jpg"
+            },
+            {
+                "name": "Well, that's a start!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/2eabbb66854e7eecf8bed6f149fa2195b7fc5cfd.jpg"
+            },
+            {
+                "name": "Delivery is possible!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/cd71e2460af45aea7b5cfef1067fe003fcac7fbc.jpg"
+            },
+            {
+                "name": "At least you finished...",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/cffdfc0e29a6b1e7bf42101905526fd04ccabc3f.jpg"
+            },
+            {
+                "name": "Not a scratch",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/9ed7ffc70a458751b8e9f10aa00c93fe8947e557.jpg"
+            },
+            {
+                "name": "Head over heels",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/f31a9a5f1141b9e105a048cd0986e6f4d7b17243.jpg"
+            },
+            {
+                "name": "Wrong pedal",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/9e2ab8a539145e87d06978390b955e6a76e190fa.jpg"
+            },
+            {
+                "name": "Eager beaver",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/d48a896113c6668f25542df42788197651f2fda0.jpg"
+            },
+            {
+                "name": "Experienced courier",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/f84f5e4d3b8faa8b746e795d68890217ac338152.jpg"
+            },
+            {
+                "name": "Completionist",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335550/816c23d568fd28eaf96a41cfa9ca54b4eb605c8d.jpg"
+            }
+        ],
+        "total": 38
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/page_bg_generated_v6b.jpg?t=1704992983",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/page.bg.jpg?t=1704992983",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/capsule_231x87.jpg?t=1704992983",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/capsule_184x69.jpg?t=1704992983",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "demos": [
+        {
+            "appid": 2455950,
+            "description": ""
+        }
+    ],
+    "detailed_description": "Delivery Impossible is an arcade truck driving simulator spiced with fun and a little bit of madness.<br><br>Tom's life and career were perfect: he could easily take the most expensive and interesting delivery orders. But one day everything changed: new &quot;effective&quot; managers fired him after 20 years of hard work. In order to stay afloat, Tom decided to start his own delivery company. Now he is forced to take on the most bizarre, ridiculous and crazy jobs: how about getting a group of tipsy tourists who can't help but fall off the bus all the way to the fair? Easy, I can do it with my eyes shut! A bunch of dynamites with a lit fuse? Without blinking an eye! A UFO? Nothing is impossible if you love your job!<br><br>Delivery Impossible features:<br><ul class=\"bb_ul\"><li>10 different levels and cargo types;<br></li><li>Multiple vehicle types, from a small sedan to heavy trucks;<br></li><li>A varied soundtrack.</li></ul><br>Immerse yourself in the world of Delivery Impossible and see for yourself what it is all about - real drive, fun and madness!",
+    "developers": [
+        "Drunk Fly Oy"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Racing",
+            "id": "9"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/header.jpg?t=1704992983",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256977550,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977550/movie480.mp4?t=1698011333",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977550/movie_max.mp4?t=1698011333"
+            },
+            "name": "Pre-release trailer 2 (ENG)",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256977550/movie.293x165.jpg?t=1698011333",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977550/movie480_vp9.webm?t=1698011333",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977550/movie_max_vp9.webm?t=1698011333"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256949702,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256949702/movie480.mp4?t=1698011342",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256949702/movie_max.mp4?t=1698011342"
+            },
+            "name": "Pre-release trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256949702/movie.293x165.jpg?t=1698011342",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256949702/movie480_vp9.webm?t=1698011342",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256949702/movie_max_vp9.webm?t=1698011342"
+            }
+        }
+    ],
+    "name": "Delivery Impossible",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Delivery Impossible - $14.99",
+                    "packageid": 838862,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Delivery Impossible"
+        }
+    ],
+    "packages": [
+        838862
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 11<br></li><li><strong>Processor:</strong> x64 or x86 with SSE2 instruction set<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX11 or DX12 capable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 11<br></li><li><strong>Processor:</strong> x64 or x86 with SSE2 instruction set<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DX11 or DX12 capable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Drunk Fly Oy"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 5, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_a99172a426544f7a4864e69eafdc8b8299166aaf.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_a99172a426544f7a4864e69eafdc8b8299166aaf.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_1d4ce30dc354977f516dc14b72845cba67aa444a.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_1d4ce30dc354977f516dc14b72845cba67aa444a.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_c0faf1d5037a08732a96c3d34ee711eb2b1d5dfe.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_c0faf1d5037a08732a96c3d34ee711eb2b1d5dfe.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_e9640d0a6eb64675899e9cb68f90d50f2b951f84.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_e9640d0a6eb64675899e9cb68f90d50f2b951f84.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_b16588ea7f59dfef3e33f3d98e86d81ae2976352.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_b16588ea7f59dfef3e33f3d98e86d81ae2976352.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_9c419ddd142f62764495201c518fcaf1892f8281.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_9c419ddd142f62764495201c518fcaf1892f8281.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_c98a8871565e0cf120bd5de77c7686eed9dfcaae.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_c98a8871565e0cf120bd5de77c7686eed9dfcaae.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_0556c8dd04a8821ccf37c3ff25a95c9a103abf11.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_0556c8dd04a8821ccf37c3ff25a95c9a103abf11.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_216453d45752efa25b41a31e55857650a1372ba5.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_216453d45752efa25b41a31e55857650a1372ba5.600x338.jpg?t=1704992983"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_62b2bce1d1c7022100c6710688944a83de345928.1920x1080.jpg?t=1704992983",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335550/ss_62b2bce1d1c7022100c6710688944a83de345928.600x338.jpg?t=1704992983"
+        }
+    ],
+    "short_description": "Delivery Impossible is an arcade truck driving simulator spiced with fun and a little bit of madness. Immerse yourself in the world of Delivery Impossible and see for yourself what it is all about - real drive, fun and madness!",
+    "steam_appid": 2335550,
+    "support_info": {
+        "email": "info@drunkfly.eu",
+        "url": "https://www.drunkfly.eu/contact-us"
+    },
+    "supported_languages": "English, Russian, Spanish - Spain, Ukrainian",
+    "type": "game",
+    "website": "https://www.drunkfly.eu/delivery-impossible"
+}

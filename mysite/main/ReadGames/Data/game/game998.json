@@ -1,0 +1,128 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/about.png?t=1700581606\" /><br>A narrative puzzle-adventure about an important delivery that explores the importance of time.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/ruinsgif.gif?t=1700581606\" /><br><br>Make a special delivery to a reclusive wizard before they part town for good, leaving the town with no magic and no time-travel for the folks of Ozona. Meet the people of Ozona and solve puzzles to deliver a time-bending watch before it's too late. The fate of the town and its people rests on Domino's shoulders to convince the wizard to stay.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/marciegif.gif?t=1700581606\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/features.png?t=1700581606\" /><h2 class=\"bb_tag\">Explore a New Desert</h2>Glide across Ozona's sandy expanse, delivering watches, mingling with locals, and diving into wild tales!<h2 class=\"bb_tag\">Solve Puzzles</h2>Solve puzzles, unveil realms, and meet cool characters using time-travel!<h2 class=\"bb_tag\">Make Deliveries to Save the Town </h2>Embark on quests for quirky locals, all pointing to the big finale: delivering to the reclusive wizard of Ozona, the one and only Wizzy! <br><br><br><strong>About Bodeville</strong><br>Bodeville is a small team of two developers who wanted to make games that are fun, fair, and might tell a good story. Our founders Alexia Mandeville and Bo Boghosian have years of experience working in the game industry on projects including Pok\u00e9mon GO, Peridot, and Facebook Horizon.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/page_bg_generated_v6b.jpg?t=1700581606",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/page_bg_generated.jpg?t=1700581606",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/capsule_231x87.jpg?t=1700581606",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/capsule_184x69.jpg?t=1700581606",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2500600,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/about.png?t=1700581606\" /><br>A narrative puzzle-adventure about an important delivery that explores the importance of time.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/ruinsgif.gif?t=1700581606\" /><br><br>Make a special delivery to a reclusive wizard before they part town for good, leaving the town with no magic and no time-travel for the folks of Ozona. Meet the people of Ozona and solve puzzles to deliver a time-bending watch before it's too late. The fate of the town and its people rests on Domino's shoulders to convince the wizard to stay.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/marciegif.gif?t=1700581606\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2401220/extras/features.png?t=1700581606\" /><h2 class=\"bb_tag\">Explore a New Desert</h2>Glide across Ozona's sandy expanse, delivering watches, mingling with locals, and diving into wild tales!<h2 class=\"bb_tag\">Solve Puzzles</h2>Solve puzzles, unveil realms, and meet cool characters using time-travel!<h2 class=\"bb_tag\">Make Deliveries to Save the Town </h2>Embark on quests for quirky locals, all pointing to the big finale: delivering to the reclusive wizard of Ozona, the one and only Wizzy! <br><br><br><strong>About Bodeville</strong><br>Bodeville is a small team of two developers who wanted to make games that are fun, fair, and might tell a good story. Our founders Alexia Mandeville and Bo Boghosian have years of experience working in the game industry on projects including Pok\u00e9mon GO, Peridot, and Facebook Horizon.",
+    "developers": [
+        "Bodeville"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/header.jpg?t=1700581606",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04, Ubuntu 18.04, and CentOS 7<br></li><li><strong>Processor:</strong> x64 architecture with SSE2 instruction set support.<br></li><li><strong>Graphics:</strong> OpenGL 3.2+, Vulkan capable, X11</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mojave 10.14+<br></li><li><strong>Processor:</strong> Apple Silicon, x64 architecture with SSE2.<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256952895,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256952895/movie480.mp4?t=1691600174",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256952895/movie_max.mp4?t=1691600174"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256952895/movie.293x165.jpg?t=1691600174",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256952895/movie480_vp9.webm?t=1691600174",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256952895/movie_max_vp9.webm?t=1691600174"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256962580,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962580/movie480.mp4?t=1696262299",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962580/movie_max.mp4?t=1696262299"
+            },
+            "name": "flying",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256962580/movie.293x165.jpg?t=1696262299",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256962580/movie480_vp9.webm?t=1696262299",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256962580/movie_max_vp9.webm?t=1696262299"
+            }
+        }
+    ],
+    "name": "Watchmakers",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x86, x64 architecture with SSE2 instruction set support.<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Bodeville"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_5e0e09562ff824f89a07a44c628a90398652ebe6.1920x1080.jpg?t=1700581606",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_5e0e09562ff824f89a07a44c628a90398652ebe6.600x338.jpg?t=1700581606"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_4b3550ea8bf1674ea5685586232f7ca02b7f0e8b.1920x1080.jpg?t=1700581606",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_4b3550ea8bf1674ea5685586232f7ca02b7f0e8b.600x338.jpg?t=1700581606"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_049a388b06c54773238d1ba2ee74804d020a317e.1920x1080.jpg?t=1700581606",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_049a388b06c54773238d1ba2ee74804d020a317e.600x338.jpg?t=1700581606"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_e27b10c7021ddb18dce1e00be8b4c94c0acdfa00.1920x1080.jpg?t=1700581606",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_e27b10c7021ddb18dce1e00be8b4c94c0acdfa00.600x338.jpg?t=1700581606"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_5aee0e912d355343b5e72e4c07e6a565c3a082f9.1920x1080.jpg?t=1700581606",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401220/ss_5aee0e912d355343b5e72e4c07e6a565c3a082f9.600x338.jpg?t=1700581606"
+        }
+    ],
+    "short_description": "In a small desert named Ozona, known for its magical properties and time-traveling abilities, a courier named Domino receives an assignment to deliver a watch from a mystical wanderer. Explore the world and solve puzzles to deliver the watch before it's too late.",
+    "steam_appid": 2401220,
+    "support_info": {
+        "email": "",
+        "url": "discord.gg/BpmhbFf2hE"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://bodeville.com/"
+}

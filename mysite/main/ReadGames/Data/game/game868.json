@@ -1,0 +1,250 @@
+{
+    "about_the_game": "Linia Stripes is a relaxing game of identifying stripes of progressive length on countless, colorful boards.<br>As you play, you\u2019ll be able to collect many wonderful patterns to create unique wallpapers, ready for use and customization!<h2 class=\"bb_tag\">\ud83d\udc8e Features \ud83d\udc8e</h2><br><ul class=\"bb_ul\"><li> Easy to play - relax and enjoy<br></li><li> Progress - collect patterns and unlock new levels and challenges<br></li><li> Quick sessions - play as much as you want<br></li><li> Shuffle - switch to another board instantly, play what you like</li></ul><h2 class=\"bb_tag\">\ud83c\udfae How to Play \ud83c\udfae</h2><br><ul class=\"bb_ul\"><li> Find the shortest stripes on the board<br></li><li> Touch to clear them<br></li><li> Go on until you clear the board</li></ul><h2 class=\"bb_tag\">\ud83c\udfc6 Why Linia Stripes? \ud83c\udfc6</h2><br><ul class=\"bb_ul\"><li> Rewarding - level up and collect new incredible patterns<br></li><li> Relaxing - take your time and relax, nobody\u2019s pressuring you<br></li><li> Gratifying - clearing a board has never been so satisfying</li></ul><h2 class=\"bb_tag\">\ud83d\udca1 Create Unique Wallpapers \ud83d\udca1</h2><br><ul class=\"bb_ul\"><li> As you play and win, you\u2019ll be able to create your exclusive and mesmerizing wallpapers - try this feature!<br></li><li> Collect new patterns to create more unique wallpapers</li></ul>",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Tutorial",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/78e9730352ad80185ff75ef80b8c125aa89107c9.jpg"
+            },
+            {
+                "name": "First shuffle",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/ac0e4e5111550e70098f00fc307f14e07a8157c3.jpg"
+            },
+            {
+                "name": "First wallpaper",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/b1442034bb9c43039b28a17794cb6ca46cbc2531.jpg"
+            },
+            {
+                "name": "5 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/eeb04c6d8c58cbb20ac576208984289b806d6b80.jpg"
+            },
+            {
+                "name": "10 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/6e2c9e6e7a78b921247e1f1c5e00339c127f9ffa.jpg"
+            },
+            {
+                "name": "20 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/c6610f5f0e103f354ec61f4d3d944e9e42e1ebc7.jpg"
+            },
+            {
+                "name": "30 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/a5232166a466457e2e6a0dbe919eb5ba67550f7b.jpg"
+            },
+            {
+                "name": "40 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/7f783ca849de8ae56e02a6917496ec982d90eeb3.jpg"
+            },
+            {
+                "name": "50 patterns",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/d7268c40e88897ae058d7dfb4f5787d9e43dda3a.jpg"
+            },
+            {
+                "name": "50 stripes",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2370330/0f6ab615ef6d1e5c28226950cfc2aab12f694727.jpg"
+            }
+        ],
+        "total": 20
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/page_bg_generated_v6b.jpg?t=1684319844",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/page.bg.jpg?t=1684319844",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/capsule_231x87.jpg?t=1684319844",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/capsule_184x69.jpg?t=1684319844",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Steam Leaderboards",
+            "id": 25
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Linia Stripes is a relaxing game of identifying stripes of progressive length on countless, colorful boards.<br>As you play, you\u2019ll be able to collect many wonderful patterns to create unique wallpapers, ready for use and customization!<h2 class=\"bb_tag\">\ud83d\udc8e Features \ud83d\udc8e</h2><br><ul class=\"bb_ul\"><li> Easy to play - relax and enjoy<br></li><li> Progress - collect patterns and unlock new levels and challenges<br></li><li> Quick sessions - play as much as you want<br></li><li> Shuffle - switch to another board instantly, play what you like</li></ul><h2 class=\"bb_tag\">\ud83c\udfae How to Play \ud83c\udfae</h2><br><ul class=\"bb_ul\"><li> Find the shortest stripes on the board<br></li><li> Touch to clear them<br></li><li> Go on until you clear the board</li></ul><h2 class=\"bb_tag\">\ud83c\udfc6 Why Linia Stripes? \ud83c\udfc6</h2><br><ul class=\"bb_ul\"><li> Rewarding - level up and collect new incredible patterns<br></li><li> Relaxing - take your time and relax, nobody\u2019s pressuring you<br></li><li> Gratifying - clearing a board has never been so satisfying</li></ul><h2 class=\"bb_tag\">\ud83d\udca1 Create Unique Wallpapers \ud83d\udca1</h2><br><ul class=\"bb_ul\"><li> As you play and win, you\u2019ll be able to create your exclusive and mesmerizing wallpapers - try this feature!<br></li><li> Collect new patterns to create more unique wallpapers</li></ul>",
+    "developers": [
+        "Nexent"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/header.jpg?t=1684319844",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941227,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941227/movie480.mp4?t=1681770160",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941227/movie_max.mp4?t=1681770160"
+            },
+            "name": "Linia Stripes - Reel",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941227/movie.293x165.jpg?t=1681770160",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941227/movie480_vp9.webm?t=1681770160",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941227/movie_max_vp9.webm?t=1681770160"
+            }
+        }
+    ],
+    "name": "Linia Stripes",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Linia Stripes - $4.99",
+                    "packageid": 852173,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Linia Stripes"
+        }
+    ],
+    "packages": [
+        852173
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1.5Ghz or better (x86-64)<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760 / Radeon RX 560X<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Nexent"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_d3a475195bbe160c3099c8cadf75486a0f0d12da.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_d3a475195bbe160c3099c8cadf75486a0f0d12da.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_1fd717df0bf3fb0ab1d7fec64c36c44b794ec735.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_1fd717df0bf3fb0ab1d7fec64c36c44b794ec735.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_58258458f0b538e0bbe0d2556f4b601ac75e54e6.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_58258458f0b538e0bbe0d2556f4b601ac75e54e6.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_ab6c98cc28dcb43ef9f62e9028a9ecd60cb43224.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_ab6c98cc28dcb43ef9f62e9028a9ecd60cb43224.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_d011878574502c531d9eae2fa2e59d930b53070d.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_d011878574502c531d9eae2fa2e59d930b53070d.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_e7d8e2a9bcbca1f98b3ad0d1d0c9a0ca10ca2aeb.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_e7d8e2a9bcbca1f98b3ad0d1d0c9a0ca10ca2aeb.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_3a869a001e9cf38269fb50b176d71a9b20d0328e.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_3a869a001e9cf38269fb50b176d71a9b20d0328e.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_8c8bce535718b05913153784d39c59d052365699.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_8c8bce535718b05913153784d39c59d052365699.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_58247ef05708968982fba2f6d2de38e2ad40b324.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_58247ef05708968982fba2f6d2de38e2ad40b324.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_7db15b8643a7b427761dd4d7fb0dfb4343ada219.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_7db15b8643a7b427761dd4d7fb0dfb4343ada219.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_9e07f67958189d3639e99cec80fee79b9b8f601f.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_9e07f67958189d3639e99cec80fee79b9b8f601f.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_a47c991466596607fc1bbc205b45e294849f0627.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_a47c991466596607fc1bbc205b45e294849f0627.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_06dee03f21422dcdd97a0aaa81b5e44d43fa5465.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_06dee03f21422dcdd97a0aaa81b5e44d43fa5465.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_b52559674345777032bf9f754e01682580933f61.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_b52559674345777032bf9f754e01682580933f61.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_66f026141f1b0c74d9d3ea60865c99d46e0e4225.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_66f026141f1b0c74d9d3ea60865c99d46e0e4225.600x338.jpg?t=1684319844"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_98ab8d57b58688121f6097087b3d8d0a13dcb95d.1920x1080.jpg?t=1684319844",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370330/ss_98ab8d57b58688121f6097087b3d8d0a13dcb95d.600x338.jpg?t=1684319844"
+        }
+    ],
+    "short_description": "Linia Stripes is a relaxing game of identifying stripes of progressive length on countless, colorful boards. As you play, you\u2019ll be able to collect many wonderful patterns to create unique wallpapers, ready for use and customization!",
+    "steam_appid": 2370330,
+    "support_info": {
+        "email": "info@nexent.io",
+        "url": "https://nexent.io/liniastripes/"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America",
+    "type": "game",
+    "website": "https://nexent.io/liniastripes/"
+}

@@ -1,0 +1,152 @@
+{
+    "about_the_game": "[Pixel Fantasy Skill Icon Set] is a meticulously crafted collection of skill icons in pixel art style. This set is ideal for pixel art fantasy-themed games, offering a range of versatile options.<br><br>\u25a0 Detailed skill icons with pixel art aesthetics, showcasing a high level of artistry.<br><br>\u25a0 Includes 5 different elements: Lightning, Fire, Water, Poison and Earth.<br><br>\u25a0 Perfectly fitted for creating skills and abilities for your fantasy themed characters.<br><br>With this set, you can enhance your game with visually appealing skill icons that align with the pixel art style. Whether you're creating a magical world or an epic adventure, this set provides a valuable resource for adding further artistic depth in the battle!<br>-----------------------------------------------------------------------<br><br><br>\u3010Skill Icons (1 sheet)\u3011<br><br>\u30fb100 skill Icons :  32x32",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/page_bg_generated_v6b.jpg?t=1697677509",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/page_bg_generated.jpg?t=1697677509",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/capsule_231x87.jpg?t=1697677509",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/capsule_184x69.jpg?t=1697677509",
+    "categories": [
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "[Pixel Fantasy Skill Icon Set] is a meticulously crafted collection of skill icons in pixel art style. This set is ideal for pixel art fantasy-themed games, offering a range of versatile options.<br><br>\u25a0 Detailed skill icons with pixel art aesthetics, showcasing a high level of artistry.<br><br>\u25a0 Includes 5 different elements: Lightning, Fire, Water, Poison and Earth.<br><br>\u25a0 Perfectly fitted for creating skills and abilities for your fantasy themed characters.<br><br>With this set, you can enhance your game with visually appealing skill icons that align with the pixel art style. Whether you're creating a magical world or an epic adventure, this set provides a valuable resource for adding further artistic depth in the battle!<br>-----------------------------------------------------------------------<br><br><br>\u3010Skill Icons (1 sheet)\u3011<br><br>\u30fb100 skill Icons :  32x32",
+    "developers": [
+        "Slenhort",
+        "Gotcha Gotcha Games"
+    ],
+    "fullgame": {
+        "appid": "1096900",
+        "name": "RPG Maker MZ"
+    },
+    "genres": [
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Design & Illustration",
+            "id": "53"
+        },
+        {
+            "description": "Education",
+            "id": "54"
+        },
+        {
+            "description": "Web Publishing",
+            "id": "59"
+        },
+        {
+            "description": "Game Development",
+            "id": "60"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/header.jpg?t=1697677509",
+    "is_free": false,
+    "legal_notice": "\u00a9Gotcha Gotcha Games Inc. \u00a92023 Slenhort",
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>"
+    },
+    "name": "RPG Maker MZ - Pixel Fantasy Skill Icon Set",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "RPG Maker MZ - Pixel Fantasy Skill Icon Set - $8.99",
+                    "packageid": 944787,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 899
+                }
+            ],
+            "title": "Buy RPG Maker MZ - Pixel Fantasy Skill Icon Set"
+        }
+    ],
+    "packages": [
+        944787
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MZ</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 899,
+        "final_formatted": "$8.99",
+        "initial": 899,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Gotcha Gotcha Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 18, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_9c55194de34b4b73ad295b5783fe6d535e7d76e1.1920x1080.jpg?t=1697677509",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_9c55194de34b4b73ad295b5783fe6d535e7d76e1.600x338.jpg?t=1697677509"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_eb01707b1c5abcabcfb481225dc16c12b9f9af38.1920x1080.jpg?t=1697677509",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_eb01707b1c5abcabcfb481225dc16c12b9f9af38.600x338.jpg?t=1697677509"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_eedb95b67107bfe561fd1d4ea958bb974ee07742.1920x1080.jpg?t=1697677509",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_eedb95b67107bfe561fd1d4ea958bb974ee07742.600x338.jpg?t=1697677509"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_2a2b5b060bf32c7cc5b56109f84d44ef4d1be357.1920x1080.jpg?t=1697677509",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_2a2b5b060bf32c7cc5b56109f84d44ef4d1be357.600x338.jpg?t=1697677509"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_cc2980e7afed625d30f066ae0b37f80e0edf568f.1920x1080.jpg?t=1697677509",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634590/ss_cc2980e7afed625d30f066ae0b37f80e0edf568f.600x338.jpg?t=1697677509"
+        }
+    ],
+    "short_description": "[Pixel Fantasy Skill Icon Set] is a meticulously crafted collection of skill icons in pixel art style. This set is ideal for pixel art fantasy-themed games, offering a range of versatile options.",
+    "steam_appid": 2634590,
+    "support_info": {
+        "email": "",
+        "url": "https://rpgmakerofficial.com/en/contactform/"
+    },
+    "supported_languages": "English, Japanese, Simplified Chinese",
+    "type": "dlc",
+    "website": "https://rpgmakerofficial.com/product/makerofficialdlc/"
+}

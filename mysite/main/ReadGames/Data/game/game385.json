@@ -1,0 +1,141 @@
+{
+    "about_the_game": "Join our heroes in this fast action, pet saving, and traffic dodging game! <br />\r\n    Save your cute furry and scaly friends from the busy crossroad!<br />\r\n    Jump, double jump, and dash to safety!<br />\r\n    Pick up the coins on top of the running cars!<br />\r\n    Unlock 39 amazing characters!<br />\r\n    Multiple levels and variations!<br />\r\n    3 awesome music tracks!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/page_bg_generated_v6b.jpg?t=1704215595",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/page.bg.jpg?t=1704215595",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/capsule_231x87.jpg?t=1704215595",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/capsule_184x69.jpg?t=1704215595",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Join our heroes in this fast action, pet saving, and traffic dodging game! <br />\r\n    Save your cute furry and scaly friends from the busy crossroad!<br />\r\n    Jump, double jump, and dash to safety!<br />\r\n    Pick up the coins on top of the running cars!<br />\r\n    Unlock 39 amazing characters!<br />\r\n    Multiple levels and variations!<br />\r\n    3 awesome music tracks!",
+    "developers": [
+        "EVOZON SYSTEMS SRL"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/header.jpg?t=1704215595",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988721,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988721/movie480.mp4?t=1703009164",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988721/movie_max.mp4?t=1703009164"
+            },
+            "name": "Main Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988721/movie.293x165.jpg?t=1703009164",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988721/movie480_vp9.webm?t=1703009164",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988721/movie_max_vp9.webm?t=1703009164"
+            }
+        }
+    ],
+    "name": "Super Pet Hero",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Super Pet Hero - $2.99",
+                    "packageid": 979168,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Super Pet Hero"
+        }
+    ],
+    "packages": [
+        979168
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel CPU Core i3-2500K 2.0GHz+ / AMD CPU Phenom II 570<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8800 GTX, GT640, GT730, Radeon HD 5850, HD Graphics 530<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Stereo</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel CPU Core i3-2500K 2.0GHz+ / AMD CPU Phenom II 570<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8800 GTX, GT640, GT730, Radeon HD 5850, HD Graphics 530<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Stereo</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "EVOZON SYSTEMS SRL"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_5bd562229783980ba357c3a72f77c404ab2bbe53.1920x1080.jpg?t=1704215595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_5bd562229783980ba357c3a72f77c404ab2bbe53.600x338.jpg?t=1704215595"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_34297633f6b7bc958d81a450a78dc0e89829c307.1920x1080.jpg?t=1704215595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_34297633f6b7bc958d81a450a78dc0e89829c307.600x338.jpg?t=1704215595"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_37a67f7d10471ce0ecbac4aeedfbffaf60f30829.1920x1080.jpg?t=1704215595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_37a67f7d10471ce0ecbac4aeedfbffaf60f30829.600x338.jpg?t=1704215595"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_785322db44fbe9a814e83ad352e03a260ef811ea.1920x1080.jpg?t=1704215595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_785322db44fbe9a814e83ad352e03a260ef811ea.600x338.jpg?t=1704215595"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_b039dd2497052c921c883160e219494cd2b0dc2b.1920x1080.jpg?t=1704215595",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736570/ss_b039dd2497052c921c883160e219494cd2b0dc2b.600x338.jpg?t=1704215595"
+        }
+    ],
+    "short_description": "Fun rhythm game for animal loving folks!",
+    "steam_appid": 2736570,
+    "support_info": {
+        "email": "contact@amusedsloth.com",
+        "url": "https://www.amusedsloth.com/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.amusedsloth.com/games/super-pet-hero/"
+}

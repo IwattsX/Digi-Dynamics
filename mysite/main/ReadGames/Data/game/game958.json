@@ -1,0 +1,91 @@
+{
+    "about_the_game": "Welcome to Dubai Simulator, the ultimate city-building game where you get to design and develop your very own virtual metropolis in the heart of the Middle East.<h2 class=\"bb_tag\">Create and Design</h2> With Dubai Simulator, you have the power to create a stunning cityscape, with iconic landmarks and breathtaking skylines. Start by building residential areas, commercial zones, and industrial districts, then add cultural institutions, sports arenas, and other attractions to make your city stand out from the crowd. Use your imagination to make Dubai your very own.<h2 class=\"bb_tag\">Manage and Grow</h2> Managing your city is no easy task. Keep your citizens happy by providing essential services such as schools, hospitals, and public transportation. Maintain a healthy economy by attracting businesses and managing your city's finances. Expand your city by building new districts and attracting more residents and tourists.<h2 class=\"bb_tag\">Become a Leader</h2>In Dubai Simulator, you're not just a city planner, you're a leader. Take on challenges such as natural disasters, traffic congestion, and pollution, and make the tough decisions to keep your city on track. Work with other leaders in the region to build strong relationships and drive regional development.<h2 class=\"bb_tag\">Make Your Mark</h2>With stunning graphics, realistic simulation mechanics, and a vibrant virtual world to explore, Dubai Dream City is the ultimate city-building experience. So what are you waiting for? Create your dream city and make your mark on the world.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/page_bg_generated_v6b.jpg?t=1684760256",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/page.bg.jpg?t=1684760256",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/capsule_231x87.jpg?t=1684760256",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/capsule_184x69.jpg?t=1684760256",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to Dubai Simulator, the ultimate city-building game where you get to design and develop your very own virtual metropolis in the heart of the Middle East.<h2 class=\"bb_tag\">Create and Design</h2> With Dubai Simulator, you have the power to create a stunning cityscape, with iconic landmarks and breathtaking skylines. Start by building residential areas, commercial zones, and industrial districts, then add cultural institutions, sports arenas, and other attractions to make your city stand out from the crowd. Use your imagination to make Dubai your very own.<h2 class=\"bb_tag\">Manage and Grow</h2> Managing your city is no easy task. Keep your citizens happy by providing essential services such as schools, hospitals, and public transportation. Maintain a healthy economy by attracting businesses and managing your city's finances. Expand your city by building new districts and attracting more residents and tourists.<h2 class=\"bb_tag\">Become a Leader</h2>In Dubai Simulator, you're not just a city planner, you're a leader. Take on challenges such as natural disasters, traffic congestion, and pollution, and make the tough decisions to keep your city on track. Work with other leaders in the region to build strong relationships and drive regional development.<h2 class=\"bb_tag\">Make Your Mark</h2>With stunning graphics, realistic simulation mechanics, and a vibrant virtual world to explore, Dubai Dream City is the ultimate city-building experience. So what are you waiting for? Create your dream city and make your mark on the world.",
+    "developers": [
+        "Creativity AR",
+        "Mobilway S.A."
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/header.jpg?t=1684760256",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Dubai Simulator",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Inter Core i3-7100 or AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 / AMD Radeon RX 570 4GB<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7-4770K or AMD Ryzen 5 2600X<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 Ti 6GB / AMD Radeon RX 5600 XT 8GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "PlayWay S.A."
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_817c0bd180b79707384d781674cf591f3bc7e701.1920x1080.jpg?t=1684760256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_817c0bd180b79707384d781674cf591f3bc7e701.600x338.jpg?t=1684760256"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_4137b19ce8c747202b7e5841428d8d4b3146369f.1920x1080.jpg?t=1684760256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_4137b19ce8c747202b7e5841428d8d4b3146369f.600x338.jpg?t=1684760256"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_4fe2164b7ae10c4f05b1e714382900b89de5d034.1920x1080.jpg?t=1684760256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_4fe2164b7ae10c4f05b1e714382900b89de5d034.600x338.jpg?t=1684760256"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_90abccd3d5af28c8daf4ee60de159992a532eaa9.1920x1080.jpg?t=1684760256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_90abccd3d5af28c8daf4ee60de159992a532eaa9.600x338.jpg?t=1684760256"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_86b3cfb0105ccc3561773be7b791bc1bfcc3e8a7.1920x1080.jpg?t=1684760256",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402020/ss_86b3cfb0105ccc3561773be7b791bc1bfcc3e8a7.600x338.jpg?t=1684760256"
+        }
+    ],
+    "short_description": "In Dubai Simulator, you'll have the chance to design and build your dream city, complete with towering skyscrapers, bustling streets, luxurious resorts, and awe-inspiring landmarks.",
+    "steam_appid": 2402020,
+    "support_info": {
+        "email": "help@playway.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

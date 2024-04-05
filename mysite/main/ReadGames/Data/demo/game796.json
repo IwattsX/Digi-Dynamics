@@ -1,0 +1,129 @@
+{
+    "about_the_game": "<ul class=\"bb_ul\"><li>Unique gameplay abilities and interactions for each character<br></li><li>Explore a beautifully hand-crafted world and be rewarded with collectibles<br></li><li>Solve each area\u2019s secret!<br></li><li>Fight back the storms destroying the land<br></li><li>Restore the landscape back to its beautiful state!<br></li><li>Unravel the mystery of what\u2019s happening to the Isle<br></li><li>See your interactions with the world unfold in real-time<br></li><li>Couch Co-op (can be played solo too!)</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/page_bg_generated_v6b.jpg?t=1680351571",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/page_bg_generated.jpg?t=1680351571",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/capsule_231x87.jpg?t=1680351571",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/capsule_184x69.jpg?t=1680351571",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<ul class=\"bb_ul\"><li>Unique gameplay abilities and interactions for each character<br></li><li>Explore a beautifully hand-crafted world and be rewarded with collectibles<br></li><li>Solve each area\u2019s secret!<br></li><li>Fight back the storms destroying the land<br></li><li>Restore the landscape back to its beautiful state!<br></li><li>Unravel the mystery of what\u2019s happening to the Isle<br></li><li>See your interactions with the world unfold in real-time<br></li><li>Couch Co-op (can be played solo too!)</li></ul>",
+    "developers": [
+        "Parti Games Inc."
+    ],
+    "fullgame": {
+        "appid": "1659190",
+        "name": "BoF1LL: A Withering World"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/header.jpg?t=1680351571",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "BoF1LL: A Withering World Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Parti Games Inc."
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_3a082121656f52b2bcd3d4ef96276f797e48c222.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_3a082121656f52b2bcd3d4ef96276f797e48c222.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_2db8f0900b450b4b4a88fa7acae98d5043bfc452.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_2db8f0900b450b4b4a88fa7acae98d5043bfc452.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_063892ad0b237c5b1f9977d32ed6e5a455a2ca9a.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_063892ad0b237c5b1f9977d32ed6e5a455a2ca9a.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_9be06ec0a4710acfefa3c1eaf39880262b749ce8.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_9be06ec0a4710acfefa3c1eaf39880262b749ce8.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_90a93f7b8818e94fad30c761f803747d27faf17c.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_90a93f7b8818e94fad30c761f803747d27faf17c.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_cc9a5fe49213d8b2fef478a391d2148a6a65815a.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_cc9a5fe49213d8b2fef478a391d2148a6a65815a.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_0854e84bb4b2979885596658465890b67bc5feda.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_0854e84bb4b2979885596658465890b67bc5feda.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_900f26fc123ba15aa9351c25d050ed4a95ee6605.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_900f26fc123ba15aa9351c25d050ed4a95ee6605.600x338.jpg?t=1680351571"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_4b3ca123f295b2d8849e0ced159ab20bdb2b9c6b.1920x1080.jpg?t=1680351571",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2371950/ss_4b3ca123f295b2d8849e0ced159ab20bdb2b9c6b.600x338.jpg?t=1680351571"
+        }
+    ],
+    "short_description": "Solve puzzles, search for Bo's family, and gather Essence &amp; Fragments to rebuild the heart of the Isle! A dynamic world that reacts in real-time to your actions, as you play through BoF1LL, you\u2019ll see the Isle slowly being restored from a gloomy landscape to a vibrant isle.",
+    "steam_appid": 2371950,
+    "support_info": {
+        "email": "hello@partigames.com",
+        "url": "https://parti-games.itch.io/bof1ll-a-withering-world"
+    },
+    "type": "demo",
+    "website": "https://parti-games.itch.io/bof1ll-a-withering-world"
+}

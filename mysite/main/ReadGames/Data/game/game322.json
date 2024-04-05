@@ -1,0 +1,96 @@
+{
+    "about_the_game": "Somniata is a short, linear, first-person horror game with a light puzzle element. Set in rural Massachusetts, Detective Robert Moore is sent to investigate the disappearance of the Dyer family. Find keys, notes, and other items as you try and survive the waking nightmare that has been unleashed upon a family of four.<br><br><strong>Content Warning:</strong> <span class=\"bb_spoiler\">Violence, Suicide</span>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/page_bg_generated_v6b.jpg?t=1703234735",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/page_bg_generated.jpg?t=1703234735",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/capsule_231x87.jpg?t=1703234735",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/capsule_184x69.jpg?t=1703234735",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "Themes of violence and suicide."
+    },
+    "detailed_description": "Somniata is a short, linear, first-person horror game with a light puzzle element. Set in rural Massachusetts, Detective Robert Moore is sent to investigate the disappearance of the Dyer family. Find keys, notes, and other items as you try and survive the waking nightmare that has been unleashed upon a family of four.<br><br><strong>Content Warning:</strong> <span class=\"bb_spoiler\">Violence, Suicide</span>",
+    "developers": [
+        "Skeletal Softworks LLC"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/header.jpg?t=1703234735",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Somniata",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 3 2200U 2.5 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon Vega 3</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Skeletal Softworks LLC"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_49e1495ad1fd43700bc13c59af289bdc2359afef.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_49e1495ad1fd43700bc13c59af289bdc2359afef.600x338.jpg?t=1703234735"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_3c62c67991b3f0b87ba83d1ad31a001e48479f08.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_3c62c67991b3f0b87ba83d1ad31a001e48479f08.600x338.jpg?t=1703234735"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_3363dea550fdf1b8c49eb8fa33610586dcb27568.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_3363dea550fdf1b8c49eb8fa33610586dcb27568.600x338.jpg?t=1703234735"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_f905b68eeb433ebb432da2209d945a07c1864e10.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_f905b68eeb433ebb432da2209d945a07c1864e10.600x338.jpg?t=1703234735"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_c739a958ed573c85b5f68c6fb9c10ba813d604d9.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_c739a958ed573c85b5f68c6fb9c10ba813d604d9.600x338.jpg?t=1703234735"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_fcd9beaf4dcff4729641314b6011f813b665c6cc.1920x1080.jpg?t=1703234735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2740060/ss_fcd9beaf4dcff4729641314b6011f813b665c6cc.600x338.jpg?t=1703234735"
+        }
+    ],
+    "short_description": "Uncover the mystery\u2014turned nightmare\u2014of a missing family in rural Massachusetts. A lone detective must survive the horror unleashed upon a family of four.",
+    "steam_appid": 2740060,
+    "support_info": {
+        "email": "bonecommander@skeletalsoftworks.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,137 @@
+{
+    "about_the_game": "Hectic and unforgiving. Explore a star system with dozens of locations. Unlock and master a variety of abilities. Choose from one of six vehicles. Compete in races to unlock new challenges.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/page_bg_generated_v6b.jpg?t=1702740377",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/page.bg.jpg?t=1702740377",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/capsule_231x87.jpg?t=1702740377",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/capsule_184x69.jpg?t=1702740377",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "In-App Purchases",
+            "id": 35
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Hectic and unforgiving. Explore a star system with dozens of locations. Unlock and master a variety of abilities. Choose from one of six vehicles. Compete in races to unlock new challenges.",
+    "developers": [
+        "Chris Hodge"
+    ],
+    "genres": [
+        {
+            "description": "Racing",
+            "id": "9"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/header.jpg?t=1702740377",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux 64-bit<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae UHD Graphics 610<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux 64-bit<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae UHD Graphics 610<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ventura 13.0<br></li><li><strong>Processor:</strong> Apple M1 or Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD Graphics 617<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ventura 13.0<br></li><li><strong>Processor:</strong> Apple M1 or Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD Graphics 617<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988600,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988600/movie480.mp4?t=1702740368",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988600/movie_max.mp4?t=1702740368"
+            },
+            "name": "Teaser Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988600/movie.293x165.jpg?t=1702740368",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988600/movie480_vp9.webm?t=1702740368",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988600/movie_max_vp9.webm?t=1702740368"
+            }
+        }
+    ],
+    "name": "EigenGauge",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae UHD Graphics 610<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae UHD Graphics 610<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Chris Hodge"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_5c3d2cb29664909e63f9d4e3fb8a517d0cf0b1c3.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_5c3d2cb29664909e63f9d4e3fb8a517d0cf0b1c3.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_a162537bf1f172f8723eba30038b070c4dfe020f.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_a162537bf1f172f8723eba30038b070c4dfe020f.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_a99134abd25d1019b3c166c53e83210b6ed3d561.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_a99134abd25d1019b3c166c53e83210b6ed3d561.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_df609df7fb1099402ec51a60cef6a4fd7b5eab6c.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_df609df7fb1099402ec51a60cef6a4fd7b5eab6c.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_0831a0c72030e72bc9e468ff8a0bba7f4ee59068.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_0831a0c72030e72bc9e468ff8a0bba7f4ee59068.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_ac8079769aca65e4cd4460c49f90aad6cbce71c3.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_ac8079769aca65e4cd4460c49f90aad6cbce71c3.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_c6e983883b7b98e1297ad60a1b92828659251824.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_c6e983883b7b98e1297ad60a1b92828659251824.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_ec604acd7634dbfdc9db66d3a0b94d8fa5121e39.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_ec604acd7634dbfdc9db66d3a0b94d8fa5121e39.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_c56ff4cde8df1359ad060e2c7ae021f0c710a8cc.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_c56ff4cde8df1359ad060e2c7ae021f0c710a8cc.600x338.jpg?t=1702740377"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_d2cdd176a60f606636984e989e4c1d8f3486cec8.1920x1080.jpg?t=1702740377",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2739190/ss_d2cdd176a60f606636984e989e4c1d8f3486cec8.600x338.jpg?t=1702740377"
+        }
+    ],
+    "short_description": "EigenGauge is a high speed retro racing game.",
+    "steam_appid": 2739190,
+    "support_info": {
+        "email": "contact@blastodisk.com",
+        "url": "https://www.eigengauge.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.eigengauge.com"
+}

@@ -1,0 +1,148 @@
+{
+    "about_the_game": "You play as a cheeky city pigeon flying along a winding highway and collecting snacks along the way. On your long journey you will have to fly around various obstacles, which you will encounter more as you play. Collect as many tacos as possible, feed the pigeon.<br />\r\n<br />\r\nPigeon In Hurry is a fun runner about a constantly hungry bird. Feel the free flight at low altitude.<br />\r\n<br />\r\nPeculiarities:<br />\r\n  - One life<br />\r\n  - You are a gray dove (not a bird of peace)<br />\r\n  - Lots of tacos<br />\r\n  - Realistic Siberian buildings",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/page_bg_generated_v6b.jpg?t=1702368281",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/page_bg_generated.jpg?t=1702368281",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/capsule_231x87.jpg?t=1702368281",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/capsule_184x69.jpg?t=1702368281",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "You play as a cheeky city pigeon flying along a winding highway and collecting snacks along the way. On your long journey you will have to fly around various obstacles, which you will encounter more as you play. Collect as many tacos as possible, feed the pigeon.<br />\r\n<br />\r\nPigeon In Hurry is a fun runner about a constantly hungry bird. Feel the free flight at low altitude.<br />\r\n<br />\r\nPeculiarities:<br />\r\n  - One life<br />\r\n  - You are a gray dove (not a bird of peace)<br />\r\n  - Lots of tacos<br />\r\n  - Realistic Siberian buildings",
+    "developers": [
+        "mexdi"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/header.jpg?t=1702368281",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975974,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975974/movie480.mp4?t=1697722171",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975974/movie_max.mp4?t=1697722171"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975974/movie.293x165.jpg?t=1697722171",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975974/movie480_vp9.webm?t=1697722171",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975974/movie_max_vp9.webm?t=1697722171"
+            }
+        }
+    ],
+    "name": "Pigeon in Hurry",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Pigeon in Hurry - $49.99",
+                    "packageid": 950408,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 4999
+                }
+            ],
+            "title": "Buy Pigeon in Hurry"
+        }
+    ],
+    "packages": [
+        950408
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows\u00ae 7 or newer<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450 / AMD Radeon HD 5570 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 130 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible<br></li><li><strong>Additional Notes:</strong> Keyboard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 4999,
+        "final_formatted": "$49.99",
+        "initial": 4999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "mexdi"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 4, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_c60311772853aa7e3b59b3567edf725626d196ed.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_c60311772853aa7e3b59b3567edf725626d196ed.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_6eaf17c7a155ece81160e7964fa1adfafffc8e60.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_6eaf17c7a155ece81160e7964fa1adfafffc8e60.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_453e8f90bdca1c7b94275d7de7dc19eeb7cae67d.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_453e8f90bdca1c7b94275d7de7dc19eeb7cae67d.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_4e374715dcd6b1be4c2d2f7d362a9bc42024891d.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_4e374715dcd6b1be4c2d2f7d362a9bc42024891d.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_cc26c1b5d9590c357fb6f0325243070f30aab60c.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_cc26c1b5d9590c357fb6f0325243070f30aab60c.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_8d24e3555cff2d2b4d872c5158a90c7fc966590a.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_8d24e3555cff2d2b4d872c5158a90c7fc966590a.600x338.jpg?t=1702368281"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_dc51d99530bdfe191564a94dd695159005f58fd1.1920x1080.jpg?t=1702368281",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651700/ss_dc51d99530bdfe191564a94dd695159005f58fd1.600x338.jpg?t=1702368281"
+        }
+    ],
+    "short_description": "Pigeon In Hurry is a fun 3D runner about a infinitely hungry bird. Feel the free flight at low altitude. Fly around various obstacles, collect as many tacos as possible, feed the pigeon.",
+    "steam_appid": 2651700,
+    "support_info": {
+        "email": "soleonboardgames@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

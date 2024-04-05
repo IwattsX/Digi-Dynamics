@@ -1,0 +1,116 @@
+{
+    "about_the_game": "As the colonization spaceship TERRA was about to initiate analyses of a new planet, an unexpected impact occurred, violently forcing it to crash on this strange world. Help Raka, one of the exploration robots, reunite with their friends and uncover the enigmatic mysteries of this planet.<br />\r\n<br />\r\nProject TERRA is a 2D platformer game with a Pixel Art aesthetic. This colorful universe features a character system where each of them can perform unique jumps. Clever utilization of these characters is essential to solve various puzzles, challenging your problem-solving skills more than your reflexes.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/page_bg_generated_v6b.jpg?t=1704216265",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/page_bg_generated.jpg?t=1704216265",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/capsule_231x87.jpg?t=1704216265",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/capsule_184x69.jpg?t=1704216265",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "demos": [
+        {
+            "appid": 2654130,
+            "description": ""
+        }
+    ],
+    "detailed_description": "As the colonization spaceship TERRA was about to initiate analyses of a new planet, an unexpected impact occurred, violently forcing it to crash on this strange world. Help Raka, one of the exploration robots, reunite with their friends and uncover the enigmatic mysteries of this planet.<br />\r\n<br />\r\nProject TERRA is a 2D platformer game with a Pixel Art aesthetic. This colorful universe features a character system where each of them can perform unique jumps. Clever utilization of these characters is essential to solve various puzzles, challenging your problem-solving skills more than your reflexes.",
+    "developers": [
+        "Helios Project"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/header.jpg?t=1704216265",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256981937,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981937/movie480.mp4?t=1699873221",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981937/movie_max.mp4?t=1699873221"
+            },
+            "name": "Project TERRA - Main Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256981937/movie.293x165.jpg?t=1699873221",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981937/movie480_vp9.webm?t=1699873221",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981937/movie_max_vp9.webm?t=1699873221"
+            }
+        }
+    ],
+    "name": "Project TERRA",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DirectX 9/OpenGL 3.2 support<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectX-compatible sound card</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Helios Project"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_d0d0a2414fab3092a6fd0d09efcc542f87bf604c.1920x1080.jpg?t=1704216265",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_d0d0a2414fab3092a6fd0d09efcc542f87bf604c.600x338.jpg?t=1704216265"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_fd5ad8b33b66bf6bc2d18d7380a0c60abd77d8b2.1920x1080.jpg?t=1704216265",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_fd5ad8b33b66bf6bc2d18d7380a0c60abd77d8b2.600x338.jpg?t=1704216265"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_ab885bd522a9915e3410ccd7528f0f911a861c1f.1920x1080.jpg?t=1704216265",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_ab885bd522a9915e3410ccd7528f0f911a861c1f.600x338.jpg?t=1704216265"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_6002fa98ae6d4b0e9e918961d84c6cd40a3bdb5d.1920x1080.jpg?t=1704216265",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_6002fa98ae6d4b0e9e918961d84c6cd40a3bdb5d.600x338.jpg?t=1704216265"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_e03b057a35e1afb8b773ec7f3d6fed17e21bf45d.1920x1080.jpg?t=1704216265",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651860/ss_e03b057a35e1afb8b773ec7f3d6fed17e21bf45d.600x338.jpg?t=1704216265"
+        }
+    ],
+    "short_description": "In a strange and hostile world, Raka, an exploration robot, finds themselves alone and separated from their friends. Help them reunite with their companions and unravel the mysteries hidden within this new world.",
+    "steam_appid": 2651860,
+    "support_info": {
+        "email": "Bar.jeremy@outlook.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

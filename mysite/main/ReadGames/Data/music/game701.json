@@ -1,0 +1,150 @@
+{
+    "about_the_game": "Herbie Puppy's *bips* and *boops* to set the mood for intensive bunny-catching~",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/page_bg_generated_v6b.jpg?t=1690987875",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/page_bg_generated.jpg?t=1690987875",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/capsule_231x87.jpg?t=1690987875",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/capsule_184x69.jpg?t=1690987875",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Herbie Puppy's *bips* and *boops* to set the mood for intensive bunny-catching~",
+    "developers": [
+        "Bunstack"
+    ],
+    "fullgame": {
+        "appid": "1628610",
+        "name": "Paquerette Down the Bunburrows"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/header.jpg?t=1690987875",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Paquerette Down the Bunburrows - Soundtrack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Paquerette Down the Bunburrows - Soundtrack - $4.99",
+                    "packageid": 853411,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Paquerette Down the Bunburrows - Soundtrack"
+        }
+    ],
+    "packages": [
+        853411
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 60 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Abiding Bridge"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Aug 2, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_ad37c041261f4ec9b8f1c25d0ade62fc8a7a7712.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_ad37c041261f4ec9b8f1c25d0ade62fc8a7a7712.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_1c2b767fcbbe7397f35ef1ab9655125e7c084a53.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_1c2b767fcbbe7397f35ef1ab9655125e7c084a53.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_1dd12d9e6b6fd94f3a4a6419abe780e53f3f1c4a.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_1dd12d9e6b6fd94f3a4a6419abe780e53f3f1c4a.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_340b80d4f6c8c8c23b84f774498365e8856ae69c.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_340b80d4f6c8c8c23b84f774498365e8856ae69c.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_b98225444ba8f4d6cd820c685226d70e3dcfe05b.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_b98225444ba8f4d6cd820c685226d70e3dcfe05b.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_a850e150366190ca447cbe69a724763fb81793c5.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_a850e150366190ca447cbe69a724763fb81793c5.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_08704d18ba33c41c23604406d55445c05ed62ff2.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_08704d18ba33c41c23604406d55445c05ed62ff2.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_808f9008d626531500c2baa72382496252ee851f.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_808f9008d626531500c2baa72382496252ee851f.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_7bc5a55bd2418cccc66532b7afa80d9f0b3b9b75.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_7bc5a55bd2418cccc66532b7afa80d9f0b3b9b75.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_402d833aa4a3992255cd2fa38f51fef3de5b730c.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_402d833aa4a3992255cd2fa38f51fef3de5b730c.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_dd20b0b75ca1432f140995e921db969f2cb348db.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_dd20b0b75ca1432f140995e921db969f2cb348db.600x338.jpg?t=1690987875"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_40ad8230f6d30db5e001d94222d2d1da5fcd2c70.1920x1080.jpg?t=1690987875",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373510/ss_40ad8230f6d30db5e001d94222d2d1da5fcd2c70.600x338.jpg?t=1690987875"
+        }
+    ],
+    "short_description": "Herbie Puppy's *bips* and *boops* to set the mood for intensive bunny-catching~",
+    "steam_appid": 2373510,
+    "support_info": {
+        "email": "bunstackgames@gmail.com",
+        "url": ""
+    },
+    "type": "music",
+    "website": null
+}

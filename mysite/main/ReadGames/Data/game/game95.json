@@ -1,0 +1,188 @@
+{
+    "about_the_game": "Presenting Die Cook, the first ever dice-based restaurant management game!<br>Open your dream business, upgrade and equip your kitchen, level up employees to customize their dice.<br>Express yourself with a customizable character and indoor decor.<br>Aim for a 5-star rating in this unique relaxing simulator!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Gameplay.gif?t=1704398062\" /><br><br>\ud83c\udf73 Fulfill customer orders with your employees' dice each hour of the day.<br>\ud83d\udccb Hire, fire, and specialize your employees as they gain experience. Be sure to keep their compensation fair for their increasing skills.<br>\ud83d\udd2a Purchase upgrades with your profit to gain extra abilities, special dice, draw in more customers, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Shop.gif?t=1704398062\" /><br><br>\ud83c\udf70 Customize your Menu to be as focused and easy or as chaotic and difficult as you wish.<br>\ud83c\udfa8 Beautiful isometric pixel art by Oray Studios.<br>\ud83e\ude91 Customize your restaurant's look by recoloring almost everything in it.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Recolor.gif?t=1704398062\" />",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "5-Star Rating",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/c51787d13d2524339dcf26a76bfd562f9433eeeb.jpg"
+            },
+            {
+                "name": "Debt Free",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/920535fd8c7776cbf45fa41b444c2980a389844b.jpg"
+            },
+            {
+                "name": "Got Dice?",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/bd0944c71ecd73c1438046a42416c5a477d735cb.jpg"
+            },
+            {
+                "name": "Food Fight",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/1c178c11fea40db37fab74d341d3f33d28e9333e.jpg"
+            },
+            {
+                "name": "Cook-em-all",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/1f789ce27e8ab78d6380eadf3da806e40fce52af.jpg"
+            },
+            {
+                "name": "Full Up",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/7757133e8e161dfe8d03b82db7c0db510612334d.jpg"
+            },
+            {
+                "name": "*Ding* *Ding*",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/819682fd37b4d8cd9dadd1b1b1136b29ced0411c.jpg"
+            },
+            {
+                "name": "Squeaky Clean",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/3196b7a00212f8bcb98c011331786de38ca29296.jpg"
+            },
+            {
+                "name": "Skill-it",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/5ff6488ad92a6b0806059d1ad8a658eeb9142795.jpg"
+            },
+            {
+                "name": "It's not radiated",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2649460/0dade98f0492e4a62f2bfc194b6339b58d2d8d59.jpg"
+            }
+        ],
+        "total": 39
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/page_bg_generated_v6b.jpg?t=1704398062",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/page.bg.jpg?t=1704398062",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/capsule_231x87.jpg?t=1704398062",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/capsule_184x69.jpg?t=1704398062",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Presenting Die Cook, the first ever dice-based restaurant management game!<br>Open your dream business, upgrade and equip your kitchen, level up employees to customize their dice.<br>Express yourself with a customizable character and indoor decor.<br>Aim for a 5-star rating in this unique relaxing simulator!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Gameplay.gif?t=1704398062\" /><br><br>\ud83c\udf73 Fulfill customer orders with your employees' dice each hour of the day.<br>\ud83d\udccb Hire, fire, and specialize your employees as they gain experience. Be sure to keep their compensation fair for their increasing skills.<br>\ud83d\udd2a Purchase upgrades with your profit to gain extra abilities, special dice, draw in more customers, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Shop.gif?t=1704398062\" /><br><br>\ud83c\udf70 Customize your Menu to be as focused and easy or as chaotic and difficult as you wish.<br>\ud83c\udfa8 Beautiful isometric pixel art by Oray Studios.<br>\ud83e\ude91 Customize your restaurant's look by recoloring almost everything in it.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2649460/extras/DieCook_Final_Recolor.gif?t=1704398062\" />",
+    "developers": [
+        "157 Game Studios"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/header.jpg?t=1704398062",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256984726,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984726/movie480.mp4?t=1700943879",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984726/movie_max.mp4?t=1700943879"
+            },
+            "name": "First Look",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256984726/movie.293x165.jpg?t=1700943879",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256984726/movie480_vp9.webm?t=1700943879",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256984726/movie_max_vp9.webm?t=1700943879"
+            }
+        }
+    ],
+    "name": "Die Cook",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Die Cook - $9.99",
+                    "packageid": 949694,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 999
+                }
+            ],
+            "title": "Buy Die Cook"
+        }
+    ],
+    "packages": [
+        949694
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 999,
+        "final_formatted": "$9.99",
+        "initial": 999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "157 Game Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 4, 2024"
+    },
+    "required_age": 0,
+    "reviews": "\u201cBest game I've ever played!\u201d<br />\r\n10/10 \u2013 Mom<br />\r\n",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_d60c4dc71472366a1567702bb6389f7610ac6e37.1920x1080.jpg?t=1704398062",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_d60c4dc71472366a1567702bb6389f7610ac6e37.600x338.jpg?t=1704398062"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_0bc2589d2b8ed0d179a74facbc290e88d128638c.1920x1080.jpg?t=1704398062",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_0bc2589d2b8ed0d179a74facbc290e88d128638c.600x338.jpg?t=1704398062"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_7735bc687aeecaed0cb1325e4c317e282c50df8e.1920x1080.jpg?t=1704398062",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_7735bc687aeecaed0cb1325e4c317e282c50df8e.600x338.jpg?t=1704398062"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_6bfc2620671aedffa76dc149c451f29f945243f6.1920x1080.jpg?t=1704398062",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_6bfc2620671aedffa76dc149c451f29f945243f6.600x338.jpg?t=1704398062"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_039f14950d2fc1275b6d29ac88f13f7361060262.1920x1080.jpg?t=1704398062",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2649460/ss_039f14950d2fc1275b6d29ac88f13f7361060262.600x338.jpg?t=1704398062"
+        }
+    ],
+    "short_description": "Presenting Die Cook, the first ever dice-based restaurant management game! Open your dream business, upgrade and equip your kitchen, level up employees to customize their dice. Express yourself with a customizable character and indoor decor. Aim for a 5-star rating in this unique relaxing simulator!",
+    "steam_appid": 2649460,
+    "support_info": {
+        "email": "157GameStudios@gmail.com",
+        "url": "https://www.facebook.com/profile.php?id=61552793528293"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://www.facebook.com/profile.php?id=61552793528293"
+}

@@ -1,0 +1,169 @@
+{
+    "about_the_game": "It's a side-view scroll shooter.<br />\r\nIt's a game in which you control your own aircraft and shoot down enemy aircraft.<br />\r\nThere are 21 different types of weapons to attack, and if you accumulate 3 gauges on the UI, each selected weapon will be available for a certain amount of time.<br />\r\nNot only in the screen, but also by the wide-area radar, 500 m in front of and behind your aircraft is displayed at all times, so you can always keep track of obstacles such as rocks that need to be avoided, movements of enemy aircraft, and incoming bullets, and it is not impossible to shoot enemy aircraft at medium and long distances depending on your skill.<br />\r\nAlso, after you clear it, your grades will be displayed, and it is not a game that requires attack but stealth navigation depending on the rank.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/page_bg_generated_v6b.jpg?t=1698329869",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/page.bg.jpg?t=1698329869",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/capsule_231x87.jpg?t=1698329869",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/capsule_184x69.jpg?t=1698329869",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "It's a side-view scroll shooter.<br />\r\nIt's a game in which you control your own aircraft and shoot down enemy aircraft.<br />\r\nThere are 21 different types of weapons to attack, and if you accumulate 3 gauges on the UI, each selected weapon will be available for a certain amount of time.<br />\r\nNot only in the screen, but also by the wide-area radar, 500 m in front of and behind your aircraft is displayed at all times, so you can always keep track of obstacles such as rocks that need to be avoided, movements of enemy aircraft, and incoming bullets, and it is not impossible to shoot enemy aircraft at medium and long distances depending on your skill.<br />\r\nAlso, after you clear it, your grades will be displayed, and it is not a game that requires attack but stealth navigation depending on the rank.",
+    "developers": [
+        "\u500b\u4eba"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/header.jpg?t=1698329869",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "ALSTROEMERIA",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> <br></li><li><strong>Processor:</strong> <br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> <br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "\u7121\u3057"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_002739c03330d71e25a2ff819728cba6a86f9988.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_002739c03330d71e25a2ff819728cba6a86f9988.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_349d41cb5bd6cf02a4ab3020994d3b872f635931.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_349d41cb5bd6cf02a4ab3020994d3b872f635931.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_5de50ae21f6c9c43a91d53b1a86f37515e24f2ad.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_5de50ae21f6c9c43a91d53b1a86f37515e24f2ad.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_edf897d2635b99f387ea8211bcf6f2272829dcaf.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_edf897d2635b99f387ea8211bcf6f2272829dcaf.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_88cae64b7a2c452350ea2fbd42ed274517d02b7b.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_88cae64b7a2c452350ea2fbd42ed274517d02b7b.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_57a17316eeacbd2ca89ab8d2e541f74fd72de0ce.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_57a17316eeacbd2ca89ab8d2e541f74fd72de0ce.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_2db1e56b242aa97bc2405672e9fdb01e624bfbe3.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_2db1e56b242aa97bc2405672e9fdb01e624bfbe3.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_9b6abb611250ff45e5100d13527d50b42f23193d.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_9b6abb611250ff45e5100d13527d50b42f23193d.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_94a165a3c5d473b2939829fd0c42d37f3a792bd7.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_94a165a3c5d473b2939829fd0c42d37f3a792bd7.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_a0a14f68477e6a31705285540b12860661d3bed5.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_a0a14f68477e6a31705285540b12860661d3bed5.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_36820f98ea1deab6653bffe2960d2f2a3843bbe5.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_36820f98ea1deab6653bffe2960d2f2a3843bbe5.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_f6f576342b1f62d8b036a98d9833d1eb81e36a28.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_f6f576342b1f62d8b036a98d9833d1eb81e36a28.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_094eb1b2ea129f9886e28ebe334fae69221cb98b.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_094eb1b2ea129f9886e28ebe334fae69221cb98b.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_96c95adf63cd3ecaa18b519208746258da7bd0c0.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_96c95adf63cd3ecaa18b519208746258da7bd0c0.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 14,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_3ea8ccc55dd26626d8163b24a768f8af8fcba498.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_3ea8ccc55dd26626d8163b24a768f8af8fcba498.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 15,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_943ae4ca3a2f965aac52aad8ef56e0fe70e8fc13.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_943ae4ca3a2f965aac52aad8ef56e0fe70e8fc13.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 16,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_bcab8b0010b14a051c331677e6427e19db370bc0.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_bcab8b0010b14a051c331677e6427e19db370bc0.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 17,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_6829816240e3dc12ef2436b6a7dbe97c7be0d031.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_6829816240e3dc12ef2436b6a7dbe97c7be0d031.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 18,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_74bbc5fe7f6015612344245a4996dec94303a4b3.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_74bbc5fe7f6015612344245a4996dec94303a4b3.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 19,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_1fc771a25ea80f6523b5f42ed8a5768943e70b33.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_1fc771a25ea80f6523b5f42ed8a5768943e70b33.600x338.jpg?t=1698329869"
+        },
+        {
+            "id": 20,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_92857b4e23e2dde5b1571de4e05f1f1444505c5a.1920x1080.jpg?t=1698329869",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2651590/ss_92857b4e23e2dde5b1571de4e05f1f1444505c5a.600x338.jpg?t=1698329869"
+        }
+    ],
+    "short_description": "It's a side-view scroll shooter. It's a game in which you control your own aircraft and shoot down enemy aircraft. There are 21 different types of weapons to attack, and if you accumulate 3 gauges on the UI, each selected weapon will be available for a certain amount of time.",
+    "steam_appid": 2651590,
+    "support_info": {
+        "email": "resdkp34@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Japanese",
+    "type": "game",
+    "website": null
+}

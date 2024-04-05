@@ -1,0 +1,72 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/page_bg_generated_v6b.jpg?t=1698892575",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/page.bg.jpg?t=1698892575",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/capsule_231x87.jpg?t=1698892575",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/capsule_184x69.jpg?t=1698892575",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/header.jpg?t=1698892575",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "FireChess Playtest",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 1, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.600x338.jpg?t=1698892575"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.600x338.jpg?t=1698892575"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.600x338.jpg?t=1698892575"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.600x338.jpg?t=1698892575"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_501f84acbf47c044baf9f028ea8e73897bd51f0f.600x338.jpg?t=1698892575"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.1920x1080.jpg?t=1698892575",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650160/ss_569a8cc2ec5873a45dff23fef1b605134776b75f.600x338.jpg?t=1698892575"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2650160,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

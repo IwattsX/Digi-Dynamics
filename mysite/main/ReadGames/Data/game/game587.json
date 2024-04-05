@@ -1,0 +1,116 @@
+{
+    "about_the_game": "In this card-driven game, you can place Character Cards upon Scenario Cards for automatic exploration, or combine Character Cards with Item Cards to create new items.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_1_japanese.jpg?t=1697604770\" /><br><br>Of course, there's more than one character in the game. You will encounter dozens of recruitable characters throughout your journey, forming a team to explore the world together.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_2_japanese.jpg?t=1697604770\" /><br><br>Dangers always lie in exploration, as you'll encounter various enemies. It's up to you to strategically build your characters to wisely conquer the various adversaries along the way.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_3_japanese.jpg?t=1697604770\" /><br><br>Defeating enemies or exploring the world grants you rewards, which you can combine to create various items and dishes to strengthen your characters for future adventures.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_4_japanese.jpg?t=1697604770\" /><br><br>You can also choose to sell items in the market, using the currency obtained to recruit new characters or purchase mysterious gadgets.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_5_japanese.jpg?t=1697604770\" /><br><br>As your adventure deepens, you'll meet various people and events, and your choices will lead you to find your way back home.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_6_japanese.jpg?t=1697604770\" />",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/page_bg_generated_v6b.jpg?t=1697604770",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/page_bg_generated.jpg?t=1697604770",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/capsule_231x87.jpg?t=1697604770",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/capsule_184x69.jpg?t=1697604770",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "In this card-driven game, you can place Character Cards upon Scenario Cards for automatic exploration, or combine Character Cards with Item Cards to create new items.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_1_japanese.jpg?t=1697604770\" /><br><br>Of course, there's more than one character in the game. You will encounter dozens of recruitable characters throughout your journey, forming a team to explore the world together.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_2_japanese.jpg?t=1697604770\" /><br><br>Dangers always lie in exploration, as you'll encounter various enemies. It's up to you to strategically build your characters to wisely conquer the various adversaries along the way.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_3_japanese.jpg?t=1697604770\" /><br><br>Defeating enemies or exploring the world grants you rewards, which you can combine to create various items and dishes to strengthen your characters for future adventures.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_4_japanese.jpg?t=1697604770\" /><br><br>You can also choose to sell items in the market, using the currency obtained to recruit new characters or purchase mysterious gadgets.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_5_japanese.jpg?t=1697604770\" /><br><br>As your adventure deepens, you'll meet various people and events, and your choices will lead you to find your way back home.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2336580/extras/600_240_6_japanese.jpg?t=1697604770\" />",
+    "developers": [
+        "Renka"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/header.jpg?t=1697604770",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975993,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975993/movie480.mp4?t=1697603165",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975993/movie_max.mp4?t=1697603165"
+            },
+            "name": "pv1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975993/movie.293x165.jpg?t=1697603165",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975993/movie480_vp9.webm?t=1697603165",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975993/movie_max_vp9.webm?t=1697603165"
+            }
+        }
+    ],
+    "name": "Mareld",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7, 8/8.1, 10,11<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512mb Video Memory<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Renka"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q1 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_0b8c9265d7091693d5609a4ac6092db39e60b0f0.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_0b8c9265d7091693d5609a4ac6092db39e60b0f0.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_29d9298aafd8366c4472b8b9caf8ecea178a52dc.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_29d9298aafd8366c4472b8b9caf8ecea178a52dc.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_7202e5e35cf2d4f639c2a53f5cac09742fd28749.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_7202e5e35cf2d4f639c2a53f5cac09742fd28749.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_940f83bd74e26bd7fd97a9dcd231152b13070d9f.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_940f83bd74e26bd7fd97a9dcd231152b13070d9f.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_4b7ca9d37d90fd84584659914742febcf5873ca8.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_4b7ca9d37d90fd84584659914742febcf5873ca8.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_6e0050938676cfa19c8e23a94416d3764fa774ed.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_6e0050938676cfa19c8e23a94416d3764fa774ed.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_a7c1d1489a2d31e345da56303c59cfeddc965c65.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_a7c1d1489a2d31e345da56303c59cfeddc965c65.600x338.jpg?t=1697604770"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_4af042d611a324e8431d64e90190ab5b1e03eb58.1920x1080.jpg?t=1697604770",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336580/ss_4af042d611a324e8431d64e90190ab5b1e03eb58.600x338.jpg?t=1697604770"
+        }
+    ],
+    "short_description": "Mareld is a card-driven Roguelike role-playing game where you play as a traveler lost in the Lost Forest. You will recruit companions, collect resources, craft items, explore the world, defeat enemies, find your way back home, or uncover the secrets of this extraordinary world.",
+    "steam_appid": 2336580,
+    "support_info": {
+        "email": "renka_tych@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "Simplified Chinese, English, Japanese, Traditional Chinese, Korean",
+    "type": "game",
+    "website": null
+}

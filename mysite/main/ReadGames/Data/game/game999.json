@@ -1,0 +1,141 @@
+{
+    "about_the_game": "Dash and Slash your way up the grand waterfall in order to get Birb back home. Don Salmon is a 2D action game that makes you feel like a powerful acrobatic ninja-bird.<br />\r\n<br />\r\nBirb lived atop the great waterfall until a Big salmon and his school of strange fish invaders knocked him down to <br />\r\nthe very bottom.<br />\r\nThe fall made him lose his ability to fly, and now this little bird must make his way back up against the flow of nature by gaining new abilities and using acrobatic skills to avoid dangers and climb his way back home.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/page_bg_generated_v6b.jpg?t=1682030730",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/page.bg.jpg?t=1682030730",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/capsule_231x87.jpg?t=1682030730",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/capsule_184x69.jpg?t=1682030730",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Dash and Slash your way up the grand waterfall in order to get Birb back home. Don Salmon is a 2D action game that makes you feel like a powerful acrobatic ninja-bird.<br />\r\n<br />\r\nBirb lived atop the great waterfall until a Big salmon and his school of strange fish invaders knocked him down to <br />\r\nthe very bottom.<br />\r\nThe fall made him lose his ability to fly, and now this little bird must make his way back up against the flow of nature by gaining new abilities and using acrobatic skills to avoid dangers and climb his way back home.",
+    "developers": [
+        "Amano"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/header.jpg?t=1682030730",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux/X11<br></li><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Lion 10.7.5, 32/64-bit<br></li><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256941962,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941962/movie480.mp4?t=1682030077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941962/movie_max.mp4?t=1682030077"
+            },
+            "name": "First Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941962/movie.293x165.jpg?t=1682030077",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941962/movie480_vp9.webm?t=1682030077",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941962/movie_max_vp9.webm?t=1682030077"
+            }
+        }
+    ],
+    "name": "Don Salmon",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Amano"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_188221101535cb2c688038eeb77a7081ea486b8e.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_188221101535cb2c688038eeb77a7081ea486b8e.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_aa40ef5a95deec828cbb12045a11f273b27ed8f7.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_aa40ef5a95deec828cbb12045a11f273b27ed8f7.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_24342e402194b9c85588a9f0f2dad07a228c3c57.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_24342e402194b9c85588a9f0f2dad07a228c3c57.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_af0b940c372ab17f7b547c17b7eaf494bc43ef83.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_af0b940c372ab17f7b547c17b7eaf494bc43ef83.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_c84dc59655f079afe5ca2925bd2228095071276f.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_c84dc59655f079afe5ca2925bd2228095071276f.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_f10b12d25df88c7f436d923040836f9fb5567054.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_f10b12d25df88c7f436d923040836f9fb5567054.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_cf3a6243bc6c67bfa5e3aab0704c7ba9eb6f672b.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_cf3a6243bc6c67bfa5e3aab0704c7ba9eb6f672b.600x338.jpg?t=1682030730"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_668a5a198e8c09d5543850090a16b0244140335c.1920x1080.jpg?t=1682030730",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401240/ss_668a5a198e8c09d5543850090a16b0244140335c.600x338.jpg?t=1682030730"
+        }
+    ],
+    "short_description": "Discover the secrets of the Great Waterfall as you fight your way back home in this A 2D pixel-art combat platforming adventure.",
+    "steam_appid": 2401240,
+    "support_info": {
+        "email": "hola@amano.games",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://amano.games/"
+}

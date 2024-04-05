@@ -1,0 +1,153 @@
+{
+    "about_the_game": "Combine tactics and strategy in this roguelike deckbuilder, where you must build your deck, train and evolve your team. Step into a mystical world where the Genkai battle in a quest for power and harmony, and prepare for the imminent arrival of the Primal Genkai.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Start.gif?t=1698024818\" /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li><i><strong>Build your Genkai team:</strong></i> You will start your adventure with one Genkai, and as you progress, you'll have the opportunity to add more to your team that complement your deck. You can have up to three Genkai simultaneously, each with unique attributes and abilities, allowing you the freedom to experiment with various strategies.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Skills.gif?t=1698024818\" /><br></li><li><i><strong>Evolution System:</strong></i> Some Genkai can evolve, allowing you to enhance their attributes and gain access to new abilities. Additionally, you can teach them new skills along the way.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Evolution.gif?t=1698024818\" /><br></li><li><i><strong>Deck Building:</strong></i> Unlock new cards and improve your deck as you advance in your Genkai adventure, allowing you to enhance the powers and abilities of your Genkai in combat.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Cards.gif?t=1698024818\" /><br></li><li><i><strong>Tactical Combat:</strong></i> Utilize a zone-based tactical combat system, increasing the possibilities for creating more devastating strategies.<br></li><li><i><strong>Multiplayer Runs:</strong></i> Test your skills in real-time multiplayer runs where you'll face another player in each encounter. Showcase your tactical and strategic abilities, and discover a completely different experience compared to the single-player mode.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Multiplayer.gif?t=1698024818\" /><br></li><li><i><strong>Explore a Mystical World:</strong></i> Immerse yourself in a fantasy world full of mystery and discover the story behind the Primal Genkai.<br></li><li><i><strong>Infinite Replayability:</strong></i> Conquer daily challenges and seek additional attempts to expand your possibilities and face new challenges, providing endless replayability.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/page_bg_generated_v6b.jpg?t=1698024818",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/page_bg_generated.jpg?t=1698024818",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/capsule_231x87.jpg?t=1698024818",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/capsule_184x69.jpg?t=1698024818",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Combine tactics and strategy in this roguelike deckbuilder, where you must build your deck, train and evolve your team. Step into a mystical world where the Genkai battle in a quest for power and harmony, and prepare for the imminent arrival of the Primal Genkai.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Start.gif?t=1698024818\" /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li><i><strong>Build your Genkai team:</strong></i> You will start your adventure with one Genkai, and as you progress, you'll have the opportunity to add more to your team that complement your deck. You can have up to three Genkai simultaneously, each with unique attributes and abilities, allowing you the freedom to experiment with various strategies.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Skills.gif?t=1698024818\" /><br></li><li><i><strong>Evolution System:</strong></i> Some Genkai can evolve, allowing you to enhance their attributes and gain access to new abilities. Additionally, you can teach them new skills along the way.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Evolution.gif?t=1698024818\" /><br></li><li><i><strong>Deck Building:</strong></i> Unlock new cards and improve your deck as you advance in your Genkai adventure, allowing you to enhance the powers and abilities of your Genkai in combat.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Cards.gif?t=1698024818\" /><br></li><li><i><strong>Tactical Combat:</strong></i> Utilize a zone-based tactical combat system, increasing the possibilities for creating more devastating strategies.<br></li><li><i><strong>Multiplayer Runs:</strong></i> Test your skills in real-time multiplayer runs where you'll face another player in each encounter. Showcase your tactical and strategic abilities, and discover a completely different experience compared to the single-player mode.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2650340/extras/Multiplayer.gif?t=1698024818\" /><br></li><li><i><strong>Explore a Mystical World:</strong></i> Immerse yourself in a fantasy world full of mystery and discover the story behind the Primal Genkai.<br></li><li><i><strong>Infinite Replayability:</strong></i> Conquer daily challenges and seek additional attempts to expand your possibilities and face new challenges, providing endless replayability.</li></ul>",
+    "developers": [
+        "Mega Game Studios"
+    ],
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/header.jpg?t=1698024818",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256977234,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977234/movie480.mp4?t=1698007511",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977234/movie_max.mp4?t=1698007511"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256977234/movie.293x165.jpg?t=1698007511",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256977234/movie480_vp9.webm?t=1698007511",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256977234/movie_max_vp9.webm?t=1698007511"
+            }
+        }
+    ],
+    "name": "Genkai: Primal Awakening",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5-2300 or AMD FX-6350<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i3-9100 or AMD Ryzen 3 1200<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Mega Game Studios"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_e285627b1054c0aaf7b5ca0feb0cd8278e542976.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_e285627b1054c0aaf7b5ca0feb0cd8278e542976.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_3ed802e2f4216ed74c6bfb60451cab5ed36239ee.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_3ed802e2f4216ed74c6bfb60451cab5ed36239ee.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_843b4ff02d4ec923016d6b68e505ea014ccf6d88.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_843b4ff02d4ec923016d6b68e505ea014ccf6d88.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_acebc5fe431231bdef4fe672fdd2e065f528030b.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_acebc5fe431231bdef4fe672fdd2e065f528030b.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_0dd0554e0b168ef5fd49f36ff69a2b14f7dd2761.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_0dd0554e0b168ef5fd49f36ff69a2b14f7dd2761.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_5d381517473202ba8e20106e57e54cde73b670d5.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_5d381517473202ba8e20106e57e54cde73b670d5.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_48015cbdf295ca4b8db4794d0105409ea5fc89ac.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_48015cbdf295ca4b8db4794d0105409ea5fc89ac.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_c461dc2fce809243e9a7f3cbf1c03b8f9b6af595.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_c461dc2fce809243e9a7f3cbf1c03b8f9b6af595.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_46510bb62c76942370cae2affb288fd087c079e2.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_46510bb62c76942370cae2affb288fd087c079e2.600x338.jpg?t=1698024818"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_623e5cb845d45c8b261ee41a502258dc8194cb9c.1920x1080.jpg?t=1698024818",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650340/ss_623e5cb845d45c8b261ee41a502258dc8194cb9c.600x338.jpg?t=1698024818"
+        }
+    ],
+    "short_description": "Combine tactics and strategy in this roguelike deckbuilder, where you must build your deck, train and evolve your team. Step into a mystical world where the Genkai battle in a quest for power and harmony, and prepare for the imminent arrival of the Primal Genkai.",
+    "steam_appid": 2650340,
+    "support_info": {
+        "email": "support@megagamestudios.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

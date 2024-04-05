@@ -1,0 +1,154 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_about.png?t=1680032675\" /><br>Spring is coming to your bakery! Celebrate all the new-ness of spring with a fun mix of Easter items too! Hang up pastel banners, and pretty floral cutouts around your bakery. Bake bunny cakes, and bumble bee cookies all the while keeping on the lookout for decorated eggs hidden around your bakery!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_decorate.png?t=1680032675\" /><br>Get your bakery fresh and ready for Spring with a fun mix of decorations! String up pretty bunting, hang butterfly banners, egg-cellent chalkboard designs, paper cutouts of flowers, bows, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_recipes.png?t=1680032675\" /><br>We\u2019ve added over 40 new Spring and Easter-themed recipes. Picture lots of flowers, bunnies, bumble bees, Easter eggs, and spring chicks all in the form of cakes, cookies, donuts, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_tickets.png?t=1680032675\" /><br>As you bake and sell festive recipes you'll earn 'Spring Tickets' that you can collect and spend in the Spring Shop.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_egghunt.png?t=1680032675\" /><br>Find decorated eggs hiding in random places inside and outside of your bakery. Collect them to earn extra Spring Tickets!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_shop.png?t=1680032675\" /><br>Spend your tickets in the spring shop to buy lovely decorations, potted flowers, wallpapers, and more!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_candy.png?t=1680032675\" /><br>Put out your favorite refillable candy basket for your customers to spread the springtime feeling!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_wallpaper.png?t=1680032675\" /><br>We've added 9 seasonal wallpapers including different flower wallpapers, Easter egg wallpapers, and fresh spring grid wallpapers.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/page_bg_generated_v6b.jpg?t=1680032675",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/page_bg_generated.jpg?t=1680032675",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/capsule_231x87.jpg?t=1680032675",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/capsule_184x69.jpg?t=1680032675",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_about.png?t=1680032675\" /><br>Spring is coming to your bakery! Celebrate all the new-ness of spring with a fun mix of Easter items too! Hang up pastel banners, and pretty floral cutouts around your bakery. Bake bunny cakes, and bumble bee cookies all the while keeping on the lookout for decorated eggs hidden around your bakery!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_decorate.png?t=1680032675\" /><br>Get your bakery fresh and ready for Spring with a fun mix of decorations! String up pretty bunting, hang butterfly banners, egg-cellent chalkboard designs, paper cutouts of flowers, bows, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_recipes.png?t=1680032675\" /><br>We\u2019ve added over 40 new Spring and Easter-themed recipes. Picture lots of flowers, bunnies, bumble bees, Easter eggs, and spring chicks all in the form of cakes, cookies, donuts, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_tickets.png?t=1680032675\" /><br>As you bake and sell festive recipes you'll earn 'Spring Tickets' that you can collect and spend in the Spring Shop.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_egghunt.png?t=1680032675\" /><br>Find decorated eggs hiding in random places inside and outside of your bakery. Collect them to earn extra Spring Tickets!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_shop.png?t=1680032675\" /><br>Spend your tickets in the spring shop to buy lovely decorations, potted flowers, wallpapers, and more!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_candy.png?t=1680032675\" /><br>Put out your favorite refillable candy basket for your customers to spread the springtime feeling!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2372850/extras/spring_wallpaper.png?t=1680032675\" /><br>We've added 9 seasonal wallpapers including different flower wallpapers, Easter egg wallpapers, and fresh spring grid wallpapers.",
+    "developers": [
+        "Living Code Labs"
+    ],
+    "fullgame": {
+        "appid": "2196120",
+        "name": "Baker Business 3"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/header.jpg?t=1680032675",
+    "is_free": false,
+    "legal_notice": "\u00a9 2011 Living Code Labs - All rights reserved.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04, Ubuntu 18.04, and CentOS 7<br></li><li><strong>Processor:</strong> x64 architecture with SSE2 instruction set support.<br></li><li><strong>Memory:</strong> 700 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+, Vulkan capable.<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13+<br></li><li><strong>Processor:</strong> Apple Silicon, x64 architecture with SSE2.<br></li><li><strong>Memory:</strong> 700 MB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Baker Business 3 - Spring Pack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Baker Business 3 - Spring Pack - $4.99",
+                    "packageid": 853077,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Baker Business 3 - Spring Pack"
+        }
+    ],
+    "packages": [
+        853077
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x86, x64 architecture with SSE2 instruction set support.<br></li><li><strong>Memory:</strong> 700 MB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable.<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Living Code Labs"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 28, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_af5c09ab03dac3f49593945560429d3e1776a7da.1920x1080.jpg?t=1680032675",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_af5c09ab03dac3f49593945560429d3e1776a7da.600x338.jpg?t=1680032675"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_c662b0a80e5423daef3a1c5f4950eb9da2ca15aa.1920x1080.jpg?t=1680032675",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_c662b0a80e5423daef3a1c5f4950eb9da2ca15aa.600x338.jpg?t=1680032675"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_d26a802328fd00eff9b86c0e14142411f9847300.1920x1080.jpg?t=1680032675",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_d26a802328fd00eff9b86c0e14142411f9847300.600x338.jpg?t=1680032675"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_b4472354e742ee59de1a96aac08beb52ea7b638b.1920x1080.jpg?t=1680032675",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_b4472354e742ee59de1a96aac08beb52ea7b638b.600x338.jpg?t=1680032675"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_72c01666840c64c36de3cae4e5c4539b7ddef6be.1920x1080.jpg?t=1680032675",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372850/ss_72c01666840c64c36de3cae4e5c4539b7ddef6be.600x338.jpg?t=1680032675"
+        }
+    ],
+    "short_description": "Welcome spring into your bakery! Bake fresh spring themed recipes, hunt for hidden Easter eggs to earn tickets, put out baskets full of candy for your customers, and decorate your bakery with flowers, butterflies, and more!",
+    "steam_appid": 2372850,
+    "support_info": {
+        "email": "support@livingcodelabs.com",
+        "url": "https://livingcodelabs.com/support"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://livingcodelabs.com/games/baker-business-3/"
+}

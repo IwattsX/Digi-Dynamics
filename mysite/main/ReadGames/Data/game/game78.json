@@ -1,0 +1,106 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">TEST YOUR SKILLS WITH A LIGHT GUN</h2>This game is only properly experienced when using an Infrared Light Gun, but you can play with a mouse. <br><br><ul class=\"bb_ul\"><li>Left mouse shoots<br></li><li>Right mouse aims<br></li><li>Center button toggles crosshair (this will not work well without a light gun</li></ul><h2 class=\"bb_tag\">TEST YOUR REFLEXES PARTNER!</h2>Using your trusty 6 shooter shoot the targets as fast as you can in 30 seconds to rack up points. Each consecutive hit gives you bonus points. You can reload as many times as you like but keep an eye on that ammo, 6 shots doesn't last!<h2 class=\"bb_tag\">PUSH YOUR SKILLS</h2>Scoring high wins high! As you rack up points your game will level up, showing you more targets faster. You'll need the eye of an eagle and the reflexes of a Texas rattlesnake to shoot and reload fast enough to keep up.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/page_bg_generated_v6b.jpg?t=1699546556",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/page.bg.jpg?t=1699546556",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/capsule_231x87.jpg?t=1699546556",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/capsule_184x69.jpg?t=1699546556",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">TEST YOUR SKILLS WITH A LIGHT GUN</h2>This game is only properly experienced when using an Infrared Light Gun, but you can play with a mouse. <br><br><ul class=\"bb_ul\"><li>Left mouse shoots<br></li><li>Right mouse aims<br></li><li>Center button toggles crosshair (this will not work well without a light gun</li></ul><h2 class=\"bb_tag\">TEST YOUR REFLEXES PARTNER!</h2>Using your trusty 6 shooter shoot the targets as fast as you can in 30 seconds to rack up points. Each consecutive hit gives you bonus points. You can reload as many times as you like but keep an eye on that ammo, 6 shots doesn't last!<h2 class=\"bb_tag\">PUSH YOUR SKILLS</h2>Scoring high wins high! As you rack up points your game will level up, showing you more targets faster. You'll need the eye of an eagle and the reflexes of a Texas rattlesnake to shoot and reload fast enough to keep up.",
+    "developers": [
+        "Chris Patch",
+        "Eun Sung Kim"
+    ],
+    "genres": [
+        {
+            "description": "Sports",
+            "id": "18"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/header.jpg?t=1699546556",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975721,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975721/movie480.mp4?t=1698335847",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975721/movie_max.mp4?t=1698335847"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975721/movie.293x165.jpg?t=1698335847",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975721/movie480_vp9.webm?t=1698335847",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975721/movie_max_vp9.webm?t=1698335847"
+            }
+        }
+    ],
+    "name": "Blamcon Shooting Gallery",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> x86, x64 architecture with SSE2 instruction set support.<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Props3D.pro"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_c493a49900cff020c11237c04bd71614be640bf8.1920x1080.jpg?t=1699546556",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_c493a49900cff020c11237c04bd71614be640bf8.600x338.jpg?t=1699546556"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_3e4c556eb332fed8a34e7d4f3f25bcb8d33b4698.1920x1080.jpg?t=1699546556",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_3e4c556eb332fed8a34e7d4f3f25bcb8d33b4698.600x338.jpg?t=1699546556"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_82d3c7be45c49f4505c4b700603be24669c83429.1920x1080.jpg?t=1699546556",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_82d3c7be45c49f4505c4b700603be24669c83429.600x338.jpg?t=1699546556"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_c2a38a99b13d4904887ded0aeae0760f1a8aeae6.1920x1080.jpg?t=1699546556",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_c2a38a99b13d4904887ded0aeae0760f1a8aeae6.600x338.jpg?t=1699546556"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_183e8bd23d48c35dc91341403b1906ad1af178f6.1920x1080.jpg?t=1699546556",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650200/ss_183e8bd23d48c35dc91341403b1906ad1af178f6.600x338.jpg?t=1699546556"
+        }
+    ],
+    "short_description": "This game is only properly experienced when using an Infrared Light Gun. Each consecutive hit gives you bonus points. You can reload as many times as you like but keep an eye on that ammo, 6 shots doesn't last!",
+    "steam_appid": 2650200,
+    "support_info": {
+        "email": "",
+        "url": "blamcon.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://blamcon.com/"
+}

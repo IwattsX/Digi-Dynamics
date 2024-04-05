@@ -1,0 +1,295 @@
+{
+    "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/1_A_WAR_FOR_SURVIVAL.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/1_-_GIF_Outpost_Tanker.gif?t=1706863299\" /><br>The population of the harsh desert planet Kwalasha needs our help. Their peaceful lives, working in the mining industry, have been disturbed by a threat that they cannot face alone: the Arachnids. Under Colonel Hawthorne\u2019s command, the Mobile Infantry will take back control of the planet and smash everything that has more than two legs. Enlist in this exciting military campaign, meet inspiring characters, visit amazing locations and do your part in the heroic war against the Bug!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/2_Outsmart_the_horde.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/2_-_GIF_Canyon_Horde.gif?t=1706863299\" /><br>The Arachnids may have virtually limitless numbers, but they lack the thorough tactical training that the Mobile Infantry enjoys. Position your units in advantageous choke points or on higher elevations. Be wary, however, that battle mechanics such as True Line of Sight and True Line of Fire may limit your field of fire and allow the treacherous Bugs to lay in ambush.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/3_unleash_all_firepower.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/3_-_GIF_Marauder_Ruins.gif?t=1706863299\" /><br>Optimize your army by choosing from a wide range of specialized unit types, each with its own strengths, weaknesses and set of unlockable elite abilities. Rifle Troopers can use their shotgun ability to hold back large numbers of Arachnids, M11 Marauders bipeds can unleash a withering mortar barrage and the Fleet Liaison can call down dropships with reinforcements or direct an airstrike to wipe out whole swaths of enemies.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/4_SmashTheInfestation.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/4_-_GIF_Hive_Strike.gif?t=1706863299\" /><br>The Bug infestation is rooted in elaborate underground hives. These present a unique challenge that demands a delicate balance between aggression and defense. Beware of the numerous tunnel openings, from which hordes of Arachnids can emerge. <br>To eradicate the Bug problem for good, their nests must be eradicated!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Create & Destroy",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/ed19b7016d0ea982892c401fb813da4c360459aa.jpg"
+            },
+            {
+                "name": "Everyone does their part",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/367fe41d82a733ca4e2dd7f6c549b12eca954153.jpg"
+            },
+            {
+                "name": "Service Guarantees Citizenship",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/4caec13f048729db57977972feb103f42549fbae.jpg"
+            },
+            {
+                "name": "MEDIC!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/5f646eb13b41d7684197d197913996bdf7dbe64a.jpg"
+            },
+            {
+                "name": "The only good bug is a dead bug \u2605\u2606\u2606",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/ea002f9150dda2987859fa525e3759604740f36a.jpg"
+            },
+            {
+                "name": "The only good bug is a dead bug \u2605\u2605\u2606",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/12003dc1d8410adc475e3662265cd2fadfd1d10d.jpg"
+            },
+            {
+                "name": "The only good bug is a dead bug \u2605\u2605\u2605",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/22f57569feb32c1381d663b1fdd94a062b64618a.jpg"
+            },
+            {
+                "name": "Anti-Tanker \u2605\u2606\u2606",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/068265c2bd405ba34320f733c79ddb454a5b9c20.jpg"
+            },
+            {
+                "name": "Anti-Tanker \u2605\u2605\u2606",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/330afe8269d31fd2bc6208d711ceaac22687619f.jpg"
+            },
+            {
+                "name": "Anti-Tanker \u2605\u2605\u2605",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202130/d31d0a43c48dcd5e2c2f9fb9c1dc06e75c994b2e.jpg"
+            }
+        ],
+        "total": 65
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/page_bg_generated_v6b.jpg?t=1706863299",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/page.bg.jpg?t=1706863299",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/capsule_231x87.jpg?t=1706863299",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/capsule_184x69.jpg?t=1706863299",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>Join the Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FZqKTQPRBqj\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/Starship_Troopers_Discord_Special_announcement.jpg?t=1706863299\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/1_A_WAR_FOR_SURVIVAL.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/1_-_GIF_Outpost_Tanker.gif?t=1706863299\" /><br>The population of the harsh desert planet Kwalasha needs our help. Their peaceful lives, working in the mining industry, have been disturbed by a threat that they cannot face alone: the Arachnids. Under Colonel Hawthorne\u2019s command, the Mobile Infantry will take back control of the planet and smash everything that has more than two legs. Enlist in this exciting military campaign, meet inspiring characters, visit amazing locations and do your part in the heroic war against the Bug!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/2_Outsmart_the_horde.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/2_-_GIF_Canyon_Horde.gif?t=1706863299\" /><br>The Arachnids may have virtually limitless numbers, but they lack the thorough tactical training that the Mobile Infantry enjoys. Position your units in advantageous choke points or on higher elevations. Be wary, however, that battle mechanics such as True Line of Sight and True Line of Fire may limit your field of fire and allow the treacherous Bugs to lay in ambush.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/3_unleash_all_firepower.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/3_-_GIF_Marauder_Ruins.gif?t=1706863299\" /><br>Optimize your army by choosing from a wide range of specialized unit types, each with its own strengths, weaknesses and set of unlockable elite abilities. Rifle Troopers can use their shotgun ability to hold back large numbers of Arachnids, M11 Marauders bipeds can unleash a withering mortar barrage and the Fleet Liaison can call down dropships with reinforcements or direct an airstrike to wipe out whole swaths of enemies.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/4_SmashTheInfestation.png?t=1706863299\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1202130/extras/4_-_GIF_Hive_Strike.gif?t=1706863299\" /><br>The Bug infestation is rooted in elaborate underground hives. These present a unique challenge that demands a delicate balance between aggression and defense. Beware of the numerous tunnel openings, from which hordes of Arachnids can emerge. <br>To eradicate the Bug problem for good, their nests must be eradicated!",
+    "developers": [
+        "The Artistocrats"
+    ],
+    "dlc": [
+        2139990
+    ],
+    "genres": [
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/header.jpg?t=1706863299",
+    "is_free": false,
+    "legal_notice": "Starship Troopers \u2122 & \u00a92024 TriStar Pictures, Inc. All Rights Reserved. Game software excluding TriStar Pictures, Inc. elements: \u00a92024 Slitherine Ltd. All Rights Reserved. Slitherine Ltd. and their logos are all trademarks of Slitherine Ltd. All other marks and trademarks are the property of their respective owners. Developed by The Artistocrats and Slitherine Ltd.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256892258,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892258/movie480.mp4?t=1655398801",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892258/movie_max.mp4?t=1655398801"
+            },
+            "name": "Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256892258/movie.293x165.jpg?t=1655398801",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892258/movie480_vp9.webm?t=1655398801",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892258/movie_max_vp9.webm?t=1655398801"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256892091,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892091/movie480.mp4?t=1655299248",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892091/movie_max.mp4?t=1655299248"
+            },
+            "name": "Starship Troopers - Gameplay Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256892091/movie.293x165.jpg?t=1655299248",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892091/movie480_vp9.webm?t=1655299248",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892091/movie_max_vp9.webm?t=1655299248"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256892011,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892011/movie480.mp4?t=1655283078",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892011/movie_max.mp4?t=1655283078"
+            },
+            "name": "Starship Troopers - Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256892011/movie.293x165.jpg?t=1655283078",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256892011/movie480_vp9.webm?t=1655283078",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256892011/movie_max_vp9.webm?t=1655283078"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256887383,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887383/movie480.mp4?t=1653034365",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887383/movie_max.mp4?t=1653034365"
+            },
+            "name": "Live Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256887383/movie.293x165.jpg?t=1653034365",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887383/movie480_vp9.webm?t=1653034365",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887383/movie_max_vp9.webm?t=1653034365"
+            }
+        },
+        {
+            "highlight": true,
+            "id": 256865943,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865943/movie480.mp4?t=1640009980",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865943/movie_max.mp4?t=1640009980"
+            },
+            "name": "Kejero Video",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256865943/movie.293x165.jpg?t=1640009980",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865943/movie480_vp9.webm?t=1640009980",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865943/movie_max_vp9.webm?t=1640009980"
+            }
+        }
+    ],
+    "name": "Starship Troopers: Terran Command",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Starship Troopers: Terran Command - $29.99",
+                    "packageid": 414973,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 2999
+                }
+            ],
+            "title": "Buy Starship Troopers: Terran Command"
+        }
+    ],
+    "packages": [
+        414973
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> 64-bit Windows 8/10 (the game runs on Windows 7 but no support will be provided)<br></li><li><strong>Processor:</strong> Intel Core i5 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1050/ Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 11<br></li><li><strong>Processor:</strong> Intel Core i7 or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 1070 or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 2999,
+        "final_formatted": "$29.99",
+        "initial": 2999,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Slitherine Ltd."
+    ],
+    "ratings": {
+        "dejus": {
+            "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+            "rating": "14",
+            "required_age": "14",
+            "use_age_gate": "true"
+        }
+    },
+    "recommendations": {
+        "total": 7286
+    },
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jun 16, 2022"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_81ad76750afe24438db40f1789835453733e0052.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_81ad76750afe24438db40f1789835453733e0052.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_aaf7d64c7a13d3440e84a7cad953d68b453c5920.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_aaf7d64c7a13d3440e84a7cad953d68b453c5920.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_8ad552b5ee6bf311bcbf2fa38fa386931dcbb388.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_8ad552b5ee6bf311bcbf2fa38fa386931dcbb388.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_56d267f475700aa790a498333d11fd7e72049b09.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_56d267f475700aa790a498333d11fd7e72049b09.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_e5a6d093cbda8d81125e971cde3f3eb65c27a0f2.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_e5a6d093cbda8d81125e971cde3f3eb65c27a0f2.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_8dbb39c9d41349856fd8d825edbb3e39c0405917.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_8dbb39c9d41349856fd8d825edbb3e39c0405917.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_b78cfbe917f7e9a6246f9a099efa0a92001bb4b5.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_b78cfbe917f7e9a6246f9a099efa0a92001bb4b5.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_590c60fd5c10b294cfe2362a1ab930c8a86a2791.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_590c60fd5c10b294cfe2362a1ab930c8a86a2791.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_1784c800cfa09cf0546a8ace2aa6b51a48a01a7c.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_1784c800cfa09cf0546a8ace2aa6b51a48a01a7c.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_849727097e46ded7e6c436da9ef0ad1803fe92ee.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_849727097e46ded7e6c436da9ef0ad1803fe92ee.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_f5086b4440120f91838d442c2331ba36075cdd3f.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_f5086b4440120f91838d442c2331ba36075cdd3f.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_ef186d2b71ebb8e3ea42679de226915c9532c99f.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_ef186d2b71ebb8e3ea42679de226915c9532c99f.600x338.jpg?t=1706863299"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_296a9d0b23bacc06959d03b41a5c7cc556bf2939.1920x1080.jpg?t=1706863299",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/ss_296a9d0b23bacc06959d03b41a5c7cc556bf2939.600x338.jpg?t=1706863299"
+        }
+    ],
+    "short_description": "Lead the Mobile Infantry in this RTS game set in the Starship Troopers film universe. Balance your army composition with a diverse set of unit types, overcome line-of-sight and line-of-fire challenges through tactical positioning, and use special abilities to smash the Arachnid hordes!",
+    "steam_appid": 1202130,
+    "support_info": {
+        "email": "support@slitherine.co.uk",
+        "url": "www.slitherine.com"
+    },
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

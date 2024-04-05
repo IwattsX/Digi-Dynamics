@@ -1,0 +1,131 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Story</h2>In a fantasy world, young goddess Vivian saves a drowning snake named Kyuma, who later reveals himself as the ninth son of the Dragon Lord. Feeling sorry for the little snake, Vivian aids Kyuma in regaining his powers and human form. How does that decision determine Vivian's fate?<br><br>Influenced by Chinese mythology and inspired by the Princess and the Frog story, Vivian and Kyuma is a short visual novel about how the paths of two young gods from different fantasy worlds cross and how the consequences change their lives.<h2 class=\"bb_tag\">Gameplay</h2>In this visual novel, you get to spend time with a little cute snake and make decisions for Vivian. The little choices you make will lead the story to different endings.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>A fantasy story with Xianxia style<br></li><li>A cute little snake with fun animations<br></li><li>Two  endings and both are wholesome</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/page_bg_generated_v6b.jpg?t=1703124627",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/page_bg_generated.jpg?t=1703124627",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/capsule_231x87.jpg?t=1703124627",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/capsule_184x69.jpg?t=1703124627",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h2 class=\"bb_tag\">Story</h2>In a fantasy world, young goddess Vivian saves a drowning snake named Kyuma, who later reveals himself as the ninth son of the Dragon Lord. Feeling sorry for the little snake, Vivian aids Kyuma in regaining his powers and human form. How does that decision determine Vivian's fate?<br><br>Influenced by Chinese mythology and inspired by the Princess and the Frog story, Vivian and Kyuma is a short visual novel about how the paths of two young gods from different fantasy worlds cross and how the consequences change their lives.<h2 class=\"bb_tag\">Gameplay</h2>In this visual novel, you get to spend time with a little cute snake and make decisions for Vivian. The little choices you make will lead the story to different endings.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>A fantasy story with Xianxia style<br></li><li>A cute little snake with fun animations<br></li><li>Two  endings and both are wholesome</li></ul>",
+    "developers": [
+        "Skylight Studio"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/header.jpg?t=1703124627",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu / SteamOS<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6-10.14<br></li><li><strong>Processor:</strong> Intel 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Game is non-notarized. May not work with 10.15 Catalina</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256990245,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990245/movie480.mp4?t=1703124619",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990245/movie_max.mp4?t=1703124619"
+            },
+            "name": "Vivian and Kyuma Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990245/movie.293x165.jpg?t=1703124619",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990245/movie480_vp9.webm?t=1703124619",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990245/movie_max_vp9.webm?t=1703124619"
+            }
+        }
+    ],
+    "name": "Vivian and Kyuma",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Skylight Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_4d5acaf68040d62df23e129bd37392766d8c4a24.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_4d5acaf68040d62df23e129bd37392766d8c4a24.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_5d2a93fe2a40156e5a6a2e4e8eb4b5cc937cdd83.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_5d2a93fe2a40156e5a6a2e4e8eb4b5cc937cdd83.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_1d1bd754b59c95c3013035c124bb1b296c356ffd.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_1d1bd754b59c95c3013035c124bb1b296c356ffd.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_2a14827d9c433c591ea97b69e68aea0a5aa529d7.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_2a14827d9c433c591ea97b69e68aea0a5aa529d7.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_f54b89efd6503ed965cfea2326200f0cf7a7644a.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_f54b89efd6503ed965cfea2326200f0cf7a7644a.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_b063893067560783986725ba389a53cc7cb5352b.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_b063893067560783986725ba389a53cc7cb5352b.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_793d0bc793209d2e80059a22e2b5f23cee1c5f32.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_793d0bc793209d2e80059a22e2b5f23cee1c5f32.600x338.jpg?t=1703124627"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_f59efd2e76c2200bc0399ebb716a59812dc0edf3.1920x1080.jpg?t=1703124627",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635910/ss_f59efd2e76c2200bc0399ebb716a59812dc0edf3.600x338.jpg?t=1703124627"
+        }
+    ],
+    "short_description": "A short visual novel featuring elements inspired by the Princess and the Frog with a cultivation twist. Spend time with a cute little snake and have some fun together as you make decisions to determine the fate of a young goddess.",
+    "steam_appid": 2635910,
+    "support_info": {
+        "email": "oreohuang2005@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

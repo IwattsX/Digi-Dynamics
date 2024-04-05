@@ -1,0 +1,171 @@
+{
+    "about_the_game": "Get ready for the 2023/24 season with Ski Jump Challenge, now available on Steam! A thrilling adventure awaits you in the world of ski jumping, infused with new challenges and incredible excitement.<br />\r\n<br />\r\nSki Jump Challenge, a game inspired by the iconic DSJ, takes you into the realistic world of ski jumping. It's simple to use, yet realistic enough for you to feel full control over your jumper.<br />\r\n<br />\r\nCreate a profile of your jumper and develop his skills. Gain experience, improve your takeoff and landing technique. Measure yourself on more than 100 hills in 12 countries in career mode, discover new facilities and countries. Spend the money you earn on unique suits, skis and helmets.<br />\r\n<br />\r\nPrepare for each competition by training and testing yourself in different weather conditions. Fight with your friends together on one computer.<br />\r\n<br />\r\nAdvance in the ranking system, earn crystal ranks and discover elite outfits in Ski Jump Challenge 2024.<br />\r\n<br />\r\nWith meticulous graphics, an extensive physics system and realistic sounds, Ski Jump Challenge offers an experience like a real ski jumping broadcast. It's the perfect game for winter sports fans, providing hours of entertainment for winter evenings. Discover the new DSJ on your PC!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/page_bg_generated_v6b.jpg?t=1705306923",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/page.bg.jpg?t=1705306923",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/capsule_231x87.jpg?t=1705306923",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/capsule_184x69.jpg?t=1705306923",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Get ready for the 2023/24 season with Ski Jump Challenge, now available on Steam! A thrilling adventure awaits you in the world of ski jumping, infused with new challenges and incredible excitement.<br />\r\n<br />\r\nSki Jump Challenge, a game inspired by the iconic DSJ, takes you into the realistic world of ski jumping. It's simple to use, yet realistic enough for you to feel full control over your jumper.<br />\r\n<br />\r\nCreate a profile of your jumper and develop his skills. Gain experience, improve your takeoff and landing technique. Measure yourself on more than 100 hills in 12 countries in career mode, discover new facilities and countries. Spend the money you earn on unique suits, skis and helmets.<br />\r\n<br />\r\nPrepare for each competition by training and testing yourself in different weather conditions. Fight with your friends together on one computer.<br />\r\n<br />\r\nAdvance in the ranking system, earn crystal ranks and discover elite outfits in Ski Jump Challenge 2024.<br />\r\n<br />\r\nWith meticulous graphics, an extensive physics system and realistic sounds, Ski Jump Challenge offers an experience like a real ski jumping broadcast. It's the perfect game for winter sports fans, providing hours of entertainment for winter evenings. Discover the new DSJ on your PC!",
+    "developers": [
+        "Simplicity Games"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        },
+        {
+            "description": "Sports",
+            "id": "18"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/header.jpg?t=1705306923",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256988138,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988138/movie480.mp4?t=1702627489",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988138/movie_max.mp4?t=1702627489"
+            },
+            "name": "PromoVideoEN",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988138/movie.293x165.jpg?t=1702627489",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988138/movie480_vp9.webm?t=1702627489",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988138/movie_max_vp9.webm?t=1702627489"
+            }
+        }
+    ],
+    "name": "Ski Jump Challenge 2024",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Ski Jump Challenge 2024 - $2.99",
+                    "packageid": 979053,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Ski Jump Challenge 2024"
+        }
+    ],
+    "packages": [
+        979053
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5-3320M @ 2.60 GHz / AMD Ryzen 3 3200u<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Radeon HD 5000+<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Simplicity Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 2, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_0b3735a18fdab1d4b4b3812a4c5505d3749aa4cc.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_0b3735a18fdab1d4b4b3812a4c5505d3749aa4cc.600x338.jpg?t=1705306923"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_609f753cb212f1325fa36f25024ee19fd4de5007.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_609f753cb212f1325fa36f25024ee19fd4de5007.600x338.jpg?t=1705306923"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_0e0f238f2ad5620ec7a653adbf0e9ceee8e5f3b1.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_0e0f238f2ad5620ec7a653adbf0e9ceee8e5f3b1.600x338.jpg?t=1705306923"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_e96953e6e6620215d8867b3a0c71ee85ba1a5051.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_e96953e6e6620215d8867b3a0c71ee85ba1a5051.600x338.jpg?t=1705306923"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_2ff677658ae58f07216f132614e34992a5d7f120.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_2ff677658ae58f07216f132614e34992a5d7f120.600x338.jpg?t=1705306923"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_b208c9cf8923c730f78a6c36d0ed890f0643abc5.1920x1080.jpg?t=1705306923",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736230/ss_b208c9cf8923c730f78a6c36d0ed890f0643abc5.600x338.jpg?t=1705306923"
+        }
+    ],
+    "short_description": "Experience the excitement of ski jumping with the Ski Jump Challenge game! Immerse yourself in a game with advanced physics. Compete on more than 90 hills, customize your equipment and face jumpers from around the world in a ski jumping simulator!",
+    "steam_appid": 2736230,
+    "support_info": {
+        "email": "info@simplicitygames.pl",
+        "url": "https://simplicitygames.pl/"
+    },
+    "supported_languages": "English, Polish",
+    "type": "game",
+    "website": null
+}

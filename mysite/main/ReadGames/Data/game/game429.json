@@ -1,0 +1,111 @@
+{
+    "about_the_game": "Welcome to the world of Dwarfs Delight, a thrilling local multiplayer game for 2 to 4 players, where humor, strategy, and action meet in a fantasy world populated by dwarves.<h2 class=\"bb_tag\"><strong>Key Features</strong> </h2><h2 class=\"bb_tag\"><strong>Dynamic Local Multiplayer</strong> </h2>Join your friends in a battle for supremacy in lively taverns. Perfect for game nights with friends or family.<h2 class=\"bb_tag\"><strong>Rich and Varied Environments</strong> </h2>From the classic tavern to the mysterious dragon's cave, each environment offers unique challenges and strategic opportunities.<h2 class=\"bb_tag\"><strong>Strategic Gameplay</strong> </h2>Master the art of keeping your beer mug while dodging obstacles and countering your opponents. Each game is a new drinking session!<h2 class=\"bb_tag\"><strong>Power-ups and Surprises</strong></h2>Use random power-ups and avoid traps to gain an edge over your rivals.<h2 class=\"bb_tag\"><strong>Customizable Passives</strong></h2>At the end of each round, choose unique passives to strengthen your dwarf - gain speed, increase your throwing range, or withstand an extra hit.<h2 class=\"bb_tag\"><strong>Charming and Immersive Graphics</strong></h2>Dive into a world of dwarves with colorful graphics and captivating character design.<h2 class=\"bb_tag\"><strong>Guaranteed Laughter</strong></h2>Enjoy a hilarious and unpredictable gaming experience, where each game is filled with memorable and fun moments.<br><br>Whether you are a fierce competitor or a casual player, Dwarfs Delight offers a unique and captivating gaming experience. Get ready to enter the legend of the dwarves, take on challenges, and share moments of joy with your friends. Download now and let the party begin!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/page_bg_generated_v6b.jpg?t=1704413933",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/page_bg_generated.jpg?t=1704413933",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/capsule_231x87.jpg?t=1704413933",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/capsule_184x69.jpg?t=1704413933",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Shared/Split Screen PvP",
+            "id": 37
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        },
+        {
+            "description": "Remote Play Together",
+            "id": 44
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "Welcome to the world of Dwarfs Delight, a thrilling local multiplayer game for 2 to 4 players, where humor, strategy, and action meet in a fantasy world populated by dwarves.<h2 class=\"bb_tag\"><strong>Key Features</strong> </h2><h2 class=\"bb_tag\"><strong>Dynamic Local Multiplayer</strong> </h2>Join your friends in a battle for supremacy in lively taverns. Perfect for game nights with friends or family.<h2 class=\"bb_tag\"><strong>Rich and Varied Environments</strong> </h2>From the classic tavern to the mysterious dragon's cave, each environment offers unique challenges and strategic opportunities.<h2 class=\"bb_tag\"><strong>Strategic Gameplay</strong> </h2>Master the art of keeping your beer mug while dodging obstacles and countering your opponents. Each game is a new drinking session!<h2 class=\"bb_tag\"><strong>Power-ups and Surprises</strong></h2>Use random power-ups and avoid traps to gain an edge over your rivals.<h2 class=\"bb_tag\"><strong>Customizable Passives</strong></h2>At the end of each round, choose unique passives to strengthen your dwarf - gain speed, increase your throwing range, or withstand an extra hit.<h2 class=\"bb_tag\"><strong>Charming and Immersive Graphics</strong></h2>Dive into a world of dwarves with colorful graphics and captivating character design.<h2 class=\"bb_tag\"><strong>Guaranteed Laughter</strong></h2>Enjoy a hilarious and unpredictable gaming experience, where each game is filled with memorable and fun moments.<br><br>Whether you are a fierce competitor or a casual player, Dwarfs Delight offers a unique and captivating gaming experience. Get ready to enter the legend of the dwarves, take on challenges, and share moments of joy with your friends. Download now and let the party begin!",
+    "developers": [
+        "Bengala Studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/header.jpg?t=1704413933",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Dwarfs Delight",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i5-4690 / AMD Ryzen 3 1300X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060, 6GB / AMD Radeon R9 290X, 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> ASUS Xonar AE</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-8700K / AMD Ryzen 5 3600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 3070, 8GB / AMD Radeon RX 6750 XT, 12GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> ASUS Xonar AE</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        " IIM Digital School"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_9cb6cfe067f564843fa667cb9c40735230011f6e.1920x1080.jpg?t=1704413933",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_9cb6cfe067f564843fa667cb9c40735230011f6e.600x338.jpg?t=1704413933"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_91b708efe8cb3cf09dd9c81066a0455b429c6861.1920x1080.jpg?t=1704413933",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_91b708efe8cb3cf09dd9c81066a0455b429c6861.600x338.jpg?t=1704413933"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_5a8a3d8966f02365c38fda5cfae76196046fbd3f.1920x1080.jpg?t=1704413933",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_5a8a3d8966f02365c38fda5cfae76196046fbd3f.600x338.jpg?t=1704413933"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_d60bd256a1a1705c73bbead52660458bfc8a0569.1920x1080.jpg?t=1704413933",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_d60bd256a1a1705c73bbead52660458bfc8a0569.600x338.jpg?t=1704413933"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_674f19014014debca5d6c8452ffc7eba7f58bd82.1920x1080.jpg?t=1704413933",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736040/ss_674f19014014debca5d6c8452ffc7eba7f58bd82.600x338.jpg?t=1704413933"
+        }
+    ],
+    "short_description": "Join the adventure of Dwarfs Delight, an explosive multiplayer game where dwarves battle in a tavern for glory and beer! Face off against your friends in this couch game, where every mug counts. Get ready for laughter and unforgettable moments. Ideal for nights with friends!",
+    "steam_appid": 2736040,
+    "support_info": {
+        "email": "dwarfsdelight.iim@gmail.com",
+        "url": "https://www.iim.fr/"
+    },
+    "supported_languages": "French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

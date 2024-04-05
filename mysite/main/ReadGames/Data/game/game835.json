@@ -1,0 +1,113 @@
+{
+    "about_the_game": "Take on the form of a blundering spud in That Potato Game, a physics-based puzzle adventure! Roll through the mystical home of the questionable and eccentric alchemist, Hilbert, and gain new abilities by exploring the rooms around you. Solve puzzles to unlock new rooms and discover hidden secrets and stories left behind by Hilbert as you make your way closer to the big finale of your journey, an ascent into the great beyond of space.<br />\r\n<br />\r\nBECOME A POTATO<br />\r\nPotatoes are round, potatoes can roll. Now, so can you!<br />\r\n<br />\r\nEXPLORE ECCENTRIC ROOMS<br />\r\nTraverse through Hilbert\u2019s kitchen and observatory and find hidden secrets within as you roll around every nook and cranny..<br />\r\n<br />\r\nUNLOCK SPUD-SATIONAL ABILITIES<br />\r\nAs you explore and interact with items in Hilbert\u2019s house, unlock abilities that will take your tuber form to tubular levels.<br />\r\n<br />\r\nMEET FASCINATING CHARACTERS<br />\r\nMeet Ashbel, a ravenous flame, and Anastasia, a gracious doll, who will help you throughout your journey in discovering Hilbert\u2019s house.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/page_bg_generated_v6b.jpg?t=1704238557",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/page_bg_generated.jpg?t=1704238557",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/capsule_231x87.jpg?t=1704238557",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/capsule_184x69.jpg?t=1704238557",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Take on the form of a blundering spud in That Potato Game, a physics-based puzzle adventure! Roll through the mystical home of the questionable and eccentric alchemist, Hilbert, and gain new abilities by exploring the rooms around you. Solve puzzles to unlock new rooms and discover hidden secrets and stories left behind by Hilbert as you make your way closer to the big finale of your journey, an ascent into the great beyond of space.<br />\r\n<br />\r\nBECOME A POTATO<br />\r\nPotatoes are round, potatoes can roll. Now, so can you!<br />\r\n<br />\r\nEXPLORE ECCENTRIC ROOMS<br />\r\nTraverse through Hilbert\u2019s kitchen and observatory and find hidden secrets within as you roll around every nook and cranny..<br />\r\n<br />\r\nUNLOCK SPUD-SATIONAL ABILITIES<br />\r\nAs you explore and interact with items in Hilbert\u2019s house, unlock abilities that will take your tuber form to tubular levels.<br />\r\n<br />\r\nMEET FASCINATING CHARACTERS<br />\r\nMeet Ashbel, a ravenous flame, and Anastasia, a gracious doll, who will help you throughout your journey in discovering Hilbert\u2019s house.",
+    "developers": [
+        "Spud Studios"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/header.jpg?t=1704238557",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256940950,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940950/movie480.mp4?t=1682962386",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940950/movie_max.mp4?t=1682962386"
+            },
+            "name": "That Potato Game Official Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256940950/movie.293x165.jpg?t=1682962386",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256940950/movie480_vp9.webm?t=1682962386",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256940950/movie_max_vp9.webm?t=1682962386"
+            }
+        }
+    ],
+    "name": "That Potato Game",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1080<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Spud Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 5, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_3f47b408d123162a029c2e6e954b487b5f478907.1920x1080.jpg?t=1704238557",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_3f47b408d123162a029c2e6e954b487b5f478907.600x338.jpg?t=1704238557"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_90bf6eb78ff37557dd57fc8c0c85aa57132f6fb2.1920x1080.jpg?t=1704238557",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_90bf6eb78ff37557dd57fc8c0c85aa57132f6fb2.600x338.jpg?t=1704238557"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_ab7520628d3cdfe18b68a788344b038fcb100033.1920x1080.jpg?t=1704238557",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_ab7520628d3cdfe18b68a788344b038fcb100033.600x338.jpg?t=1704238557"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_1bc24fabd64f42b70365c7d608bfd7d10c0597f9.1920x1080.jpg?t=1704238557",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_1bc24fabd64f42b70365c7d608bfd7d10c0597f9.600x338.jpg?t=1704238557"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_83d5a79df78a097c75c1048f934c083538d3ff66.1920x1080.jpg?t=1704238557",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370640/ss_83d5a79df78a097c75c1048f934c083538d3ff66.600x338.jpg?t=1704238557"
+        }
+    ],
+    "short_description": "Explore life as a potato and roll your way through the cozy, mystical home of Hilbert. Complete puzzles, gain abilities, and find hidden secrets within!",
+    "steam_appid": 2370640,
+    "support_info": {
+        "email": "spudstudiosofficial@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

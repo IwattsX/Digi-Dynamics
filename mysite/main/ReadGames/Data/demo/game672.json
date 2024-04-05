@@ -1,0 +1,66 @@
+{
+    "about_the_game": "About the demo:<br>This is a short demo of the full game, but you'll still get to see what 'The Castle Burns!' is all about. You're limited to two Champions and only the first map of the first of three quests.<br><br>Welcome to The Castle Burns!<br>Where the Castle... burns.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01.gif?t=1677607221\" /><br><br>It is your job, Sir Gene Ric Knight, or one of the other Champions, to stop Malika, the evil Goblin type thing! For reasons unknown, she is burning everything that crosses her path. That is all fine, but alas, your Castle is also on her path!<br><br>LEVEL UP to get new RIDICULOUS WEAPONS!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/lvlscreenshot.png?t=1677607221\" /><br><br><br>Loot GOLD COINS to buy stupidly OVERPOWERED ITEMS!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/shopscreenshot.png?t=1677607221\" /><br><br><br>Features a kind and helpful Narrator, to listen to... or kill!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01_2.gif?t=1677607221\" /><br><br><br>Kill Fairies for their life force to your heart's content!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01_3.gif?t=1677607221\" />",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335230/capsule_231x87.jpg?t=1677607221",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335230/capsule_184x69.jpg?t=1677607221",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "About the demo:<br>This is a short demo of the full game, but you'll still get to see what 'The Castle Burns!' is all about. You're limited to two Champions and only the first map of the first of three quests.<br><br>Welcome to The Castle Burns!<br>Where the Castle... burns.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01.gif?t=1677607221\" /><br><br>It is your job, Sir Gene Ric Knight, or one of the other Champions, to stop Malika, the evil Goblin type thing! For reasons unknown, she is burning everything that crosses her path. That is all fine, but alas, your Castle is also on her path!<br><br>LEVEL UP to get new RIDICULOUS WEAPONS!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/lvlscreenshot.png?t=1677607221\" /><br><br><br>Loot GOLD COINS to buy stupidly OVERPOWERED ITEMS!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/shopscreenshot.png?t=1677607221\" /><br><br><br>Features a kind and helpful Narrator, to listen to... or kill!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01_2.gif?t=1677607221\" /><br><br><br>Kill Fairies for their life force to your heart's content!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335230/extras/Sequence_01_3.gif?t=1677607221\" />",
+    "developers": [
+        "Benevolent Banana Studio"
+    ],
+    "fullgame": {
+        "appid": "2302960",
+        "name": "The Castle Burns!"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335230/header.jpg?t=1677607221",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "The Castle Burns! Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 10, 11<br></li><li><strong>Processor:</strong> 2+ Ghz dual core or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Vega 7 integrated, or GTX1050 and up<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.5+ Ghz dual core or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX1050 and up<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Benevolent Banana Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Kill literally all of the Goblins, Orcs and other monsters with ridiculous oversized weapons and items born from pure insanity in this 2D Roguelike Arena Survival game! Do it fast, because The Castle Burns!",
+    "steam_appid": 2335230,
+    "support_info": {
+        "email": "benevolentbananastudio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

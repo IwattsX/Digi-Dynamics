@@ -1,0 +1,67 @@
+{
+    "about_the_game": "Support our Kickstarter here! <a href=\"https://www.kickstarter.com/projects/hauket/untamed-a-multiplayer-creature-survival-game\" target=\"_blank\" rel=\"\"  >https://www.kickstarter.com/projects/hauket/untamed-a-multiplayer-creature-survival-game</a><br><br>Untamed is an upcoming multiplayer survival game for PC in which players take control of fantastical creatures in a world of overgrown ruins. The objective is to survive to adulthood by using your own skills alone, or by forming a pack with other players and working together. <br><br>Untamed is a fantasy-themed creature survival game. You will assume the role of a completely original fantasy beast. Using each creature\u2019s unique playstyle and your wits, you will become either the hunter or the hunted. The object of the game is to survive and thrive against other players in a one of a kind fantasy setting  that will challenge your skills and ability to use the environment around you.",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737830/capsule_231x87.jpg?t=1703278166",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2737830/capsule_184x69.jpg?t=1703278166",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Support our Kickstarter here! <a href=\"https://www.kickstarter.com/projects/hauket/untamed-a-multiplayer-creature-survival-game\" target=\"_blank\" rel=\"\"  >https://www.kickstarter.com/projects/hauket/untamed-a-multiplayer-creature-survival-game</a><br><br>Untamed is an upcoming multiplayer survival game for PC in which players take control of fantastical creatures in a world of overgrown ruins. The objective is to survive to adulthood by using your own skills alone, or by forming a pack with other players and working together. <br><br>Untamed is a fantasy-themed creature survival game. You will assume the role of a completely original fantasy beast. Using each creature\u2019s unique playstyle and your wits, you will become either the hunter or the hunted. The object of the game is to survive and thrive against other players in a one of a kind fantasy setting  that will challenge your skills and ability to use the environment around you.",
+    "developers": [
+        "Solar Vault Studio"
+    ],
+    "fullgame": {
+        "appid": "2570160",
+        "name": "Untamed"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2737830/header.jpg?t=1703278166",
+    "is_free": true,
+    "legal_notice": "Music: Abandonned House by lowchimusic<br />\r\nFree download: https://filmmusic.io/song/12059-abandonned-house<br />\r\nLicensed under CC BY 4.0: https://filmmusic.io/standard-license",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Untamed Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Solar Vault Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Dec 15, 2023"
+    },
+    "required_age": 0,
+    "short_description": "Untamed is a multiplayer creature survival game that takes place in a post apocalyptic fantasy world.",
+    "steam_appid": 2737830,
+    "support_info": {
+        "email": "hawkesouthworth@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "demo",
+    "website": "https://solarvaultstudio.com/"
+}

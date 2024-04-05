@@ -1,0 +1,99 @@
+{
+    "about_the_game": "The DLC contains adult content, that unlocks the entire content of the base game",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/page_bg_generated_v6b.jpg?t=1680880506",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/page.bg.jpg?t=1680880506",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/capsule_231x87.jpg?t=1680880506",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/capsule_184x69.jpg?t=1680880506",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "notes": "-Nudity or sexual content\r\n-Not suitable for watching at work\r\n-Not suitable for all ages\r\n-All characters in the game are over 18 years old"
+    },
+    "detailed_description": "The DLC contains adult content, that unlocks the entire content of the base game",
+    "developers": [
+        "Hunny Bunny Studio"
+    ],
+    "fullgame": {
+        "appid": "2350390",
+        "name": "Neko Office: Nightlife Adventures"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/header.jpg?t=1680880506",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "NSFW Content - Neko Office: Nightlife Adventures",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> Intel Core i3 (or equivalent)<br></li><li><strong>Memory:</strong> 4 RAM GB RAM<br></li><li><strong>Graphics:</strong> with 1 GB VRAM compatible with DirectX<br></li><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Sound Card:</strong> Compatible with DirectX<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Hunny Bunny Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 7, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_d355022cf458b9d1f53f6a1b17d96a6df0ce7db5.1920x1080.jpg?t=1680880506",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_d355022cf458b9d1f53f6a1b17d96a6df0ce7db5.600x338.jpg?t=1680880506"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_167cb8657545432355038944c9e82ccaf277092c.1920x1080.jpg?t=1680880506",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_167cb8657545432355038944c9e82ccaf277092c.600x338.jpg?t=1680880506"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_b002eb33872dcb128db084f1324242fdf27d9b89.1920x1080.jpg?t=1680880506",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2370820/ss_b002eb33872dcb128db084f1324242fdf27d9b89.600x338.jpg?t=1680880506"
+        }
+    ],
+    "short_description": "The DLC contains adult content, that unlocks the entire content of the base game",
+    "steam_appid": 2370820,
+    "support_info": {
+        "email": "hunnybunnysstudio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

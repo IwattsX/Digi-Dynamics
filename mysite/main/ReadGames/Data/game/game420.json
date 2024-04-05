@@ -1,0 +1,96 @@
+{
+    "about_the_game": "Li-Lo is a single-player adventure where players explore family relationships through light puzzles and platforming challenges.<br><br><ul class=\"bb_ul\"><li>A narrative-driven game: get to know your family and nurture them on a journey through a beautiful world.<br><br></li><li>A short game: the game features 3 chapters playable in about 40-50 minutes.<br><br></li><li>Easy gameplay: the game is catered at casual players and features easy puzzles that can be solved with coordination and thinking.<br><br></li><li>Simple controls: the game can be played with few simple controls like running or jumping and not much more.<br><br></li><li>No-combat gameplay: the game doesn\u2019t feature any weapons, nor shooting, nor blood. Characters can only die by taking damage from some of the obstacles.<br><br></li><li>Forgiving gameplay: the game features frequent save points to prevent too much progress loss in case of death.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/page_bg_generated_v6b.jpg?t=1704556031",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/page.bg.jpg?t=1704556031",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/capsule_231x87.jpg?t=1704556031",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/capsule_184x69.jpg?t=1704556031",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Li-Lo is a single-player adventure where players explore family relationships through light puzzles and platforming challenges.<br><br><ul class=\"bb_ul\"><li>A narrative-driven game: get to know your family and nurture them on a journey through a beautiful world.<br><br></li><li>A short game: the game features 3 chapters playable in about 40-50 minutes.<br><br></li><li>Easy gameplay: the game is catered at casual players and features easy puzzles that can be solved with coordination and thinking.<br><br></li><li>Simple controls: the game can be played with few simple controls like running or jumping and not much more.<br><br></li><li>No-combat gameplay: the game doesn\u2019t feature any weapons, nor shooting, nor blood. Characters can only die by taking damage from some of the obstacles.<br><br></li><li>Forgiving gameplay: the game features frequent save points to prevent too much progress loss in case of death.</li></ul>",
+    "developers": [
+        "Piotr Weber"
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/header.jpg?t=1704556031",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.11 or above<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM</li></ul>"
+    },
+    "name": "Li-Lo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible GPU<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Piotr Weber"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_8f649b12af439fed706ad2f9a359438699ead7d3.1920x1080.jpg?t=1704556031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_8f649b12af439fed706ad2f9a359438699ead7d3.600x338.jpg?t=1704556031"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_27f013cf83a133d183110ee2f717f89044f230bb.1920x1080.jpg?t=1704556031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_27f013cf83a133d183110ee2f717f89044f230bb.600x338.jpg?t=1704556031"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_0b6fa1aa85a1ab5e2b17839750108936e574e430.1920x1080.jpg?t=1704556031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_0b6fa1aa85a1ab5e2b17839750108936e574e430.600x338.jpg?t=1704556031"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_4541dd50914c898272ab0d556de75c94727b5c95.1920x1080.jpg?t=1704556031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_4541dd50914c898272ab0d556de75c94727b5c95.600x338.jpg?t=1704556031"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_63314838ee7083a196222980399e9c483950f0cc.1920x1080.jpg?t=1704556031",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2735720/ss_63314838ee7083a196222980399e9c483950f0cc.600x338.jpg?t=1704556031"
+        }
+    ],
+    "short_description": "Li-Lo is a single-player puzzle platformer in which you run, jump and solve puzzles to guide your small family through a beautiful and mysterious world. Enjoy bittersweet moments of bonding and growth, before life skips ahead to its next chapter.",
+    "steam_appid": 2735720,
+    "support_info": {
+        "email": "me@piotr.one",
+        "url": ""
+    },
+    "supported_languages": "English, Italian, German",
+    "type": "game",
+    "website": null
+}

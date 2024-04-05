@@ -1,0 +1,156 @@
+{
+    "about_the_game": "<h2 class=\"bb_tag\">Synthesis</h2>Mostly text-based, but showcasing detailed 2D backgrounds for its many locations, Escape from Norwood lets you free to explore the world and try to combine hundreds of items in any way you want, to trigger unexpected effects on the lives of its vast cast of characters. By using the uncanny abilities of invisibility magic  you can protect yourself and learn intimate and state secrets alike, in this story-rich game. This freedom comes with simplicity: no text prompt ever shows up, simply click on someone, something or somewhere to see the possible interactions and choose among them\u2026 for dozens of hours of play and discovery.<h2 class=\"bb_tag\">Synergy</h2>Escape from Norwood combines 80's text adventure imagination with 90's point and click streamlined interactions. Add a pinch of 00's open world and 10's forgiving gameplay to live a unique experience that feels both classic and modern.<h2 class=\"bb_tag\">Synopsis</h2>Cursed with a magic which does not fit within the five cardinal aelic callings, 13-years old Lecia has to hide from the guards and find a way out of the city. Yet this magic will allow her to sneak into places and observe plots and schemes that could shake the foundations of Magistan, as the Empress\u2019 progress approaches Norwood. What secret ties her family and an empire where the only discrimination is based on the order of birth?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Interact with every character and every object: the depth of a classic text adventure with a unique gameplay and modern UI.<br></li><li>Journey through the city and explore every nook and cranny on your own terms.<br></li><li>Everyone has their routine: what can you learn through observation? How can you help them?<br></li><li>Combine items in unexpected ways to solve puzzles and move the story forward.<br></li><li>Master the powers of a Shroud to move unseen and espy secrets.<br></li><li>Keep track of your missions to do them in any order.<br></li><li>Screen reader support: the game is fully accessible and can be played entirely via keyboard and text to speech. Type Control + F12 to activate accessibility.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/page_bg_generated_v6b.jpg?t=1697969735",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/page.bg.jpg?t=1697969735",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/capsule_231x87.jpg?t=1697969735",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/capsule_184x69.jpg?t=1697969735",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "demos": [
+        {
+            "appid": 2529970,
+            "description": ""
+        }
+    ],
+    "detailed_description": "<h2 class=\"bb_tag\">Synthesis</h2>Mostly text-based, but showcasing detailed 2D backgrounds for its many locations, Escape from Norwood lets you free to explore the world and try to combine hundreds of items in any way you want, to trigger unexpected effects on the lives of its vast cast of characters. By using the uncanny abilities of invisibility magic  you can protect yourself and learn intimate and state secrets alike, in this story-rich game. This freedom comes with simplicity: no text prompt ever shows up, simply click on someone, something or somewhere to see the possible interactions and choose among them\u2026 for dozens of hours of play and discovery.<h2 class=\"bb_tag\">Synergy</h2>Escape from Norwood combines 80's text adventure imagination with 90's point and click streamlined interactions. Add a pinch of 00's open world and 10's forgiving gameplay to live a unique experience that feels both classic and modern.<h2 class=\"bb_tag\">Synopsis</h2>Cursed with a magic which does not fit within the five cardinal aelic callings, 13-years old Lecia has to hide from the guards and find a way out of the city. Yet this magic will allow her to sneak into places and observe plots and schemes that could shake the foundations of Magistan, as the Empress\u2019 progress approaches Norwood. What secret ties her family and an empire where the only discrimination is based on the order of birth?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Interact with every character and every object: the depth of a classic text adventure with a unique gameplay and modern UI.<br></li><li>Journey through the city and explore every nook and cranny on your own terms.<br></li><li>Everyone has their routine: what can you learn through observation? How can you help them?<br></li><li>Combine items in unexpected ways to solve puzzles and move the story forward.<br></li><li>Master the powers of a Shroud to move unseen and espy secrets.<br></li><li>Keep track of your missions to do them in any order.<br></li><li>Screen reader support: the game is fully accessible and can be played entirely via keyboard and text to speech. Type Control + F12 to activate accessibility.</li></ul>",
+    "developers": [
+        "Singular Works"
+    ],
+    "dlc": [
+        2590650
+    ],
+    "genres": [
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/header.jpg?t=1697969735",
+    "is_free": false,
+    "legal_notice": "Copyright Singular Works 2023 - all rights reserved",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Version: 10.10 or higher<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256942216,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942216/movie480.mp4?t=1681983869",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942216/movie_max.mp4?t=1681983869"
+            },
+            "name": "Gameplay Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942216/movie.293x165.jpg?t=1681983869",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942216/movie480_vp9.webm?t=1681983869",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942216/movie_max_vp9.webm?t=1681983869"
+            }
+        }
+    ],
+    "name": "Escape from Norwood",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Escape from Norwood - $5.99",
+                    "packageid": 852847,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 599
+                }
+            ],
+            "title": "Buy Escape from Norwood"
+        }
+    ],
+    "packages": [
+        852847
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 10/7/8/8.1 (64bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 599,
+        "final_formatted": "$5.99",
+        "initial": 599,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Singular Works"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Sep 13, 2023"
+    },
+    "required_age": 0,
+    "reviews": "\u201cEscape from Norwood is an excellent game that innovates on the text adventure formula to provide an experience modern-day gamers will love. Excellent accessibility features, good writing, and an immersive world make this a must-play game for fans of the genre.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvoxelsmash.com%2Fescape-from-norwood-review%2F\" target=\"_blank\" rel=\" noopener\"  >VoxelSmah</a><br><br>\u201cEscape from Norwood brings its text adventure to life with engaging storytelling, satisfying puzzles, and open-world exploration. If you miss the text-based classics of the \u201880s, this will definitely hit the spot.\u201d<br>8.5/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgamegrin.com%2Freviews%2Fescape-from-norwood-review%2F\" target=\"_blank\" rel=\" noopener\"  >GameGrin</a><br>",
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_d95c8f7c679b6b64c87facab2f3f62334e543229.1920x1080.jpg?t=1697969735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_d95c8f7c679b6b64c87facab2f3f62334e543229.600x338.jpg?t=1697969735"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_4aaacb2f928fd14d4f03daf690cefb6ceaf172a2.1920x1080.jpg?t=1697969735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_4aaacb2f928fd14d4f03daf690cefb6ceaf172a2.600x338.jpg?t=1697969735"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_d845680895ad13a6d8498c444093e2edbf08fc8b.1920x1080.jpg?t=1697969735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_d845680895ad13a6d8498c444093e2edbf08fc8b.600x338.jpg?t=1697969735"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_e97aec082304b2dcfffa6fa8b8ce3d64bd763f7b.1920x1080.jpg?t=1697969735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_e97aec082304b2dcfffa6fa8b8ce3d64bd763f7b.600x338.jpg?t=1697969735"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_4d6042335497cfebaec8135b0c3cafe8c68f87e4.1920x1080.jpg?t=1697969735",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372150/ss_4d6042335497cfebaec8135b0c3cafe8c68f87e4.600x338.jpg?t=1697969735"
+        }
+    ],
+    "short_description": "Explore a city that lives without your input in this illustrated text adventure. Observe the lives of its inhabitants behind the veil of your invisibility magic. Find items and combine them to solve intricate puzzles. Set your own pace as you control time and move freely in an open fantasy world.",
+    "steam_appid": 2372150,
+    "support_info": {
+        "email": "contact@escapefromnorwood.com",
+        "url": "https://escapefromnorwood.com"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": "https://escapefromnorwood.com"
+}

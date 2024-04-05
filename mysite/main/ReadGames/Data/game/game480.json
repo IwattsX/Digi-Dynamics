@@ -1,0 +1,102 @@
+{
+    "about_the_game": "<strong><h2 class=\"bb_tag\">Knightmare Tales</h2></strong> is a classic Third-Person-Action-Adventure in a nightmarish setting. <br>Help the hero to gain confidence and overcome those knightmares! <br>She just got a new job, but those nightmares return, what does that mean? <br>Find your confidence and be yourself, in this emotional action adventure! <br><br><strong>Knightmare Tales</strong> has a focus on combat and atmosphere and is best described as a <br>'soulslike with a twist'. <br><br>* Classic Action-Adventure with a captivating story <br>* Linear main story with procedural dungeon generation <br>* Connections between dreaming and being awake",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/page_bg_generated_v6b.jpg?t=1705356927",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/page_bg_generated.jpg?t=1705356927",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/capsule_231x87.jpg?t=1705356927",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/capsule_184x69.jpg?t=1705356927",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "detailed_description": "<strong><h2 class=\"bb_tag\">Knightmare Tales</h2></strong> is a classic Third-Person-Action-Adventure in a nightmarish setting. <br>Help the hero to gain confidence and overcome those knightmares! <br>She just got a new job, but those nightmares return, what does that mean? <br>Find your confidence and be yourself, in this emotional action adventure! <br><br><strong>Knightmare Tales</strong> has a focus on combat and atmosphere and is best described as a <br>'soulslike with a twist'. <br><br>* Classic Action-Adventure with a captivating story <br>* Linear main story with procedural dungeon generation <br>* Connections between dreaming and being awake",
+    "developers": [
+        "Tistic Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/header.jpg?t=1705356927",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Knightmare Tales",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 8 GB RAM</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "-"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_4f99eef8e20b43a1b6434f71e7b488bd779355f3.1920x1080.jpg?t=1705356927",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_4f99eef8e20b43a1b6434f71e7b488bd779355f3.600x338.jpg?t=1705356927"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_cc4f819c7cacd5b4bd6e8ef294fdfed95ad9d40d.1920x1080.jpg?t=1705356927",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_cc4f819c7cacd5b4bd6e8ef294fdfed95ad9d40d.600x338.jpg?t=1705356927"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_bd67ad0c0b89859cb9715c94d19efb548e47401f.1920x1080.jpg?t=1705356927",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_bd67ad0c0b89859cb9715c94d19efb548e47401f.600x338.jpg?t=1705356927"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_296615a74b04611a248e3dd7b407407b0cffd8ae.1920x1080.jpg?t=1705356927",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_296615a74b04611a248e3dd7b407407b0cffd8ae.600x338.jpg?t=1705356927"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_a61bbe769780128f604cb4dc927c0f636ea723d9.1920x1080.jpg?t=1705356927",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2733720/ss_a61bbe769780128f604cb4dc927c0f636ea723d9.600x338.jpg?t=1705356927"
+        }
+    ],
+    "short_description": "Knightmare Tales is a Third-Person-Action-Adventure in a nightmarish setting. Find your confidence and be yourself, in this emotional action adventure! Knightmare Tales is a classic Action-Adventure, focuses on combat and atmosphere with a captivating story, kind of a 'soulslike with a twist'.",
+    "steam_appid": 2733720,
+    "support_info": {
+        "email": "info@tistic-games.com",
+        "url": "https://tistic-games.com"
+    },
+    "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

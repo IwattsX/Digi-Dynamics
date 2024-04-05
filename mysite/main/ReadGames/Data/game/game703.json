@@ -1,0 +1,117 @@
+{
+    "about_the_game": "Prepare for a descent into the chilling unknown aboard the enigmatic spaceship, NightMetal. As the last surviving soul, you'll traverse its haunting corridors, piecing together its dark history while confronting unspeakable horrors.<br />\r\n<br />\r\nIn this psychological horror experience, fear lurks around every corner, and survival hinges on your resourcefulness and cunning. NightMetal will challenge your mind and nerve as you grapple with a ship consumed by madness.<br />\r\n<br />\r\nEnter the abyss, decipher the ship's cryptic past, and confront the ever-encroaching darkness. Can you escape its clutches and unveil the mysteries that shroud NightMetal?",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/page_bg_generated_v6b.jpg?t=1702116479",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/page.bg.jpg?t=1702116479",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/capsule_231x87.jpg?t=1702116479",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/capsule_184x69.jpg?t=1702116479",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": null
+    },
+    "detailed_description": "Prepare for a descent into the chilling unknown aboard the enigmatic spaceship, NightMetal. As the last surviving soul, you'll traverse its haunting corridors, piecing together its dark history while confronting unspeakable horrors.<br />\r\n<br />\r\nIn this psychological horror experience, fear lurks around every corner, and survival hinges on your resourcefulness and cunning. NightMetal will challenge your mind and nerve as you grapple with a ship consumed by madness.<br />\r\n<br />\r\nEnter the abyss, decipher the ship's cryptic past, and confront the ever-encroaching darkness. Can you escape its clutches and unveil the mysteries that shroud NightMetal?",
+    "developers": [
+        "Atom & Evil"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/header.jpg?t=1702116479",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256982161,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256982161/movie480.mp4?t=1699829503",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256982161/movie_max.mp4?t=1699829503"
+            },
+            "name": "NightMetal Teaser",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256982161/movie.293x165.jpg?t=1699829503",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256982161/movie480_vp9.webm?t=1699829503",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256982161/movie_max_vp9.webm?t=1699829503"
+            }
+        }
+    ],
+    "name": "NightMetal",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+) and Windows 10, 64-bit versions only.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, and DX12-capable GPUs</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Atom & Evil"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_d5df42906d6bbe1463cd31f894e95d7dcafbeb0f.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_d5df42906d6bbe1463cd31f894e95d7dcafbeb0f.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_8a349f78e1a5695dc88a627c936a4c72da0e17ed.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_8a349f78e1a5695dc88a627c936a4c72da0e17ed.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_79ccc7f5487ad361a23c6a8dc53f656dd7c556c5.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_79ccc7f5487ad361a23c6a8dc53f656dd7c556c5.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_9d8c22be9ad4adf5c1ef6632bbcc640fc724f3d2.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_9d8c22be9ad4adf5c1ef6632bbcc640fc724f3d2.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_dba891547148ac35b3b5d85132712e8c7f376a45.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_dba891547148ac35b3b5d85132712e8c7f376a45.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_a0f90508613a2f701b8fb4ab3ca5d7c3d8faafd0.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_a0f90508613a2f701b8fb4ab3ca5d7c3d8faafd0.600x338.jpg?t=1702116479"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_397ce45f36c48babc39b6d515fcda23946cf954d.1920x1080.jpg?t=1702116479",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2373580/ss_397ce45f36c48babc39b6d515fcda23946cf954d.600x338.jpg?t=1702116479"
+        }
+    ],
+    "short_description": "Prepare for a descent into the chilling unknown aboard the enigmatic spaceship, NightMetal. As the last surviving soul, you'll traverse its haunting corridors, piecing together its dark history while confronting unspeakable horrors.",
+    "steam_appid": 2373580,
+    "support_info": {
+        "email": "atomandevilstudio@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://twitter.com/AtomEvil15461"
+}

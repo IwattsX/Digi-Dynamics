@@ -1,0 +1,99 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/page_bg_generated_v6b.jpg?t=1704466144",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/page_bg_generated.jpg?t=1704466144",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/capsule_231x87.jpg?t=1704466144",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/capsule_184x69.jpg?t=1704466144",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Team Broke Kids"
+    ],
+    "fullgame": {
+        "appid": "2734360",
+        "name": "Mushroom Kid's Big Grass Sword"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/header.jpg?t=1704466144",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Mushroom Kid's Big Grass Sword Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Team Broke Kids"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Jan 5, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_07a7705947dd9bb39d3d7598e30c1512e7736a32.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_07a7705947dd9bb39d3d7598e30c1512e7736a32.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_93477c9cac0ba767f3651fb3caa3c00f0627c2a6.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_93477c9cac0ba767f3651fb3caa3c00f0627c2a6.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_7ba819f8ec10627ad1600d8ba88ae89669440af5.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_7ba819f8ec10627ad1600d8ba88ae89669440af5.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_19b3626487f228719b50afc249281cbfc1139886.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_19b3626487f228719b50afc249281cbfc1139886.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_d9473789276386812448007d67eedbd46b78a6db.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_d9473789276386812448007d67eedbd46b78a6db.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_6b4689b582fedf737007abb1f78dbdbb8596a7f8.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_6b4689b582fedf737007abb1f78dbdbb8596a7f8.600x338.jpg?t=1704466144"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_cffd8586d837da9bebac0a4d18e22419862c03f5.1920x1080.jpg?t=1704466144",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2734380/ss_cffd8586d837da9bebac0a4d18e22419862c03f5.600x338.jpg?t=1704466144"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2734380,
+    "support_info": {
+        "email": "teambrokekids@gmail.com",
+        "url": ""
+    },
+    "type": "demo",
+    "website": "https://linktr.ee/teambrokekids"
+}

@@ -1,0 +1,149 @@
+{
+    "about_the_game": "Originally released in 1990 for the Commodore Amiga and Atari ST computers, this side-scrolling platformer/shoot-em-up hybrid from prolific British developers Gremlin Graphics saw players take on the role of a robotic fly, tasked with saving the world from hordes of mutant cybernetic killer insects - the result of a disastrous attempt to restore the planet's ecological balance after the extinction of all insect life. Now, relive those days in this remastered emulated version.<br><br>This is an emulation of the Commodore Amiga version of the game.<h2 class=\"bb_tag\">Gameplay</h2>Jump and shoot across 10 exciting worlds, each with 5 platforming levels. Collect powerups from defeated enemies that can give you anything from faster speed or an extra life, to one of an array of powerful weapons. As you fly from world to world, experience bonus side-scrolling shoot-em-up levels - try to collect as many points as you can! Also, hidden around the worlds are 20 secret rooms - look for the doors to them in obscure places...<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/page_bg_generated_v6b.jpg?t=1679565326",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/page.bg.jpg?t=1679565326",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/capsule_231x87.jpg?t=1679565326",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/capsule_184x69.jpg?t=1679565326",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Originally released in 1990 for the Commodore Amiga and Atari ST computers, this side-scrolling platformer/shoot-em-up hybrid from prolific British developers Gremlin Graphics saw players take on the role of a robotic fly, tasked with saving the world from hordes of mutant cybernetic killer insects - the result of a disastrous attempt to restore the planet's ecological balance after the extinction of all insect life. Now, relive those days in this remastered emulated version.<br><br>This is an emulation of the Commodore Amiga version of the game.<h2 class=\"bb_tag\">Gameplay</h2>Jump and shoot across 10 exciting worlds, each with 5 platforming levels. Collect powerups from defeated enemies that can give you anything from faster speed or an extra life, to one of an array of powerful weapons. As you fly from world to world, experience bonus side-scrolling shoot-em-up levels - try to collect as many points as you can! Also, hidden around the worlds are 20 secret rooms - look for the doors to them in obscure places...<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
+    "developers": [
+        "Gremlin Graphics"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/header.jpg?t=1679565326",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256933423,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933423/movie480.mp4?t=1678091197",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933423/movie_max.mp4?t=1678091197"
+            },
+            "name": "Venus the Flytrap",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256933423/movie.293x165.jpg?t=1678091197",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256933423/movie480_vp9.webm?t=1678091197",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256933423/movie_max_vp9.webm?t=1678091197"
+            }
+        }
+    ],
+    "name": "Venus the Flytrap",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Venus the Flytrap - $4.99",
+                    "packageid": 839694,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 499
+                }
+            ],
+            "title": "Buy Venus the Flytrap"
+        }
+    ],
+    "packages": [
+        839694
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 499,
+        "final_formatted": "$4.99",
+        "initial": 499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Pixel Games UK"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 23, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_0415acbcb2ce8e3c6f123a1ec3fb2e187c830549.1920x1080.jpg?t=1679565326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_0415acbcb2ce8e3c6f123a1ec3fb2e187c830549.600x338.jpg?t=1679565326"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_ee2c8c6146b066d7b792f610af1abb6623c1372e.1920x1080.jpg?t=1679565326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_ee2c8c6146b066d7b792f610af1abb6623c1372e.600x338.jpg?t=1679565326"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_4023058239ee6d9728eea5ce1175b34a3e9bf0a4.1920x1080.jpg?t=1679565326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_4023058239ee6d9728eea5ce1175b34a3e9bf0a4.600x338.jpg?t=1679565326"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_8de080e4bca0e5f45e88aa4ce1589ffac77b6b92.1920x1080.jpg?t=1679565326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_8de080e4bca0e5f45e88aa4ce1589ffac77b6b92.600x338.jpg?t=1679565326"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_691988d42675c84e718f165c332587ae2712a341.1920x1080.jpg?t=1679565326",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337960/ss_691988d42675c84e718f165c332587ae2712a341.600x338.jpg?t=1679565326"
+        }
+    ],
+    "short_description": "In this side-scrolling insect shoot-em-up, originally released in 1990 for the Amiga, take on the role of a robotic fly, tasked with saving the world from hordes of mutant cybernetic killer insects. 50 platforming levels await, across 10 diverse worlds, plus bonus levels and more!",
+    "steam_appid": 2337960,
+    "support_info": {
+        "email": "info@pixelgames.uk",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

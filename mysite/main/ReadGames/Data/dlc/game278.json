@@ -1,0 +1,190 @@
+{
+    "about_the_game": "The principle of deterrence was founded on the notion that a nuclear attack by one superpower would be met with an overwhelming nuclear retaliation such that both the attacker and the defender would be annihilated. <br><br>This would create such losses in both population and industrial capacity that society would cease to exist. You will take part in a series of interesting campaigns; MAD - Mutual Assured Destruction. <br><br>On the eve of World War III, Naval Aviation Pilot Captain Korneev arrives in the Persian Gulf as part of the Military Group of Peacekeepers to protect the interests of a friendly country. The suppression of the civil war and the settlement of the operational situation in the Strait of Hormuz leads to an escalation. The blue coalition initiates the beginning of the operation - Preemptive Blow. Active fighting on both sides is further feeding conflict in the Middle East.<br><br>You have to take part in the suppression of the civil war, in the assault on large cities. You will get the experience of being sea-based on an aircraft carrier and operating the equipment of the best Red Coalition helicopter. You will travel across the entire map of the Persian Gulf.<br><br>Detailed and high-quality work from Stone Sky will once again surprise you.<br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li>Missions from Special Operations ForcesCAS and CSAR missions<br></li><li>Assault operations in large cities12 narrative missions with English, Russian localization<br></li><li>Over 1400 triggers and story radio dialogues<br></li><li>Custom liveries for KA-50-III, UH-1, UH-60, JF-17, Su-27 and Su-33<br></li><li>Detailed documentation and kneeboard<br></li><li>Available for KA-50 Black Shark-2</li></ul><br><strong>Localization:</strong><br>Voiceovers: English<br>Briefings/Subtitles: English, Russian<br><br><strong>All required products:</strong><br><ul class=\"bb_ul\"><li>DCS: Black Shark 3 or DCS: Black Shark 2<br></li><li>DCS: Persian Gulf Map</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/page_bg_generated_v6b.jpg?t=1698239139",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/page_bg_generated.jpg?t=1698239139",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/capsule_231x87.jpg?t=1698239139",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/capsule_184x69.jpg?t=1698239139",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Captions available",
+            "id": 13
+        },
+        {
+            "description": "VR Support",
+            "id": 31
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        },
+        {
+            "description": "Includes level editor",
+            "id": 17
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "The principle of deterrence was founded on the notion that a nuclear attack by one superpower would be met with an overwhelming nuclear retaliation such that both the attacker and the defender would be annihilated. <br><br>This would create such losses in both population and industrial capacity that society would cease to exist. You will take part in a series of interesting campaigns; MAD - Mutual Assured Destruction. <br><br>On the eve of World War III, Naval Aviation Pilot Captain Korneev arrives in the Persian Gulf as part of the Military Group of Peacekeepers to protect the interests of a friendly country. The suppression of the civil war and the settlement of the operational situation in the Strait of Hormuz leads to an escalation. The blue coalition initiates the beginning of the operation - Preemptive Blow. Active fighting on both sides is further feeding conflict in the Middle East.<br><br>You have to take part in the suppression of the civil war, in the assault on large cities. You will get the experience of being sea-based on an aircraft carrier and operating the equipment of the best Red Coalition helicopter. You will travel across the entire map of the Persian Gulf.<br><br>Detailed and high-quality work from Stone Sky will once again surprise you.<br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li>Missions from Special Operations ForcesCAS and CSAR missions<br></li><li>Assault operations in large cities12 narrative missions with English, Russian localization<br></li><li>Over 1400 triggers and story radio dialogues<br></li><li>Custom liveries for KA-50-III, UH-1, UH-60, JF-17, Su-27 and Su-33<br></li><li>Detailed documentation and kneeboard<br></li><li>Available for KA-50 Black Shark-2</li></ul><br><strong>Localization:</strong><br>Voiceovers: English<br>Briefings/Subtitles: English, Russian<br><br><strong>All required products:</strong><br><ul class=\"bb_ul\"><li>DCS: Black Shark 3 or DCS: Black Shark 2<br></li><li>DCS: Persian Gulf Map</li></ul>",
+    "developers": [
+        "Eagle Dynamics SA",
+        "Stone Sky"
+    ],
+    "fullgame": {
+        "appid": "223750",
+        "name": "DCS World Steam Edition"
+    },
+    "genres": [
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/header.jpg?t=1698239139",
+    "is_free": false,
+    "legal_notice": "\u00a9 Eagle Dynamics SA<br />\r\n\u00a9 Stone Sky",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "DCS: MAD Black Shark Campaign by Stone Sky",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "DCS: MAD Black Shark Campaign by Stone Sky - $13.99",
+                    "packageid": 944950,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1399
+                }
+            ],
+            "title": "Buy DCS: MAD Black Shark Campaign by Stone Sky"
+        }
+    ],
+    "packages": [
+        944950
+    ],
+    "pc_requirements": {
+        "minimum": "Minimum <br><ul class=\"bb_ul\"><li><strong>Requires:</strong><a href=\"https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/\" target=\"_blank\" rel=\"\"  >Digital Combat Simulator</a><br><strong>OS *:</strong> Windows 8, 10, 11<br></li><li><strong>CPU:</strong> Intel or AMD 3.0Ghz+ with 2 cores or more<br></li><li><strong>RAM:</strong> 8GB+ RAM <br></li><li><strong>Video:</strong> Discrete AMD or NVIDIA 4GB+<br></li><li><strong>Input:</strong> Joystick</li></ul>",
+        "recommended": "Recommended <br><ul class=\"bb_ul\"><li><strong>Requires:</strong><a href=\"https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/\" target=\"_blank\" rel=\"\"  >Digital Combat Simulator</a><br><strong>OS *:</strong> Windows 8, 10, 11<br></li><li><strong>CPU:</strong> Intel or AMD 4.5Ghz+ with 6 cores or more<br></li><li><strong>RAM:</strong> 32GB+ RAM <br></li><li><strong>Video:</strong> Discrete AMD or NVIDIA 8GB+<br></li><li><strong>Input:</strong> Joystick and Pedals</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1399,
+        "final_formatted": "$13.99",
+        "initial": 1399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Eagle Dynamics SA"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_b417ab2165e35e2a95395c80b344f78cb24ea8c7.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_b417ab2165e35e2a95395c80b344f78cb24ea8c7.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_bb6d99787a6c68ca6aec2e1a5b2ea27e88066178.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_bb6d99787a6c68ca6aec2e1a5b2ea27e88066178.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_3aa5e34699e5a68e9260b5ce51e362b8bb863658.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_3aa5e34699e5a68e9260b5ce51e362b8bb863658.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_a17b2cdfe05f3cb9f82099d9a4db0e5cc66ea0ff.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_a17b2cdfe05f3cb9f82099d9a4db0e5cc66ea0ff.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_84dde491136adaa8fb41c74cc48a7ffd75e4ed60.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_84dde491136adaa8fb41c74cc48a7ffd75e4ed60.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_1a9579f8be7699d00215dbf490514ed09a1966ed.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_1a9579f8be7699d00215dbf490514ed09a1966ed.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_6b1f6e5e9b4df5b344927bba136d619d068b5ae8.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_6b1f6e5e9b4df5b344927bba136d619d068b5ae8.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_f8ae0c2fb05d6d153a2dbfeb7d58b7bf89715ec0.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_f8ae0c2fb05d6d153a2dbfeb7d58b7bf89715ec0.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_c67cfd93ef72fcb8b9dbcd8d82eec75b88413849.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_c67cfd93ef72fcb8b9dbcd8d82eec75b88413849.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_9f17fd040136675e80d178067ec3752b6ee9f119.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_9f17fd040136675e80d178067ec3752b6ee9f119.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_5eaab74345bfde5e2d5bec11adf142ebc545e676.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_5eaab74345bfde5e2d5bec11adf142ebc545e676.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 11,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_4c559473f6f54bf6a17056d8dd5771d468cd7a33.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_4c559473f6f54bf6a17056d8dd5771d468cd7a33.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 12,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_74bcb267d250d4db9025c1c55a35ca1ee07b6aea.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_74bcb267d250d4db9025c1c55a35ca1ee07b6aea.600x338.jpg?t=1698239139"
+        },
+        {
+            "id": 13,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_8df63cbd8af53d845a277ac4d3cd7e5b79b6f06b.1920x1080.jpg?t=1698239139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635100/ss_8df63cbd8af53d845a277ac4d3cd7e5b79b6f06b.600x338.jpg?t=1698239139"
+        }
+    ],
+    "short_description": "The principle of deterrence was founded on the notion that a nuclear attack by one superpower would be met with an overwhelming nuclear retaliation such that both the attacker and the defender would be annihilated.",
+    "steam_appid": 2635100,
+    "support_info": {
+        "email": "https://steamcommunity.com/app/223750/discussions/",
+        "url": "https://steamcommunity.com/app/223750/discussions/"
+    },
+    "supported_languages": "English<strong>*</strong>, German, Russian, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "type": "dlc",
+    "website": "https://steamcommunity.com/app/223750/discussions/"
+}

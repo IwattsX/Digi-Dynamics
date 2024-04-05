@@ -1,0 +1,178 @@
+{
+    "about_the_game": "Your son has been kidnapped to become ramen broth! You have to save him from Mr. Bunny.<br />\r\n<br />\r\n&quot;AfroPenguin &amp; The Forbidden Ramen&quot; is a challenging argentinian 2D adventure game which pays homage to those Nintendo titles that made us smile as a kid (and why not, as adults). It has 4 levels (plus two unlockables called &quot;demo levels&quot; so you can see how much the game has improved since its early stages). It is in Spanish and English, and you can play it with a keyboard, mouse, or any joystick. <br />\r\n<br />\r\nI hope this game makes you smile and have fun. <br />\r\n<br />\r\nSoundtrack by Joshua Morse and Dominic Ninmark. Consider buying their music.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/page_bg_generated_v6b.jpg?t=1681485385",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/page.bg.jpg?t=1681485385",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/capsule_231x87.jpg?t=1681485385",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/capsule_184x69.jpg?t=1681485385",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Partial Controller Support",
+            "id": 18
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Your son has been kidnapped to become ramen broth! You have to save him from Mr. Bunny.<br />\r\n<br />\r\n&quot;AfroPenguin &amp; The Forbidden Ramen&quot; is a challenging argentinian 2D adventure game which pays homage to those Nintendo titles that made us smile as a kid (and why not, as adults). It has 4 levels (plus two unlockables called &quot;demo levels&quot; so you can see how much the game has improved since its early stages). It is in Spanish and English, and you can play it with a keyboard, mouse, or any joystick. <br />\r\n<br />\r\nI hope this game makes you smile and have fun. <br />\r\n<br />\r\nSoundtrack by Joshua Morse and Dominic Ninmark. Consider buying their music.",
+    "developers": [
+        "Leonardo Jorge Monge",
+        "Osaka Studios"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/header.jpg?t=1681485385",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 1X+<br></li><li><strong>Processor:</strong> 1Ghz or faster processor<br></li><li><strong>Memory:</strong> 400 MB RAM<br></li><li><strong>Graphics:</strong> Onboard graphics chip (Nvidia/AMD)<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do<br></li><li><strong>VR Support:</strong> No</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 1X+<br></li><li><strong>Processor:</strong> 4Ghz or faster processor<br></li><li><strong>Memory:</strong> 400 MB RAM<br></li><li><strong>Graphics:</strong> Onboard graphics chip (Nvidia/AMD)<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do<br></li><li><strong>VR Support:</strong> No</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13+<br></li><li><strong>Processor:</strong> Apple M1 Chip<br></li><li><strong>Graphics:</strong> Onboard graphics chip<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13+<br></li><li><strong>Processor:</strong> Apple M2 Chip<br></li><li><strong>Graphics:</strong> Onboard graphics chip<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256937819,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937819/movie480.mp4?t=1680295344",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937819/movie_max.mp4?t=1680295344"
+            },
+            "name": "AfroPenguin & The Forbidden Ramen - Pre-Launch Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256937819/movie.293x165.jpg?t=1680295344",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256937819/movie480_vp9.webm?t=1680295344",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256937819/movie_max_vp9.webm?t=1680295344"
+            }
+        }
+    ],
+    "name": "AfroPenguin & The Forbidden Ramen",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "AfroPenguin & The Forbidden Ramen - $3.99",
+                    "packageid": 853046,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy AfroPenguin & The Forbidden Ramen"
+        }
+    ],
+    "packages": [
+        853046
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windos XP, 7, 8, 10, 11<br></li><li><strong>Processor:</strong> 1Ghz or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Onboard graphics chip (Nvidia/AMD)<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do<br></li><li><strong>VR Support:</strong> No</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windos XP, 7, 8, 10, 11<br></li><li><strong>Processor:</strong> 4Ghz or faster processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Onboard graphics chip (Nvidia/AMD)<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any will do<br></li><li><strong>VR Support:</strong> No</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Osaka Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 14, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_def7bae924340837fc449a692bc03040fea15513.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_def7bae924340837fc449a692bc03040fea15513.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_24c9eb9e89682bb6e069d4851834651fbd6816e8.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_24c9eb9e89682bb6e069d4851834651fbd6816e8.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_274e8daf9bf6338598b9af8fd9f325ca609771b6.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_274e8daf9bf6338598b9af8fd9f325ca609771b6.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_0aca4a584e053afd375b3338d702dc4159566bf8.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_0aca4a584e053afd375b3338d702dc4159566bf8.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_b8cda8f6211142112ceafeb4c75b152427b8186f.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_b8cda8f6211142112ceafeb4c75b152427b8186f.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_e3568d86f078f943ba36485f1232133cb73532af.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_e3568d86f078f943ba36485f1232133cb73532af.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_0bd17c4c21182154929b9ead128079da4b5ec8a8.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_0bd17c4c21182154929b9ead128079da4b5ec8a8.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_8ea3d5eadcc87fe54279146b2ff4e4b19647ab98.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_8ea3d5eadcc87fe54279146b2ff4e4b19647ab98.600x338.jpg?t=1681485385"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_df4987071940a8090972bcdc933c15f1299882d4.1920x1080.jpg?t=1681485385",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2372750/ss_df4987071940a8090972bcdc933c15f1299882d4.600x338.jpg?t=1681485385"
+        }
+    ],
+    "short_description": "&quot;AfroPenguin &amp; The Forbidden Ramen&quot; is a challenging argentinian 2D adventure game which pays homage to those Nintendo titles that made us smile as a kid (and why not, as adults).",
+    "steam_appid": 2372750,
+    "support_info": {
+        "email": "leo.monge1986@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, Spanish - Latin America",
+    "type": "game",
+    "website": null
+}

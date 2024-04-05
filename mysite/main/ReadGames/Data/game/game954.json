@@ -1,0 +1,126 @@
+{
+    "about_the_game": "Ned is a doom-like 2D metroidvania platformer, based on Ned Kelly \u2013 Australia\u2019s most infamous outlaw. Run and gun through endless swarms of enemies, wielding standard shooters alongside some truly original (and crazy) weapons; explore a twisted take on true events starring real life Aussie legends; And decide the fate of the tangled bush, with playing style determining Ned\u2019s choice between folk-legend or corrupted beast.<br />\r\n<br />\r\n- 8 original weapons to choose from<br />\r\n- Open world platforming and upgrades<br />\r\n- 5 worlds set in the rugged Aussie outback<br />\r\n- Discover real Aussie inventions and icons",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/page_bg_generated_v6b.jpg?t=1686201819",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/page.bg.jpg?t=1686201819",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/capsule_231x87.jpg?t=1686201819",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/capsule_184x69.jpg?t=1686201819",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Full controller support",
+            "id": 28
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "controller_support": "full",
+    "demos": [
+        {
+            "appid": 2446050,
+            "description": ""
+        }
+    ],
+    "detailed_description": "Ned is a doom-like 2D metroidvania platformer, based on Ned Kelly \u2013 Australia\u2019s most infamous outlaw. Run and gun through endless swarms of enemies, wielding standard shooters alongside some truly original (and crazy) weapons; explore a twisted take on true events starring real life Aussie legends; And decide the fate of the tangled bush, with playing style determining Ned\u2019s choice between folk-legend or corrupted beast.<br />\r\n<br />\r\n- 8 original weapons to choose from<br />\r\n- Open world platforming and upgrades<br />\r\n- 5 worlds set in the rugged Aussie outback<br />\r\n- Discover real Aussie inventions and icons",
+    "developers": [
+        "Brewed Engagement Extended Reality Labs"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/header.jpg?t=1686201819",
+    "is_free": false,
+    "legal_notice": "Ned \u00a9 2023 B.E.E.R. Labs",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Steam OS/Linux OS<br></li><li><strong>Processor:</strong> intel i3-1115G4 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 500 or better</li></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS Maverick<br></li><li><strong>Processor:</strong> Intel i5 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics or better</li></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256951387,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951387/movie480.mp4?t=1686144903",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951387/movie_max.mp4?t=1686144903"
+            },
+            "name": "Ned: Iron Outlaw Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256951387/movie.293x165.jpg?t=1686144903",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951387/movie480_vp9.webm?t=1686144903",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951387/movie_max_vp9.webm?t=1686144903"
+            }
+        }
+    ],
+    "name": "Ned: Iron Outlaw",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> intel i3-1115G4 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 500 or better<br></li><li><strong>Additional Notes:</strong> 16:9 Monitor recommended</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "Brewed Engagement Extended Reality Labs"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_e22cf031e252d8c61bc773988eeaca611f2d8d7d.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_e22cf031e252d8c61bc773988eeaca611f2d8d7d.600x338.jpg?t=1686201819"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_06b1f049bbf541357f1477f0b9d85f0e6acf9eb1.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_06b1f049bbf541357f1477f0b9d85f0e6acf9eb1.600x338.jpg?t=1686201819"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_7735e24999f1ce5a41b6a6ac27fc1cf39621150f.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_7735e24999f1ce5a41b6a6ac27fc1cf39621150f.600x338.jpg?t=1686201819"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_78bfaa8ea888bd96f34e2771e523938f5c69951c.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_78bfaa8ea888bd96f34e2771e523938f5c69951c.600x338.jpg?t=1686201819"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_51b62c264cd571766d292bcc473aaf5159d1c2a9.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_51b62c264cd571766d292bcc473aaf5159d1c2a9.600x338.jpg?t=1686201819"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_bd0f28a25152b8ab69afccbd6831809cf467e73e.1920x1080.jpg?t=1686201819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401950/ss_bd0f28a25152b8ab69afccbd6831809cf467e73e.600x338.jpg?t=1686201819"
+        }
+    ],
+    "short_description": "Blast your way through hordes of enemies in Ned! An action-packed adventure platformer set in the rich history of the Aussie outback.",
+    "steam_appid": 2401950,
+    "support_info": {
+        "email": "contact@beerlabs.com.au",
+        "url": "http://beerlabs.com.au"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://www.nedgame.com.au/"
+}

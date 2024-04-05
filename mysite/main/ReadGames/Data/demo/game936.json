@@ -1,0 +1,93 @@
+{
+    "about_the_game": "Memories and regrets that exist in your school days. And &quot;Growth&quot;<br />\r\n<br />\r\nHow was your school days? &quot;Beginning of the Rain&quot; tells you a lot of different stories that take place in a lot of efforts to make your youth more beautiful.<br />\r\nIt's a work that contains everything that two ordinary students who finished their school years by graduating from high school have felt so far.<br />\r\n<br />\r\n&quot;Beginning of the Rain&quot; is a Visual Novel simulation game based on emotional illustrations and OSTs. With a deep but not profound scenario, you can play it freely, pleasantly with pretty graphics, and emotionally with the atmosphere of the music. Like reading a book, like watching an animation at the same time. immerse oneself in either direction if you look at it, it is a game where many elements of the game come to your mind around a beautiful story.<br />\r\n<br />\r\nRecalling memories, sometimes looking to the future. Fall into a story of empathy that's like a part of yourself!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/page_bg_generated_v6b.jpg?t=1683149319",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/page.bg.jpg?t=1683149319",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/capsule_231x87.jpg?t=1683149319",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/capsule_184x69.jpg?t=1683149319",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Memories and regrets that exist in your school days. And &quot;Growth&quot;<br />\r\n<br />\r\nHow was your school days? &quot;Beginning of the Rain&quot; tells you a lot of different stories that take place in a lot of efforts to make your youth more beautiful.<br />\r\nIt's a work that contains everything that two ordinary students who finished their school years by graduating from high school have felt so far.<br />\r\n<br />\r\n&quot;Beginning of the Rain&quot; is a Visual Novel simulation game based on emotional illustrations and OSTs. With a deep but not profound scenario, you can play it freely, pleasantly with pretty graphics, and emotionally with the atmosphere of the music. Like reading a book, like watching an animation at the same time. immerse oneself in either direction if you look at it, it is a game where many elements of the game come to your mind around a beautiful story.<br />\r\n<br />\r\nRecalling memories, sometimes looking to the future. Fall into a story of empathy that's like a part of yourself!",
+    "developers": [
+        "HOONDAHL Media Studio"
+    ],
+    "fullgame": {
+        "appid": "2400700",
+        "name": "Beginning of the Rain"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/header.jpg?t=1683149319",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Beginning of the Rain Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-9100F<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Graphics 645<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i5-9400F<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Graphics 645<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "HOONDAHL Media Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 3, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_6108fc120cca0046ad3a96ced10ead9e7690a7d6.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_6108fc120cca0046ad3a96ced10ead9e7690a7d6.600x338.jpg?t=1683149319"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_02596f4292d3a1b324b7cba38fc50640bddaf73c.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_02596f4292d3a1b324b7cba38fc50640bddaf73c.600x338.jpg?t=1683149319"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_7a223c668b8b1751adb54b4d4934812e8be606e8.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_7a223c668b8b1751adb54b4d4934812e8be606e8.600x338.jpg?t=1683149319"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_c482bf0e29c1d47b1147d60445bcfa973d2839a6.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_c482bf0e29c1d47b1147d60445bcfa973d2839a6.600x338.jpg?t=1683149319"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_831474b66c1b1e96879f16d84ff5980df601aee0.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_831474b66c1b1e96879f16d84ff5980df601aee0.600x338.jpg?t=1683149319"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_a82f3a15bebb74ff0204931f8eb763f47ea2fc40.1920x1080.jpg?t=1683149319",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2402610/ss_a82f3a15bebb74ff0204931f8eb763f47ea2fc40.600x338.jpg?t=1683149319"
+        }
+    ],
+    "short_description": "&quot;Beginning of the Rain&quot; is a visual Novel simulation game based on emotional illustrations and OSTs. I tell you a lot of efforts to spend the time of youth more beautifully, and various stories that take place in it.",
+    "steam_appid": 2402610,
+    "support_info": {
+        "email": "support@hoondahl.com",
+        "url": "https://www.hoondahl.com"
+    },
+    "supported_languages": "Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": "https://www.hoondahl.com"
+}

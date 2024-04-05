@@ -1,0 +1,228 @@
+{
+    "about_the_game": "Blast Attack is a short and abstract top-down shooter about destroying enemies while avoiding damage. Use shooting, dashing, and a charged attack, the 'blast attack', to destroy 6 different types of enemies who can make use of 2 different types of shields and can dash themselves. Blast Attack has 10 levels each with a unique boss at the end and is built to reward rapidly destroying enemies and completing levels quickly. Collect power-ups throughout the levels to expand and improve your arsenal including multiple dash charges, a primary fire that increases its rate of fire the longer you hold it, and a super-charged version of the blast attack towards the end of the game. Beat all levels in par time to get extra bragging rights.<br />\r\n<br />\r\nBlast Attack is a very simple project that is designed to be an entry point for Big Land Games. If you see potential in this game or its mechanics then look forward to what Big Land Games will put together in the future! Any and all feedback is appreciated!",
+    "achievements": {
+        "highlighted": [
+            {
+                "name": "Level 1 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/e999c5284add0b80bef5bbe967389c5c15c59f2c.jpg"
+            },
+            {
+                "name": "Level 2 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/612b67542749b7e23b5ab4eb65ad887c89d9c83d.jpg"
+            },
+            {
+                "name": "Level 3 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/d36a58cf715f41c262bd5661f6a585ef21f736a9.jpg"
+            },
+            {
+                "name": "Level 4 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/f59738f43c12c6e6423873e87dafb08e556e92b9.jpg"
+            },
+            {
+                "name": "Level 5 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/f6be77f757dff8d1568a30d0c17679e45f9fcfcf.jpg"
+            },
+            {
+                "name": "Level 6 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/e033ce45771954a23beb66ed7abab79a712a2cdc.jpg"
+            },
+            {
+                "name": "Level 7 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/b622ee27b46a44334d5512f93db9b2db7c7a9a29.jpg"
+            },
+            {
+                "name": "Level 8 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/ede89be597162d5259aee7f42b37118fe58e1f29.jpg"
+            },
+            {
+                "name": "Level 9 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/fd5efa3a35def1361ba6baa7e4bf8fdfbd25d1b9.jpg"
+            },
+            {
+                "name": "Level 10 Par Time",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401420/191e25355d8adef2229d7030ef0966e4f72d320e.jpg"
+            }
+        ],
+        "total": 23
+    },
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/page_bg_generated_v6b.jpg?t=1683939449",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/page_bg_generated.jpg?t=1683939449",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/capsule_231x87.jpg?t=1683939449",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/capsule_184x69.jpg?t=1683939449",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Stats",
+            "id": 15
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Blast Attack is a short and abstract top-down shooter about destroying enemies while avoiding damage. Use shooting, dashing, and a charged attack, the 'blast attack', to destroy 6 different types of enemies who can make use of 2 different types of shields and can dash themselves. Blast Attack has 10 levels each with a unique boss at the end and is built to reward rapidly destroying enemies and completing levels quickly. Collect power-ups throughout the levels to expand and improve your arsenal including multiple dash charges, a primary fire that increases its rate of fire the longer you hold it, and a super-charged version of the blast attack towards the end of the game. Beat all levels in par time to get extra bragging rights.<br />\r\n<br />\r\nBlast Attack is a very simple project that is designed to be an entry point for Big Land Games. If you see potential in this game or its mechanics then look forward to what Big Land Games will put together in the future! Any and all feedback is appreciated!",
+    "developers": [
+        "Big Land Games"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/header.jpg?t=1683939449",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Arch Linux<br></li><li><strong>Processor:</strong> Dual Core 3Ghz+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 capable GPU with 1 GB VRAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Mojave<br></li><li><strong>Processor:</strong> Dual Core 3Ghz+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Mac with dedicated GPU with 1 GB VRAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256944479,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944479/movie480.mp4?t=1682985268",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944479/movie_max.mp4?t=1682985268"
+            },
+            "name": "Main",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256944479/movie.293x165.jpg?t=1682985268",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256944479/movie480_vp9.webm?t=1682985268",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256944479/movie_max_vp9.webm?t=1682985268"
+            }
+        }
+    ],
+    "name": "Blast Attack",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Blast Attack - $2.99",
+                    "packageid": 863983,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 299
+                }
+            ],
+            "title": "Buy Blast Attack"
+        }
+    ],
+    "packages": [
+        863983
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 3Ghz+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 capable GPU with 1 GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 299,
+        "final_formatted": "$2.99",
+        "initial": 299,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Big Land Games"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "May 12, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_f2bebec8c3f04f86e92e5756769fbe51b4089dba.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_f2bebec8c3f04f86e92e5756769fbe51b4089dba.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_7a1b4c2201d2891469e0dcd00b62f8765c64e176.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_7a1b4c2201d2891469e0dcd00b62f8765c64e176.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b3623012a73cd990ac5e696455a4965445380dcb.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b3623012a73cd990ac5e696455a4965445380dcb.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_023112f44565b8e32a4d55183822058cb4061c27.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_023112f44565b8e32a4d55183822058cb4061c27.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_6bf8813cebbe063c159d2071895a76e4ec0cc0ba.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_6bf8813cebbe063c159d2071895a76e4ec0cc0ba.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b0ab5eae431bb34725eed1ad31f24e1eafbc0b0d.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b0ab5eae431bb34725eed1ad31f24e1eafbc0b0d.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_d657b94373a164bf2c4840119903a09c2d8a97ef.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_d657b94373a164bf2c4840119903a09c2d8a97ef.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_a737a0e71cc3f25eac83026bd35e3004311beb6a.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_a737a0e71cc3f25eac83026bd35e3004311beb6a.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 8,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b20dc38bc89898c03171b6b7850936e22fb0aa61.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_b20dc38bc89898c03171b6b7850936e22fb0aa61.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 9,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_21bff05f314c0136377b5abe64e1f26abb15e4ff.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_21bff05f314c0136377b5abe64e1f26abb15e4ff.600x338.jpg?t=1683939449"
+        },
+        {
+            "id": 10,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_d6c207a9a9bed184eaf162d7cff3feeafb95eb1f.1920x1080.jpg?t=1683939449",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2401420/ss_d6c207a9a9bed184eaf162d7cff3feeafb95eb1f.600x338.jpg?t=1683939449"
+        }
+    ],
+    "short_description": "A short top-down game about dodging bullets and shooting a variety of enemies. Your arsenal evolves as you collect power-ups. Use a charged blast attack to destroy magenta shields and dashes to destroy cyan shields while fighting 6 different enemy types that can make use of shields and dashes.",
+    "steam_appid": 2401420,
+    "support_info": {
+        "email": "biglandgamesofficial@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

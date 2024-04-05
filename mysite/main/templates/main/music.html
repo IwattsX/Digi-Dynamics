@@ -2,16 +2,56 @@
 {% extends 'main/base.html' %}
 {% block title%} SS_Music {% endblock %}
 {% block content %}
-    <div class="container-fluid" style="background-color: transparent; margin-left: 20px;  margin-top: 20px; width: 500px; color: white; margin: 30px;">
-        <div style="padding: 10px;" >
-            <form method="get" actions="/games/">
-                {% csrf_token %}
-                {{ form.as_ul }}
-
-                <button type="submit" name="Search" style=> SEARCH </button>
-            </form>
+    <body onload="musicActive()">
+        <div class="container-fluid">
+            <div style="padding: 10px;" >
+                <form method="get" actions="/musics/">
+                    {% csrf_token %}
+                    {{ form.as_ul }}
+                    
+                    <button class="button" type="submit" name="Search" style=> SEARCH </button>
+                </form>
+            </div>
         </div>
-    </div>
+    </body>
+{% endblock %}
+
+
+{% block tables %}
+    {% if display == 'block' %}
+    <table id = "table_musics">
+        <tbody>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>      
+            {% for music in musics %}
+                <tr>
+                    <td class="musicName">{{music.Name}}<br><a href="https://store.steampowered.com/app/{{ music.id }}">
+                        Steam Link
+                    </a></td>
+                    <td>{{music.Short_description}}</td>
+                    {% if music.Current_price is None %}
+
+                        {% if not music.Base_price is None%}
+                            <td> ${{ music.Base_price }} </td>
+                        {% elif music.Coming_soon %}
+                            <td>music is coming soon!</td>
+                        {% elif music.Release_Date %}
+                            <td>Releasing: {{music.Release_Date}}</td>
+                        {% else %}
+                            <td>FREE</td>
+                        {% endif %}
+
+                    {% else %}
+                        <td>${{music.Current_price}}</td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
 {% endblock %}
 
 <!--HOW TO PUT A YT vid on here, may use this for Youtube instead-->

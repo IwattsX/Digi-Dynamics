@@ -1,0 +1,69 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/page_bg_generated_v6b.jpg?t=1677588162",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/page_bg_generated.jpg?t=1677588162",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/capsule_231x87.jpg?t=1677588162",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/capsule_184x69.jpg?t=1677588162",
+    "categories": [
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Insane Dreamers"
+    ],
+    "fullgame": {
+        "appid": "2222260",
+        "name": "Gummy Dummy Battles"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/header.jpg?t=1677588162",
+    "is_free": true,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "name": "Gummy Dummy Battles Demo",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Insane Dreamers"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/ss_e92e659a0811f7412c26424600f497c47be8efd0.1920x1080.jpg?t=1677588162",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/ss_e92e659a0811f7412c26424600f497c47be8efd0.600x338.jpg?t=1677588162"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2334890,
+    "support_info": {
+        "email": "insanedreamersstudio@gmail.com",
+        "url": ""
+    },
+    "type": "demo",
+    "website": null
+}

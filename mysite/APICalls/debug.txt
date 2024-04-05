@@ -1,0 +1,31 @@
+{'apps': [{'id': [2321470],
+           'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/2321470/capsule_sm_120.jpg?t=1707911752',
+           'link': 'https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/?snr=1_7_15__13',
+           'name': 'Deep Rock Galactic: Survivor',
+           'price': '$8.99'},
+          {'id': [730],
+           'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1698860631',
+           'link': 'https://store.steampowered.com/app/730/CounterStrike_2/?snr=1_7_15__13',
+           'name': 'Counter-Strike 2',
+           'price': 'Free to Play'},
+          {'id': [1623730],
+           'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_sm_120.jpg?t=1707904340',
+           'link': 'https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_15__13',
+           'name': 'Palworld',
+           'price': '$29.99'},
+          {'id': [553850],
+           'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1707382710',
+           'link': 'https://store.steampowered.com/app/553850/HELLDIVERS_2/?snr=1_7_15__13',
+           'name': 'HELLDIVERS\\u2122 2',
+           'price': '$39.99'},
+          {'id': [1172470],
+           'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1707925485',
+           'link': 'https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_15__13',
+           'name': 'Apex Legends\\u2122',
+           'price': 'Free to Play'}]}
+<class 'dict'>
+-------------
+apps
+<class 'str'>
+[{'id': [2321470], 'link': 'https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/?snr=1_7_15__13', 'name': 'Deep Rock Galactic: Survivor', 'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/2321470/capsule_sm_120.jpg?t=1707911752', 'price': '$8.99'}, {'id': [730], 'link': 'https://store.steampowered.com/app/730/CounterStrike_2/?snr=1_7_15__13', 'name': 'Counter-Strike 2', 'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1698860631', 'price': 'Free to Play'}, {'id': [1623730], 'link': 'https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_15__13', 'name': 'Palworld', 'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_sm_120.jpg?t=1707904340', 'price': '$29.99'}, {'id': [553850], 'link': 'https://store.steampowered.com/app/553850/HELLDIVERS_2/?snr=1_7_15__13', 'name': 'HELLDIVERS\\u2122 2', 'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1707382710', 'price': '$39.99'}, {'id': [1172470], 'link': 'https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_15__13', 'name': 'Apex Legends\\u2122', 'img': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1707925485', 'price': 'Free to Play'}]
+<class 'list'>

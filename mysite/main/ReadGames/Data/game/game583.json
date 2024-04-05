@@ -1,0 +1,47 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/page_bg_generated_v6b.jpg?t=1677566616",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/page_bg_generated.jpg?t=1677566616",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/capsule_231x87.jpg?t=1677566616",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/capsule_184x69.jpg?t=1677566616",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/header.jpg?t=1677566616",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Sethtek Sandbox Playtest",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Feb 27, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/ss_c6663be6239cbb5e800bd80d246231aca5e7947b.1920x1080.jpg?t=1677566616",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336530/ss_c6663be6239cbb5e800bd80d246231aca5e7947b.600x338.jpg?t=1677566616"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2336530,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

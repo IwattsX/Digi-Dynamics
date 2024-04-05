@@ -1,0 +1,131 @@
+{
+    "about_the_game": "A short FPS game.<br />\r\nThe game is a free add-on for the base game.<br />\r\n<br />\r\nHow to play<br />\r\nYou can select this game when you press &quot;PLAY&quot; on the Steam application.<br />\r\n<br />\r\nFeatures of this DLC game<br />\r\nThe purpose of this mini-game is to get to the goal of the dungeon.<br />\r\nHowever, you must escort your companion, Rena.<br />\r\nLet's defeat the enemy with a self-defense revolver.<br />\r\n<br />\r\nWinning conditions<br />\r\nReach the goal with Rena.<br />\r\n<br />\r\nTerms of defeat<br />\r\nPlayer's HP drops to zero.<br />\r\nRena's HP drops to zero.<br />\r\n<br />\r\nRena, the companion, automatically follows the player.<br />\r\nRena automatically uses recovery magic against the player.<br />\r\nHowever, once Rena's MP reaches zero, she can no longer use the recovery magic.<br />\r\n<br />\r\nOperations<br />\r\nMove: W, A, S, D<br />\r\n\u200bJump: Spacebar<br />\r\n\u200bRun: Shift key<br />\r\n\u200bWeapon targeting: Hold down Right Mouse button<br />\r\n\u200bAttack with a weapon: Left Mouse Click<br />\r\nReload the revolver: R<br />\r\n<br />\r\nIf you don't want this DLC game, uncheck the DLC checkbox in the Steam app.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/page_bg_generated_v6b.jpg?t=1678413955",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/page_bg_generated.jpg?t=1678413955",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/capsule_231x87.jpg?t=1678413955",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/capsule_184x69.jpg?t=1678413955",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [
+            5
+        ],
+        "notes": "There is an expression in which the player character fires a gun."
+    },
+    "detailed_description": "A short FPS game.<br />\r\nThe game is a free add-on for the base game.<br />\r\n<br />\r\nHow to play<br />\r\nYou can select this game when you press &quot;PLAY&quot; on the Steam application.<br />\r\n<br />\r\nFeatures of this DLC game<br />\r\nThe purpose of this mini-game is to get to the goal of the dungeon.<br />\r\nHowever, you must escort your companion, Rena.<br />\r\nLet's defeat the enemy with a self-defense revolver.<br />\r\n<br />\r\nWinning conditions<br />\r\nReach the goal with Rena.<br />\r\n<br />\r\nTerms of defeat<br />\r\nPlayer's HP drops to zero.<br />\r\nRena's HP drops to zero.<br />\r\n<br />\r\nRena, the companion, automatically follows the player.<br />\r\nRena automatically uses recovery magic against the player.<br />\r\nHowever, once Rena's MP reaches zero, she can no longer use the recovery magic.<br />\r\n<br />\r\nOperations<br />\r\nMove: W, A, S, D<br />\r\n\u200bJump: Spacebar<br />\r\n\u200bRun: Shift key<br />\r\n\u200bWeapon targeting: Hold down Right Mouse button<br />\r\n\u200bAttack with a weapon: Left Mouse Click<br />\r\nReload the revolver: R<br />\r\n<br />\r\nIf you don't want this DLC game, uncheck the DLC checkbox in the Steam app.",
+    "developers": [
+        "Sonic-Alpha"
+    ],
+    "fullgame": {
+        "appid": "1265200",
+        "name": "Escort Alia"
+    },
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Free to Play",
+            "id": "37"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/header.jpg?t=1678413955",
+    "is_free": true,
+    "legal_notice": "Unity Technologies inc., Adobe., Autodesk Inc.<br />\r\nOpsive, Tafi Avatars, karboosx, Pixel Crushers, Inter Illusion, GID, kripto289, Imphenzia, Terrac00p Studios, Kronnect, Mana Station, Ladmer Technologies, Inc., OctoMan, RDR, D.F.Y. STUDIO, 3DForge, The Game Creators Ltd., Uetools, OliVR, Wello Graphics, AW group, Manufactura K4, Lovatto Studio<br />\r\n\u00a9Teabone, \u00a9 Larrynachos., \u00a9eluukkanen, \u00a9 Peke., \u00a9 Cyrus.",
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932896,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932896/movie480.mp4?t=1677518576",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932896/movie_max.mp4?t=1677518576"
+            },
+            "name": "EscortRENAPV1",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932896/movie.293x165.jpg?t=1677518576",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932896/movie480_vp9.webm?t=1677518576",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932896/movie_max_vp9.webm?t=1677518576"
+            }
+        }
+    ],
+    "name": "Escort Alia - Escort RENA",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8,10,11(64bit)<br></li><li><strong>Processor:</strong> Intel Quad-Core or AMD Octa-Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 278 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 8,10,11(64bit)<br></li><li><strong>Processor:</strong> Intel Quad-Core or AMD Octa-Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT, AMD Radeon HD or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 278 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "NS"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Mar 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_807e0369a7f5e2c3b8f2f28c73f356fba7503d3e.1920x1080.jpg?t=1678413955",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_807e0369a7f5e2c3b8f2f28c73f356fba7503d3e.600x338.jpg?t=1678413955"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_483e4d211bc8cbd59aa9da2c60d943e675bbd826.1920x1080.jpg?t=1678413955",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_483e4d211bc8cbd59aa9da2c60d943e675bbd826.600x338.jpg?t=1678413955"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_875f7143c4b3b6f9e4435fc18244503209b79206.1920x1080.jpg?t=1678413955",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_875f7143c4b3b6f9e4435fc18244503209b79206.600x338.jpg?t=1678413955"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_dc5306b50688cb03a7c9928376fe8e9ff2c1d0d8.1920x1080.jpg?t=1678413955",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_dc5306b50688cb03a7c9928376fe8e9ff2c1d0d8.600x338.jpg?t=1678413955"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_2e725c535aca2d785c04f0d81fc60a8351020e9d.1920x1080.jpg?t=1678413955",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2336510/ss_2e725c535aca2d785c04f0d81fc60a8351020e9d.600x338.jpg?t=1678413955"
+        }
+    ],
+    "short_description": "A short FPS game. The game is a free add-on for the base game.",
+    "steam_appid": 2336510,
+    "support_info": {
+        "email": "info@emerose.biz",
+        "url": "https://emerose.biz/"
+    },
+    "supported_languages": "English, Japanese",
+    "type": "dlc",
+    "website": "https://emerose.biz/"
+}

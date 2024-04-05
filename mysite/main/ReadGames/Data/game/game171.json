@@ -1,0 +1,150 @@
+{
+    "about_the_game": "OverlayDeck is a powerful tool that allows you to swiftly access your preferred programs. It innovates your computer user experience, making work and play more efficient. Now, launching applications and commencing tasks is a breeze, with no time wasted. What's more, OverlayDeck offers a fully customizable one-click interface, giving you complete control.<br><br>Drag and drop to create a deck and press the keyboard shortcut Ctrl+Shift+D to run the deck.<br>You can access the settings by double-clicking the tray icon.<h2 class=\"bb_tag\">Key Features</h2><strong>Quick Access</strong><br>With OverlayDeck, you can quickly access your desired programs. Say goodbye to the hassle of locating and starting applications \u2013 it's all done with a single click.<br><br><strong>Customizability</strong><br>OverlayDeck provides customizable buttons for easy access to your favored programs, websites, files, and folders. Tailor your environment to match your workflow style, and maximize productivity.<br><br><strong>Visual Overlay</strong><br>OverlayDeck offers a visual overlay displayed at the top of your screen, enabling you to swiftly locate and execute the apps you need. It won't obstruct your view and can be accessed at any time, even during tasks.<br><br><strong>Shortcut Support</strong><br>In addition to the one-button feature, OverlayDeck supports keyboard shortcuts for even quicker application launch and switching.<br><br><strong>When Is OverlayDeck Useful?</strong><br>When you need to rapidly execute and switch between frequently used programs during work.<br>When you want to launch applications quickly while gaming or enjoying multimedia content.<br>For anyone looking to work efficiently and save time.<br>The Future of OverlayDeck<br>OverlayDeck will continue to evolve and improve, incorporating user feedback and introducing more features. The future will bring themes, scalability, and additional customization options to enhance the user experience.<br><br>Download OverlayDeck Now!<br>Download OverlayDeck and embark on a new computer experience. Start programs with a single click and revel in remarkable productivity.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/page_bg_generated_v6b.jpg?t=1701255617",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/page_bg_generated.jpg?t=1701255617",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/capsule_231x87.jpg?t=1701255617",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/capsule_184x69.jpg?t=1701255617",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "OverlayDeck is a powerful tool that allows you to swiftly access your preferred programs. It innovates your computer user experience, making work and play more efficient. Now, launching applications and commencing tasks is a breeze, with no time wasted. What's more, OverlayDeck offers a fully customizable one-click interface, giving you complete control.<br><br>Drag and drop to create a deck and press the keyboard shortcut Ctrl+Shift+D to run the deck.<br>You can access the settings by double-clicking the tray icon.<h2 class=\"bb_tag\">Key Features</h2><strong>Quick Access</strong><br>With OverlayDeck, you can quickly access your desired programs. Say goodbye to the hassle of locating and starting applications \u2013 it's all done with a single click.<br><br><strong>Customizability</strong><br>OverlayDeck provides customizable buttons for easy access to your favored programs, websites, files, and folders. Tailor your environment to match your workflow style, and maximize productivity.<br><br><strong>Visual Overlay</strong><br>OverlayDeck offers a visual overlay displayed at the top of your screen, enabling you to swiftly locate and execute the apps you need. It won't obstruct your view and can be accessed at any time, even during tasks.<br><br><strong>Shortcut Support</strong><br>In addition to the one-button feature, OverlayDeck supports keyboard shortcuts for even quicker application launch and switching.<br><br><strong>When Is OverlayDeck Useful?</strong><br>When you need to rapidly execute and switch between frequently used programs during work.<br>When you want to launch applications quickly while gaming or enjoying multimedia content.<br>For anyone looking to work efficiently and save time.<br>The Future of OverlayDeck<br>OverlayDeck will continue to evolve and improve, incorporating user feedback and introducing more features. The future will bring themes, scalability, and additional customization options to enhance the user experience.<br><br>Download OverlayDeck Now!<br>Download OverlayDeck and embark on a new computer experience. Start programs with a single click and revel in remarkable productivity.",
+    "developers": [
+        "SOPHRA"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Utilities",
+            "id": "57"
+        },
+        {
+            "description": "Early Access",
+            "id": "70"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/header.jpg?t=1701255617",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256981332,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981332/movie480.mp4?t=1700093889",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981332/movie_max.mp4?t=1700093889"
+            },
+            "name": "HowToUse",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256981332/movie.293x165.jpg?t=1700093889",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256981332/movie480_vp9.webm?t=1700093889",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256981332/movie_max_vp9.webm?t=1700093889"
+            }
+        }
+    ],
+    "name": "OverlayDeck",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "OverlayDeck - $3.99",
+                    "packageid": 945511,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 399
+                }
+            ],
+            "title": "Buy OverlayDeck"
+        }
+    ],
+    "packages": [
+        945511
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 11<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 399,
+        "final_formatted": "$3.99",
+        "initial": 399,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "SOPHRA"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 29, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_22e08b225bf51a883c79b134699013465b070a39.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_22e08b225bf51a883c79b134699013465b070a39.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_480d034842249b4b7878f2e9eabbd19684948081.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_480d034842249b4b7878f2e9eabbd19684948081.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_217f507f112e6196a0a67c391651062cecb3433a.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_217f507f112e6196a0a67c391651062cecb3433a.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_87d8f3e9a03f1ad00c4afe89ff33cb412bd8af32.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_87d8f3e9a03f1ad00c4afe89ff33cb412bd8af32.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_b1d3f972a55acc455c85517de13ac19a66c0cac4.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_b1d3f972a55acc455c85517de13ac19a66c0cac4.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_e4ac06b7d5bbd205c5357af243c82b670fd82f6b.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_e4ac06b7d5bbd205c5357af243c82b670fd82f6b.600x338.jpg?t=1701255617"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_3a59121ba9c3ff2358dd99dff6c863adb3a639cf.1920x1080.jpg?t=1701255617",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2636780/ss_3a59121ba9c3ff2358dd99dff6c863adb3a639cf.600x338.jpg?t=1701255617"
+        }
+    ],
+    "short_description": "An app that provides customizable decks so you can quickly activate a shortcut or hotkey anytime, anywhere.",
+    "steam_appid": 2636780,
+    "support_info": {
+        "email": "sophra1234@gmail.com",
+        "url": "https://chungddang.tistory.com/"
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}

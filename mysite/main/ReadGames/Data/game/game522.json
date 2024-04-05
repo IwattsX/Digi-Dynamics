@@ -1,0 +1,129 @@
+{
+    "about_the_game": "Inspired by the board game &quot;Coup&quot; and incorporating elements of poker card games and Mahjong, &quot;The Nine's Showdown&quot; is a unique blend of strategy and bluffing. With &quot;Classic Mode&quot;, as well as the added excitement of &quot;Fraud Mode&quot; and &quot;Madness Mode&quot;, this game promises an unforgettable gaming experience.<h2 class=\"bb_tag\">Basic Game Rules (Classic Mode)</h2>At the beginning of each round, players draw 4 cards and receive 5 hearts and 2 coins. The first player then begins their turn, and each player in turn draws a card and chooses one of the common actions listed below.<br><br><br><strong>Common Actions:</strong><br><ul class=\"bb_ul\"><li>Gain 2 coins<br></li><li>Gain 3 coins (Might be <i>Intercepted</i>)<br></li><li><i>Strike</i>: Spend 5 coins and let a player lose 1 heart<br></li><li><i>HOOLA</i><br></li><li>Use a card ability (Claim having the card)</li></ul><br><strong>Card Abilities:</strong><br><ul class=\"bb_ul\"><li>Draw 1 card, gain 1 coin, regain 1 heart.<br></li><li><i>Snatch</i>: Take away 2 coins from a target player.<br></li><li><i>Attack</i>: Spend 3 coins and make a player lose 1 heart.<br></li><li><i>Reverse</i>: Flip the turn direction.<br></li><li><i>Pick</i>: Let the target player be the next to play.<br></li><li><i>Roll 6</i>: Roll a 6-sided die. If the point is 6, gain 6 coins.<br></li><li><i>Roll 8</i>: Roll a 8-sided die. Gain as many coins as the result.<br></li><li>Let all players' coin return to 0 and draw 1 card.</li></ul><br>Players have to discard cards to keep exactly 4 cards in hand.<br>Players have up to 7 hearts and 9 coins.<br>Whenever players are challenged, their hand is checked. If they don't have the card, they lose 1 heart.<br>Players are out when they lose all of their heart.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/page_bg_generated_v6b.jpg?t=1692416410",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/page.bg.jpg?t=1692416410",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/capsule_231x87.jpg?t=1692416410",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/capsule_184x69.jpg?t=1692416410",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "PvP",
+            "id": 49
+        },
+        {
+            "description": "Online PvP",
+            "id": 36
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Inspired by the board game &quot;Coup&quot; and incorporating elements of poker card games and Mahjong, &quot;The Nine's Showdown&quot; is a unique blend of strategy and bluffing. With &quot;Classic Mode&quot;, as well as the added excitement of &quot;Fraud Mode&quot; and &quot;Madness Mode&quot;, this game promises an unforgettable gaming experience.<h2 class=\"bb_tag\">Basic Game Rules (Classic Mode)</h2>At the beginning of each round, players draw 4 cards and receive 5 hearts and 2 coins. The first player then begins their turn, and each player in turn draws a card and chooses one of the common actions listed below.<br><br><br><strong>Common Actions:</strong><br><ul class=\"bb_ul\"><li>Gain 2 coins<br></li><li>Gain 3 coins (Might be <i>Intercepted</i>)<br></li><li><i>Strike</i>: Spend 5 coins and let a player lose 1 heart<br></li><li><i>HOOLA</i><br></li><li>Use a card ability (Claim having the card)</li></ul><br><strong>Card Abilities:</strong><br><ul class=\"bb_ul\"><li>Draw 1 card, gain 1 coin, regain 1 heart.<br></li><li><i>Snatch</i>: Take away 2 coins from a target player.<br></li><li><i>Attack</i>: Spend 3 coins and make a player lose 1 heart.<br></li><li><i>Reverse</i>: Flip the turn direction.<br></li><li><i>Pick</i>: Let the target player be the next to play.<br></li><li><i>Roll 6</i>: Roll a 6-sided die. If the point is 6, gain 6 coins.<br></li><li><i>Roll 8</i>: Roll a 8-sided die. Gain as many coins as the result.<br></li><li>Let all players' coin return to 0 and draw 1 card.</li></ul><br>Players have to discard cards to keep exactly 4 cards in hand.<br>Players have up to 7 hearts and 9 coins.<br>Whenever players are challenged, their hand is checked. If they don't have the card, they lose 1 heart.<br>Players are out when they lose all of their heart.",
+    "developers": [
+        "SixfoldPower"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/header.jpg?t=1692416410",
+    "is_free": false,
+    "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+    },
+    "movies": [
+        {
+            "highlight": false,
+            "id": 256957346,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256957346/movie480.mp4?t=1688955563",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256957346/movie_max.mp4?t=1688955563"
+            },
+            "name": "Gameplay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256957346/movie.293x165.jpg?t=1688955563",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256957346/movie480_vp9.webm?t=1688955563",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256957346/movie_max_vp9.webm?t=1688955563"
+            }
+        }
+    ],
+    "name": "The Nine\u2019s Showdown",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 64-bit<br></li><li><strong>Processor:</strong> X64 architecture with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, and DX12-capable GPUs<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "SixfoldPower"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_ecba4a6bf97de47a09596fab6759f9008130710e.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_ecba4a6bf97de47a09596fab6759f9008130710e.600x338.jpg?t=1692416410"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_6549ed02bd45618482dea01052a7921b232d1262.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_6549ed02bd45618482dea01052a7921b232d1262.600x338.jpg?t=1692416410"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_0f11d10df1fb08fb91c3ca85ed1c7a31d00dd2fe.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_0f11d10df1fb08fb91c3ca85ed1c7a31d00dd2fe.600x338.jpg?t=1692416410"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_34c1709174f43ae61675d0aabd4ad46c749a1e44.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_34c1709174f43ae61675d0aabd4ad46c749a1e44.600x338.jpg?t=1692416410"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_2b051c741006f117df92c18a920bbc30e55f2bfb.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_2b051c741006f117df92c18a920bbc30e55f2bfb.600x338.jpg?t=1692416410"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_8f76f89718f278f5df0c38ecc775c7b71a979416.1920x1080.jpg?t=1692416410",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337250/ss_8f76f89718f278f5df0c38ecc775c7b71a979416.600x338.jpg?t=1692416410"
+        }
+    ],
+    "short_description": "Outmaneuver your opponents with calculated moves and deceptive tactics.",
+    "steam_appid": 2337250,
+    "support_info": {
+        "email": "",
+        "url": "https://sixfoldpower.wixsite.com/sixfoldpower/the-nines-showdown"
+    },
+    "supported_languages": "English, Traditional Chinese",
+    "type": "game",
+    "website": null
+}

@@ -1,0 +1,144 @@
+{
+    "about_the_game": "Does your pet also live in your room? With the Pets DLC you can add animals, toys and accessories to your room.<br><br>Choose your furry friend from the 16 breeds of dogs and cats featured in the DLC. In addition to dogs and cats, you can choose from fish, parrots, hamsters and even a lizard.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637930/extras/Cat.gif?t=1701792559\" /><br>Spice up your room with new items and turn it into a dreamy environment for you and your pet.<h2 class=\"bb_tag\">The Pets DLC contains:</h2><ul class=\"bb_ul\"><li>16 popular breeds of dogs and cats.<br></li><li>Other animals such as parrots, fish, hamsters and lizards.<br></li><li>46 new items.</li></ul>",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/page_bg_generated_v6b.jpg?t=1701792559",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/page_bg_generated.jpg?t=1701792559",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/capsule_231x87.jpg?t=1701792559",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/capsule_184x69.jpg?t=1701792559",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Trading Cards",
+            "id": 29
+        },
+        {
+            "description": "Steam Workshop",
+            "id": 30
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Does your pet also live in your room? With the Pets DLC you can add animals, toys and accessories to your room.<br><br>Choose your furry friend from the 16 breeds of dogs and cats featured in the DLC. In addition to dogs and cats, you can choose from fish, parrots, hamsters and even a lizard.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2637930/extras/Cat.gif?t=1701792559\" /><br>Spice up your room with new items and turn it into a dreamy environment for you and your pet.<h2 class=\"bb_tag\">The Pets DLC contains:</h2><ul class=\"bb_ul\"><li>16 popular breeds of dogs and cats.<br></li><li>Other animals such as parrots, fish, hamsters and lizards.<br></li><li>46 new items.</li></ul>",
+    "developers": [
+        "Campfire Studio"
+    ],
+    "fullgame": {
+        "appid": "2200780",
+        "name": "My Dream Setup"
+    },
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Simulation",
+            "id": "28"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/header.jpg?t=1701792559",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "My Dream Setup - Pets DLC",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "My Dream Setup - Pets DLC - $1.99",
+                    "packageid": 945869,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 199
+                }
+            ],
+            "title": "Buy My Dream Setup - Pets DLC"
+        }
+    ],
+    "packages": [
+        945869
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 199,
+        "final_formatted": "$1.99",
+        "initial": 199,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "Campfire Studio"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 17, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_f53248507931b1a8249d3f77f6101393c6f20078.1920x1080.jpg?t=1701792559",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_f53248507931b1a8249d3f77f6101393c6f20078.600x338.jpg?t=1701792559"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_c9b1165d356ead9ccffd422c93ba132566fd8a62.1920x1080.jpg?t=1701792559",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_c9b1165d356ead9ccffd422c93ba132566fd8a62.600x338.jpg?t=1701792559"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_70fe42134a4bd9d0dd26d43395eaa14b1dbc393f.1920x1080.jpg?t=1701792559",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_70fe42134a4bd9d0dd26d43395eaa14b1dbc393f.600x338.jpg?t=1701792559"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_a1bb88dcbbd35dc3fa63635f13fec5e4f7e972a3.1920x1080.jpg?t=1701792559",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_a1bb88dcbbd35dc3fa63635f13fec5e4f7e972a3.600x338.jpg?t=1701792559"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_3cd82281635e9b3347b0a37499febc08ae4bfc50.1920x1080.jpg?t=1701792559",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2637930/ss_3cd82281635e9b3347b0a37499febc08ae4bfc50.600x338.jpg?t=1701792559"
+        }
+    ],
+    "short_description": "Does your pet also live in your room? With the Pets DLC you can add animals, toys and accessories to your room. Choose your furry friend from the 16 breeds of dogs and cats featured in the DLC. In addition to dogs and cats, you can choose from fish, parrots, hamsters and even a lizard.",
+    "steam_appid": 2637930,
+    "support_info": {
+        "email": "mydreamsetup01@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English, French, German, Spanish - Spain, Ukrainian, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Turkish, Italian, Swedish",
+    "type": "dlc",
+    "website": null
+}

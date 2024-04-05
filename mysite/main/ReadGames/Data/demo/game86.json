@@ -1,0 +1,90 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/page_bg_generated_v6b.jpg?t=1697685720",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/page_bg_generated.jpg?t=1697685720",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/capsule_231x87.jpg?t=1697685720",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/capsule_184x69.jpg?t=1697685720",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Game demo",
+            "id": 10
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "developers": [
+        "Dustrider Studios"
+    ],
+    "fullgame": {
+        "appid": "2650290",
+        "name": "Dragon Hop"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/header.jpg?t=1697685720",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Dragon Hop Demo",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Dustrider Studios"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 16, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_5f69f288c9b06a93de1f0110eb11ec496ca5d47a.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_5f69f288c9b06a93de1f0110eb11ec496ca5d47a.600x338.jpg?t=1697685720"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_5d30319858a4ce56a2fc47737f01ba3ebcf08d6a.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_5d30319858a4ce56a2fc47737f01ba3ebcf08d6a.600x338.jpg?t=1697685720"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_e14feeb59f9d329e7315f9aa5b306662a455d07e.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_e14feeb59f9d329e7315f9aa5b306662a455d07e.600x338.jpg?t=1697685720"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_153f21d60c09415973df8d774c957998c0341e33.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_153f21d60c09415973df8d774c957998c0341e33.600x338.jpg?t=1697685720"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_f2677b25c42134b9730675bce21a660ad9358e60.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_f2677b25c42134b9730675bce21a660ad9358e60.600x338.jpg?t=1697685720"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_646d8f35173004bbf3cf7f842c261daa140b1a58.1920x1080.jpg?t=1697685720",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2650310/ss_646d8f35173004bbf3cf7f842c261daa140b1a58.600x338.jpg?t=1697685720"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2650310,
+    "support_info": {
+        "email": "dustriderstudios@gmail.com",
+        "url": ""
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "demo",
+    "website": null
+}

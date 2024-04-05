@@ -1,0 +1,149 @@
+{
+    "about_the_game": "You will face the attack of black squares, and you can only dodge. In this unstoppable game, break the limits of humanity!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/page_bg_generated_v6b.jpg?t=1699524088",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/page_bg_generated.jpg?t=1699524088",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/capsule_231x87.jpg?t=1699524088",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/capsule_184x69.jpg?t=1699524088",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "You will face the attack of black squares, and you can only dodge. In this unstoppable game, break the limits of humanity!",
+    "developers": [
+        "liang wei qi"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/header.jpg?t=1699524088",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256975941,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975941/movie480.mp4?t=1698191365",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975941/movie_max.mp4?t=1698191365"
+            },
+            "name": "trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256975941/movie.293x165.jpg?t=1698191365",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256975941/movie480_vp9.webm?t=1698191365",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256975941/movie_max_vp9.webm?t=1698191365"
+            }
+        }
+    ],
+    "name": "Block Games:Avoid",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Block Games:Avoid - $0.99",
+                    "packageid": 944902,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 99
+                }
+            ],
+            "title": "Buy Block Games:Avoid"
+        }
+    ],
+    "packages": [
+        944902
+    ],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windexs Vista<br></li><li><strong>Processor:</strong> Intel Core i7-2600 or AMD FX-8350<br></li><li><strong>Memory:</strong> 700 MB RAM<br></li><li><strong>Graphics:</strong> There are not too many restrictions<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Sound Card:</strong> There are not too many restrictions<br></li><li><strong>VR Support:</strong> not have<br></li><li><strong>Additional Notes:</strong> The game can only be played with a keyboard</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 99,
+        "final_formatted": "$0.99",
+        "initial": 99,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        "liang wei qi"
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Nov 9, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_d24832b98516ea3d188abf99ae8265d60e882673.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_d24832b98516ea3d188abf99ae8265d60e882673.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_e728075948828d817423e87fa4e9ac98fb569717.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_e728075948828d817423e87fa4e9ac98fb569717.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_bc16fc627efe65584b258c8e2e8c22187f2fa07c.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_bc16fc627efe65584b258c8e2e8c22187f2fa07c.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_d1b6b92af515e8c0ca08d89c7a72b283297be4b3.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_d1b6b92af515e8c0ca08d89c7a72b283297be4b3.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_5fa7a84c9eae34f0c0595712e262a7efe9e82675.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_5fa7a84c9eae34f0c0595712e262a7efe9e82675.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 5,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_66162aa5757434a076b9983c3ee0e78cb87551ff.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_66162aa5757434a076b9983c3ee0e78cb87551ff.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 6,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_f68b07a6228645c9c24b2a6ed76fcce4d6e5fcbd.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_f68b07a6228645c9c24b2a6ed76fcce4d6e5fcbd.600x338.jpg?t=1699524088"
+        },
+        {
+            "id": 7,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_172e14e4c627e99cdd71b0d5b3aa2bff25d0c3d8.1920x1080.jpg?t=1699524088",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634960/ss_172e14e4c627e99cdd71b0d5b3aa2bff25d0c3d8.600x338.jpg?t=1699524088"
+        }
+    ],
+    "short_description": "This is a minimalist block type game that tests reaction and perseverance. In order to achieve extreme minimalism, after trying many elements, I chose to use blocks as the main element. Go manipulate the blocks to avoid more blocks! Go challenge your limits!",
+    "steam_appid": 2634960,
+    "support_info": {
+        "email": "1652393705@qq.com",
+        "url": "\u65e0"
+    },
+    "supported_languages": "English, Simplified Chinese",
+    "type": "game",
+    "website": null
+}

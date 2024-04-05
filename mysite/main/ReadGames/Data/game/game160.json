@@ -1,0 +1,105 @@
+{
+    "about_the_game": "Embark on an epic journey into the world of &quot;Epic Monster Quest,&quot; a thrilling third-person roguelite adventure that will test your skills, strategy, and courage. As a brave hero, you must conquer challenging stages, battle fearsome creatures, and unlock the secrets of a mysterious realm.<h2 class=\"bb_tag\">Key Features</h2><br>\ud83c\udf1f Roguelite Adventure: Dive into a dynamic, ever-changing world where each playthrough is a unique experience. Will you survive the deadly challenges and reach the ultimate goal?<br><br>\ud83d\udd2e Randomized Themes: Explore diverse and captivating environments, each with its own theme. From ancient forests to treacherous dungeons, your path is full of surprises.<br><br>\ud83d\udde1\ufe0f Heroic Battles: Face off against hordes of monstrous foes, each meticulously designed to fit their respective theme. Adapt your tactics as you progress and become a legendary warrior.<br><br>\ud83d\udcc8 Scaling Difficulty: Your journey becomes more challenging as you grow stronger. The game intelligently adjusts enemy health and damage to ensure a satisfying and ever-evolving gameplay experience.<br><br>\ud83c\udfc6 Progression and Rewards: Complete stages and earn rewards to upgrade your hero. Customize your character's abilities and gear to match your preferred playstyle.<br><br>\ud83c\udf0d Global Leaderboards: Compete with players from around the world and prove your skills by climbing the global leaderboards.<br><br>&quot;Epic Monster Quest&quot; is a free-to-play adventure that offers endless hours of excitement and challenge. Will you rise to become a legendary hero, or fall victim to the relentless monsters that await? The quest begins now!<br><br>Join the adventure today and prepare to face the unknown in &quot;Epic Monster Quest.&quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/page_bg_generated_v6b.jpg?t=1696954448",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/page_bg_generated.jpg?t=1696954448",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/capsule_231x87.jpg?t=1696954448",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/capsule_184x69.jpg?t=1696954448",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "MMO",
+            "id": 20
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on an epic journey into the world of &quot;Epic Monster Quest,&quot; a thrilling third-person roguelite adventure that will test your skills, strategy, and courage. As a brave hero, you must conquer challenging stages, battle fearsome creatures, and unlock the secrets of a mysterious realm.<h2 class=\"bb_tag\">Key Features</h2><br>\ud83c\udf1f Roguelite Adventure: Dive into a dynamic, ever-changing world where each playthrough is a unique experience. Will you survive the deadly challenges and reach the ultimate goal?<br><br>\ud83d\udd2e Randomized Themes: Explore diverse and captivating environments, each with its own theme. From ancient forests to treacherous dungeons, your path is full of surprises.<br><br>\ud83d\udde1\ufe0f Heroic Battles: Face off against hordes of monstrous foes, each meticulously designed to fit their respective theme. Adapt your tactics as you progress and become a legendary warrior.<br><br>\ud83d\udcc8 Scaling Difficulty: Your journey becomes more challenging as you grow stronger. The game intelligently adjusts enemy health and damage to ensure a satisfying and ever-evolving gameplay experience.<br><br>\ud83c\udfc6 Progression and Rewards: Complete stages and earn rewards to upgrade your hero. Customize your character's abilities and gear to match your preferred playstyle.<br><br>\ud83c\udf0d Global Leaderboards: Compete with players from around the world and prove your skills by climbing the global leaderboards.<br><br>&quot;Epic Monster Quest&quot; is a free-to-play adventure that offers endless hours of excitement and challenge. Will you rise to become a legendary hero, or fall victim to the relentless monsters that await? The quest begins now!<br><br>Join the adventure today and prepare to face the unknown in &quot;Epic Monster Quest.&quot;",
+    "developers": [
+        "RedSoup Studio"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Adventure",
+            "id": "25"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/header.jpg?t=1696954448",
+    "is_free": true,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Epic Monster Quest",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> 64-bit Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        " RedSoup Studio"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_c5d59558b38bbc76949f3ea7d3fde015dfabbefe.1920x1080.jpg?t=1696954448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_c5d59558b38bbc76949f3ea7d3fde015dfabbefe.600x338.jpg?t=1696954448"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_9bd4755fe9fbaaa96de5d394b6ef1ae89734b738.1920x1080.jpg?t=1696954448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_9bd4755fe9fbaaa96de5d394b6ef1ae89734b738.600x338.jpg?t=1696954448"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_ebf16ba32f4a0c25090a91fe7f16c4c1d13411b7.1920x1080.jpg?t=1696954448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_ebf16ba32f4a0c25090a91fe7f16c4c1d13411b7.600x338.jpg?t=1696954448"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_d6c1464fe9ce7ffb689ed9321de32462af7d373f.1920x1080.jpg?t=1696954448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_d6c1464fe9ce7ffb689ed9321de32462af7d373f.600x338.jpg?t=1696954448"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_d74f40bb25a404297a2c0ec797dc3748132157b0.1920x1080.jpg?t=1696954448",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2638140/ss_d74f40bb25a404297a2c0ec797dc3748132157b0.600x338.jpg?t=1696954448"
+        }
+    ],
+    "short_description": "Join the quest, conquer themed stages, and battle epic monsters! Test your skills in the ever-changing world of Epic Monster Quest - a roguelite adventure like no other!",
+    "steam_appid": 2638140,
+    "support_info": {
+        "email": "support@redsoupstudio.com",
+        "url": "redsoupstudio.com"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": null
+}

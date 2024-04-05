@@ -1,0 +1,63 @@
+{
+    "about_the_game": "The complete soundtrack for Shinogi Chess Club 2: Resistance, written and produced by Matt Enad, solo developer at RobProductions. Includes nearly 5 hours of original music scored specifically for this sequel! This release contains the full versions of tracks made for cutscenes, and looping versions of the tracks built for the Shinogi Chess, novel, and exploration segments. Mp3 files are provided in addition to high-quality FLAC exports for all songs.<br />\r\n<br />\r\nThis OST features a variety of moods and themes which accompany Himiko's journey as she tracks down her missing mother. The motifs of certain characters are repeated across multiple songs during key moments of the game, and the instrumentation highlights common musical ideas which emphasize each chapter. From the smooth piano melodies featured in Takane's match to the distorted electronic sounds of the flashback sequence, this soundtrack is RobProductions' most involved accompaniment to date! Disc 1 contains story and cutscene music from all 4 chapters, along with the menu and credits themes. Disc 2 contains the Shinogi Chess theme music from all of the opponent matches.",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/page_bg_generated_v6b.jpg?t=1704820183",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/page_bg_generated.jpg?t=1704820183",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/capsule_231x87.jpg?t=1704820183",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/capsule_184x69.jpg?t=1704820183",
+    "categories": [
+        {
+            "description": "Additional High-Quality Audio",
+            "id": 50
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "<h1>More Music</h1><p><a href=\"https://store.steampowered.com/app/1919300\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1919300</a></p><br><h1>About the Game</h1>The complete soundtrack for Shinogi Chess Club 2: Resistance, written and produced by Matt Enad, solo developer at RobProductions. Includes nearly 5 hours of original music scored specifically for this sequel! This release contains the full versions of tracks made for cutscenes, and looping versions of the tracks built for the Shinogi Chess, novel, and exploration segments. Mp3 files are provided in addition to high-quality FLAC exports for all songs.<br><br>This OST features a variety of moods and themes which accompany Himiko's journey as she tracks down her missing mother. The motifs of certain characters are repeated across multiple songs during key moments of the game, and the instrumentation highlights common musical ideas which emphasize each chapter. From the smooth piano melodies featured in Takane's match to the distorted electronic sounds of the flashback sequence, this soundtrack is RobProductions' most involved accompaniment to date! Disc 1 contains story and cutscene music from all 4 chapters, along with the menu and credits themes. Disc 2 contains the Shinogi Chess theme music from all of the opponent matches.",
+    "developers": [
+        "RobProductions"
+    ],
+    "fullgame": {
+        "appid": "2299430",
+        "name": "Shinogi Chess Club 2: Resistance"
+    },
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/header.jpg?t=1704820183",
+    "is_free": false,
+    "legal_notice": "\u00a9RobProductions 2024",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Shinogi Chess Club 2 - Soundtrack",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 2 GB available space<br></li><li><strong>Additional Notes:</strong> Optional high-quality FLAC audio provided</li></ul>"
+    },
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "publishers": [
+        "RobProductions"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Jan 29, 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/ss_857c5fdd1a86de7a03e916b7d282ade94deba0d6.1920x1080.jpg?t=1704820183",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2634490/ss_857c5fdd1a86de7a03e916b7d282ade94deba0d6.600x338.jpg?t=1704820183"
+        }
+    ],
+    "short_description": "The complete soundtrack for Shinogi Chess Club 2: Resistance, written and produced by Matt Enad. Includes nearly 5 hours of original music composed for the Shinogi Chess segments and novel scenes! Mp3 files are provided in addition to high-quality FLAC formats.",
+    "steam_appid": 2634490,
+    "support_info": {
+        "email": "robproductionsgames@gmail.com",
+        "url": "https://twitter.com/robproductions"
+    },
+    "type": "music",
+    "website": null
+}

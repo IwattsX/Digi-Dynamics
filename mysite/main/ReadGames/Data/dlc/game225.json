@@ -1,0 +1,161 @@
+{
+    "about_the_game": "&quot;Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook<br> <br>  <br> Is Your Mind Your Own? <br> It's one thing to face foes like ravenous beasts, fire-breathing dragons, and marauding monsters, but what about ghosts that can hop from body to body? How do you face a fiend that's using an innocent pawn as a proxy for its evil? Are there ways being haunted could be turned to your advantage? Prepare yourself for the answers to these questions and more as you explore what it's like to be a haunted hero! <br> Inside this book, you'll find: <br><ul class=\"bb_ul\"> <li> New archetypes, feats, and traits that build upon your character's past and explore eerie powers gained from being haunted by spirits. <br> </li><li> Rules for a new category of magic: haunted spells, which operate in ghostly ways to mimic the sinister manifestation of haunts. <br> </li><li> An exploration of how different faiths of the Inner Sea region and beyond deal with haunts and the influence of the spirit world. </li></ul>  This Pathfinder Player Companion is intended for use with the Pathfinder Roleplaying Game and the Pathfinder campaign setting, but can be easily incorporated into any fantasy world. <br>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and Features the Following additions: <br>  <br><ul class=\"bb_ul\"> <li> All maps resized and set up with a preset grid to make combats easy to manage <br> </li><li> Individual area descriptions linked to maps, containing new encounters, treasure parcels and descriptions for just that area <br> </li><li> Tokens for each encounter are pre-placed in starting locations on the map. You can edit these on the fly <br> </li><li> Drag and drop treasure parcels and Encounter XP that is easily awarded to your players to keep the game moving ahead </li><li> All the images and handouts from the book available to share with your players as you need them </li></ul>&quot;",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/page_bg_generated_v6b.jpg?t=1698155139",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/page_bg_generated.jpg?t=1698155139",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/capsule_231x87.jpg?t=1698155139",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/capsule_184x69.jpg?t=1698155139",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "LAN Co-op",
+            "id": 48
+        },
+        {
+            "description": "Shared/Split Screen Co-op",
+            "id": 39
+        },
+        {
+            "description": "Shared/Split Screen",
+            "id": 24
+        },
+        {
+            "description": "Cross-Platform Multiplayer",
+            "id": 27
+        },
+        {
+            "description": "Downloadable Content",
+            "id": 21
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "&quot;Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook<br> <br>  <br> Is Your Mind Your Own? <br> It's one thing to face foes like ravenous beasts, fire-breathing dragons, and marauding monsters, but what about ghosts that can hop from body to body? How do you face a fiend that's using an innocent pawn as a proxy for its evil? Are there ways being haunted could be turned to your advantage? Prepare yourself for the answers to these questions and more as you explore what it's like to be a haunted hero! <br> Inside this book, you'll find: <br><ul class=\"bb_ul\"> <li> New archetypes, feats, and traits that build upon your character's past and explore eerie powers gained from being haunted by spirits. <br> </li><li> Rules for a new category of magic: haunted spells, which operate in ghostly ways to mimic the sinister manifestation of haunts. <br> </li><li> An exploration of how different faiths of the Inner Sea region and beyond deal with haunts and the influence of the spirit world. </li></ul>  This Pathfinder Player Companion is intended for use with the Pathfinder Roleplaying Game and the Pathfinder campaign setting, but can be easily incorporated into any fantasy world. <br>This product is not a PDF or accessible outside of Fantasy Grounds. It has been lovingly converted for use within Fantasy Grounds and Features the Following additions: <br>  <br><ul class=\"bb_ul\"> <li> All maps resized and set up with a preset grid to make combats easy to manage <br> </li><li> Individual area descriptions linked to maps, containing new encounters, treasure parcels and descriptions for just that area <br> </li><li> Tokens for each encounter are pre-placed in starting locations on the map. You can edit these on the fly <br> </li><li> Drag and drop treasure parcels and Encounter XP that is easily awarded to your players to keep the game moving ahead </li><li> All the images and handouts from the book available to share with your players as you need them </li></ul>&quot;",
+    "developers": [
+        "SmiteWorks USA, LLC"
+    ],
+    "fullgame": {
+        "appid": "1196310",
+        "name": "Fantasy Grounds Unity"
+    },
+    "genres": [
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "RPG",
+            "id": "3"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/header.jpg?t=1698155139",
+    "is_free": false,
+    "legal_notice": "Fantasy Grounds is copyright SmiteWorks USA LLC, 2004-2023. All Rights Reserved.",
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook",
+    "package_groups": [
+        {
+            "description": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "name": "default",
+            "save_text": "",
+            "selection_text": "Select a purchase option",
+            "subs": [
+                {
+                    "can_get_free_license": "0",
+                    "is_free_license": false,
+                    "option_description": "",
+                    "option_text": "Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook - $14.99",
+                    "packageid": 945220,
+                    "percent_savings": 0,
+                    "percent_savings_text": " ",
+                    "price_in_cents_with_discount": 1499
+                }
+            ],
+            "title": "Buy Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook"
+        }
+    ],
+    "packages": [
+        945220
+    ],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": true,
+        "mac": true,
+        "windows": true
+    },
+    "price_overview": {
+        "currency": "USD",
+        "discount_percent": 0,
+        "final": 1499,
+        "final_formatted": "$14.99",
+        "initial": 1499,
+        "initial_formatted": ""
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Oct 24, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_18172f1c8ff25f14fc55c04f9a238c7f3f96b06d.1920x1080.jpg?t=1698155139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_18172f1c8ff25f14fc55c04f9a238c7f3f96b06d.600x338.jpg?t=1698155139"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_883bf1a4e3194f0916ac3576f73f0646e711c3fa.1920x1080.jpg?t=1698155139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_883bf1a4e3194f0916ac3576f73f0646e711c3fa.600x338.jpg?t=1698155139"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_d175f3cd5f60d8b0798a33be597add3c20c151be.1920x1080.jpg?t=1698155139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_d175f3cd5f60d8b0798a33be597add3c20c151be.600x338.jpg?t=1698155139"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_4782e9e9ced298d6e9669124d4502935db86dff3.1920x1080.jpg?t=1698155139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_4782e9e9ced298d6e9669124d4502935db86dff3.600x338.jpg?t=1698155139"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_8efdfaea4ff0b09fe4fbb718939c0786ed1e648b.1920x1080.jpg?t=1698155139",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2635920/ss_8efdfaea4ff0b09fe4fbb718939c0786ed1e648b.600x338.jpg?t=1698155139"
+        }
+    ],
+    "short_description": "&quot;Pathfinder RPG - Pathfinder Companion: Haunted Heroes Handbook Is Your Mind Your Own? It's one thing to face foes like ravenous beasts, fire-breathing dragons, and marauding monsters, but what about ghosts that can hop from body to body? How do you face a fiend that's using an innocent pawn as a proxy for its evil?",
+    "steam_appid": 2635920,
+    "support_info": {
+        "email": "support@fantasygrounds.com",
+        "url": "support.fantasygrounds.com"
+    },
+    "supported_languages": "English",
+    "type": "dlc",
+    "website": null
+}

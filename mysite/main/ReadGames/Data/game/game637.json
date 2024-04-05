@@ -1,0 +1,134 @@
+{
+    "about_the_game": "Welcome to the thrilling world of Item Day! Get ready to experience an intense 1 vs 4 multiplayer hide and seek game where every move could mean the difference between life and death. <br><br>Try our BETA version and give us your feedback about the game to help us improving it.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335610/extras/TOP.png?t=1704962114\" /><br><br>As a survivor, you must use all your wits and cunning to turn yourself into an item on the map and outsmart the relentless killer. With limited resources at your disposal, you'll need to remove corruption from the map to weaken your pursuer and give yourself the best chance of survival. Will you make it out alive, or will the killer claim another victim?<br><br>But beware, as the little corrupted one, your goal is to hunt down and eliminate the survivors before they can escape. You must use every tool at your disposal, including buying in-game items to gain an edge over your prey. Will you emerge victorious, or will the survivors evade your grasp?<br><br>Collect Gold Coin as you play and unlock new characters, profile icons, and other exciting rewards! And with a Quick Match system that lets you jump into the action in seconds, and a complete lobby creation/search system, you'll always find plenty of players to battle it out with.<br><br>So come on in and join the action soon! Whether you're playing alone or with friends, Item Day offers a chill and immersive gaming experience that will keep you on the edge of your seat. Don't wait, start playing today!<br><br><strong>Discord</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335610/extras/DISCORD.png?t=1704962114\" /><br><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FCdmWAfayPC\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/CdmWAfayPC</a><br>Don't forget to join our Discord community, where you can chat with other players, share strategies, and stay up to date on the latest news and updates. <br>You can give us your feedback about this BETA here.<br><br><strong>WishList</strong><br>And if you haven't added Item Day to your wishlist yet, be sure to do so to stay in the loop on all the latest developments and updates. With new content and features being added all the time, you won't want to miss a thing!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/page_bg_generated_v6b.jpg?t=1704962114",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/page.bg.jpg?t=1704962114",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/capsule_231x87.jpg?t=1704962114",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/capsule_184x69.jpg?t=1704962114",
+    "categories": [
+        {
+            "description": "Multi-player",
+            "id": 1
+        },
+        {
+            "description": "Co-op",
+            "id": 9
+        },
+        {
+            "description": "Online Co-op",
+            "id": 38
+        },
+        {
+            "description": "Steam Achievements",
+            "id": 22
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Welcome to the thrilling world of Item Day! Get ready to experience an intense 1 vs 4 multiplayer hide and seek game where every move could mean the difference between life and death. <br><br>Try our BETA version and give us your feedback about the game to help us improving it.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335610/extras/TOP.png?t=1704962114\" /><br><br>As a survivor, you must use all your wits and cunning to turn yourself into an item on the map and outsmart the relentless killer. With limited resources at your disposal, you'll need to remove corruption from the map to weaken your pursuer and give yourself the best chance of survival. Will you make it out alive, or will the killer claim another victim?<br><br>But beware, as the little corrupted one, your goal is to hunt down and eliminate the survivors before they can escape. You must use every tool at your disposal, including buying in-game items to gain an edge over your prey. Will you emerge victorious, or will the survivors evade your grasp?<br><br>Collect Gold Coin as you play and unlock new characters, profile icons, and other exciting rewards! And with a Quick Match system that lets you jump into the action in seconds, and a complete lobby creation/search system, you'll always find plenty of players to battle it out with.<br><br>So come on in and join the action soon! Whether you're playing alone or with friends, Item Day offers a chill and immersive gaming experience that will keep you on the edge of your seat. Don't wait, start playing today!<br><br><strong>Discord</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2335610/extras/DISCORD.png?t=1704962114\" /><br><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FCdmWAfayPC\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/CdmWAfayPC</a><br>Don't forget to join our Discord community, where you can chat with other players, share strategies, and stay up to date on the latest news and updates. <br>You can give us your feedback about this BETA here.<br><br><strong>WishList</strong><br>And if you haven't added Item Day to your wishlist yet, be sure to do so to stay in the loop on all the latest developments and updates. With new content and features being added all the time, you won't want to miss a thing!",
+    "developers": [
+        "Elswhere Game"
+    ],
+    "genres": [
+        {
+            "description": "Action",
+            "id": "1"
+        },
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        },
+        {
+            "description": "Massively Multiplayer",
+            "id": "29"
+        },
+        {
+            "description": "Strategy",
+            "id": "2"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/header.jpg?t=1704962114",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256932590,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932590/movie480.mp4?t=1677611071",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932590/movie_max.mp4?t=1677611071"
+            },
+            "name": "ItemDay",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256932590/movie.293x165.jpg?t=1677611071",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256932590/movie480_vp9.webm?t=1677611071",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256932590/movie_max_vp9.webm?t=1677611071"
+            }
+        }
+    ],
+    "name": "ItemDay",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 960 or AMD equivalent with at least 4 GB of VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060 or AMD Radeon 570 with at least 6GB of VRAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Elswhere Game"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "To be announced"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_cf696e6067f0d60e4efc54a6e50e6317005a2544.1920x1080.jpg?t=1704962114",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_cf696e6067f0d60e4efc54a6e50e6317005a2544.600x338.jpg?t=1704962114"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_3f10b0012985c64984b3aa0f06ba7b4528c2c7dd.1920x1080.jpg?t=1704962114",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_3f10b0012985c64984b3aa0f06ba7b4528c2c7dd.600x338.jpg?t=1704962114"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_64cb410460b6cfdb1373d162d0b633be28ea2456.1920x1080.jpg?t=1704962114",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_64cb410460b6cfdb1373d162d0b633be28ea2456.600x338.jpg?t=1704962114"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_bd82adaff85e5d9efe3d1474cdabe4c15b995afe.1920x1080.jpg?t=1704962114",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_bd82adaff85e5d9efe3d1474cdabe4c15b995afe.600x338.jpg?t=1704962114"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_734ab2b32c4038b3bf0f22045986405f729abcfa.1920x1080.jpg?t=1704962114",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2335610/ss_734ab2b32c4038b3bf0f22045986405f729abcfa.600x338.jpg?t=1704962114"
+        }
+    ],
+    "short_description": "Try to survive in ItemDay, an asymmetric multiplayer hide-and-seek game",
+    "steam_appid": 2335610,
+    "support_info": {
+        "email": "itemdaygame@gmail.com",
+        "url": "https://itemday.fr"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "type": "game",
+    "website": "https://itemday.fr"
+}

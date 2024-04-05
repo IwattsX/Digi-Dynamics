@@ -1,0 +1,47 @@
+{
+    "about_the_game": "",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/page_bg_generated_v6b.jpg?t=1681949124",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/page.bg.jpg?t=1681949124",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/capsule_231x87.jpg?t=1681949124",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/capsule_184x69.jpg?t=1681949124",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/header.jpg?t=1681949124",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "name": "Tile Deck TD (TD;TD) Playtest",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "release_date": {
+        "coming_soon": false,
+        "date": "Apr 19, 2023"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/ss_91b34ccc79424992f346d844cefe3f7673612ca7.1920x1080.jpg?t=1681949124",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2337750/ss_91b34ccc79424992f346d844cefe3f7673612ca7.600x338.jpg?t=1681949124"
+        }
+    ],
+    "short_description": "",
+    "steam_appid": 2337750,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "game",
+    "website": null
+}

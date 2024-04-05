@@ -1,0 +1,109 @@
+{
+    "about_the_game": "Embark on a heartwarming journey with Yard Sale, an enchanting game that combines the excitement of treasure hunting with the sentimentality of family memories. Join the lively family as they embark on a quest to organize the ultimate yard sale, aiming to raise money for their dream escapade to Paris. As you meticulously arrange items and interact with a diverse range of customers, you'll gradually unearth hidden gems tucked away in the family's own backyard.<br />\r\n<br />\r\nBut Yard Sale offers more than just material discoveries. With each treasure found, you'll unravel a tapestry of family stories, each item holding a piece of the family's history and evoking cherished memories. As you dig deeper into the past, you'll not only help the family achieve their Parisian dream but also contribute to the emotional journey of reliving their most meaningful moments.<br />\r\n<br />\r\nWith an abundance of heart and a touch of nostalgia, Yard Sale immerses players in a world where uncovering forgotten treasures goes hand in hand with rediscovering the warmth of family connections. Whether you're piecing together artifacts, interacting with inquisitive customers, or simply basking in the cozy atmosphere of the family's yard, this game promises hours of joy, nostalgia, and the thrill of exploration. Get ready to embark on an unforgettable adventure that celebrates both the material and emotional riches of life.<br />\r\n<br />\r\nKey Game Features <br />\r\n<br />\r\n3 modes of hidden object games!<br />\r\nJigsaw, Swap and Rotate Puzzles!<br />\r\nBeautiful scenarios!<br />\r\nFind treasures!",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/page_bg_generated_v6b.jpg?t=1704318819",
+    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/page_bg_generated.jpg?t=1704318819",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/capsule_231x87.jpg?t=1704318819",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/capsule_184x69.jpg?t=1704318819",
+    "categories": [
+        {
+            "description": "Single-player",
+            "id": 2
+        },
+        {
+            "description": "Steam Cloud",
+            "id": 23
+        }
+    ],
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "Embark on a heartwarming journey with Yard Sale, an enchanting game that combines the excitement of treasure hunting with the sentimentality of family memories. Join the lively family as they embark on a quest to organize the ultimate yard sale, aiming to raise money for their dream escapade to Paris. As you meticulously arrange items and interact with a diverse range of customers, you'll gradually unearth hidden gems tucked away in the family's own backyard.<br />\r\n<br />\r\nBut Yard Sale offers more than just material discoveries. With each treasure found, you'll unravel a tapestry of family stories, each item holding a piece of the family's history and evoking cherished memories. As you dig deeper into the past, you'll not only help the family achieve their Parisian dream but also contribute to the emotional journey of reliving their most meaningful moments.<br />\r\n<br />\r\nWith an abundance of heart and a touch of nostalgia, Yard Sale immerses players in a world where uncovering forgotten treasures goes hand in hand with rediscovering the warmth of family connections. Whether you're piecing together artifacts, interacting with inquisitive customers, or simply basking in the cozy atmosphere of the family's yard, this game promises hours of joy, nostalgia, and the thrill of exploration. Get ready to embark on an unforgettable adventure that celebrates both the material and emotional riches of life.<br />\r\n<br />\r\nKey Game Features <br />\r\n<br />\r\n3 modes of hidden object games!<br />\r\nJigsaw, Swap and Rotate Puzzles!<br />\r\nBeautiful scenarios!<br />\r\nFind treasures!",
+    "developers": [
+        "Seven Sails Games"
+    ],
+    "genres": [
+        {
+            "description": "Casual",
+            "id": "4"
+        },
+        {
+            "description": "Indie",
+            "id": "23"
+        }
+    ],
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/header.jpg?t=1704318819",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": true,
+            "id": 256990921,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990921/movie480.mp4?t=1704318810",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990921/movie_max.mp4?t=1704318810"
+            },
+            "name": "Gameplay trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256990921/movie.293x165.jpg?t=1704318810",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256990921/movie480_vp9.webm?t=1704318810",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256990921/movie_max_vp9.webm?t=1704318810"
+            }
+        }
+    ],
+    "name": "Yard Sale",
+    "package_groups": [],
+    "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0</li></ul>"
+    },
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        "Seven Sails Games"
+    ],
+    "release_date": {
+        "coming_soon": true,
+        "date": "Q2 2024"
+    },
+    "required_age": 0,
+    "screenshots": [
+        {
+            "id": 0,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_b504649d20c8db2d3592599d3c88ec354d629384.1920x1080.jpg?t=1704318819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_b504649d20c8db2d3592599d3c88ec354d629384.600x338.jpg?t=1704318819"
+        },
+        {
+            "id": 1,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_ca66837c82f68190deec4c6f90763850a993d8c4.1920x1080.jpg?t=1704318819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_ca66837c82f68190deec4c6f90763850a993d8c4.600x338.jpg?t=1704318819"
+        },
+        {
+            "id": 2,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_a223c39724aea62eccde61c68994a0b1e9b27bf4.1920x1080.jpg?t=1704318819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_a223c39724aea62eccde61c68994a0b1e9b27bf4.600x338.jpg?t=1704318819"
+        },
+        {
+            "id": 3,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_1f8eb4e4b121d3658466c5c56d5dd8884c171aad.1920x1080.jpg?t=1704318819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_1f8eb4e4b121d3658466c5c56d5dd8884c171aad.600x338.jpg?t=1704318819"
+        },
+        {
+            "id": 4,
+            "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_d54ad83da940fff8def42ad4cc5907b17dd225cd.1920x1080.jpg?t=1704318819",
+            "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2736430/ss_d54ad83da940fff8def42ad4cc5907b17dd225cd.600x338.jpg?t=1704318819"
+        }
+    ],
+    "short_description": "Yard Sale is a charming hidden object game where you assist a family in organizing a yard sale to fund their dream trip to Paris, while also uncovering buried treasures and reliving precious family memories.",
+    "steam_appid": 2736430,
+    "support_info": {
+        "email": "contact@sevensails.com.br",
+        "url": ""
+    },
+    "supported_languages": "English",
+    "type": "game",
+    "website": null
+}
