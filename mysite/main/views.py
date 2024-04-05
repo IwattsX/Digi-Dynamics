@@ -39,7 +39,7 @@ def GamesSearchHandler(response, searchBy: str, games : list):
         
         genres_regex = ""
         for i, genre in enumerate(genres):
-            genres_regex += f"({genre})"
+            genres_regex += f"{genre}"
             if i == len(genres) - 1:
                 break
             genres_regex += "|"
