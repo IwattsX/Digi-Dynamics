@@ -36,55 +36,49 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        function hideAll(listOfThingsToHide){
-            for(thingToHide of listOfThingsToHide){
-                $(thingToHide).hide();
-            }
+        function hideAll(){
+            $(".nameSearch, .yearSearch, .priceSearch, .Genres").hide();
         }
 
         $(document).ready(function(){
+            hideAll();
+            $(".nameSearch").show();
+        $('.searchBy').change(function(){
+            var selectedOption = $(this).val();
 
-            let AllplaceHolders = ["#placeholderPrice", "#placeholderYear", "#GameGenres"];
-            hideAll(AllplaceHolders);
+            hideAll();
 
-
-            $('#searchBy').change(function(){
-                var selectedOption = $(this).val();
-                if(selectedOption === 'name'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Game Name');
+            if(selectedOption === 'name'){
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Game Name');
 
                 } 
                 else if(selectedOption === 'genre'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#GameGenres').show();
-                    //$('#placeholderName').attr('placeholder', 'Enter Genre');
+                    $('.Genres').show();
                 } 
                 else if(selectedOption === 'publisher'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Publisher');
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Publisher');
                 } 
                 else if(selectedOption === 'developer'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Developer');
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Developer');
                 } 
                 else if(selectedOption === 'price'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#placeholderPrice').show();
+                    $('.priceSearch').show();
                 } 
                 else if(selectedOption === 'dateyear'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#placeholderYear').show();
+                    $('.yearSearch').show();
                 }
-            });
+
+
+
         });
+    });
+
+        
     </script>
+
 
 </head>
         <div>
