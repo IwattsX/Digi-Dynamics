@@ -82,15 +82,7 @@ class Music(forms.Form):
     SearchBy = forms.ChoiceField(choices=MusicSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-<<<<<<< Updated upstream
-                                            'id': 'searchByMusic'
-=======
-<<<<<<< HEAD
                                             "class" : 'searchBy',
-=======
-                                            'id': 'searchByMusic'
->>>>>>> c7f5f83203db794b03223e3335c0cd65ca11cae8
->>>>>>> Stashed changes
                                             }
                                         )
                                 )
@@ -137,15 +129,7 @@ class DLC(forms.Form):
     SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-<<<<<<< Updated upstream
-                                            'id': 'searchByDLC'
-=======
-<<<<<<< HEAD
                                             "class" : 'searchBy',
-=======
-                                            'id': 'searchByDLC'
->>>>>>> c7f5f83203db794b03223e3335c0cd65ca11cae8
->>>>>>> Stashed changes
                                             }
                                         )
                                 )
@@ -183,15 +167,7 @@ class Demo(forms.Form):
     genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
                                        widget=forms.CheckboxSelectMultiple(
         attrs={
-<<<<<<< Updated upstream
-            "id" : "Game Genres",
-=======
-<<<<<<< HEAD
             "class" : "Genres",
-=======
-            "id" : "Game Genres",
->>>>>>> c7f5f83203db794b03223e3335c0cd65ca11cae8
->>>>>>> Stashed changes
             # "style": "display:none;",
         }
         ),
@@ -201,15 +177,7 @@ class Demo(forms.Form):
     SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-<<<<<<< Updated upstream
-                                            'id': 'searchByDemo'
-=======
-<<<<<<< HEAD
                                             "class" : 'searchBy',
-=======
-                                            'id': 'searchByDemo'
->>>>>>> c7f5f83203db794b03223e3335c0cd65ca11cae8
->>>>>>> Stashed changes
                                             }
                                         )
                                 )
