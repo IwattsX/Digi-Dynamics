@@ -62,6 +62,38 @@ class Music(forms.Form):
         ),
     )
 
+    year = forms.IntegerField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter year",
+                "pattern" : "([0-9]{4})",
+                "title" : "Must be in YYYY format",
+                "id" : "placeholderYear",
+            }
+        ),
+    )
+
+    price = forms.FloatField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter price",
+                "pattern" : "[0-9]*(?:\\.[0-9]{2})?",
+                "title" : "Input should be x.xx",
+                "id" : "placeholderPrice",
+            }
+        ),
+    )
+
+    # The display:none is a way I was trying to do the .hide() .show() earlier, however Jquery solved this
+    genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
+                                       widget=forms.CheckboxSelectMultiple(
+        attrs={
+            "id" : "GameGenres",
+            # "style": "display:none;",
+        }
+        ),
+    )
+
     SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
