@@ -1,5 +1,5 @@
 from django import forms
-from .choices import GameSearch_CHOICES, GENRE_CHOICES
+from .choices import GameSearch_CHOICES, GENRE_CHOICES, MusicSearch_CHOICES, DemoSearch_CHOICES, DlcSearch_CHOICES
 
 
 class Games(forms.Form):
@@ -84,17 +84,7 @@ class Music(forms.Form):
         ),
     )
 
-    # The display:none is a way I was trying to do the .hide() .show() earlier, however Jquery solved this
-    genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
-                                       widget=forms.CheckboxSelectMultiple(
-        attrs={
-            "id" : "GameGenres",
-            # "style": "display:none;",
-        }
-        ),
-    )
-
-    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+    SearchBy = forms.ChoiceField(choices=MusicSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
                                             'id': 'searchBy'
@@ -111,7 +101,39 @@ class DLC(forms.Form):
             }
         ),
     )
-    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+    year = forms.IntegerField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter year",
+                "pattern" : "([0-9]{4})",
+                "title" : "Must be in YYYY format",
+                "id" : "placeholderYear",
+            }
+        ),
+    )
+
+    price = forms.FloatField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter price",
+                "pattern" : "[0-9]*(?:\\.[0-9]{2})?",
+                "title" : "Input should be x.xx",
+                "id" : "placeholderPrice",
+            }
+        ),
+    )
+
+    # The display:none is a way I was trying to do the .hide() .show() earlier, however Jquery solved this
+    genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
+                                       widget=forms.CheckboxSelectMultiple(
+        attrs={
+            "id" : "GameGenres",
+            # "style": "display:none;",
+        }
+        ),
+    )
+
+    SearchBy = forms.ChoiceField(choices=DlcSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
                                             'id': 'searchBy'
@@ -129,8 +151,39 @@ class Demo(forms.Form):
             }
         ),
     )
+    year = forms.IntegerField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter year",
+                "pattern" : "([0-9]{4})",
+                "title" : "Must be in YYYY format",
+                "id" : "placeholderYear",
+            }
+        ),
+    )
 
-    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+    price = forms.FloatField(label="", required=False, widget=forms.TextInput(
+            attrs={
+                "class": "searchForm",
+                "placeholder": "Enter price",
+                "pattern" : "[0-9]*(?:\\.[0-9]{2})?",
+                "title" : "Input should be x.xx",
+                "id" : "placeholderPrice",
+            }
+        ),
+    )
+
+    # The display:none is a way I was trying to do the .hide() .show() earlier, however Jquery solved this
+    genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
+                                       widget=forms.CheckboxSelectMultiple(
+        attrs={
+            "id" : "GameGenres",
+            # "style": "display:none;",
+        }
+        ),
+    )
+
+    SearchBy = forms.ChoiceField(choices=DemoSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
                                             'id': 'searchBy'

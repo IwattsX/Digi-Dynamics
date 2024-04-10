@@ -16,3 +16,29 @@ GENRE_CHOICES = (
     ("rpg", "RPG"),
     ("strategy", "Strategy"),
 )
+
+MusicSearch_CHOICES = (
+        ('name', 'Name'),
+        ('publisher', 'Publisher'),
+        ('developer', 'Developer'),
+        ('price', 'Price'),
+        ('dateyear', 'Date (Year)'),
+)
+DemoSearch_CHOICES = (
+        ('name', 'Name'),
+        ('genre', 'Genre'),
+        ('publisher', 'Publisher'),
+        ('developer', 'Developer'),
+        ('price', 'Price'),
+        ('dateyear', 'Date (Year)'),
+    )
+DlcSearch_CHOICES = (
+        ('name', 'Name'),
+        ('genre', 'Genre'),
+        ('publisher', 'Publisher'),
+        ('developer', 'Developer'),
+        ('price', 'Price'),
+        ('dateyear', 'Date (Year)'),
+    )
+
+
