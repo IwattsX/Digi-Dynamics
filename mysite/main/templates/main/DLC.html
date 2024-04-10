@@ -4,18 +4,30 @@
 {% block title%} SS_DLC {% endblock %}
 
 {% block content %}
-    <body onload="dlcActive()">
-        <div class="container-fluid">
-            <div style="padding: 10px;" >
-                <form method="get" actions="/games/">
-                    {% csrf_token %}
-                    {{ form.as_ul }}
-
-                    <button class="button" type="submit" name="Search" style=> SEARCH </button>
-                </form>
-            </div>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            dlcActive();
+        });
+    </script>
+    <div class="container-fluid">
+        <div style="padding: 10px;" >
+            <form class = "searchbar" method="get" actions="/games/">
+                {% csrf_token %}
+                {{ form.as_p }}
+                {% comment %} <select class="genreTag" style="height:25px;width:70px">
+                    <option value="N">Name</option>
+                    <option value="G">Genre</option>
+                    <option value="P">Publisher</option>
+                    <option value="D">Developer</option>
+                    <option value="Pr">Price</option>
+                    <option value="Y">Date (Year)</option>
+                </select>{% endcomment %}
+                <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button> 
+            </form>
         </div>
-    </body>
+    </div>
+</body>
 {% endblock %}
 
 {% block middleCol %}

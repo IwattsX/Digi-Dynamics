@@ -54,13 +54,22 @@ class Games(forms.Form):
     #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class Music(forms.Form):
-    name = forms.CharField(label="Song name", max_length=200, widget=forms.TextInput(
+    name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
             attrs={
                 "class": "searchForm",
                 "placeholder": "Enter Soundtrack Name",
             }
         ),
     )
+
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+                                    widget=forms.Select(
+                                         attrs={
+                                            'id': 'searchBy'
+                                            }
+                                        )
+                                )
+    #NSFW = forms.BooleanField(required=False, label="NSFW")
 
 class DLC(forms.Form):
     name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
@@ -70,6 +79,15 @@ class DLC(forms.Form):
             }
         ),
     )
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+                                    widget=forms.Select(
+                                         attrs={
+                                            'id': 'searchBy'
+                                            }
+                                        )
+                                )
+    #NSFW = forms.BooleanField(required=False, label="NSFW")
+    
 
 class Demo(forms.Form):
     name = forms.CharField(label="", max_length=200, widget=forms.TextInput(
@@ -79,3 +97,12 @@ class Demo(forms.Form):
             }
         ),
     )
+
+    SearchBy = forms.ChoiceField(choices=GameSearch_CHOICES, label="Search by", 
+                                    widget=forms.Select(
+                                         attrs={
+                                            'id': 'searchBy'
+                                            }
+                                        )
+                                )
+    #NSFW = forms.BooleanField(required=False, label="NSFW")
