@@ -87,7 +87,7 @@ class Music(forms.Form):
     SearchBy = forms.ChoiceField(choices=MusicSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-                                            'id': 'searchBy'
+                                            'id': 'searchByMusic'
                                             }
                                         )
                                 )
@@ -136,7 +136,7 @@ class DLC(forms.Form):
     SearchBy = forms.ChoiceField(choices=DlcSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-                                            'id': 'searchBy'
+                                            'id': 'searchByDLC'
                                             }
                                         )
                                 )
@@ -177,7 +177,7 @@ class Demo(forms.Form):
     genres = forms.MultipleChoiceField(label="", choices=GENRE_CHOICES, required=False, 
                                        widget=forms.CheckboxSelectMultiple(
         attrs={
-            "id" : "GameGenres",
+            "id" : "Game Genres",
             # "style": "display:none;",
         }
         ),
@@ -186,7 +186,7 @@ class Demo(forms.Form):
     SearchBy = forms.ChoiceField(choices=DemoSearch_CHOICES, label="Search by", 
                                     widget=forms.Select(
                                          attrs={
-                                            'id': 'searchBy'
+                                            'id': 'searchByDemo'
                                             }
                                         )
                                 )
