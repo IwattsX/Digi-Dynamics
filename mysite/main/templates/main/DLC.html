@@ -30,6 +30,43 @@
 </body>
 {% endblock %}
 
-{% block middleCol %}
-    <h1 style="text-align: center;">DLC Column</h1>
+{% block tables %}
+    {% if display == 'block' %}
+    <table id = "table_games" class="table-stripped">
+       
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        <thead>
+            
+        <tbody>
+            {% for game in DLC %}
+                <tr>
+                    <td class="gameName">{{game.Name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
+                        Steam Link
+                    </a></td>
+                    <td>{{game.Short_description}}</td>
+                    {% if game.Current_price is None %}
+
+                        {% if not game.Base_price is None%}
+                            <td> ${{ game.Base_price }} </td>
+                        {% elif game.Coming_soon %}
+                            <td>Game is coming soon!</td>
+                        {% elif game.Release_Date %}
+                            <td>Releasing: {{game.Release_Date}}</td>
+                        {% else %}
+                            <td>FREE</td>
+                        {% endif %}
+
+                    {% else %}
+                        <td>${{game.Current_price}}</td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
 {% endblock %}

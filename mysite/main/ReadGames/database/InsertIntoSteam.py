@@ -241,8 +241,6 @@ class DLC():
         close_connection(connection=connection, cursor=cursor)
 
 
-
-
 class Music():
     def __init__(self, id : str, name : str, support_info : str, Base_price : int, Current_price : int, Developer : str, Publisher,
                 Coming_soon : bool, Release_Date : str, Required_age : int, Controller_support : str, Website : str, Short_desc : str,

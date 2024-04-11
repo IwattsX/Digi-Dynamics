@@ -4,7 +4,9 @@ def create_Table(create_table_query: str):
     connection = connect()
     cursor = connection.cursor()
 
+    print(f"Executing \n{create_table_query}")
     cursor.execute(create_table_query)
+    print("SUCCESS in executing!!!!")
 
     # Finished with Executing queries
     close_connection(cursor=cursor, connection=connection)
@@ -13,6 +15,10 @@ def create_Table(create_table_query: str):
 # Platform may be split between 3 boolean fields
 # windows, linux, mac
 # Did not include Price overview for demo since it should always be 0.
+
+# Demo NOTE: I didn't make Fullgame_id a foreign key bc it can be null 
+#since a game can have a demo and the fullgame hasn't released yet
+
 
 table_Queries = [
     """
@@ -67,7 +73,6 @@ table_Queries = [
     FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     );
     """,
-
     """
     CREATE TABLE IF NOT EXISTS Demo(
     id CHAR(7) PRIMARY KEY,
@@ -82,20 +87,13 @@ table_Queries = [
     Short_description VARCHAR(255),
     Detailed_description TEXT,
     Supported_languages VARCHAR(255),
-    PLATFORM VARCHAR(255),
+    windows Bit(1),
+    linux Bit(1),
+    mac Bit(1),
     Header_image VARCHAR(255),
-    Fullgame_id char(7),
-    FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
-    )
-    # """,
-    #          %(id)s,
-    #         %(name)s,
-    #         %(thumbnail)s,
-    #         %(mp4_480p)s,
-    #         %(mp4_max)s,
-    #         %(webm_480p)s,
-    #         %(webm_max)s,
-    #         %(game_ID)s"""
+    Fullgame_id char(7)
+    );
+    """,
     """
     CREATE TABLE IF NOT EXISTS Movies(
     id CHAR(9) PRIMARY KEY,
