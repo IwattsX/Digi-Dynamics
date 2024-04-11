@@ -1,0 +1,57 @@
+{
+    "about_the_game": "",
+    "background": "",
+    "background_raw": "",
+    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2029566/capsule_231x87.jpg?t=1447358964",
+    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2029566/capsule_184x69.jpg?t=1447358964",
+    "content_descriptors": {
+        "ids": [],
+        "notes": null
+    },
+    "detailed_description": "",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2029566/header.jpg?t=1447358964",
+    "is_free": false,
+    "linux_requirements": [],
+    "mac_requirements": [],
+    "movies": [
+        {
+            "highlight": false,
+            "id": 2029566,
+            "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/2029566/movie480.mp4?t=1447358964",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/2029566/movie_max.mp4?t=1447358964"
+            },
+            "name": "Terraria 1.2 Trailer",
+            "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2029566/movie.293x165.jpg?t=1447358964",
+            "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/2029566/movie480.webm?t=1447358964",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/2029566/movie_max.webm?t=1447358964"
+            }
+        }
+    ],
+    "name": "Terraria 1.2 Trailer",
+    "package_groups": [],
+    "pc_requirements": [],
+    "platforms": {
+        "linux": false,
+        "mac": false,
+        "windows": true
+    },
+    "publishers": [
+        ""
+    ],
+    "ratings": null,
+    "release_date": {
+        "coming_soon": false,
+        "date": ""
+    },
+    "required_age": 0,
+    "short_description": "",
+    "steam_appid": 2029566,
+    "support_info": {
+        "email": "",
+        "url": ""
+    },
+    "type": "movie",
+    "website": null
+}
