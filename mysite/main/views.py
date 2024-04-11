@@ -4,7 +4,7 @@ from .forms import Games, Demo, DLC, Music
 from .models import select
 
 
-from .Search_handlers import GamesSearch_Handler, DLCSearch_Handler
+from .Search_handlers import searchHander
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -24,17 +24,10 @@ def base(response):
     # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
     return render(response, "main/base.html", my_dict)
 
+
 def home(response):
     return render(response, "main/home.html", {})
 
-"""
-Both are Dictionaries:
-Response.POST 
-Response.GET
-For games, these dictionaries will contain the div 
-
-syntax: response.GET.get(key, default)
-"""
 
 def games(response):
     name = ""
@@ -54,7 +47,7 @@ def games(response):
 
         print(searchBy)
 
-        GamesSearch_Handler(response, searchBy, games) 
+        searchHander(response,"Games", searchBy, games) 
 
 
     return_dict = {
@@ -72,18 +65,8 @@ def music(response):
     form = Music()
     Music_list = []
     if response.method == "GET":
-        print("Get response for music")
-        print(response.GET)
-        Song_name = response.GET.get('name', None)
-
-        Games_res = select("Music", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
-        whereClause=f"Name REGEXP '{Song_name}'")
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            Music_list.append(row)
+        searchBy = response.GET.get("SearchBy", None)
+        searchHander(response, "Music", searchBy, Music_list)
     return_dict = {
         'form' : form,
         "musics" : Music_list,
@@ -99,7 +82,7 @@ def dlc_view(response):
         searchBy = response.GET.get("SearchBy", None)
 
         # print(searchBy)
-        DLCSearch_Handler(response, searchBy, DLC_list)
+        searchHander(response, "DLC", searchBy, DLC_list)
     
     return_dict = {
         'form' : form,
@@ -112,11 +95,7 @@ def dlc_view(response):
 
 def demo(response):
     form = Demo()
-    if response.method == "POST":
-        form = Demo(response.POST)
-        if form.is_valid():
-            pass
-    else:
+    if response.method == "GET":
         pass
     return render(response, "main/demo.html", {'form' : form})
 

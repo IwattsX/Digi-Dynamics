@@ -328,3 +328,8 @@ class Music():
         connection.commit()  # Commit changes to the database
 
         close_connection(connection=connection, cursor=cursor)
+
+
+class Demo():
+    def __init__(self):
+        pass
