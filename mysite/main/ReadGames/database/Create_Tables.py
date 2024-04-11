@@ -87,11 +87,26 @@ table_Queries = [
     Fullgame_id char(7),
     FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     )
-    """,
-
+    # """,
+    #          %(id)s,
+    #         %(name)s,
+    #         %(thumbnail)s,
+    #         %(mp4_480p)s,
+    #         %(mp4_max)s,
+    #         %(webm_480p)s,
+    #         %(webm_max)s,
+    #         %(game_ID)s"""
     """
     CREATE TABLE IF NOT EXISTS Movies(
-    id CHAR(7) PRIMARY KEY
+    id CHAR(9) PRIMARY KEY,
+    name VARCHAR(255),
+    thumbnail VARCHAR(512),
+    mp4_480p VARCHAR(512),
+    mp4_max VARCHAR(512),
+    webm_480p VARCHAR(512),
+    webm_max VARCHAR(512),
+    game_id char(7),
+    FOREIGN KEY (game_id) REFERENCES Games(id)
     );
     """,
 

@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json 
 import os
 from pathlib import Path
-from database.InsertIntoSteam import Games, Music
+from database.InsertIntoSteam import Games, Music, Movies
 
 # comment this out when we won't use it anymore for debugging
 from pprint import pprint
@@ -11,6 +11,35 @@ from pprint import pprint
 
 # For trailers or how steam calls it "Movies"
 # TODO: Make this work with the Games_Hander for the Movies Data
+
+"""
+            %(id)s,
+            %(name)s,
+            %(thumbnail)s,
+            %(mp4_480p)s,
+            %(mp4_max)s,
+            %(webm_480p)s,
+            %(webm_max)s,
+            %(game_ID)s"""
+
+
+def movies_handler(movie : dict) -> dict:
+    movie_res = dict()
+    if not movie:
+        return movie_res
+    
+    Elements = ["id", "name", "thumbnail", "mp4", "webm"]
+    for trailer in movie:
+        for elem in Elements:
+            movie_val = trailer.get(elem, None)
+            if movie_val:
+                if elem == 'mp4' or elem == 'webm':
+                    movie_res[elem + "_480p"] = movie_val.get("480", None)
+                    movie_res[elem + "_max"] = movie_val.get("max", None)
+                else:
+                    movie_res[elem] = movie_val
+    return movie_res
+
 
 def Game_Handler(game : dict):
     # Only elements we care about for the most part
@@ -21,12 +50,14 @@ def Game_Handler(game : dict):
                 "price_overview", "developers", "publishers", "genres", 
                 "release_date", "required_age", "website", "short_description", 
                 "detailed_description", "supported_languages", "platforms", "header_image", 
-                "controller_support"]
+                "controller_support", "movies"]
     
     for elem in Elements:
         game_val = game.get(elem)
 
         if game_val:
+            if elem == "movies":
+                game_res[elem] = game_val
             if elem == "price_overview":
                 game_res["Base_price"] = game_val.get("initial", None)
                 game_res["Current_price"] = game_val.get("final", None)
@@ -254,7 +285,19 @@ if __name__ == '__main__':
                     Game_dict.get("mac"),
                     Game_dict.get("header_image")
                 )
+                movies_dict = movies_handler(Game_dict.get("movies"))
+                if not movies_dict.get("id") is None:
 
+                    Movies(
+                        movies_dict.get("id"),
+                        movies_dict.get("name"),
+                        movies_dict.get("thumbnail"),
+                        movies_dict.get("mp4_480p"),
+                        movies_dict.get("mp4_max"),
+                        movies_dict.get("webm_480p"),
+                        movies_dict.get("webm_max"),
+                        Game_dict.get("steam_appid"),
+                    )
                 
             elif typeOfData == "music":
                 Music_dict = Music_Handler(temp)
