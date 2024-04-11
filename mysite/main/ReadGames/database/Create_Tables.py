@@ -80,6 +80,7 @@ table_Queries = [
     Support_Info VARCHAR(255),
     Developer VARCHAR(255),
     Publisher VARCHAR(255),
+    Genre VARCHAR(255),
     Release_Date VARCHAR(255),
     Required_Age INT,
     Controller_Support Bit(1),
