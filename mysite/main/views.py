@@ -100,4 +100,4 @@ def demo(response):
     return render(response, "main/demo.html", {'form' : form})
 
 def user(response):
-    return render(response, "main/user.html", {})
+    return render(response, "main/history.html", {})
