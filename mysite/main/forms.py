@@ -182,7 +182,7 @@ class Demo(forms.Form):
                                         )
                                 )
 
-class user_class(forms.Form):
+class userform(forms.Form):
     username = forms.CharField(max_length=200, required=True, 
                                widget=forms.TextInput(
                                    attrs={
@@ -190,9 +190,19 @@ class user_class(forms.Form):
                                    },
                                )
                                )
+    
+    # manually typed out all the input css from styles.css so it looks like username
     password = forms.CharField(max_length=200, required=True, 
-                               widget=forms.TextInput(
+                               widget=forms.PasswordInput(
                                    attrs={
-                                       "id" : "pass",
-                                   },
-                               ))
+                                       "style" : """width: 25%;
+                                                padding: 4px 10px;
+                                                margin: 8px 0;
+                                                box-sizing: border-box;
+                                                border: 2px solid rgb(0, 238, 255);
+                                                border-radius: 4px;
+                                                background-color: #000000;
+                                                color: white;""",
+                                   }
+                               )
+                               )

@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from .forms import Games, Demo, DLC, Music, user_class
+from .forms import Games, Demo, DLC, Music, userform
 from .models import select
 from .ReadGames.database.generate_pass import gen_pass
 from .ReadGames.database.Connect_DB import connect
@@ -116,18 +116,18 @@ def user_Handler(username, password):
 
 
 def user(response):
-    uname = ''
-    password = ''
-    print("User called!!")
-    form = user_class()
-    if response.method == "POST":
-        uname = response.POST.get("username")
-        password = response.POST.get("password")
-
-        user_Handler(uname, password)
+    form = userform(response.POST or None)
+    login_msg = None
+    if response.method == "POST" and form.is_valid():
+        uname = form.cleaned_data["username"]
+        password = form.cleaned_data["password"]
+        if user_Handler(uname, password):
+            login_msg = "Login successful"
+        else:
+            login_msg = "Login error"
 
     return_dict = {
         "form" : form,
-        "alert_msg": "Login successful" if user_Handler(uname, password) else None
+        "alert_msg": login_msg
     }
     return render(response, "main/history.html", return_dict)

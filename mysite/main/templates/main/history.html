@@ -21,12 +21,8 @@
     </div>
     {% if alert_msg %}
         <script>
-            alert("Login success!!")
+            alert("{{ alert_msg }}")
         </script>
-    {% else %}
-    <script>
-        alert("Login error :(")
-    </script>
     {% endif %}
 </body>
 
