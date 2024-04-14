@@ -181,3 +181,18 @@ class Demo(forms.Form):
                                             }
                                         )
                                 )
+
+class user_class(forms.Form):
+    username = forms.CharField(max_length=200, required=True, 
+                               widget=forms.TextInput(
+                                   attrs={
+                                       "id" : "username",
+                                   },
+                               )
+                               )
+    password = forms.CharField(max_length=200, required=True, 
+                               widget=forms.TextInput(
+                                   attrs={
+                                       "id" : "pass",
+                                   },
+                               ))

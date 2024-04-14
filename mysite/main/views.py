@@ -1,7 +1,9 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from .forms import Games, Demo, DLC, Music
+from .forms import Games, Demo, DLC, Music, user_class
 from .models import select
+from .ReadGames.database.generate_pass import gen_pass
+from .ReadGames.database.Connect_DB import connect
 
 
 from .Search_handlers import searchHander
@@ -12,9 +14,6 @@ from .Search_handlers import searchHander
 # dictionary will have variable tokens so that way you can put them into the application.
 # NOTE: Use this aspect of django to render informationf from the database
 
-
-
-        
 
 
 
@@ -99,5 +98,36 @@ def demo(response):
         pass
     return render(response, "main/demo.html", {'form' : form})
 
+def user_Handler(username, password):
+    res = False
+    cnx = connect()
+    cursor = cnx.cursor(dictionary=True)
+
+    query = "SELECT * FROM user WHERE username = %s AND pass = %s"
+    generated_pass = gen_pass(password)
+    if not generated_pass is None: 
+        cursor.execute(query, (username, generated_pass[0]))
+        res = cursor.fetchone()
+    if res:
+        return True
+    else:
+        return False
+
+
+
 def user(response):
-    return render(response, "main/history.html", {})
+    uname = ''
+    password = ''
+    print("User called!!")
+    form = user_class()
+    if response.method == "POST":
+        uname = response.POST.get("username")
+        password = response.POST.get("password")
+
+        user_Handler(uname, password)
+
+    return_dict = {
+        "form" : form,
+        "alert_msg": "Login successful" if user_Handler(uname, password) else None
+    }
+    return render(response, "main/history.html", return_dict)

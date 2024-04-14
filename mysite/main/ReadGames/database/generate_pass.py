@@ -1,4 +1,4 @@
-from Connect_DB import connect, close_connection
+from .Connect_DB import connect, close_connection
 
 def gen_pass(password):
     if password is None or not isinstance(password, str):
@@ -15,8 +15,8 @@ def gen_pass(password):
 
     return res
 
-if __name__ == '__main__':
-    test = ['qwerty', '1234', 0, 12.2, '', None]
-    for t in test:
-        print(t)
-        print(gen_pass(t))
+# if __name__ == '__main__':
+#     test = ['qwerty', '1234', 0, 12.2, '', None]
+#     for t in test:
+#         print(t)
+#         print(gen_pass(t))
