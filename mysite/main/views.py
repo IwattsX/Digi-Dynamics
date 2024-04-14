@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from .forms import Games, Demo, DLC, Music, userform
 from .models import select
 from .ReadGames.database.generate_pass import gen_pass
-from .ReadGames.database.Connect_DB import connect
+from .ReadGames.database.Connect_DB import connect, close_connection
 
 
 from .Search_handlers import searchHander
@@ -108,6 +108,7 @@ def user_Handler(username, password):
     if not generated_pass is None: 
         cursor.execute(query, (username, generated_pass[0]))
         res = cursor.fetchone()
+    close_connection(cursor=cursor, connection=cnx)
     if res:
         return True
     else:
