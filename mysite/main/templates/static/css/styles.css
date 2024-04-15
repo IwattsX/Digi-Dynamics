@@ -186,5 +186,16 @@ tr:hover{
 .gameName a {
     color:rgb(0, 238, 255);
 }
+
+/* Like Button */
+.fa {
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .fa:hover {
+    color: rgb(0, 238, 255);
+  }
  
 

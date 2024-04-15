@@ -42,3 +42,6 @@ function userActive(){
     user.classList.remove("font-effect-fire");
     
 }
+function likeFunction(games_id) {
+    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+}
