@@ -94,6 +94,7 @@ def dlc_view(response):
 
 def demo(response):
     form = Demo()
+    print(response.session.get("session_id"))
     if response.method == "GET":
         pass
     return render(response, "main/demo.html", {'form' : form})
@@ -117,18 +118,35 @@ def user_Handler(username, password):
 
 
 def user(response):
+    log_out_display = None
     form = userform(response.POST or None)
     login_msg = None
-    if response.method == "POST" and form.is_valid():
+
+
+    # print(response.POST)
+    # print(response.POST.get("logout"))
+    # print(response.session.get("session_id"))
+
+    if response.POST.get("logout"):
+        response.session["session_id"] = None
+
+    if response.session.get("session_id"):
+        log_out_display = 'block'
+
+    elif response.method == "POST" and form.is_valid():
         uname = form.cleaned_data["username"]
         password = form.cleaned_data["password"]
         if user_Handler(uname, password):
+            response.session["session_id"] = uname
             login_msg = "Login successful"
+            log_out_display = 'block'
         else:
             login_msg = "Login error"
+    
 
     return_dict = {
         "form" : form,
-        "alert_msg": login_msg
+        "alert_msg": login_msg,
+        "log_out" : log_out_display,
     }
     return render(response, "main/history.html", return_dict)
