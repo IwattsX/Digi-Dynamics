@@ -1,17 +1,83 @@
 from .models import select
 import re
+
+import mysql.connector.errors
+from pprint import pprint
+
+from .ReadGames.database.generate_pass import gen_pass
 from .ReadGames.database.Connect_DB import connect, close_connection
+
+from .ReadGames.database.InsertIntoSteam import inDB
+
+def insert_into_LikedGames(username, games_id):
+    cnx = connect()
+    cursor = cnx.cursor(dictionary=True)
+    
+    try:
+        sql_query = "SELECT username, games_id FROM LikedGames WHERE games_id = %s AND username = %s"
+        cursor.execute(sql_query, (games_id, username))
+        
+        already_liked = cursor.fetchone()  # Fetch one row from the result set
+        
+        if already_liked:
+            print(f"The game id {games_id} is already liked by {username}")
+        else:
+            sql_query = "INSERT INTO LikedGames (username, games_id) VALUES (%s, %s)"
+            print(f"{sql_query} is getting executed")
+            cursor.execute(sql_query, (username, games_id))
+        
+        cnx.commit()  # Commit the transaction
+        
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        cnx.rollback()  # Rollback the transaction if an error occurs
+    
+    finally:
+        close_connection(cursor=cursor, connection=cnx)
+
+
+
+def liked_games(username):
+    action_res = select("Games, LikedGames", columns="Games.id", whereClause="Games.id = LikedGames.games_id AND LikedGames.username = '{}'".format(username))
+    pprint(action_res)
+    
+    res = { e["id"] : True for e in action_res }
+
+    pprint(res)
+    return res
+
+
+def login_Handler(username, password):
+    res = False
+    cnx = connect()
+    cursor = cnx.cursor(dictionary=True)
+
+    query = "SELECT * FROM user WHERE username = %s AND pass = %s"
+    generated_pass = gen_pass(password)
+    if not generated_pass is None: 
+        cursor.execute(query, (username, generated_pass[0]))
+        res = cursor.fetchone()
+    close_connection(cursor=cursor, connection=cnx)
+    if res:
+        return True
+    else:
+        return False
+
 
 
 def likedHistory(response, liked_table):
+    res = []
     cnx = connect()
     cursor = cnx.cursor(dictionary=True)
     sql_query = ""
     if liked_table == "LikedGames":
-        sql_query = "SELECT LikedGames.username, Games.name FROM LikedGames, Games WHERE username = {} INNER JOIN Games ON Games.id = LikedGames.games_id".format(response.session.get("session_id"))
+        sql_query = "SELECT LikedGames.username as username, Games.name, Games.id FROM LikedGames INNER JOIN Games ON Games.id = LikedGames.games_id WHERE username = '{}'".format(response.session.get("session_id"))
         print(sql_query)
+        cursor.execute(sql_query)
+        res = cursor.fetchall()
     
     close_connection(cursor=cursor, connection=cnx)
+    return res
 
 
 

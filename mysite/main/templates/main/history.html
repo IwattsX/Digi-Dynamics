@@ -4,9 +4,30 @@
 
 
 {% block content %}
+    
 <body>
     <p class="font-effect-fire" style="text-align: center; margin-top:50px;color: black;font-size:100px;font-family:Brush Script MT;"><span>Liked History</span></p>
-    
+    {% if display == 'block' %}
+    <table>
+        <thead>
+            <tr>
+                <th>Game Name</th>
+                <th>Price</th>
+                <th>Dislike</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            {% for game in games %}
+            <tr>
+                <td>{{game.name}}</td>
+                <td><a href="https://store.steampowered.com/app/{{ game.id }}">Steam link</a></td>
+                <td><button>Unlike</button></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
 </body>
 
 

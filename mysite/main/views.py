@@ -3,14 +3,11 @@ from django.shortcuts import render
 from django.http import JsonResponse
 
 from .forms import Games, Demo, DLC, Music, userform
-from .models import select
+# from .models import select
+# from .ReadGames.database.Connect_DB import connect, close_connection
 
 
-from .ReadGames.database.generate_pass import gen_pass
-from .ReadGames.database.Connect_DB import connect, close_connection
-
-
-from .Search_handlers import searchHander, likedHistory
+from .Django_handlers import searchHander, login_Handler, liked_games, insert_into_LikedGames, likedHistory
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -35,24 +32,49 @@ def home(response):
 def games(response):
     form = Games()
     games = []
+    userLoggedIn = False
+
     # This if statement will never run bc the response.method will be "GET"
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
     if response.method == "POST":
         game_id = response.POST.get("liked")
         print(game_id)
+        if userLoggedIn:
+            insert_into_LikedGames(response.session.get("session_id"), game_id)
 
         return JsonResponse({"status": "success"})
             
+    elif userLoggedIn and response.method == "GET":
+        Already_liked_games = liked_games(response.session.get("session_id"))
+        print(Already_liked_games)
+
+        searchBy = response.GET.get("SearchBy", None)
+
+        searchHander(response, "Games", searchBy, games)
+
+        for game in games:
+            if Already_liked_games.get(game["id"]):
+                game["liked"] = True
+            else:
+                game["liked"] = False
+            
+        
     elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
 
         searchBy = response.GET.get("SearchBy", None)
-        searchHander(response,"Games", searchBy, games) 
+        searchHander(response,"Games", searchBy, games)
+        for game in games:
+            game["liked"] = False 
 
     return_dict = {
         "form": form,
         "games" : games,
-        "display": "none" if len(games) == 0 else "block"
+        "display": "none" if len(games) == 0 else "block",
+        "displayLike" : "block" if userLoggedIn else "none",
     }
 
     
@@ -98,34 +120,22 @@ def demo(response):
         pass
     return render(response, "main/demo.html", {'form' : form})
 
-def user_Handler(username, password):
-    res = False
-    cnx = connect()
-    cursor = cnx.cursor(dictionary=True)
-
-    query = "SELECT * FROM user WHERE username = %s AND pass = %s"
-    generated_pass = gen_pass(password)
-    if not generated_pass is None: 
-        cursor.execute(query, (username, generated_pass[0]))
-        res = cursor.fetchone()
-    close_connection(cursor=cursor, connection=cnx)
-    if res:
-        return True
-    else:
-        return False
-
-
 
 def user(response):
     # TODO: Implement liked history here
+    games = []
     userLogIN = False
     username = response.session.get("session_id")
     if username:
         userLogIN = True
-        likedHistory(response, "LikedGames")
-
+        likedGames = likedHistory(response, "LikedGames")
+        for game in likedGames:
+            games.append(game)
+    print(games)
     return_dict = {
         "loggedIn" : userLogIN,
+        "games" : games,
+        "display" : "block" if len(games) != 0 else 'None'
     }
     return render(response, "main/history.html", return_dict)
 
@@ -148,7 +158,7 @@ def login(response):
     elif response.method == "POST" and form.is_valid():
         uname = form.cleaned_data["username"]
         password = form.cleaned_data["password"]
-        if user_Handler(uname, password):
+        if login_Handler(uname, password):
             response.session["session_id"] = uname
             login_msg = "Login successful"
             log_out_display = 'block'
