@@ -1,5 +1,19 @@
 from .models import select
 import re
+from .ReadGames.database.Connect_DB import connect, close_connection
+
+
+def likedHistory(response, liked_table):
+    cnx = connect()
+    cursor = cnx.cursor(dictionary=True)
+    sql_query = ""
+    if liked_table == "LikedGames":
+        sql_query = "SELECT LikedGames.username, Games.name FROM LikedGames, Games WHERE username = {} INNER JOIN Games ON Games.id = LikedGames.games_id".format(response.session.get("session_id"))
+        print(sql_query)
+    
+    close_connection(cursor=cursor, connection=cnx)
+
+
 
 
 def searchHander(response, table_name : str, searchBy : str, Append_list : list):

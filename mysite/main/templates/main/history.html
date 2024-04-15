@@ -1,38 +1,12 @@
 {% extends 'main/base.html' %}
 
-{% block title%} SS_demo {% endblock %}
+{% block title%} SS_history {% endblock %}
 
 
 {% block content %}
 <body>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            userActive();
-        });
-    </script>
-
-
-    <div class="container-fluid">
-        <div style="padding: 10px;" >
-            <form class = "searchbar" method="post" actions="/history/">
-                {% csrf_token %}
-
-                {% if not log_out %}
-                    {{ form.as_p }}
-                    <button class="button" type="submit" name="login" id="login"> Login </button> 
-                {% else %}
-
-                <button class="button" type="submit" name="logout" id="logout" value="logout">Sign Out</button>
-                {% endif %}
-
-            </form>
-        </div>
-    </div>
-    {% if alert_msg %}
-        <script>
-            alert("{{ alert_msg }}")
-        </script>
-    {% endif %}
+    <p class="font-effect-fire" style="text-align: center; margin-top:50px;color: black;font-size:100px;font-family:Brush Script MT;"><span>Liked History</span></p>
+    
 </body>
 
 

@@ -1,12 +1,16 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+# from django.http import HttpResponse, HttpResponseRedirect
+from django.http import JsonResponse
+
 from .forms import Games, Demo, DLC, Music, userform
 from .models import select
+
+
 from .ReadGames.database.generate_pass import gen_pass
 from .ReadGames.database.Connect_DB import connect, close_connection
 
 
-from .Search_handlers import searchHander
+from .Search_handlers import searchHander, likedHistory
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -29,29 +33,24 @@ def home(response):
 
 
 def games(response):
-    name = ""
     form = Games()
     games = []
     # This if statement will never run bc the response.method will be "GET"
     if response.method == "POST":
-        if form.is_valid():
-            form = Games(response.POST)
-        return render(response, "main/games.html", {})
+        game_id = response.POST.get("liked")
+        print(game_id)
+
+        return JsonResponse({"status": "success"})
             
     elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
 
         searchBy = response.GET.get("SearchBy", None)
-
-        print(searchBy)
-
         searchHander(response,"Games", searchBy, games) 
-
 
     return_dict = {
         "form": form,
-        "name" : name,
         "games" : games,
         "display": "none" if len(games) == 0 else "block"
     }
@@ -118,6 +117,19 @@ def user_Handler(username, password):
 
 
 def user(response):
+    # TODO: Implement liked history here
+    userLogIN = False
+    username = response.session.get("session_id")
+    if username:
+        userLogIN = True
+        likedHistory(response, "LikedGames")
+
+    return_dict = {
+        "loggedIn" : userLogIN,
+    }
+    return render(response, "main/history.html", return_dict)
+
+def login(response):
     log_out_display = None
     form = userform(response.POST or None)
     login_msg = None
@@ -149,4 +161,4 @@ def user(response):
         "alert_msg": login_msg,
         "log_out" : log_out_display,
     }
-    return render(response, "main/history.html", return_dict)
+    return render(response, "main/login.html", return_dict)
