@@ -10,12 +10,21 @@
             userActive();
         });
     </script>
+
+
     <div class="container-fluid">
         <div style="padding: 10px;" >
             <form class = "searchbar" method="post" actions="/history/">
                 {% csrf_token %}
-                {{ form.as_p }}
-                <button class="button" type="submit" name="login" id="login"> Login </button> 
+
+                {% if not log_out %}
+                    {{ form.as_p }}
+                    <button class="button" type="submit" name="login" id="login"> Login </button> 
+                {% else %}
+
+                <button class="button" type="submit" name="logout" id="logout" value="logout">Sign Out</button>
+                {% endif %}
+
             </form>
         </div>
     </div>
