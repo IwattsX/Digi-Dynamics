@@ -1,8 +1,6 @@
 :root {
     --blue: rgb(0, 238, 255); 
 }
-  
-
 
 body {
     background-image: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
@@ -159,14 +157,14 @@ input[type=text] input[type=password]{
     padding: 4px 10px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid rgb(0, 238, 255);
+    border: 2px solid var(--blue);
     border-radius: 4px;
     background-color: #000000;
     color: white;
 }
 .button{
     margin-top: 10px;
-    background-color: rgb(0, 238, 255);
+    background-color: var(--blue);;
     font-size: 10px;
     border-radius: 50%  ;
 }
@@ -189,7 +187,7 @@ tr:hover{
     text-align: center;
 }
 .gameName a {
-    color:rgb(0, 238, 255);
+    color:var(--blue);;
 }
 
 /* Like Button */
@@ -200,7 +198,7 @@ tr:hover{
   }
   
   .fa:hover {
-    color: rgb(0, 238, 255);
+    color: var(--blue);;
   }
 
 /* Login Button Modal */
@@ -216,7 +214,7 @@ tr:hover{
 
     /* Set a style for all buttons */
     .buttonModal {
-    background-color: rgb(0, 238, 255);
+    background-color: var(--blue);;
     color: black;
     padding: 8px 15px;
     margin: 10px 10px;
