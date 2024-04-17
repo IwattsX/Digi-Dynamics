@@ -42,15 +42,15 @@
                         Steam Link
                     </a>
                     {% if displayLike == 'block'%}
-                    <form id="likeGames" method="post" style="display: inline;">
+                    <!-- <form id="likeGames" method="post" style="display: inline;"> -->
                         {% csrf_token %}
-                        <input type="hidden" name="game_id" value="{{ game.id }}">
+                        <!-- <input type="hidden" name="game_id" value="{{ game.id }}"> -->
                         {% if game.liked %}
-                            <button type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></button>
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></i>
                         {% else %}
-                            <button type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></button>
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></i>
                         {% endif %}
-                    </form>
+                    <!-- </form> -->
                     {% endif %}
                     
                         

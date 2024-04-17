@@ -171,4 +171,4 @@ def login(response):
         "alert_msg": login_msg,
         "log_out" : log_out_display,
     }
-    
+    return render(response, "main/login.html", return_dict)
