@@ -150,3 +150,6 @@ def user(response):
         "log_out" : log_out_display,
     }
     return render(response, "main/history.html", return_dict)
+
+def login(response):
+    return render(response, "main/login.html", {})
