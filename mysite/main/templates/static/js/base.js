@@ -42,6 +42,28 @@ function userActive(){
     user.classList.remove("font-effect-fire");
     
 }
-function likeFunction(games_id) {
+
+var LikedForm = document.getElementById("likeGames");
+
+
+
+function likeFunction(event, games_id, url_games) {
+    event.preventDefault();
     document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+    $.ajax({
+        type:'POST',
+        url: url_games,
+        data:
+        {
+        liked: games_id,
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+    success:function(){
+        //alert('AJAX REQUEST');
+        console.log("Ajax post request coming in");
+    }
+    })
 }
+
+
+

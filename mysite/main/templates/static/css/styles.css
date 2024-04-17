@@ -1,3 +1,8 @@
+:root {
+    --blue: rgb(0, 238, 255); 
+}
+  
+
 
 body {
     background-image: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');

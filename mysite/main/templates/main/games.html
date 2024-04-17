@@ -41,8 +41,19 @@
                     <td class="gameName">{{game.Name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
                         Steam Link
                     </a>
-                    <i onclick="likeFunction('{{game.id}}')" class="fa fa-thumbs-up" style="margin-left: 10px;" id="{{game.id}}"></i>
-
+                    {% if displayLike == 'block'%}
+                    <form id="likeGames" method="post" style="display: inline;">
+                        {% csrf_token %}
+                        <input type="hidden" name="game_id" value="{{ game.id }}">
+                        {% if game.liked %}
+                            <button type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></button>
+                        {% else %}
+                            <button type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></button>
+                        {% endif %}
+                    </form>
+                    {% endif %}
+                    
+                        
                     </td>
                     <td>{{game.Short_description}}</td>
                     {% if game.Current_price is None %}
@@ -65,6 +76,26 @@
         </tbody>
     </table>
     {% endif %}
+    <script>
+    //     $(document).on('submit', '#likeGames', function(event){
+    //         event.preventDefault();
+    //         console.log($(".fa fa-thumbs-up"));
+    //         // console.log(game_id);
+    //         //document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+    //         $.ajax({
+    //             type:'POST',
+	// 	        url:'{% url "games" %}',
+	// 	        data:
+	// 	        {
+    //             task:$("#task").val(),
+	// 		    csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+	// 	        },
+	// 	    success:function(){
+	// 		    alert('AJAX REQUEST');
+	// 		}
+	// 	    })
+	//     });
+    // </script>
 {% endblock %}
 
 
