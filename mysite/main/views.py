@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 # from django.http import HttpResponse, HttpResponseRedirect
 from django.http import JsonResponse
+
 
 from .forms import Games, Demo, DLC, Music, userform
 # from .models import select
@@ -15,18 +16,32 @@ from .Django_handlers import searchHander, login_Handler, liked_games, insert_in
 # dictionary will have variable tokens so that way you can put them into the application.
 # NOTE: Use this aspect of django to render informationf from the database
 
-
-
-
+def signOut(response):
+    print(response.POST)
+    if response.POST.get("logout"):
+        response.session["session_id"] = None
+        return True
+    return False
 
 def base(response):
-    my_dict = dict()
-    # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
-    return render(response, "main/base.html", my_dict)
+    userLoggedIn = False
+    if response.session.get("session_id"):
+        userLoggedIn = True
+        if signOut(response):
+            userLoggedIn = False
+
+    return_dict = {
+        "loggedIn" : userLoggedIn,
+    }
+    return render(response, "main/base.html", return_dict)
 
 
 def home(response):
-    return render(response, "main/home.html", {})
+    userLoggedIn = False
+    if response.session.get("session_id"):
+        userLoggedIn = True
+    
+    return render(response, "main/home.html", {"loggedIn" : userLoggedIn,})
 
 
 def games(response):
@@ -75,6 +90,7 @@ def games(response):
         "games" : games,
         "display": "none" if len(games) == 0 else "block",
         "displayLike" : "block" if userLoggedIn else "none",
+        "loggedIn" : userLoggedIn,
     }
 
     
@@ -84,13 +100,19 @@ def games(response):
 def music(response):
     form = Music()
     Music_list = []
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
     if response.method == "GET":
         searchBy = response.GET.get("SearchBy", None)
         searchHander(response, "Music", searchBy, Music_list)
     return_dict = {
         'form' : form,
         "musics" : Music_list,
-        "display": "none" if len(Music_list) == 0 else "block"
+        "display": "none" if len(Music_list) == 0 else "block",
+        "loggedIn" : userLoggedIn,
     }
     return render(response, "main/music.html", return_dict)
 
@@ -98,6 +120,11 @@ def music(response):
 def dlc_view(response):
     form = DLC()
     DLC_list = []
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+    
     if response.method == "GET":
         searchBy = response.GET.get("SearchBy", None)
 
@@ -107,7 +134,8 @@ def dlc_view(response):
     return_dict = {
         'form' : form,
         'DLC' : DLC_list,
-        "display": "none" if len(DLC_list) == 0 else "block"
+        "display": "none" if len(DLC_list) == 0 else "block",
+        "loggedIn" : userLoggedIn,
     }
 
     return render(response, "main/DLC.html", return_dict)
@@ -115,10 +143,16 @@ def dlc_view(response):
 
 def demo(response):
     form = Demo()
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+
     print(response.session.get("session_id"))
     if response.method == "GET":
         pass
-    return render(response, "main/demo.html", {'form' : form})
+    return render(response, "main/demo.html", {'form' : form, "loggedIn" : userLoggedIn,})
 
 
 def user(response):
@@ -135,11 +169,18 @@ def user(response):
     return_dict = {
         "loggedIn" : userLogIN,
         "games" : games,
-        "display" : "block" if len(games) != 0 else 'None'
+        "display" : "block" if len(games) != 0 else 'None',
     }
     return render(response, "main/history.html", return_dict)
 
 def login(response):
+
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+
     log_out_display = None
     form = userform(response.POST or None)
     login_msg = None
@@ -151,6 +192,7 @@ def login(response):
 
     if response.POST.get("logout"):
         response.session["session_id"] = None
+        return redirect("home")
 
     if response.session.get("session_id"):
         log_out_display = 'block'
@@ -162,13 +204,16 @@ def login(response):
             response.session["session_id"] = uname
             login_msg = "Login successful"
             log_out_display = 'block'
+            return redirect("home")
         else:
             login_msg = "Login error"
+        
     
 
     return_dict = {
         "form" : form,
         "alert_msg": login_msg,
         "log_out" : log_out_display,
+        "loggedIn" : userLoggedIn,
     }
     return render(response, "main/login.html", return_dict)

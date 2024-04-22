@@ -183,9 +183,11 @@ class Demo(forms.Form):
                                 )
 
 class userform(forms.Form):
-    username = forms.CharField(max_length=200, required=True, 
+    username = forms.CharField(max_length=200, required=True,
                                widget=forms.TextInput(
                                    attrs={
+                                       "placeholder" : "username",
+                                       "style" : "color:red;",
                                        "id" : "username",
                                    },
                                )
@@ -195,14 +197,9 @@ class userform(forms.Form):
     password = forms.CharField(max_length=200, required=True, 
                                widget=forms.PasswordInput(
                                    attrs={
-                                       "style" : """width: 25%;
-                                                padding: 4px 10px;
-                                                margin: 8px 0;
-                                                box-sizing: border-box;
-                                                border: 2px solid rgb(0, 238, 255);
-                                                border-radius: 4px;
-                                                background-color: #000000;
-                                                color: white;""",
+                                       "placeholder" : "password",
+                                       "style" : "color:red;",
+                                       "id" : "username",
                                    }
                                )
                                )
