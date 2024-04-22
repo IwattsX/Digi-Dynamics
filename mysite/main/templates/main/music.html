@@ -41,7 +41,20 @@
                 <tr>
                     <td class="musicName">{{music.Name}}<br><a href="https://store.steampowered.com/app/{{ music.id }}">
                         Steam Link
-                    </a></td>
+                    </a>
+                    {% if displayLike == 'block'%}
+                    <!-- <form id="likeGames" method="post" style="display: inline;"> -->
+                        {% csrf_token %}
+                        <!-- <input type="hidden" name="Music_id" value="{{ game.id }}"> -->
+                        {% if game.liked %}
+                            <i type="submit" onclick="likeFunction(event, '{{ music.id }}', {% url 'music' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ music.id }}"></i>
+                        {% else %}
+                            <i type="submit" onclick="likeFunction(event, '{{ music.id }}', {% url 'music' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ music.id }}"></i>
+                        {% endif %}
+                    <!-- </form> -->
+                    {% endif %}
+                
+                    </td>
                     <td>{{music.Short_description}}</td>
                     {% if music.Current_price is None %}
 

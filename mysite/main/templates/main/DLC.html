@@ -47,7 +47,20 @@
                 <tr>
                     <td class="gameName">{{game.Name}}<br><a href="https://store.steampowered.com/app/{{ game.id }}">
                         Steam Link
-                    </a></td>
+                    </a>
+                    {% if displayLike == 'block'%}
+                    <!-- <form id="likeGames" method="post" style="display: inline;"> -->
+                        {% csrf_token %}
+                        <!-- <input type="hidden" name="game_id" value="{{ game.id }}"> -->
+                        {% if game.liked %}
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></i>
+                        {% else %}
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></i>
+                        {% endif %}
+                    <!-- </form> -->
+                    {% endif %}
+                
+                    </td>
                     <td>{{game.Short_description}}</td>
                     {% if game.Current_price is None %}
 

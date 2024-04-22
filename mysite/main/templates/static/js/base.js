@@ -46,7 +46,7 @@ function userActive(){
 var LikedForm = document.getElementById("likeGames");
 
 
-
+/* Games Like Function */
 function likeFunction(event, games_id, url_games) {
     event.preventDefault();
     document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
@@ -65,5 +65,61 @@ function likeFunction(event, games_id, url_games) {
     })
 }
 
+/* DLC Like Function */
+function likeFunction(event, games_id, url_games) {
+    event.preventDefault();
+    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+    $.ajax({
+        type:'POST',
+        url: url_games,
+        data:
+        {
+        liked: games_id,
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+    success:function(){
+        //alert('AJAX REQUEST');
+        console.log("Ajax post request coming in");
+    }
+    })
+}
+
+/* Music Like Function */
+function likeFunction(event, music_id, url_music) {
+    event.preventDefault();
+    document.getElementById(music_id).style.color = "rgb(0, 238, 255)";
+    $.ajax({
+        type:'POST',
+        url: url_music,
+        data:
+        {
+        liked: music_id,
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+    success:function(){
+        //alert('AJAX REQUEST');
+        console.log("Ajax post request coming in");
+    }
+    })
+}
+
+/* Demo Like Function */
+function likeFunction(event, games_id, url_games) {
+    event.preventDefault();
+    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+    $.ajax({
+        type:'POST',
+        url: url_games,
+        data:
+        {
+        liked: games_id,
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+    success:function(){
+        //alert('AJAX REQUEST');
+        console.log("Ajax post request coming in");
+    }
+    })
+}
 
 
