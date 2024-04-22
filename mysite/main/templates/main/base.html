@@ -95,13 +95,16 @@
 </head>
         <div>
             <body>
-
+                
+                {% if loggedIn %}
+                    <button>Sign out</button>
+                {% else %}
                 <!-- Login Modal -->
                 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;" class="buttonModal">Login</button>
         
                 <div id="id01" class="modal">
                 
-                <form class="modal-content animate" action="/action_page.php" method="post">
+                <form class="modal-content animate" method="post">
                     <div class="imgcontainerModal">
                     <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
                     <!-- Placeholder Image for later
@@ -110,11 +113,15 @@
                     </div>
                 
                     <div class="containerModal">
-                    <label for="uname" style="color:black"><b>Username</b></label>
+                        {% block login %}
+                            {% csrf_token %}
+                            {{ formLogin }}
+                        {% endblock %}
+                    <!-- <label for="uname" style="color:black"><b>Username</b></label>
                     <input type="text" placeholder="Enter Username" name="uname" required class="inputModal">
                 
                     <label for="psw" style="color:black"><b>Password</b></label>
-                    <input type="password" placeholder="Enter Password" name="psw" required class="inputModal">
+                    <input type="password" placeholder="Enter Password" name="psw" required class="inputModal"> -->
                         
                     <button type="submit" class="buttonModal" style="background-color: #04AA6D;">Login</button>
                     <label>
@@ -128,6 +135,7 @@
                     </div>
                 </form>
                 </div>
+                {% endif %}
                 
                 <!-- Header -->
                 <h1 class = "header font-effect-neon">Steam Scouts</h1>

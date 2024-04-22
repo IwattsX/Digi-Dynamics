@@ -19,10 +19,19 @@ from .Django_handlers import searchHander, login_Handler, liked_games, insert_in
 
 
 
+form_login = userform()
+
 def base(response):
-    my_dict = dict()
+    userLoggedIn = False
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+    return_dict = {
+        "formLogin" : form_login,
+        "loggedIn" : userLoggedIn,
+    }
     # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
-    return render(response, "main/base.html", my_dict)
+    return render(response, "main/base.html", return_dict)
 
 
 def home(response):
@@ -75,6 +84,7 @@ def games(response):
         "games" : games,
         "display": "none" if len(games) == 0 else "block",
         "displayLike" : "block" if userLoggedIn else "none",
+        "formLogin" : form_login,
     }
 
     
@@ -90,7 +100,8 @@ def music(response):
     return_dict = {
         'form' : form,
         "musics" : Music_list,
-        "display": "none" if len(Music_list) == 0 else "block"
+        "display": "none" if len(Music_list) == 0 else "block",
+        "formLogin" : form_login,
     }
     return render(response, "main/music.html", return_dict)
 
@@ -107,7 +118,8 @@ def dlc_view(response):
     return_dict = {
         'form' : form,
         'DLC' : DLC_list,
-        "display": "none" if len(DLC_list) == 0 else "block"
+        "display": "none" if len(DLC_list) == 0 else "block",
+        "formLogin" : form_login,
     }
 
     return render(response, "main/DLC.html", return_dict)
@@ -118,7 +130,7 @@ def demo(response):
     print(response.session.get("session_id"))
     if response.method == "GET":
         pass
-    return render(response, "main/demo.html", {'form' : form})
+    return render(response, "main/demo.html", {'form' : form,"formLogin" : form_login,})
 
 
 def user(response):
@@ -135,7 +147,8 @@ def user(response):
     return_dict = {
         "loggedIn" : userLogIN,
         "games" : games,
-        "display" : "block" if len(games) != 0 else 'None'
+        "display" : "block" if len(games) != 0 else 'None',
+        "formLogin" : form_login,
     }
     return render(response, "main/history.html", return_dict)
 
@@ -170,5 +183,6 @@ def login(response):
         "form" : form,
         "alert_msg": login_msg,
         "log_out" : log_out_display,
+        "formLogin" : form_login,
     }
     return render(response, "main/login.html", return_dict)
