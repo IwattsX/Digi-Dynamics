@@ -21,6 +21,7 @@ def create_Table(create_table_query: str):
 
 
 table_Queries = [
+    # Games table
     """
     CREATE TABLE IF NOT EXISTS Games(
     id CHAR(7) PRIMARY KEY, 
@@ -46,6 +47,8 @@ table_Queries = [
     Header_image VARCHAR(255)
     );
     """,
+
+    # DLC table
 
     """
     CREATE TABLE IF NOT EXISTS DLC(
@@ -73,6 +76,8 @@ table_Queries = [
     FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     );
     """,
+
+    # Demo table
     """
     CREATE TABLE IF NOT EXISTS Demo(
     id CHAR(7) PRIMARY KEY,
@@ -95,6 +100,8 @@ table_Queries = [
     Fullgame_id char(7)
     );
     """,
+
+    # Movies table
     """
     CREATE TABLE IF NOT EXISTS Movies(
     id CHAR(9) PRIMARY KEY,
@@ -108,7 +115,7 @@ table_Queries = [
     FOREIGN KEY (game_id) REFERENCES Games(id)
     );
     """,
-
+    # Music table
     """
     CREATE TABLE IF NOT EXISTS Music(
     id CHAR(7) PRIMARY KEY, 
@@ -133,6 +140,20 @@ table_Queries = [
     Fullgame_id char(7),
     FOREIGN KEY (Fullgame_id) REFERENCES Games(id)
     );
+    """,
+    # user Table
+    """
+    CREATE TABLE IF NOT EXISTS user(username VARCHAR(255) PRIMARY KEY, pass CHAR(64));
+    """,
+    
+    # LikeGames table
+    """
+    CREATE TABLE IF NOT EXISTS LikedGames(
+        id INT PRIMARY KEY AUTO_INCREMENT, 
+        username VARCHAR(255), 
+        games_id CHAR(7), 
+        FOREIGN KEY (username) REFERENCES user(username), 
+        FOREIGN KEY (games_id) REFERENCES Games(id));
     """
 ]
 
