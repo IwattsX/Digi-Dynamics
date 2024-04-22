@@ -95,48 +95,10 @@
 </head>
         <div>
             <body>
-                
-                {% if loggedIn %}
-                    <button>Sign out</button>
-                {% else %}
                 <!-- Login Modal -->
-                <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;" class="buttonModal">Login</button>
-        
-                <div id="id01" class="modal">
-                
-                <form class="modal-content animate" method="post">
-                    <div class="imgcontainerModal">
-                    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-                    <!-- Placeholder Image for later
-                    <img src="#" alt="Avatar" class="avatar">
-                    -->
-                    </div>
-                
-                    <div class="containerModal">
-                        {% block login %}
-                            {% csrf_token %}
-                            {{ formLogin }}
-                        {% endblock %}
-                    <!-- <label for="uname" style="color:black"><b>Username</b></label>
-                    <input type="text" placeholder="Enter Username" name="uname" required class="inputModal">
-                
-                    <label for="psw" style="color:black"><b>Password</b></label>
-                    <input type="password" placeholder="Enter Password" name="psw" required class="inputModal"> -->
-                        
-                    <button type="submit" class="buttonModal" style="background-color: #04AA6D;">Login</button>
-                    <label>
-                        <input type="checkbox" checked="checked" name="remember"> <span style="color:black">Remember me</span>
-                    </label>
-                    </div>
-                
-                    <div class="containerModal" style="background-color:#f1f1f1">
-                    <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-                    <span class="psw"><a href="#">Create Account</a></span>
-                    </div>
+                <form action="{% url 'login' %}" style="display: inline;">
+                    <button type="submit" style="width:auto;" class="buttonModal">Login</button>
                 </form>
-                </div>
-                {% endif %}
-                
                 <!-- Header -->
                 <h1 class = "header font-effect-neon">Steam Scouts</h1>
     
@@ -180,10 +142,10 @@
                                 </li>
 
                                 <!--For later implementation for loging in users-->
-                                <li>
+                                <!-- <li>
                                     <a class="nav-item nav-link font-effect-fire" href="{% url 'login' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                                         id="history" onclick="opentab('login')">Login</a>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </nav>

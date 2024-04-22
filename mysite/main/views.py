@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 # from django.http import HttpResponse, HttpResponseRedirect
 from django.http import JsonResponse
+
 
 from .forms import Games, Demo, DLC, Music, userform
 # from .models import select
@@ -18,16 +19,12 @@ from .Django_handlers import searchHander, login_Handler, liked_games, insert_in
 
 
 
-
-form_login = userform()
-
 def base(response):
     userLoggedIn = False
     if response.session.get("session_id"):
         userLoggedIn = True
 
     return_dict = {
-        "formLogin" : form_login,
         "loggedIn" : userLoggedIn,
     }
     # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
@@ -84,7 +81,6 @@ def games(response):
         "games" : games,
         "display": "none" if len(games) == 0 else "block",
         "displayLike" : "block" if userLoggedIn else "none",
-        "formLogin" : form_login,
     }
 
     
@@ -101,7 +97,6 @@ def music(response):
         'form' : form,
         "musics" : Music_list,
         "display": "none" if len(Music_list) == 0 else "block",
-        "formLogin" : form_login,
     }
     return render(response, "main/music.html", return_dict)
 
@@ -119,7 +114,6 @@ def dlc_view(response):
         'form' : form,
         'DLC' : DLC_list,
         "display": "none" if len(DLC_list) == 0 else "block",
-        "formLogin" : form_login,
     }
 
     return render(response, "main/DLC.html", return_dict)
@@ -130,7 +124,7 @@ def demo(response):
     print(response.session.get("session_id"))
     if response.method == "GET":
         pass
-    return render(response, "main/demo.html", {'form' : form,"formLogin" : form_login,})
+    return render(response, "main/demo.html", {'form' : form,})
 
 
 def user(response):
@@ -148,7 +142,6 @@ def user(response):
         "loggedIn" : userLogIN,
         "games" : games,
         "display" : "block" if len(games) != 0 else 'None',
-        "formLogin" : form_login,
     }
     return render(response, "main/history.html", return_dict)
 
@@ -175,6 +168,7 @@ def login(response):
             response.session["session_id"] = uname
             login_msg = "Login successful"
             log_out_display = 'block'
+            return redirect("home")
         else:
             login_msg = "Login error"
     
@@ -183,6 +177,5 @@ def login(response):
         "form" : form,
         "alert_msg": login_msg,
         "log_out" : log_out_display,
-        "formLogin" : form_login,
     }
     return render(response, "main/login.html", return_dict)
