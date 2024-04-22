@@ -95,10 +95,18 @@
 </head>
         <div>
             <body>
-                <!-- Login Modal -->
+                <!-- Login or signout -->
+                {% if not loggedIn %}
                 <form action="{% url 'login' %}" style="display: inline;">
-                    <button type="submit" style="width:auto;" class="buttonModal">Login</button>
+                    {% csrf_token %}
+                    <button type="submit" style="width:auto;" class="btn-info">Login</button>
                 </form>
+                {% else %}
+                <form style="display: inline;" action="{% url 'login' %}">
+                    {% csrf_token %}
+                    <button type="submit" style="width:auto;" class="btn-danger">Sign out</button>
+                </form>
+                {% endif %}
                 <!-- Header -->
                 <h1 class = "header font-effect-neon">Steam Scouts</h1>
     

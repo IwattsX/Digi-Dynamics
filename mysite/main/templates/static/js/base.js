@@ -66,4 +66,9 @@ function likeFunction(event, games_id, url_games) {
 }
 
 
+var loggoutBtn = document.getElementById("logout")
+
+loggoutBtn.addEventListener("click", )
+
+
 
