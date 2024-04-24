@@ -47,15 +47,15 @@ var LikedForm = document.getElementById("likeGames");
 
 
 /* Games Like Function */
-function likeFunction(event, games_id, url_games) {
+function likeFunction(event, steam_appid, url_dst) {
     event.preventDefault();
-    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
+    document.getElementById(steam_appid).style.color = "rgb(0, 238, 255)";
     $.ajax({
         type:'POST',
-        url: url_games,
+        url: url_dst,
         data:
         {
-        liked: games_id,
+        liked: steam_appid,
         csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
         },
     success:function(){
@@ -65,61 +65,7 @@ function likeFunction(event, games_id, url_games) {
     })
 }
 
-/* DLC Like Function */
-function likeFunction(event, games_id, url_games) {
-    event.preventDefault();
-    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
-    $.ajax({
-        type:'POST',
-        url: url_games,
-        data:
-        {
-        liked: games_id,
-        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
-        },
-    success:function(){
-        //alert('AJAX REQUEST');
-        console.log("Ajax post request coming in");
-    }
-    })
+// Disliking
+function dislikeFunction(steam_appid, url_dst){
+
 }
-
-/* Music Like Function */
-function likeFunction(event, music_id, url_music) {
-    event.preventDefault();
-    document.getElementById(music_id).style.color = "rgb(0, 238, 255)";
-    $.ajax({
-        type:'POST',
-        url: url_music,
-        data:
-        {
-        liked: music_id,
-        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
-        },
-    success:function(){
-        //alert('AJAX REQUEST');
-        console.log("Ajax post request coming in");
-    }
-    })
-}
-
-/* Demo Like Function */
-function likeFunction(event, games_id, url_games) {
-    event.preventDefault();
-    document.getElementById(games_id).style.color = "rgb(0, 238, 255)";
-    $.ajax({
-        type:'POST',
-        url: url_games,
-        data:
-        {
-        liked: games_id,
-        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
-        },
-    success:function(){
-        //alert('AJAX REQUEST');
-        console.log("Ajax post request coming in");
-    }
-    })
-}
-
-
