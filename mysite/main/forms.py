@@ -91,7 +91,7 @@ class DLC(forms.Form):
     name = forms.CharField(label="", max_length=200, required=False, widget=forms.TextInput(
             attrs={
                 "class": "nameSearch",
-                "placeholder": "Enter Game Name",
+                "placeholder": "Enter DLC Name",
             }
         ),
     )
@@ -139,7 +139,7 @@ class Demo(forms.Form):
     name = forms.CharField(label="", max_length=200, required=False, widget=forms.TextInput(
             attrs={
                 "class": "nameSearch",
-                "placeholder": "Enter Game Name",
+                "placeholder": "Enter Demo Name",
             }
         ),
     )
