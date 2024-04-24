@@ -113,6 +113,7 @@ def music(response):
         "musics" : Music_list,
         "display": "none" if len(Music_list) == 0 else "block",
         "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
     }
     return render(response, "main/music.html", return_dict)
 
@@ -136,6 +137,7 @@ def dlc_view(response):
         'DLC' : DLC_list,
         "display": "none" if len(DLC_list) == 0 else "block",
         "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
     }
 
     return render(response, "main/DLC.html", return_dict)
@@ -152,7 +154,13 @@ def demo(response):
     print(response.session.get("session_id"))
     if response.method == "GET":
         pass
-    return render(response, "main/demo.html", {'form' : form, "loggedIn" : userLoggedIn,})
+
+    return_dict = {
+        "form" : form,
+        "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
+    }
+    return render(response, "main/demo.html", return_dict)
 
 
 def user(response):
@@ -170,6 +178,7 @@ def user(response):
         "loggedIn" : userLogIN,
         "games" : games,
         "display" : "block" if len(games) != 0 else 'None',
+        
     }
     return render(response, "main/history.html", return_dict)
 
