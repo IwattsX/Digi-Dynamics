@@ -166,7 +166,7 @@ def demo(response):
         "form" : form,
         "loggedIn" : userLoggedIn,
         "displayLike" : "block" if userLoggedIn else "none",
-        "display" : "block" if len(games) > 1 else 'none',
+        "display" : "block" if len(games) > 0 else 'none',
         "Demo" : games,
     }
     return render(response, "main/demo.html", return_dict)
