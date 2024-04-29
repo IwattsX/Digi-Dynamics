@@ -8,7 +8,7 @@ from .forms import Games, Demo, DLC, Music, userform
 # from .ReadGames.database.Connect_DB import connect, close_connection
 
 
-from .Django_handlers import searchHander, login_Handler, liked_games, insert_into_LikedGames, likedHistory
+from .Django_handlers import searchHander, login_Handler, liked_games, insert_into_LikedGames, likedHistory, dislike_function
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -168,12 +168,21 @@ def user(response):
     games = []
     userLogIN = False
     username = response.session.get("session_id")
+
+    if response.POST and username:
+        # disliking_game
+        # Do this for all the others
+        dislike_id = response.POST.get('game')
+        dislike_function(username, dislike_id, "LikedGames")
+        
+
     if username:
         userLogIN = True
         likedGames = likedHistory(response, "LikedGames")
         for game in likedGames:
             games.append(game)
-    print(games)
+    # print(games)
+
     return_dict = {
         "loggedIn" : userLogIN,
         "games" : games,

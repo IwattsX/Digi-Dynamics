@@ -9,6 +9,29 @@ from .ReadGames.database.Connect_DB import connect, close_connection
 
 from .ReadGames.database.InsertIntoSteam import inDB
 
+def dislike_function(username, id, table):
+    cnx = connect()
+    cursor = cnx.cursor()
+
+    try:
+        sql_query = f"""
+        DELETE FROM {table} WHERE username = %s and games_id = %s; 
+
+    """
+        print(sql_query, (username, id))
+        cursor.execute(sql_query, (username, id))
+        cnx.commit()
+
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        cnx.rollback()  # Rollback the transaction if an error occurs
+    
+    finally:
+        close_connection(cursor=cursor, connection=cnx)
+
+
+
+
 def insert_into_LikedGames(username, games_id):
     cnx = connect()
     cursor = cnx.cursor(dictionary=True)

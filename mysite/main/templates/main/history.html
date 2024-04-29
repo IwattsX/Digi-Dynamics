@@ -22,7 +22,10 @@
             <tr>
                 <td>{{game.name}}</td>
                 <td><a href="https://store.steampowered.com/app/{{ game.id }}">Steam link</a></td>
-                <td><button>Unlike</button></td>
+                <form method="post">
+                    {% csrf_token %}
+                    <td><button type="submit" id="unlike" name="game" value="{{game.id}}">Unlike</button></td>
+                </form>
             </tr>
             {% endfor %}
         </tbody>
