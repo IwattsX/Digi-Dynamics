@@ -6,8 +6,10 @@
 {% block content %}
     
 <body>
+
     <p class="font-effect-fire" style="text-align: center; margin-top:50px;color: black;font-size:100px;font-family:Brush Script MT;"><span>Liked History</span></p>
-    {% if display == 'block' %}
+    <div class="container">
+    {% if displayGame == 'block' %}
     <table>
         <thead>
             <tr>
@@ -31,6 +33,89 @@
         </tbody>
     </table>
     {% endif %}
+
+    {% if displayDLC == 'block' %}
+    <br><br>
+
+    <table>
+        <thead>
+            <tr>
+                <th>DLC Name</th>
+                <th>Price</th>
+                <th>Dislike</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            {% for game in DLC %}
+            <tr>
+                <td>{{game.name}}</td>
+                <td><a href="https://store.steampowered.com/app/{{ game.id }}">Steam link</a></td>
+                <form method="post">
+                    {% csrf_token %}
+                    <td><button type="submit" class="btn-danger" id="unlike" name="game" value="{{game.id}}">Unlike</button></td>
+                </form>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+
+    {% if displayDemo == 'block' %}
+    <br><br>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Demo Name</th>
+                <th>Price</th>
+                <th>Dislike</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            {% for game in Demos %}
+            <tr>
+                <td>{{game.name}}</td>
+                <td><a href="https://store.steampowered.com/app/{{ game.id }}">Steam link</a></td>
+                <form method="post">
+                    {% csrf_token %}
+                    <td><button type="submit" class="btn-danger" id="unlike" name="game" value="{{game.id}}">Unlike</button></td>
+                </form>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+
+    {% if displayMusic == 'block' %}
+    <br><br>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Music Name</th>
+                <th>Price</th>
+                <th>Dislike</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            {% for game in Music %}
+            <tr>
+                <td>{{game.name}}</td>
+                <td><a href="https://store.steampowered.com/app/{{ game.id }}">Steam link</a></td>
+                <form method="post">
+                    {% csrf_token %}
+                    <td><button type="submit" class="btn-danger" id="unlike" name="game" value="{{game.id}}">Unlike</button></td>
+                </form>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+</div>
+
 </body>
 
 

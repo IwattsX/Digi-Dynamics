@@ -164,6 +164,25 @@ table_Queries = [
         DLC_id CHAR(7), 
         FOREIGN KEY (username) REFERENCES user(username), 
         FOREIGN KEY (DLC_id) REFERENCES DLC(id));
+    """, 
+    # LikedDemo table
+        """
+    CREATE TABLE IF NOT EXISTS LikedDemo(
+        id INT PRIMARY KEY AUTO_INCREMENT, 
+        username VARCHAR(255), 
+        Demo_id CHAR(7), 
+        FOREIGN KEY (username) REFERENCES user(username), 
+        FOREIGN KEY (Demo_id) REFERENCES Demo(id));
+    """,
+
+    # LikedMusic table
+        """
+    CREATE TABLE IF NOT EXISTS LikedMusic(
+        id INT PRIMARY KEY AUTO_INCREMENT, 
+        username VARCHAR(255), 
+        Music_id CHAR(7), 
+        FOREIGN KEY (username) REFERENCES user(username), 
+        FOREIGN KEY (Music_id) REFERENCES Music(id));
     """
 ]
 

@@ -8,8 +8,9 @@ from .forms import Games, Demo, DLC, Music, userform, create_user_form
 # from .ReadGames.database.Connect_DB import connect, close_connection
 
 
-from .Django_handlers import searchHander, searchHander_demo, login_Handler, liked_games, insert_into_LikedGames, likedHistory, dislike_game
+from .Django_handlers import searchHander, searchHander_demo, login_Handler, liked_games, likedHistory, dislike_game
 from .Django_handlers import insert_into_user
+from .Django_handlers import insert_into_liked_tables
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -58,12 +59,13 @@ def games(response):
         game_id = response.POST.get("liked")
         print(game_id)
         if userLoggedIn:
-            insert_into_LikedGames(response.session.get("session_id"), game_id)
+            insert_into_liked_tables("LikedGames", game_id, response.session.get("session_id"), "games_id",)
+            # insert_into_LikedGames(response.session.get("session_id"), game_id)
 
         return JsonResponse({"status": "success"})
             
     elif userLoggedIn and response.method == "GET":
-        Already_liked_games = liked_games(response.session.get("session_id"))
+        Already_liked_games = liked_games(response.session.get("session_id"), "Games, LikedGames")
         print(Already_liked_games)
 
         searchBy = response.GET.get("SearchBy", None)
@@ -127,7 +129,27 @@ def dlc_view(response):
     if response.session.get("session_id"):
         userLoggedIn = True
     
-    if response.method == "GET":
+    if response.method == "POST":
+        game_id = response.POST.get("liked")
+        print(game_id)
+        if userLoggedIn:
+            insert_into_liked_tables("LikedDLC", game_id, response.session.get("session_id"), "DLC_id",)
+    
+    # elif userLoggedIn and response.method == "GET":
+    #     Already_liked_games = liked_games(response.session.get("session_id"), "DLC, LikedDLC")
+    #     print(Already_liked_games)
+
+    #     searchBy = response.GET.get("SearchBy", None)
+
+    #     searchHander(response, "Games", searchBy, DLC_list)
+
+    #     for game in DLC_list:
+    #         if Already_liked_games.get(game["id"]):
+    #             game["liked"] = True
+    #         else:
+    #             game["liked"] = False
+    
+    elif response.method == "GET":
         searchBy = response.GET.get("SearchBy", None)
 
         # print(searchBy)
@@ -176,6 +198,11 @@ def demo(response):
 def user(response):
     # TODO: Implement liked history here
     games = []
+    DLC_res = []
+    Demo_res = []
+    Music_res = []
+
+
     userLogIN = False
     username = response.session.get("session_id")
 
@@ -191,13 +218,32 @@ def user(response):
         likedGames = likedHistory(response, "LikedGames")
         for game in likedGames:
             games.append(game)
-    # print(games)
+        
 
+        likedDLCs = likedHistory(response, "LikedDLC")
+        for dlc in likedDLCs:
+            DLC_res.append(dlc)
+
+        likedMusics = likedHistory(response, "LikedMusic")
+        for music in likedMusics:
+            Music_res.append(music)
+        
+        likedDemos = likedHistory(response, "LikedDemo")
+        for demo in likedDemos:
+            Demo_res.append(demo)
+        
+    # print(games)
+    print(DLC_res)
     return_dict = {
         "loggedIn" : userLogIN,
         "games" : games,
-        "display" : "block" if len(games) != 0 else 'None',
-        
+        "DLC" : DLC_res,
+        "Music" : Music_res,
+        "Demos" : Demo_res,
+        "displayGame" : "block" if len(games) > 0 else 'None',
+        "displayDLC" : "block" if len(DLC_res) > 0 else 'None',
+        "displayDemo" : "block" if len(Demo_res) > 0 else 'None',
+        "displayMusic" : "block" if len(Music_res) > 0 else 'None',
     }
     return render(response, "main/history.html", return_dict)
 
@@ -212,11 +258,6 @@ def login(response):
     log_out_display = None
     form = userform(response.POST or None)
     login_msg = None
-
-
-    # print(response.POST)
-    # print(response.POST.get("logout"))
-    # print(response.session.get("session_id"))
 
     if response.POST.get("logout"):
         response.session["session_id"] = None
@@ -260,7 +301,7 @@ def create_user(response):
         if password != confirm_pass:
             alert_msg = "Password does not match confirm password"
         else:
-            insert_into_user(username, password, alert_msg)
+            alert_msg = insert_into_user(username, password, alert_msg)
 
 
     return render(response, "main/create_user.html", {"form" : form, "alert_msg" : alert_msg})

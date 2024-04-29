@@ -9,6 +9,32 @@ from .ReadGames.database.Connect_DB import connect, close_connection
 
 
 
+def insert_into_liked_tables(table, games_id : str, username : str, id_col : str):
+    cnx = connect()
+    cursor = cnx.cursor(dictionary=True)
+    
+    try:
+        sql_query = f"SELECT username, {id_col} FROM {table} WHERE {id_col} = %s AND username = %s"
+        cursor.execute(sql_query, (games_id, username))
+        
+        already_liked = cursor.fetchone()  # Fetch one row from the result set
+        
+        if already_liked:
+            print(f"The game id {games_id} is already liked by {username}")
+        else:
+            sql_query = f"INSERT INTO {table} (username, {id_col}) VALUES (%s, %s)"
+            print(f"{sql_query} is getting executed")
+            cursor.execute(sql_query, (username, games_id))
+        cnx.commit()  # Commit the transaction
+        
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        cnx.rollback()  # Rollback the transaction if an error occurs
+    
+    finally:
+        close_connection(cursor=cursor, connection=cnx)
+
+
 
 def insert_into_user(username, password, alert_msg):
     cnx = connect()
@@ -19,6 +45,7 @@ def insert_into_user(username, password, alert_msg):
     
     if res:
         alert_msg = "Try another username"
+        return alert_msg
 
 
     try:
@@ -35,6 +62,8 @@ def insert_into_user(username, password, alert_msg):
     
     finally:
         close_connection(cursor=cursor, connection=cnx)
+        alert_msg = "User saved successfully"
+        return alert_msg
 
 
 # TODO: implement dislike after I implement like for these
@@ -70,38 +99,8 @@ def dislike_game(username, id, table):
         close_connection(cursor=cursor, connection=cnx)
 
 
-
-
-def insert_into_LikedGames(username, games_id):
-    cnx = connect()
-    cursor = cnx.cursor(dictionary=True)
-    
-    try:
-        sql_query = "SELECT username, games_id FROM LikedGames WHERE games_id = %s AND username = %s"
-        cursor.execute(sql_query, (games_id, username))
-        
-        already_liked = cursor.fetchone()  # Fetch one row from the result set
-        
-        if already_liked:
-            print(f"The game id {games_id} is already liked by {username}")
-        else:
-            sql_query = "INSERT INTO LikedGames (username, games_id) VALUES (%s, %s)"
-            print(f"{sql_query} is getting executed")
-            cursor.execute(sql_query, (username, games_id))
-        
-        cnx.commit()  # Commit the transaction
-        
-    except mysql.connector.Error as err:
-        print("Error:", err)
-        cnx.rollback()  # Rollback the transaction if an error occurs
-    
-    finally:
-        close_connection(cursor=cursor, connection=cnx)
-
-
-
-def liked_games(username):
-    action_res = select("Games, LikedGames", columns="Games.id", whereClause="Games.id = LikedGames.games_id AND LikedGames.username = '{}'".format(username))
+def liked_games(username, tables):
+    action_res = select(tables, columns="Games.id", whereClause="Games.id = LikedGames.games_id AND LikedGames.username = '{}'".format(username))
     pprint(action_res)
     
     res = { e["id"] : True for e in action_res }
@@ -132,14 +131,29 @@ def likedHistory(response, liked_table):
     res = []
     cnx = connect()
     cursor = cnx.cursor(dictionary=True)
-    sql_query = ""
-    if liked_table == "LikedGames":
-        sql_query = "SELECT LikedGames.username as username, Games.name, Games.id FROM LikedGames INNER JOIN Games ON Games.id = LikedGames.games_id WHERE username = '{}'".format(response.session.get("session_id"))
+
+    try:
+        sql_query = ""
+        if liked_table == "LikedGames":
+            sql_query = "SELECT LikedGames.username as username, Games.name, Games.id FROM LikedGames INNER JOIN Games ON Games.id = LikedGames.games_id WHERE username = '{}'".format(response.session.get("session_id"))
+        
+        if liked_table == "LikedDLC":
+            sql_query = "SELECT LikedDLC.username as username, DLC.name, DLC.id FROM LikedDLC INNER JOIN DLC ON DLC.id = LikedDLC.DLC_id WHERE username = '{}'".format(response.session.get("session_id"))
+
+        if liked_table == "LikedMusic":
+            sql_query = "SELECT LikedMusic.username as username, Music.name, Music.id FROM LikedMusic INNER JOIN Music ON Music.id = LikedMusic.id WHERE username = '{}'".format(response.session.get("session_id"))
+
+        if liked_table == "LikedDemo":
+            sql_query = "SELECT LikedDemo.username as username, Demo.name, Demo.id FROM LikedDemo INNER JOIN Demo ON Demo.id = LikedDemo.id WHERE username = '{}'".format(response.session.get("session_id"))
+
         print(sql_query)
+
         cursor.execute(sql_query)
         res = cursor.fetchall()
-    
-    close_connection(cursor=cursor, connection=cnx)
+        close_connection(cursor=cursor, connection=cnx)
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        cnx.rollback()  # Rollback the transaction if an error occurs
     return res
 
 
