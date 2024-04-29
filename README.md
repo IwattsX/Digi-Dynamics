@@ -95,17 +95,7 @@ py -m manage --help
 ```
 
 Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0.1:8000/admin/</a>
-# TODO
-- [ ] Apply steam web API with a database
-- [X] Figure out the schema of steam game market
-- [ ] Use Django in order to build a website
-- [ ] Django has a built in database we can use if need be (Note: Optional can use other databases if need be)
-- [ ] 
 
-# Done
-- [x] Decide On Final Project Plan
-- [x] Added a steam web API
-- [x] Saw templates on how each APICall works within APICalls/
 
 # Types from steam web API
 <ul>
@@ -119,80 +109,19 @@ Access admin webpage using <a href="http://127.0.0.1:8000/admin/">http://127.0.0
 <b>Games</b>
 ![alt "Games Table"](./descTables/Games.png)
 
-
 <b>Music Schema</b>
-- Name
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Release_data
-- ControllerSupport
-- Image
-- SteamAppID
-- Support Info
-- Website
-- Detailed Description
-- Short Description
-- Age Requirement
-- Platform ("platforms")
-- languages ("supported languages")
+![alt "Music Table"](./descTables/Music.png)
 
 <b>DLC Schema</b>
-
-- Name
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Release_data
-- ControllerSupport
-- Image
-- SteamAppID
-- Support Info
-- Website
-- Detailed Description
-- Short Description
-- Age Requirement
-- Platform ("platforms")
-- languages ("supported languages") 
-- tags ("categories") 
-
+![alt "DLC Table"](./descTables/DLC.png)
 
 <b>Demo Schema</b>
-- SteamAppID
-- Support Info
-- Name
-- Base_price
-- Current_Price
-- Developer 
-- Publisher
-- Release_data
-- Images
-- Website
-- Age Requirement
-- Detailed Description
-- Short Description
-- Platform ("platforms")
-- languages ("supported languages") 
-- tags ("categories") 
-
+![alt "Demo Table"](./descTables/Demo.png)
 
 <b>Movie Schema</b>
-- SteamAppID (foreign key)
-- Support Info
-- Highlight
-- Trailer
-- 480p
-- "max" resolution
+![alt "Music Table"](./descTables/Movies.png)
 
 
-- Note: Any thing with a * may be an issue 
-
-```
-PrimaryKey: SteamAppID
-ForeignKey: ?
-```
 # Project Idea
 - [x] Steam Game Search Engine
 

@@ -42,3 +42,30 @@ function userActive(){
     user.classList.remove("font-effect-fire");
     
 }
+
+var LikedForm = document.getElementById("likeGames");
+
+
+/* Games Like Function */
+function likeFunction(event, steam_appid, url_dst) {
+    event.preventDefault();
+    document.getElementById(steam_appid).style.color = "rgb(0, 238, 255)";
+    $.ajax({
+        type:'POST',
+        url: url_dst,
+        data:
+        {
+        liked: steam_appid,
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+    success:function(){
+        //alert('AJAX REQUEST');
+        console.log("Ajax post request coming in");
+    }
+    })
+}
+
+// Disliking
+function dislikeFunction(steam_appid, url_dst){
+
+}

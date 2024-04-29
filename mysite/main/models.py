@@ -18,7 +18,12 @@ def select(table, columns='*', whereClause=None, joinClause = None):
         columns = ", ".join(columns)
 
     sql_query = ""
-    if whereClause:
+    if joinClause:
+        sql_query = f"""
+         SELECT {columns} FROM {table}
+        INNER JOIN {joinClause}
+    """
+    elif whereClause:
         sql_query = f"""
             SELECT {columns} FROM {table}
             WHERE {whereClause};

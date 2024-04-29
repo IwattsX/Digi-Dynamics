@@ -2,18 +2,29 @@
 {% extends 'main/base.html' %}
 {% block title%} SS_Music {% endblock %}
 {% block content %}
-    <body onload="musicActive()">
-        <div class="container-fluid">
-            <div style="padding: 10px;" >
-                <form method="get" actions="/musics/">
-                    {% csrf_token %}
-                    {{ form.as_ul }}
-                    
-                    <button class="button" type="submit" name="Search" style=> SEARCH </button>
-                </form>
-            </div>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            musicActive();
+        });
+    </script>
+    <div class="container-fluid">
+        <div style="padding: 10px;" >
+            <form class = "searchbar" method="get" actions="/games/">
+                {% csrf_token %}
+                {{ form.as_p }}
+                {% comment %} <select class="genreTag" style="height:25px;width:70px">
+                    <option value="N">Name</option>
+                    <option value="P">Publisher</option>
+                    <option value="D">Developer</option>
+                    <option value="Pr">Price</option>
+                    <option value="Y">Date (Year)</option>
+                </select>{% endcomment %}
+                <button class="button" type="submit" name="Search" id="Search" onclick="onClickGameForm()"> SEARCH </button> 
+            </form>
         </div>
-    </body>
+    </div>
+</body>
 {% endblock %}
 
 
@@ -30,7 +41,8 @@
                 <tr>
                     <td class="musicName">{{music.Name}}<br><a href="https://store.steampowered.com/app/{{ music.id }}">
                         Steam Link
-                    </a></td>
+                    </a>
+                    </td>
                     <td>{{music.Short_description}}</td>
                     {% if music.Current_price is None %}
 

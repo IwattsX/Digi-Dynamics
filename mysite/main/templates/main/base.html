@@ -15,6 +15,7 @@
     <!--<link rel="stylesheet" href="{% static 'css/w3.css' %}" > -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{% static 'css/styles.css' %}" >
 
     <style>
@@ -36,62 +37,80 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        function hideAll(listOfThingsToHide){
-            for(thingToHide of listOfThingsToHide){
-                $(thingToHide).hide();
-            }
+        function hideAll(){
+            $(".nameSearch, .yearSearch, .priceSearch, .Genres").hide();
         }
 
         $(document).ready(function(){
+            hideAll();
+            $(".nameSearch").show();
+        $('.searchBy').change(function(){
+            var selectedOption = $(this).val();
 
-            let AllplaceHolders = ["#placeholderPrice", "#placeholderYear", "#GameGenres"];
-            hideAll(AllplaceHolders);
+            hideAll();
 
-
-            $('#searchBy').change(function(){
-                var selectedOption = $(this).val();
-                if(selectedOption === 'name'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Game Name');
+            if(selectedOption === 'name'){
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Game Name');
 
                 } 
                 else if(selectedOption === 'genre'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#GameGenres').show();
-                    //$('#placeholderName').attr('placeholder', 'Enter Genre');
+                    $('.Genres').show();
                 } 
                 else if(selectedOption === 'publisher'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Publisher');
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Publisher');
                 } 
                 else if(selectedOption === 'developer'){
-                    hideAll(AllplaceHolders);
-                    $('#placeholderName').show();
-                    $('#placeholderName').attr('placeholder', 'Enter Developer');
+                    $('.nameSearch').show();
+                    $('.nameSearch').attr('placeholder', 'Enter Developer');
                 } 
                 else if(selectedOption === 'price'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#placeholderPrice').show();
+                    $('.priceSearch').show();
                 } 
                 else if(selectedOption === 'dateyear'){
-                    $('#placeholderName').hide();
-                    hideAll(AllplaceHolders);
-                    $('#placeholderYear').show();
+                    $('.yearSearch').show();
                 }
-            });
+
+
+
         });
+    });
+
+        
     </script>
+    <script>
+        // Get the modal
+        var modal = document.getElementById('id01');
+        
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        </script>
+
 
 </head>
         <div>
             <body>
+                <!-- Login or signout -->
+                {% if not loggedIn %}
+                <form action="{% url 'login' %}" style="display: inline;">
+                    {% csrf_token %}
+                    <button type="submit" style="width:auto;" class="btn-info">Login</button>
+                </form>
+                {% else %}
+                <form style="display: inline;" action="{% url 'login' %}">
+                    {% csrf_token %}
+                    <button type="submit" style="width:auto;" class="btn-danger">Sign out</button>
+                </form>
+                {% endif %}
                 <!-- Header -->
-                <h1 class = "header font-effect-neon" id="title">Steam Scouts</h1>
-
+                <h1 class = "header font-effect-neon">Steam Scouts</h1>
+    
+                
 
                 <!-- Nav Bar -->
                 <div class ="navdiv">
@@ -124,6 +143,17 @@
                                 <a class="nav-item nav-link font-effect-fire" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                                     id="music" onclick="opentab('Music')">Music</a>
                                 </li>
+
+                                <li>
+                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'history' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                                        id="history" onclick="opentab('History')">Liked</a>
+                                </li>
+
+                                <!--For later implementation for loging in users-->
+                                <!-- <li>
+                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'login' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                                        id="history" onclick="opentab('login')">Login</a>
+                                </li> -->
                             </ul>
                         </div>
                     </nav>

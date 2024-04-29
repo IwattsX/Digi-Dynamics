@@ -1,9 +1,14 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-from .forms import Games, Demo, DLC, Music
-from .models import select
+from django.shortcuts import render, redirect
+# from django.http import HttpResponse, HttpResponseRedirect
+from django.http import JsonResponse
 
-import re
+
+from .forms import Games, Demo, DLC, Music, userform
+# from .models import select
+# from .ReadGames.database.Connect_DB import connect, close_connection
+
+
+from .Django_handlers import searchHander, searchHander_demo, login_Handler, liked_games, insert_into_LikedGames, likedHistory, dislike_game
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -11,171 +16,81 @@ import re
 # dictionary will have variable tokens so that way you can put them into the application.
 # NOTE: Use this aspect of django to render informationf from the database
 
-
-def GamesSearchHandler(response, searchBy: str, games : list):
-
-    print(searchBy)
-    if searchBy == 'name':
-        name = response.GET.get('name', None)
-        
-        # This doesn't display anything and doesn't do the name REGEXP '' that will always be true
-        if name is None or name == "":
-            return
-        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
-        whereClause=f"Name REGEXP '{name}'")
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
-    
-    elif searchBy == "genre":
-        genres = response.GET.getlist('genres', None)
-
-        # Same thing, we want input there
-        if genres is None or len(genres) == 0:
-            return
-        
-        genres_regex = ""
-        for i, genre in enumerate(genres):
-            genres_regex += f"{genre}"
-            if i == len(genres) - 1:
-                break
-            genres_regex += "|"
-
-        # print(genres_regex)
-
-        Games_res = select("Games", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
-                           whereClause=f"Genre REGEXP '{genres_regex}'")
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
-
-    elif searchBy == 'publisher':
-        publisher = response.GET.get('name', None)
-        if publisher is None or publisher == "":
-            return
-        
-        Games_res = select("Games",columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
-                            whereClause=f"Publisher LIKE '%{publisher}%'")
-        
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
-
-    elif searchBy == 'developer':
-        developer = response.GET.get('name', None)
-        if developer is None or developer == "":
-            return
-        Games_res = select("Games",columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
-                        whereClause=f"Developer LIKE '%{developer}%'")
-        
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
-
-
-    elif searchBy == 'price':
-        priceStr = response.GET.get('price', None)
-        if priceStr is None or priceStr == "":
-            return
-        
-
-        price = float(priceStr) * 100
-
-
-        Games_res = select("Games",columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
-                    whereClause=f"Current_price < {price}")
-        
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            games.append(row)
-
-
-    elif searchBy == 'dateyear':
-        date = response.GET.get('year', None)
-        if date is None or date == "":
-            return
-        
-        year = int(date)
-
-        Games_res = select("Games",columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date",
-                    whereClause=f"Release_Date REGEXP '\\\\d{{4}}'")
-        
-        for row in Games_res:
-            regex_year = "(\\d{4})"
-            release_str = row["Release_Date"]
-            temp = re.search(regex_year, release_str)
-
-            release_year = int(temp.group(1))
-            if year == release_year:
-                # print(f"Year {year} release_year = {release_year}")
-                if not row.get("Base_price") is None:
-                    row["Base_price"] = row["Base_price"]/100
-                if not row.get("Current_price") is None:
-                    row["Current_price"] = row["Current_price"]/100
-                games.append(row)
-        
-
-
-
+def signOut(response):
+    print(response.POST)
+    if response.POST.get("logout"):
+        response.session["session_id"] = None
+        return True
+    return False
 
 def base(response):
-    my_dict = dict()
-    # my_dict["game"] = ["Baldur's Gate III", "Terraria"]
-    return render(response, "main/base.html", my_dict)
+    userLoggedIn = False
+    if response.session.get("session_id"):
+        userLoggedIn = True
+        if signOut(response):
+            userLoggedIn = False
+
+    return_dict = {
+        "loggedIn" : userLoggedIn,
+    }
+    return render(response, "main/base.html", return_dict)
+
 
 def home(response):
-    return render(response, "main/home.html", {})
+    userLoggedIn = False
+    if response.session.get("session_id"):
+        userLoggedIn = True
+    
+    return render(response, "main/home.html", {"loggedIn" : userLoggedIn,})
 
-"""
-Both are Dictionaries:
-Response.POST 
-Response.GET
-For games, these dictionaries will contain the div 
-
-syntax: response.GET.get(key, default)
-"""
 
 def games(response):
-    name = ""
     form = Games()
     games = []
+    userLoggedIn = False
+
     # This if statement will never run bc the response.method will be "GET"
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
     if response.method == "POST":
-        if form.is_valid():
-            form = Games(response.POST)
-        return render(response, "main/games.html", {})
+        game_id = response.POST.get("liked")
+        print(game_id)
+        if userLoggedIn:
+            insert_into_LikedGames(response.session.get("session_id"), game_id)
+
+        return JsonResponse({"status": "success"})
             
+    elif userLoggedIn and response.method == "GET":
+        Already_liked_games = liked_games(response.session.get("session_id"))
+        print(Already_liked_games)
+
+        searchBy = response.GET.get("SearchBy", None)
+
+        searchHander(response, "Games", searchBy, games)
+
+        for game in games:
+            if Already_liked_games.get(game["id"]):
+                game["liked"] = True
+            else:
+                game["liked"] = False
+            
+        
     elif response.method == "GET":
         print("GET REQUEST")
         print(response.GET)
 
         searchBy = response.GET.get("SearchBy", None)
-
-        print(searchBy)
-
-        GamesSearchHandler(response, searchBy, games) 
-
+        searchHander(response,"Games", searchBy, games)
+        for game in games:
+            game["liked"] = False 
 
     return_dict = {
         "form": form,
-        "name" : name,
         "games" : games,
-        "display": "none" if len(games) == 0 else "block"
+        "display": "none" if len(games) == 0 else "block",
+        "displayLike" : "block" if userLoggedIn else "none",
+        "loggedIn" : userLoggedIn,
     }
 
     
@@ -185,47 +100,147 @@ def games(response):
 def music(response):
     form = Music()
     Music_list = []
-    if response.method == "GET":
-        print("Get response for music")
-        print(response.GET)
-        Song_name = response.GET.get('name', None)
+    userLoggedIn = False
 
-        Games_res = select("Music", columns="id, Name, Short_description, Base_price, Current_price, Coming_soon, Release_Date", 
-        whereClause=f"Name REGEXP '{Song_name}'")
-        for row in Games_res:
-            if not row.get("Base_price") is None:
-                row["Base_price"] = row["Base_price"]/100
-            if not row.get("Current_price") is None:
-                row["Current_price"] = row["Current_price"]/100
-            Music_list.append(row)
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+    if response.method == "GET":
+        searchBy = response.GET.get("SearchBy", None)
+        searchHander(response, "Music", searchBy, Music_list)
     return_dict = {
         'form' : form,
         "musics" : Music_list,
-        "display": "none" if len(Music_list) == 0 else "block"
+        "display": "none" if len(Music_list) == 0 else "block",
+        "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
     }
     return render(response, "main/music.html", return_dict)
 
 
 def dlc_view(response):
     form = DLC()
-    if response.method == "POST":
-        form = DLC(response.POST)
-        if form.is_valid():
-            pass
-    else:
-        pass
-    return render(response, "main/DLC.html", {'form' : form})
+    DLC_list = []
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+    
+    if response.method == "GET":
+        searchBy = response.GET.get("SearchBy", None)
+
+        # print(searchBy)
+        searchHander(response, "DLC", searchBy, DLC_list)
+    
+    return_dict = {
+        'form' : form,
+        'DLC' : DLC_list,
+        "display": "none" if len(DLC_list) == 0 else "block",
+        "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
+    }
+
+    return render(response, "main/DLC.html", return_dict)
 
 
 def demo(response):
     form = Demo()
-    if response.method == "POST":
-        form = Demo(response.POST)
-        if form.is_valid():
-            pass
-    else:
-        pass
-    return render(response, "main/demo.html", {'form' : form})
+    games = []
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+
+    print(response.session.get("session_id"))
+    if response.method == "GET":
+        print("GET REQUEST")
+        print(response.GET)
+
+        searchBy = response.GET.get("SearchBy", None)
+        searchHander_demo(response,"Demo", searchBy, games)
+        for game in games:
+            game["liked"] = False 
+
+    return_dict = {
+        "form" : form,
+        "loggedIn" : userLoggedIn,
+        "displayLike" : "block" if userLoggedIn else "none",
+        "display" : "block" if len(games) > 0 else 'none',
+        "Demo" : games,
+    }
+    return render(response, "main/demo.html", return_dict)
+
 
 def user(response):
-    return render(response, "main/user.html", {})
+    # TODO: Implement liked history here
+    games = []
+    userLogIN = False
+    username = response.session.get("session_id")
+
+    if response.POST and username:
+        # disliking_game
+        # Do this for all the others
+        dislike_id = response.POST.get('game')
+        dislike_game(username, dislike_id, "LikedGames")
+        
+
+    if username:
+        userLogIN = True
+        likedGames = likedHistory(response, "LikedGames")
+        for game in likedGames:
+            games.append(game)
+    # print(games)
+
+    return_dict = {
+        "loggedIn" : userLogIN,
+        "games" : games,
+        "display" : "block" if len(games) != 0 else 'None',
+        
+    }
+    return render(response, "main/history.html", return_dict)
+
+def login(response):
+
+    userLoggedIn = False
+
+    if response.session.get("session_id"):
+        userLoggedIn = True
+
+
+    log_out_display = None
+    form = userform(response.POST or None)
+    login_msg = None
+
+
+    # print(response.POST)
+    # print(response.POST.get("logout"))
+    # print(response.session.get("session_id"))
+
+    if response.POST.get("logout"):
+        response.session["session_id"] = None
+        return redirect("home")
+
+    if response.session.get("session_id"):
+        log_out_display = 'block'
+
+    elif response.method == "POST" and form.is_valid():
+        uname = form.cleaned_data["username"]
+        password = form.cleaned_data["password"]
+        if login_Handler(uname, password):
+            response.session["session_id"] = uname
+            login_msg = "Login successful"
+            log_out_display = 'block'
+            return redirect("home")
+        else:
+            login_msg = "Login error"
+        
+    
+
+    return_dict = {
+        "form" : form,
+        "alert_msg": login_msg,
+        "log_out" : log_out_display,
+        "loggedIn" : userLoggedIn,
+    }
+    return render(response, "main/login.html", return_dict)
