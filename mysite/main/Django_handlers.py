@@ -8,6 +8,35 @@ from .ReadGames.database.generate_pass import gen_pass
 from .ReadGames.database.Connect_DB import connect, close_connection
 
 
+
+
+def insert_into_user(username, password, alert_msg):
+    cnx = connect()
+    cursor = cnx.cursor()
+
+    cursor.execute("Select username from user where username = %s", (username,))
+    res = cursor.fetchone()
+    
+    if res:
+        alert_msg = "Try another username"
+
+
+    try:
+        sql_query = """
+            INSERT INTO user (username, pass) VALUES (%s, SHA2(%s, 256));
+        """
+
+        cursor.execute(sql_query, (username, password))
+        cnx.commit()
+
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        cnx.rollback()  # Rollback the transaction if an error occurs
+    
+    finally:
+        close_connection(cursor=cursor, connection=cnx)
+
+
 # TODO: implement dislike after I implement like for these
 def dislike_DLC(username, id, table):
     pass

@@ -3,12 +3,13 @@ from django.shortcuts import render, redirect
 from django.http import JsonResponse
 
 
-from .forms import Games, Demo, DLC, Music, userform
+from .forms import Games, Demo, DLC, Music, userform, create_user_form
 # from .models import select
 # from .ReadGames.database.Connect_DB import connect, close_connection
 
 
 from .Django_handlers import searchHander, searchHander_demo, login_Handler, liked_games, insert_into_LikedGames, likedHistory, dislike_game
+from .Django_handlers import insert_into_user
 
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
@@ -244,3 +245,22 @@ def login(response):
         "loggedIn" : userLoggedIn,
     }
     return render(response, "main/login.html", return_dict)
+
+
+
+def create_user(response):
+    form = create_user_form(response.POST or None)
+    alert_msg = None
+
+    if response.POST and form.is_valid():
+        username = form.cleaned_data["username"]
+        password = form.cleaned_data["password"]
+        confirm_pass = form.cleaned_data["confirm_password"]
+
+        if password != confirm_pass:
+            alert_msg = "Password does not match confirm password"
+        else:
+            insert_into_user(username, password, alert_msg)
+
+
+    return render(response, "main/create_user.html", {"form" : form, "alert_msg" : alert_msg})

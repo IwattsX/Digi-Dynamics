@@ -203,3 +203,33 @@ class userform(forms.Form):
                                    }
                                )
                                )
+    
+class create_user_form(forms.Form):
+
+    username = forms.CharField(max_length=200, required=True,
+                               widget=forms.TextInput(
+                                   attrs={
+                                       "placeholder" : "username",
+                                       "style" : "color:red;",
+                                   },
+                               )
+                               )
+    
+    # manually typed out all the input css from styles.css so it looks like username
+    password = forms.CharField(max_length=200, required=True, 
+                               widget=forms.PasswordInput(
+                                   attrs={
+                                       "placeholder" : "password",
+                                       "style" : "color:red;",
+                                   }
+                               )
+                               )
+    confirm_password = forms.CharField(max_length=200, required=True,  label="confirm Password",
+                               widget=forms.PasswordInput(
+                                   attrs={
+                                       "placeholder" : "password",
+                                       "style" : "color:red;",
+                                   }
+                               )
+                               )
+    
