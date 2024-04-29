@@ -154,6 +154,16 @@ table_Queries = [
         games_id CHAR(7), 
         FOREIGN KEY (username) REFERENCES user(username), 
         FOREIGN KEY (games_id) REFERENCES Games(id));
+    """,
+
+    # LikedDLC table
+    """
+    CREATE TABLE IF NOT EXISTS LikedDLC(
+        id INT PRIMARY KEY AUTO_INCREMENT, 
+        username VARCHAR(255), 
+        DLC_id CHAR(7), 
+        FOREIGN KEY (username) REFERENCES user(username), 
+        FOREIGN KEY (DLC_id) REFERENCES DLC(id));
     """
 ]
 

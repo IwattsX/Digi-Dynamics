@@ -53,9 +53,9 @@
                         {% csrf_token %}
                         <!-- <input type="hidden" name="game_id" value="{{ game.id }}"> -->
                         {% if game.liked %}
-                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></i>
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'DLC' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer; color:rgb(0, 238, 255);" id="{{ game.id }}"></i>
                         {% else %}
-                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'games' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></i>
+                            <i type="submit" onclick="likeFunction(event, '{{ game.id }}', {% url 'DLC' %})" class="fa fa-thumbs-up" style="margin-left: 10px; cursor: pointer;" id="{{ game.id }}"></i>
                         {% endif %}
                     <!-- </form> -->
                     {% endif %}
