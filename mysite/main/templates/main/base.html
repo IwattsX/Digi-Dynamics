@@ -8,176 +8,189 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
     <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.png' %}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title%} SS_Home {% endblock %}</title>
     <!--<link rel="stylesheet" href="{% static 'css/w3.css' %}" > -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{% static 'css/styles.css' %}" >
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 
     <style>
-    table {
-        font-family: arial, sans-serif;
-        border-collapse: collapse;
-        width: 100%;
-    }
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
 
-    td, th {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-        background-color: black;
-        opacity: 0.77;
-        color:white;
-    }
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+            background-color: black;
+            opacity: 0.77;
+            color: white;
+        }
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        function hideAll(){
+        function hideAll() {
             $(".nameSearch, .yearSearch, .priceSearch, .Genres").hide();
         }
 
-        $(document).ready(function(){
+        $(document).ready(function () {
             hideAll();
             $(".nameSearch").show();
-        $('.searchBy').change(function(){
-            var selectedOption = $(this).val();
+            $('.searchBy').change(function () {
+                var selectedOption = $(this).val();
 
-            hideAll();
+                hideAll();
 
-            if(selectedOption === 'name'){
+                if (selectedOption === 'name') {
                     $('.nameSearch').show();
                     $('.nameSearch').attr('placeholder', 'Enter Game Name');
 
-                } 
-                else if(selectedOption === 'genre'){
+                }
+                else if (selectedOption === 'genre') {
                     $('.Genres').show();
-                } 
-                else if(selectedOption === 'publisher'){
+                }
+                else if (selectedOption === 'publisher') {
                     $('.nameSearch').show();
                     $('.nameSearch').attr('placeholder', 'Enter Publisher');
-                } 
-                else if(selectedOption === 'developer'){
+                }
+                else if (selectedOption === 'developer') {
                     $('.nameSearch').show();
                     $('.nameSearch').attr('placeholder', 'Enter Developer');
-                } 
-                else if(selectedOption === 'price'){
+                }
+                else if (selectedOption === 'price') {
                     $('.priceSearch').show();
-                } 
-                else if(selectedOption === 'dateyear'){
+                }
+                else if (selectedOption === 'dateyear') {
                     $('.yearSearch').show();
                 }
 
 
 
+            });
         });
-    });
 
-        
+
     </script>
     <script>
         // Get the modal
         var modal = document.getElementById('id01');
-        
+
         // When the user clicks anywhere outside of the modal, close it
-        window.onclick = function(event) {
+        window.onclick = function (event) {
             if (event.target == modal) {
                 modal.style.display = "none";
             }
         }
-        </script>
+    </script>
 
 
 </head>
-        <div>
-            <body>
-                <!-- Login or signout -->
-                {% if not loggedIn %}
-                <form action="{% url 'login' %}" style="display: inline;">
-                    {% csrf_token %}
-                    <button type="submit" style="width:auto;" class="btn-info">Login</button>
-                </form>
-                {% else %}
-                <form style="display: inline;" action="{% url 'login' %}">
-                    {% csrf_token %}
-                    <button type="submit" style="width:auto;" class="btn-danger">Sign out</button>
-                </form>
-                {% endif %}
-                <!-- Header -->
-                <h1 class = "header font-effect-neon">Steam Scouts</h1>
-    
-                
+<div>
 
-                <!-- Nav Bar -->
-                <div class ="navdiv">
-                    <nav class="navbar navbar-expand-sm" style="background-color: black; border: 1px solid white; border-radius: 40px; width: 88%;">
-                        <div class="container-fluid" style = "font-size: 25px;"> 
-                            <!-- Links -->
-                            <ul class="navbar-nav">
-                                <li>
-                                    <a class="nav-item nav-link active font-effect-fire"  href="{% url 'home' %}"  data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" id="home">Home</a>
-                                </li>
-
-                                <li>
-                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'games' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" id="games" onclick="opentab('Games')">Games</a>
-                                </li>
-
-                                <li>
-                                <a class="nav-item nav-link font-effect-fire" href="{% url 'DLC' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                                    id="dlc" onclick="opentab('DLC')">DLC</a>
-                                </li>
+    <body>
+        <!-- Login or signout -->
+        {% if not loggedIn %}
+        <form action="{% url 'login' %}" style="display: inline;">
+            {% csrf_token %}
+            <button type="submit" style="width:auto;" class="btn-info">Login</button>
+        </form>
+        {% else %}
+        <form style="display: inline;" action="{% url 'login' %}">
+            {% csrf_token %}
+            <button type="submit" style="width:auto;" class="btn-danger">Sign out</button>
+        </form>
+        {% endif %}
+        <!-- Header -->
+        <h1 class="header font-effect-neon">Steam Scouts</h1>
 
 
-                                <li>
-                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'demo' %}" data-bs-toggle="collapse"
-                                        data-bs-target=".navbar-collapse" id="demo" onclick="opentab('Demos')">Demos</a>
-                                </li>
 
-                                <li>
-                                <a class="nav-item nav-link font-effect-fire" href="{% url 'music' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                                    id="music" onclick="opentab('Music')">Music</a>
-                                </li>
+        <!-- Nav Bar -->
+        <div class="navdiv">
+            <nav class="navbar navbar-expand-sm"
+                style="background-color: black; border: 1px solid white; border-radius: 40px; width: 88%;">
+                <div class="container-fluid" style="font-size: 25px;">
+                    <!-- Links -->
+                    <ul class="navbar-nav">
+                        <li>
+                            <a class="nav-item nav-link active font-effect-fire" href="{% url 'home' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="home">Home</a>
+                        </li>
 
-                                <li>
-                                    <a class="nav-item nav-link font-effect-fire" href="{% url 'history' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                                        id="history" onclick="opentab('History')">Liked</a>
-                                </li>
+                        <li>
+                            <a class="nav-item nav-link font-effect-fire" href="{% url 'games' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="games"
+                                onclick="opentab('Games')">Games</a>
+                        </li>
 
-                                <!--For later implementation for loging in users-->
-                                <!-- <li>
+                        <li>
+                            <a class="nav-item nav-link font-effect-fire" href="{% url 'DLC' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="dlc"
+                                onclick="opentab('DLC')">DLC</a>
+                        </li>
+
+
+                        <li>
+                            <a class="nav-item nav-link font-effect-fire" href="{% url 'demo' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="demo"
+                                onclick="opentab('Demos')">Demos</a>
+                        </li>
+
+                        <li>
+                            <a class="nav-item nav-link font-effect-fire" href="{% url 'music' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="music"
+                                onclick="opentab('Music')">Music</a>
+                        </li>
+
+                        <li>
+                            <a class="nav-item nav-link font-effect-fire" href="{% url 'history' %}"
+                                data-bs-toggle="collapse" data-bs-target=".navbar-collapse" id="history"
+                                onclick="opentab('History')">Liked</a>
+                        </li>
+
+                        <!--For later implementation for loging in users-->
+                        <!-- <li>
                                     <a class="nav-item nav-link font-effect-fire" href="{% url 'login' %}" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                                         id="history" onclick="opentab('login')">Login</a>
                                 </li> -->
-                            </ul>
-                        </div>
-                    </nav>
+                    </ul>
                 </div>
-
-                
-
-                <div id="content">
-                {% block content %}{% endblock %}
-                    
-                </div>
+            </nav>
         </div>
 
 
-            
-        <hr>
-        <!-- Content Columns -->
-        <div>
-            {% block tables %}{% endblock %}
+
+        <div id="content">
+            {% block content %}{% endblock %}
+
         </div>
+</div>
 
 
-        <!-- Footer -->
-        <!-- <footer>
+
+<hr>
+<!-- Content Columns -->
+<div>
+    {% block tables %}{% endblock %}
+</div>
+
+
+<!-- Footer -->
+<!-- <footer>
             <div class="footer-container">      
             <a class="link footer-left" href="{% url 'home' %}">Steam Scouts</a>
             <a class="link footer-right" href="mailto:someone@example.com">Contact</a>
@@ -190,12 +203,12 @@
         </div>
         </footer> -->
 
-    
-        
 
-      
 
-    <script type="text/javascript" src="{% static 'js/base.js' %}"></script>
+
+
+
+<script type="text/javascript" src="{% static 'js/base.js' %}"></script>
 
 </body>
 
