@@ -210,8 +210,8 @@ def user(response):
         # disliking_game
         # Do this for all the others
         dislike_id = response.POST.get('game')
-        dislike_game(username, dislike_id, "LikedGames")
-        
+        dislike_game(username, dislike_id, "LikedGames", "games_id")
+        dislike_game(username, dislike_id, "LikedDLC", "DLC_id")
 
     if username:
         userLogIN = True

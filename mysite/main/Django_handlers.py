@@ -78,13 +78,13 @@ def dislike_music(username, id, table):
 
 
 
-def dislike_game(username, id, table):
+def dislike_game(username, id, table, title_id):
     cnx = connect()
     cursor = cnx.cursor()
 
     try:
         sql_query = f"""
-        DELETE FROM {table} WHERE username = %s and games_id = %s; 
+        DELETE FROM {table} WHERE username = %s and {title_id} = %s; 
 
     """
         print(sql_query, (username, id))
