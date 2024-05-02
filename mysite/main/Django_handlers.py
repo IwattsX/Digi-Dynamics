@@ -99,6 +99,14 @@ def dislike_game(username, id, table, title_id):
         close_connection(cursor=cursor, connection=cnx)
 
 
+def already_liked(username, Selected_tables, title_id, table):
+    action_res = select(Selected_tables, columns=f"{table}.id", whereClause=f"{table}.id = Liked{table}.{title_id} AND Liked{table}.username = '{username}'")
+
+    res = { e["id"] : True for e in action_res }
+
+    pprint(res)
+    return res
+
 def liked_games(username, tables):
     action_res = select(tables, columns="Games.id", whereClause="Games.id = LikedGames.games_id AND LikedGames.username = '{}'".format(username))
     pprint(action_res)
@@ -141,10 +149,10 @@ def likedHistory(response, liked_table):
             sql_query = "SELECT LikedDLC.username as username, DLC.name, DLC.id FROM LikedDLC INNER JOIN DLC ON DLC.id = LikedDLC.DLC_id WHERE username = '{}'".format(response.session.get("session_id"))
 
         if liked_table == "LikedMusic":
-            sql_query = "SELECT LikedMusic.username as username, Music.name, Music.id FROM LikedMusic INNER JOIN Music ON Music.id = LikedMusic.id WHERE username = '{}'".format(response.session.get("session_id"))
+            sql_query = "SELECT LikedMusic.username as username, Music.name, Music.id FROM LikedMusic INNER JOIN Music ON Music.id = LikedMusic.Music_id WHERE username = '{}'".format(response.session.get("session_id"))
 
         if liked_table == "LikedDemo":
-            sql_query = "SELECT LikedDemo.username as username, Demo.name, Demo.id FROM LikedDemo INNER JOIN Demo ON Demo.id = LikedDemo.id WHERE username = '{}'".format(response.session.get("session_id"))
+            sql_query = "SELECT LikedDemo.username as username, Demo.name, Demo.id FROM LikedDemo INNER JOIN Demo ON Demo.id = LikedDemo.Demo_id WHERE username = '{}'".format(response.session.get("session_id"))
 
         print(sql_query)
 

@@ -12,6 +12,8 @@ from .Django_handlers import searchHander, searchHander_demo, login_Handler, lik
 from .Django_handlers import insert_into_user
 from .Django_handlers import insert_into_liked_tables
 
+from .Django_handlers import already_liked
+
 # Create your views here.
 # Syntax: for rendering, so inside of these template html files will be a {{}} that uses a dictionary. 
 # render(response, htmlFile, dict)
@@ -65,7 +67,8 @@ def games(response):
         return JsonResponse({"status": "success"})
             
     elif userLoggedIn and response.method == "GET":
-        Already_liked_games = liked_games(response.session.get("session_id"), "Games, LikedGames")
+        Already_liked_games = already_liked(response.session.get("session_id"), "Games, LikedGames", "games_id", "Games")
+        # Already_liked_games = liked_games(response.session.get("session_id"), "Games, LikedGames")
         print(Already_liked_games)
 
         searchBy = response.GET.get("SearchBy", None)
@@ -135,19 +138,19 @@ def dlc_view(response):
         if userLoggedIn:
             insert_into_liked_tables("LikedDLC", game_id, response.session.get("session_id"), "DLC_id",)
     
-    # elif userLoggedIn and response.method == "GET":
-    #     Already_liked_games = liked_games(response.session.get("session_id"), "DLC, LikedDLC")
-    #     print(Already_liked_games)
+    elif userLoggedIn and response.method == "GET":
+        Already_liked_games = already_liked(response.session.get("session_id"), "DLC, LikedDLC", "DLC_id", "DLC")
+        print(Already_liked_games)
 
-    #     searchBy = response.GET.get("SearchBy", None)
+        searchBy = response.GET.get("SearchBy", None)
 
-    #     searchHander(response, "Games", searchBy, DLC_list)
+        searchHander(response, "DLC", searchBy, DLC_list)
 
-    #     for game in DLC_list:
-    #         if Already_liked_games.get(game["id"]):
-    #             game["liked"] = True
-    #         else:
-    #             game["liked"] = False
+        for game in DLC_list:
+            if Already_liked_games.get(game["id"]):
+                game["liked"] = True
+            else:
+                game["liked"] = False
     
     elif response.method == "GET":
         searchBy = response.GET.get("SearchBy", None)
