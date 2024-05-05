@@ -1,5 +1,7 @@
 from django.db import models
 from .ReadGames.database.Connect_DB import connect, close_connection
+import mysql.connector
+
 
 # Create your models here.
 
@@ -37,11 +39,13 @@ def select(table, columns='*', whereClause=None, joinClause = None):
     cursor = connection.cursor(dictionary=True)
 
     print(f"Executing {sql_query}")
-
-    cursor.execute(sql_query)
-
-    res = cursor.fetchall()
-    close(cursor=cursor, connection=connection)
+    try:
+        cursor.execute(sql_query)
+        res = cursor.fetchall()
+    except mysql.connector.Error as e:
+        print(f"Error: {e}")
+    finally:
+        close(cursor=cursor, connection=connection)
     return res
 
 
