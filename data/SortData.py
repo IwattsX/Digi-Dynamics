@@ -6,11 +6,11 @@ import shutil
 import json
 
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 
 GamesDir = f"{BASE_DIR}/Games"
 
-Data_dir = f"{BASE_DIR}/ReadGames/Data"
+Data_dir = f"{BASE_DIR}/sorted_games"
 
 for folder in ["game", "music", "dlc", "demo"]:
     folder_path = f"{Data_dir}/{folder}"

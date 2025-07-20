@@ -1,15 +1,13 @@
-from Connect_DB import connect, close_connection
+from Connect_DB import connect
+from sqlalchemy import text
+
+
 
 def create_Table(create_table_query: str):
-    connection = connect()
-    cursor = connection.cursor()
-
-    print(f"Executing \n{create_table_query}")
-    cursor.execute(create_table_query)
-    print("SUCCESS in executing!!!!")
-
-    # Finished with Executing queries
-    close_connection(cursor=cursor, connection=connection)
+    engine = connect()
+    with engine.connect() as connection:
+        print(f"Executing {create_table_query}")
+        connection.execute(text(create_table_query))
 
 # MAY CHANGE Release_Date to DATE type
 # Platform may be split between 3 boolean fields
@@ -20,7 +18,7 @@ def create_Table(create_table_query: str):
 #since a game can have a demo and the fullgame hasn't released yet
 
 
-table_Queries = [
+table_queries = [
     # Games table
     """
     CREATE TABLE IF NOT EXISTS Games(
@@ -167,5 +165,5 @@ table_Queries = [
     """
 ]
 
-for table_query in table_Queries:
+for table_query in table_queries:
     create_Table(table_query)
